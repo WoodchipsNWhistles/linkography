@@ -225,3 +225,20 @@ hr {
   margin: 0.2rem 0 0 0;
   opacity: 0.85;
 }
+
+.site-footer {
+  margin-top: 2rem;
+  padding-top: 0.5rem;
+  text-align: center;
+  font-family: inherit;
+}
+
+.kofi-pitch {
+  font-size: 0.95rem;
+  opacity: 0.9;
+}
+
+.kofi-pitch a {
+  text-decoration: underline;
+  font-weight: bold;
+}
