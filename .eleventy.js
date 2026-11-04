@@ -2,6 +2,9 @@
 const { execSync } = require("child_process");
 
 module.exports = function(eleventyConfig) {
+  // Pass through CNAME file for GitHub Pages custom domain
+  eleventyConfig.addPassthroughCopy("CNAME");
+
   // Pass through your CSS file to output folder
   eleventyConfig.addPassthroughCopy("style.css");
 
