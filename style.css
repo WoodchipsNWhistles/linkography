@@ -88,3 +88,45 @@ hr {
   border-top: 1px dashed var(--accent-dim);
   margin: 2rem 0;
 }
+
+/* Directory Listing Styles */
+.directory-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+.directory-list li {
+  margin-bottom: 1.25rem;
+}
+
+.directory-list a {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.directory-list .desc {
+  color: var(--text-muted);
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+}
+
+.breadcrumb a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a:hover {
+  color: var(--accent-color);
+  background: transparent;
+  text-decoration: underline;
+}
+
+.footer-text {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
