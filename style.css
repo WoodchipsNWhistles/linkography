@@ -1,14 +1,14 @@
 /* ==========================================================================
-   links.davemitchner.com — Sovereign DOS/Terminal Stylesheet
+   links.davemitchner.com — Sovereign DOS/Terminal Stylesheet (Amber)
    ========================================================================== */
 
 :root {
-  --bg-main: #000000;
-  --text-main: #c0c0c0;        /* Classic 80% DOS Gray */
-  --text-muted: #808080;       /* Low-contrast secondary text */
-  --accent-green: #33ff33;     /* Terminal Green for links & headers */
-  --accent-dim: #1a801a;       /* Border / rule green */
-  --code-bg: #0a0a0a;          /* Slightly offset black for blocks */
+  --bg-main: #0c0a00;
+  --text-main: #c8b898;        /* Warm parchment gray */
+  --text-muted: #786848;       /* Muted amber-brown secondary */
+  --accent-color: #ffb000;     /* Warm Amber Phosphor */
+  --accent-dim: #805800;       /* Dark Amber Border/Rule */
+  --code-bg: #141000;          /* Subtle dark warm card bg */
   --font-mono: "Courier New", Courier, Monaco, "Liberation Mono", monospace;
 }
 
@@ -24,6 +24,7 @@ html, body {
   line-height: 1.5;
   margin: 0;
   padding: 0;
+  text-shadow: 0 0 2px rgba(255, 176, 0, 0.3);
 }
 
 .container {
@@ -33,7 +34,7 @@ html, body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--accent-green);
+  color: var(--accent-color);
   font-weight: bold;
   margin-top: 1.5rem;
   margin-bottom: 0.5rem;
@@ -46,12 +47,12 @@ h1 {
 }
 
 a {
-  color: var(--accent-green);
+  color: var(--accent-color);
   text-decoration: underline;
 }
 
 a:hover, a:focus {
-  background-color: var(--accent-green);
+  background-color: var(--accent-color);
   color: var(--bg-main);
   text-decoration: none;
 }
@@ -63,7 +64,7 @@ a:hover, a:focus {
 }
 
 blockquote {
-  border-left: 2px solid var(--accent-green);
+  border-left: 2px solid var(--accent-color);
   margin: 1.5rem 0;
   padding-left: 1rem;
   color: var(--text-main);
