@@ -1,0 +1,35 @@
+---
+layout: layout.njk
+title: Linkography Terminal Directory
+---
+
+<div class="terminal-container">
+  <h1>// LINKOGRAPHY DIRECTORY</h1>
+  <p class="subtitle">
+    An annotated linkography of free and single purchase license tools, games, software, and other things to help make your internet life a bit more gooder.
+  </p>
+  <p class="meta-count">TOTAL DATABASE RECORDS: {{ linkography.length }}</p>
+
+  <hr class="crt-line">
+
+  <h2>[ SELECT SYSTEM DIRECTORY ]</h2>
+
+  <ul class="directory-menu">
+    {% for catKey, catData in categoriesTree | dictsort %}
+      <li class="directory-node">
+        <span class="node-folder">&gt; /{{ catKey | replace("-", " ") | upper }}/</span>
+        <span class="node-count">({{ catData.items.length }} items)</span>
+        
+        <ul class="sub-menu">
+          {% for subKey, subItems in catData.subcategories | dictsort %}
+            <li>
+              <a href="/categories/{{ catKey | slugify }}/{{ subKey | slugify }}/">
+                ↳ {{ subKey | replace("-", " ") }} <span class="sub-count">({{ subItems.length }})</span>
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

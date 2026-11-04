@@ -130,3 +130,98 @@ hr {
   font-size: 0.85rem;
   text-align: center;
 }
+
+.directory-menu {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.directory-node {
+  margin-bottom: 1.5rem;
+  font-family: monospace;
+}
+
+.node-folder {
+  color: #ffb000;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.node-count {
+  color: #ffb000;
+  opacity: 0.6;
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+}
+
+.sub-menu {
+  list-style: none;
+  padding-left: 1.25rem;
+  margin-top: 0.4rem;
+  border-left: 1px dashed rgba(255, 176, 0, 0.3);
+}
+
+.sub-menu li {
+  margin-bottom: 0.35rem;
+}
+
+.sub-menu a {
+  color: #d49300;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 0.95rem;
+}
+
+.sub-menu a:hover {
+  color: #ffb000;
+  text-decoration: underline;
+  background-color: rgba(255, 176, 0, 0.1);
+}
+
+.sub-count {
+  opacity: 0.5;
+  font-size: 0.8rem;
+}
+
+.breadcrumb a {
+  color: #ffb000;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: monospace;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.link-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.link-item {
+  margin-bottom: 1.25rem;
+}
+
+.link-title {
+  color: #ffb000;
+  font-family: monospace;
+  font-size: 1.05rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link-title:hover {
+  text-decoration: underline;
+  background-color: rgba(255, 176, 0, 0.1);
+}
+
+.link-desc {
+  color: #d49300; /* Softer amber for readable descriptions */
+  font-family: monospace;
+  font-size: 0.9rem;
+  margin: 0.2rem 0 0 0;
+  opacity: 0.85;
+}

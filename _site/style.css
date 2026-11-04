@@ -1,0 +1,227 @@
+/* ==========================================================================
+   links.davemitchner.com — Sovereign DOS/Terminal Stylesheet (Amber)
+   ========================================================================== */
+
+:root {
+  --bg-main: #0c0a00;
+  --text-main: #c8b898;        /* Warm parchment gray */
+  --text-muted: #786848;       /* Muted amber-brown secondary */
+  --accent-color: #ffb000;     /* Warm Amber Phosphor */
+  --accent-dim: #805800;       /* Dark Amber Border/Rule */
+  --code-bg: #141000;          /* Subtle dark warm card bg */
+  --font-mono: "Courier New", Courier, Monaco, "Liberation Mono", monospace;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  background-color: var(--bg-main);
+  color: var(--text-main);
+  font-family: var(--font-mono);
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  text-shadow: 0 0 2px rgba(255, 176, 0, 0.3);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent-color);
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h1 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid var(--accent-dim);
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: var(--accent-color);
+  text-decoration: underline;
+}
+
+a:hover, a:focus {
+  background-color: var(--accent-color);
+  color: var(--bg-main);
+  text-decoration: none;
+}
+
+.subtitle {
+  color: var(--text-muted);
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+blockquote {
+  border-left: 2px solid var(--accent-color);
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  color: var(--text-main);
+}
+
+.entry-card {
+  border: 1px solid var(--accent-dim);
+  background-color: var(--code-bg);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.entry-card .tags {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dashed var(--accent-dim);
+  margin: 2rem 0;
+}
+
+/* Directory Listing Styles */
+.directory-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1.5rem 0;
+}
+
+.directory-list li {
+  margin-bottom: 1.25rem;
+}
+
+.directory-list a {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 0.5rem;
+}
+
+.directory-list .desc {
+  color: var(--text-muted);
+  display: block;
+  font-size: 0.9rem;
+  margin-top: 0.2rem;
+}
+
+.breadcrumb a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a:hover {
+  color: var(--accent-color);
+  background: transparent;
+  text-decoration: underline;
+}
+
+.footer-text {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.directory-menu {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.directory-node {
+  margin-bottom: 1.5rem;
+  font-family: monospace;
+}
+
+.node-folder {
+  color: #ffb000;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.node-count {
+  color: #ffb000;
+  opacity: 0.6;
+  font-size: 0.85rem;
+  margin-left: 0.5rem;
+}
+
+.sub-menu {
+  list-style: none;
+  padding-left: 1.25rem;
+  margin-top: 0.4rem;
+  border-left: 1px dashed rgba(255, 176, 0, 0.3);
+}
+
+.sub-menu li {
+  margin-bottom: 0.35rem;
+}
+
+.sub-menu a {
+  color: #d49300;
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 0.95rem;
+}
+
+.sub-menu a:hover {
+  color: #ffb000;
+  text-decoration: underline;
+  background-color: rgba(255, 176, 0, 0.1);
+}
+
+.sub-count {
+  opacity: 0.5;
+  font-size: 0.8rem;
+}
+
+.breadcrumb a {
+  color: #ffb000;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-family: monospace;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.link-list {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+}
+
+.link-item {
+  margin-bottom: 1.25rem;
+}
+
+.link-title {
+  color: #ffb000;
+  font-family: monospace;
+  font-size: 1.05rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.link-title:hover {
+  text-decoration: underline;
+  background-color: rgba(255, 176, 0, 0.1);
+}
+
+.link-desc {
+  color: #d49300; /* Softer amber for readable descriptions */
+  font-family: monospace;
+  font-size: 0.9rem;
+  margin: 0.2rem 0 0 0;
+  opacity: 0.85;
+}
