@@ -7329,3 +7329,132 @@
     capture screens, highlight details, and share files via links.
   id: markup-hero
   subcategory: screenshot-tools
+- title: ExplainShell
+  url: https://explainshell.com
+  category: developer-tools
+  tags:
+    - linux
+    - bash
+    - terminal
+    - command-line
+    - man-pages
+  replaces:
+    - Manual Man-Page Digging
+  annotation: Interactive tool that parses complex shell commands and maps every flag to its corresponding man page documentation.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Zero account, zero friction, highly functional for unpacking dense shell one-liners.
+  # Friction Caveat: Relies on static man-page indexes; occasionally lacks obscure third-party CLI flags.
+  # Audit Status: Approved.
+  id: explainshell-cli-parser
+  subcategory: terminal-utilities
+
+- title: grep.app
+  url: https://grep.app
+  category: developer-tools
+  tags:
+    - code-search
+    - github
+    - regex
+    - open-source
+  replaces:
+    - GitHub Gated Search
+  annotation: Lightning-fast code search engine querying millions of public GitHub repositories using exact string, case-sensitive, or regex matching.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Completely un-authenticated search across open source codebases. Bypasses GitHub login barriers.
+  # Friction Caveat: None. Clean, instant UI.
+  # Audit Status: Approved.
+  id: grep-app-code-search
+  subcategory: code-search
+
+- title: RegExr
+  url: https://regexr.com
+  category: developer-tools
+  tags:
+    - regex
+    - developer-utility
+    - pattern-matching
+    - text-processing
+  replaces:
+    - Paid Regex Testing Tools
+  annotation: HTML/JS-based regular expression builder and tester featuring real-time syntax highlighting, side-by-side explanations, and instant cheat sheets.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Fully functional zero-signup browser utility for debugging patterns.
+  # Friction Caveat: None.
+  # Audit Status: Approved.
+  id: regexr-pattern-tester
+  subcategory: developer-utilities
+
+- title: Dictation.io
+  url: https://dictation.io
+  category: text-and-writing
+  tags:
+    - speech-to-text
+    - transcription
+    - browser-utility
+    - voice-notes
+  replaces:
+    - Gated Dictation SaaS Apps
+  annotation: Browser-based speech recognition tool that transcribes voice into plain text in real time using local Web Speech APIs.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Instant voice-to-text in the browser without creating an account or logging in.
+  # Friction Caveat: Requires Chrome/Brave speech engine permissions.
+  # Audit Status: Approved.
+  id: dictation-io-speech-to-text
+  subcategory: writing-tools
+
+- title: OneLook Reverse Dictionary
+  url: https://onelook.com
+  category: open-data-and-reference
+  tags:
+    - dictionary
+    - linguistics
+    - word-finder
+    - reference
+  replaces:
+    - Standard Online Dictionaries
+  annotation: Search engine for words and phrases that allows reverse queries by concept, wildcard pattern matching, and semantic definitions.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Excellent utility for finding obscure terms or exact phrasing from descriptions alone. Zero account.
+  # Friction Caveat: Visual layout is dated, but zero functional friction.
+  # Audit Status: Approved.
+  id: onelook-reverse-dictionary
+  subcategory: reference-tools
+  
+- title: public-apis (GitHub Repository)
+  url: https://github.com/public-apis/public-apis
+  category: developer-tools
+  tags:
+    - api-directory
+    - open-source
+    - github
+    - developer-resources
+    - free-apis
+  replaces:
+    - Monetized API Marketplaces
+    - Commercial SaaS Directories
+  annotation: Community-maintained, open-source Markdown catalog indexing thousands of free public APIs organized across dozens of categories.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Completely open-source, non-commercial list. Bypasses monetized directory walls, sponsored affiliate listings, and email popups.
+  # Friction Caveat: It is a raw README file on GitHub; requires manual browsing or searching within the repository page.
+  # Audit Status: Approved — gold standard for open API discovery.
+  id: github-public-apis-repository
+  subcategory: api-directories
+
+- title: Free Public APIs
+  url: https://freepublicapis.com
+  category: developer-tools
+  tags:
+    - api-directory
+    - developer-utility
+    - open-access
+    - free-apis
+    - testing-tools
+  replaces:
+    - Gated API Marketplaces
+  annotation: Clean, zero-account browser directory that catalogs and daily-tests free public APIs with clear flags for authentication and CORS requirements.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Provides instant filtering for zero-auth / keyless APIs without forcing user accounts or signups.
+  # Friction Caveat: Some individual APIs listed inside the directory may require their own third-party keys.
+  # Audit Status: Approved — fast, un-gated interface.
+  id: free-public-apis-directory
+  subcategory: api-directories
