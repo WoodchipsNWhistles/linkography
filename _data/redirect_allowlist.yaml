@@ -1,0 +1,18 @@
+approved_redirects:
+  - source: boardgamearena.com
+    destination: en.boardgamearena.com
+    reason: Official English-language version of Board Game Arena
+
+  - source: learn.microsoft.com
+    destination: learn.microsoft.com
+    allow_path_change: true
+    reason: Microsoft Learn automatically routes visitors to localized content
+
+  - source: lettersofnote.com
+    destination: news.lettersofnote.com
+    reason: Official Letters of Note publishing site
+
+  - source: mediaarea.net
+    destination: mediaarea.net
+    allow_path_change: true
+    reason: Site redirects visitors to language-specific URLs based on browser settings

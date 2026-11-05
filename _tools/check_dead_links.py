@@ -22,6 +22,7 @@ import argparse
 
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse, urlunparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import yaml
@@ -33,6 +34,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 INPUT_FILE = ROOT / "_data" / "linkography.yaml"
+ALLOWLIST_FILE = ROOT / "_data" / "redirect_allowlist.yaml"
 REPORT_DIR = ROOT / "_reports"
 
 TIMEOUT = 20
@@ -43,7 +45,50 @@ USER_AGENT = (
     "Linkography-LinkChecker/1.0 "
     "(public resource directory; contact: links.davemitchner.com)"
 )
+# --------------------------------------------------
+# Load Allowed Redirect List
+# --------------------------------------------------
 
+
+def load_redirect_allowlist():
+
+    if not ALLOWLIST_FILE.exists():
+        return []
+
+    with ALLOWLIST_FILE.open("r", encoding="utf-8") as file:
+        data = yaml.safe_load(file) or {}
+
+    return data.get("approved_redirects", [])
+    
+# --------------------------------------------------
+# URL NORMALIZATION
+# --------------------------------------------------
+
+
+def normalize_url(url):
+
+    parsed = urlparse(url)
+
+    scheme = parsed.scheme.lower()
+    hostname = (parsed.hostname or "").lower()
+    port = parsed.port
+    path = parsed.path or "/"
+    query = parsed.query
+
+    # Treat www and non-www hostnames as equivalent.
+    if hostname.startswith("www."):
+        hostname = hostname[4:]
+
+    # Ignore one harmless trailing slash difference.
+    if path != "/" and path.endswith("/"):
+        path = path[:-1]
+
+    # Normalize default ports.
+    if (scheme == "http" and port == 80) or (scheme == "https" and port == 443):
+        port = None
+
+    # Return comparable URL components.
+    return scheme, hostname, port, path, query
 
 # --------------------------------------------------
 # REDIRECT TRACKING
@@ -67,12 +112,71 @@ class TrackingRedirectHandler(urllib.request.HTTPRedirectHandler):
             req, fp, code, msg, headers, newurl
         )
 
+# --------------------------------------------------
+# CHECK WHETHER ONE REDIRECT IS APPROVED
+# --------------------------------------------------
+
+def redirect_is_approved(redirect, redirect_allowlist):
+
+    source = normalize_url(redirect["from"])
+    destination = normalize_url(redirect["to"])
+
+    source_scheme, source_host, source_port, source_path, source_query = source
+    dest_scheme, dest_host, dest_port, dest_path, dest_query = destination
+
+    # Only approve HTTP-to-HTTPS scheme changes.
+    if source_scheme != dest_scheme:
+        if not (source_scheme == "http" and dest_scheme == "https"):
+            return False
+
+    # Automatically approve harmless URL changes.
+    same_location = (
+        source_host == dest_host
+        and source_port == dest_port
+        and source_path == dest_path
+        and source_query == dest_query
+    )
+
+    if same_location:
+        return True
+
+    # Check explicit exceptions in the YAML allowlist.
+    for rule in redirect_allowlist:
+
+        allowed_source = normalize_url(
+            "https://" + str(rule.get("source", ""))
+        )[1]
+
+        allowed_destination = normalize_url(
+            "https://" + str(rule.get("destination", ""))
+        )[1]
+
+        if source_host != allowed_source:
+            continue
+
+        if dest_host != allowed_destination:
+            continue
+
+        if source_port != dest_port:
+            continue
+
+        # Path changes require explicit permission.
+        if source_path != dest_path and not rule.get("allow_path_change", False):
+            continue
+
+        # Query strings must always remain unchanged.
+        if source_query != dest_query:
+            continue
+
+        return True
+
+    return False
 
 # --------------------------------------------------
 # CLASSIFICATION
 # --------------------------------------------------
 
-def classify(status, redirects, error):
+def classify(status, redirects, error, redirect_allowlist):
 
     if error:
         return "INVESTIGATE"
@@ -85,10 +189,16 @@ def classify(status, redirects, error):
 
     if status == 200 or 200 <= status < 300:
 
-        if len(redirects) > 1:
+        unapproved_redirects = [
+            redirect
+            for redirect in redirects
+            if not redirect_is_approved(redirect, redirect_allowlist)
+        ]
+
+        if len(unapproved_redirects) > 1:
             return "REVIEW MULTIPLE REDIRECTS"
 
-        if len(redirects) == 1:
+        if len(unapproved_redirects) == 1:
             return "REVIEW REDIRECT"
 
         return "OK"
@@ -112,7 +222,7 @@ def classify(status, redirects, error):
 # CHECK ONE URL
 # --------------------------------------------------
 
-def check_url(resource):
+def check_url(resource, redirect_allowlist):
 
     title = str(resource.get("title", "Untitled"))
     url = str(resource.get("url", "")).strip()
@@ -193,7 +303,7 @@ def check_url(resource):
     )
 
     result["classification"] = classify(
-        status, redirects, error
+        status, redirects, error, redirect_allowlist
     )
 
     return result
@@ -238,6 +348,10 @@ def main():
         sys.exit(1)
 
     print(f"Resources found: {len(resources)}")
+    
+    redirect_allowlist = load_redirect_allowlist()
+
+    print(f"Approved redirect rules: {len(redirect_allowlist)}")
     print("Checking URLs...\n")
 
     results = []
@@ -245,7 +359,7 @@ def main():
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
 
         futures = {
-            executor.submit(check_url, resource): resource
+            executor.submit(check_url, resource, redirect_allowlist): resource
             for resource in resources
         }
 

@@ -523,7 +523,7 @@
   id: breachdirectory
   subcategory: breach-lookup
 - title: Gravatar Profile Lookup
-  url: https://en.gravatar.com/
+  url: https://gravatar.com/
   category: osint-open-access-research
   tags:
   - email-intelligence
@@ -589,7 +589,7 @@
   id: whatsmyname
   subcategory: username-search
 - title: Blackbird
-  url: https://github.com/p1ngul1n0/blackbird
+  url:  https://github.com/antoniaci/blackbird
   category: osint-open-access-research
   tags:
   - username-investigation
@@ -649,21 +649,33 @@
     of usernames, commit histories, leaks, and user repositories without registration.
   id: github-search
   subcategory: username-search
-- title: GitLab Search
-  url: https://gitlab.com/search
+- title: Searchcode
+  url: https://searchcode.com
   category: privacy-focused-search-engines
   tags:
-  - username-investigation
-  - code-search
-  - osint
-  - repository-lookup
+    - code-search
+    - repository-lookup
+    - osint
+    - open-source
   replaces:
-  - Enterprise OSINT Suites
-  - Paid Code Scrapers
-  annotation: Native web and API search utility for querying public users, code snippets,
-    issue threads, and open repositories without mandatory user signups.
-  id: gitlab-search
-  subcategory: username-search
+    - Paid Code Scrapers
+    - Gated Code Search Engines
+  annotation: Free, un-authenticated source code and documentation search engine indexing billions of lines across public repositories.
+  id: searchcode-code-search
+  subcategory: code-search
+- title: Debian Code Search
+  url: https://codesearch.debian.net
+  category: privacy-focused-search-engines
+  tags:
+    - code-search
+    - regex-search
+    - open-source
+    - debian
+  replaces:
+    - Commercial Source Code Indexers
+  annotation: Non-commercial engine providing instant, regex-capable search across the entire Debian open-source package archive without logins or tracking.
+  id: debian-code-search
+  subcategory: code-search
 - title: Reddit Search
   url: https://www.reddit.com/search/
   category: privacy-focused-search-engines
@@ -770,7 +782,7 @@
   id: google-images
   subcategory: reverse-image-search
 - title: Bing Visual Search
-  url: https://www.bing.com/visualsearch
+  url: https://www.microsoft.com/en-us/bing/visual-search
   category: privacy-focused-search-engines
   tags:
   - image-verification
@@ -779,8 +791,7 @@
   - visual-osint
   replaces:
   - Commercial Image Matchers
-  annotation: Free reverse image tool offering targeted sub-crop scanning and product/source
-    identification without mandatory account registration.
+  annotation: Free reverse image tool offering targeted sub-crop scanning and product/source identification without mandatory account registration.
   id: bing-visual-search
   subcategory: reverse-image-search
 - title: Yandex Images
@@ -921,7 +932,7 @@
   id: search-by-image
   subcategory: reverse-image-search
 - title: Wikimedia Commons
-  url: https://commons.wikimedia.org/
+  url: https://commons.wikimedia.org/wiki/Main_Page
   category: osint-open-access-research
   tags:
   - image-verification
@@ -1349,7 +1360,7 @@
   id: flight-viz
   subcategory: aviation-tracking
 - title: ToS;DR (Terms of Service; Didn't Read)
-  url: https://tosdr.org/
+  url: https://tosdr.org/en
   category: office-productivity-utilities
   tags:
   - utility
@@ -1501,7 +1512,7 @@
   id: umd-smith-learn-artificial-intelligence-career-transformation
   subcategory: professional-certifications
 - title: Public Work
-  url: https://public.work/
+  url: https://www.cosmos.so/public-work
   category: osint-open-access-research
   tags:
   - design
@@ -1678,7 +1689,7 @@
   id: anythingllm
   subcategory: local-llm-runners
 - title: Arena
-  url: https://lmarena.ai
+  url: https://arena.ai/
   category: osint-open-access-research
   tags:
   - benchmarking
@@ -1710,7 +1721,7 @@
   id: claude
   subcategory: ai-chat-assistants
 - title: ComfyUI
-  url: https://github.com/comfyanonymous/ComfyUI
+  url:  https://github.com/Comfy-Org/ComfyUI
   category: audio-video-image-manipulation
   tags:
   - stable-diffusion
@@ -1786,7 +1797,7 @@
   id: opus-clip
   subcategory: video-editors
 - title: Perchance AI
-  url: https://perchance.org
+  url: https://perchance.org/welcome
   category: audio-video-image-manipulation
   tags:
   - anonymous
@@ -1816,7 +1827,7 @@
   id: poe
   subcategory: ai-chat-assistants
 - title: Stratup
-  url: https://stratup.ai
+  url: https://stratup.ai/en
   category: office-productivity-utilities
   tags:
   - market-research
@@ -1864,7 +1875,7 @@
   id: dark-reader
   subcategory: browser-extensions
 - title: Firefox
-  url: https://www.mozilla.org/firefox
+  url: https://www.firefox.com
   category: office-productivity-utilities
   tags:
   - browser
@@ -1880,7 +1891,7 @@
   id: firefox
   subcategory: web-browsers
 - title: Safari
-  url: https://www.apple.com/safari
+  url: https://www.apple.com/safari/
   category: office-productivity-utilities
   tags:
   - browser
@@ -1924,20 +1935,6 @@
     Ask' hierarchical trees for structuring research and articles.
   id: alsoasked
   subcategory: seo-content-research
-- title: AnswerThePublic
-  url: https://answerthepublic.com
-  category: privacy-focused-search-engines
-  tags:
-  - consumer-queries
-  - search-listening
-  - topic-brainstorming
-  - content-angles
-  replaces:
-  - Expensive audience research platforms
-  annotation: Visual search listening and consumer query mapping tool for quick topic
-    brainstorming and content angle research.
-  id: answerthepublic
-  subcategory: seo-content-research
 - title: Buffer
   url: https://buffer.com
   category: office-productivity-utilities
@@ -1967,21 +1964,6 @@
   annotation: Social media management and account auditing toolset used for batch-cleaning
     old posts and auditing follower profiles.
   id: circleboom
-  subcategory: social-media-management
-- title: Combin Scheduler
-  url: https://www.combin.com
-  category: office-productivity-utilities
-  tags:
-  - instagram-planning
-  - desktop-app
-  - grid-layout
-  - auto-publishing
-  replaces:
-  - Later
-  - Planoly
-  annotation: Local desktop application for planning, grid layout styling, and auto-publishing
-    social media posts and stories.
-  id: combin-scheduler
   subcategory: social-media-management
 - title: ContentIdeas.io
   url: https://contentideas.io
@@ -2044,21 +2026,20 @@
     hosts, certificates, and infrastructure security.
   id: censys
   subcategory: network-recon
-- title: Criminal IP
-  url: https://www.criminalip.io
+- title: AbuseIPDB
+  url: https://www.abuseipdb.com
   category: osint-open-access-research
   tags:
-  - cti
-  - osint
-  - ip-threat-score
-  - exposed-ports
-  - c2-tracking
+    - ip-threat-score
+    - osint
+    - abuse-reporting
+    - network-security
   replaces:
-  - VirusTotal IP intelligence
-  annotation: AI-powered CTI and OSINT search engine indexing internet-connected assets,
-    IP threat scores, open ports, C2 nodes, and anonymization services.
-  id: criminal-ip
-  subcategory: threat-intelligence
+    - Gated Threat Intelligence Search Engines
+    - Paid IP Reputation Services
+  annotation: Zero-signup IP lookup tool for checking abuse history, malicious activity reports, and subnet threat scores across millions of reported hosts.
+  id: abuseipdb-ip-lookup
+  subcategory: ip-reputation-search
 - title: crt.sh
   url: https://crt.sh
   category: privacy-focused-search-engines
@@ -2261,7 +2242,7 @@
   id: wigle
   subcategory: network-recon
 - title: Affinity (by Canva)
-  url: https://affinity.serif.com
+  url: https://affinity.studio/
   category: audio-video-image-manipulation
   tags:
   - creative-suite
@@ -2332,7 +2313,7 @@
   id: canva
   subcategory: graphic-design-suites
 - title: Cirkit Designer
-  url: https://cirkitdesigner.com
+  url: https://cirkitdesigner.com/
   category: office-productivity-utilities
   tags:
   - circuit-design
@@ -2538,20 +2519,6 @@
     local installation.
   id: photopea
   subcategory: raster-image-editors
-- title: PimEyes
-  url: https://pimeyes.com
-  category: osint-open-access-research
-  tags:
-  - facial-recognition
-  - reverse-search
-  - osint
-  - identity-tracking
-  replaces:
-  - Standard reverse image search
-  annotation: High-precision reverse facial recognition search engine designed to
-    discover instances of a face across public web indexing.
-  id: pimeyes
-  subcategory: reverse-image-search
 - title: remove.bg
   url: https://www.remove.bg
   category: audio-video-image-manipulation
@@ -2581,7 +2548,7 @@
   id: zoodev
   subcategory: cad-fabrication
 - title: Citywalki
-  url: https://citywalki.com
+  url: https://citywalki.com/
   category: osint-open-access-research
   tags:
   - ambient-exploration
@@ -2652,7 +2619,7 @@
   id: global-fishing-watch
   subcategory: maritime-tracking
 - title: Google Earth
-  url: https://earth.google.com
+  url: https://earth.google.com/web/
   category: osint-open-access-research
   tags:
   - 3d-globe
@@ -2666,7 +2633,7 @@
   id: google-earth
   subcategory: satellite-imagery
 - title: Google Earth Timelapse
-  url: https://earthengine.google.com/timelapse
+  url: https://earthengine.google.com/timelapse/
   category: osint-open-access-research
   tags:
   - satellite-timelapse
@@ -2708,7 +2675,7 @@
   id: marinetraffic
   subcategory: maritime-tracking
 - title: NASA's Eyes
-  url: https://eyes.nasa.gov
+  url: https://science.nasa.gov/eyes/
   category: osint-open-access-research
   tags:
   - space-visualization
@@ -3022,7 +2989,7 @@
   id: subtitle-edit
   subcategory: video-editors
 - title: TubeMate
-  url: https://tubemate.net
+  url: https://tubemate.net/w3/
   category: office-productivity-utilities
   tags:
   - video-downloader
@@ -3108,19 +3075,51 @@
     reports, and Freedom of Information Act releases.
   id: cia-reading-room-crest
   subcategory: government-records-archives
-- title: CIA World Factbook Archive
-  url: https://www.cia.gov/the-world-factbook/
-  category: osint-open-access-research
+- title: OpenFactBook
+  url: https://openfactbook.org
+  category: open-data-and-reference
   tags:
-  - geopolitics
-  - demographics
-  - country-profiles
-  - reference
+    - country-profiles
+    - demographics
+    - geography
+    - open-data
+    - public-domain
   replaces:
-  - Commercial country data providers
-  annotation: Historical geopolitical profiles, demographic data, and country factsheets.
-  id: cia-world-factbook-archive
-  subcategory: government-records-archives
+    - CIA World Factbook
+    - Gated Geopolitical Databases
+  annotation: Community-maintained successor to the discontinued CIA World Factbook, offering open, zero-tracking access to demographic, economic, and geographic data for 250+ countries.
+  id: openfactbook-reference
+  subcategory: geopolitical-reference
+
+- title: UNdata
+  url: https://data.un.org
+  category: open-data-and-reference
+  tags:
+    - statistics
+    - global-data
+    - united-nations
+    - demographics
+    - open-access
+  replaces:
+    - Commercial Statistical Databases
+  annotation: Single entry point for official United Nations statistical databases, providing instant, un-authenticated data downloads and cross-country metric comparisons.
+  id: undata-global-statistics
+  subcategory: global-statistics
+
+- title: World Bank Open Data
+  url: https://data.worldbank.org
+  category: open-data-and-reference
+  tags:
+    - economic-data
+    - global-indicators
+    - open-data
+    - public-domain
+    - csv-export
+  replaces:
+    - Paid Economic Intelligence Platforms
+  annotation: Free, open-access repository of global development indicators and economic metrics with direct bulk CSV/JSON export capabilities and zero sign-up friction.
+  id: world-bank-open-data
+  subcategory: economic-statistics
 - title: FAA Aircraft Registry
   url: https://registry.faa.gov
   category: osint-open-access-research
@@ -3192,7 +3191,7 @@
   id: geospy
   subcategory: geolocation-tools
 - title: Google Lens
-  url: https://lens.google.com
+  url: https://search.google/ways-to-search/lens/
   category: privacy-focused-search-engines
   tags:
   - visual-search
@@ -3676,7 +3675,7 @@
   id: maildrop
   subcategory: disposable-email
 - title: Mullvad VPN
-  url: https://mullvad.net/
+  url: https://mullvad.net/en
   category: office-productivity-utilities
   tags:
   - vpn
@@ -3734,20 +3733,6 @@
     authentication and SMS verification bypass.
   id: onlinesim
   subcategory: burner-phone-numbers
-- title: Twilio API / CLI
-  url: https://www.twilio.com/
-  category: osint-open-access-research
-  tags:
-  - programmable-phone
-  - sms-api
-  - burner-phone
-  - self-hosted
-  replaces:
-  - Commercial Burner Apps
-  annotation: Developer platform to programmatically spin up private, disposable phone
-    lines for SMS and voice forwarding.
-  id: twilio-api-cli
-  subcategory: burner-phone-numbers
 - title: Session
   url: https://getsession.org/
   category: office-productivity-utilities
@@ -3765,7 +3750,7 @@
   id: session
   subcategory: secure-messaging
 - title: Thunderbird
-  url: https://www.thunderbird.net/
+  url: https://www.thunderbird.net/en-US/
   category: office-productivity-utilities
   tags:
   - email-client
@@ -3811,23 +3796,67 @@
     fields based on similarity and co-citation metrics.
   id: connected-papers
   subcategory: academic-paper-access
-- title: Library Genesis (LibGen)
-  url: https://libgen.is
-  category: educational-research-repositories
+- title: r/zlibrary (Community Mirror Tracker)
+  url: https://www.reddit.com/r/zlibrary/
+  category: open-data-and-reference
   tags:
-  - shadow-library
-  - academic-papers
-  - ebooks
-  - literature
-  - open-access
+    - reddit
+    - community-tracker
+    - mirror-status
+    - ebook-libraries
+    - digital-library
   replaces:
-  - Paywalled academic journals
-  - Expensive textbook publishers
-  annotation: Massive shadow library indexing academic papers, textbooks, and literature.
-  id: library-genesis-libgen
+    - Paid E-book Services
+    - Malicious Mirror Domains
+  annotation: Active community subreddit maintaining verified mirror lists, onion links, and system uptime reports for Z-Library to prevent phishing and domain hijacking.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Direct links to Z-Library shift constantly due to domain seizures. Linking the subreddit provides a zero-account community status tracker for safe access.
+  # Friction Caveat: Reddit enforces aggressive mobile app download prompts and browser logins for deep thread reading; main feed remains open.
+  # Audit Status: Approved — safer than listing a direct URL that frequently goes dead or gets spoofed.
+  id: r-zlibrary-community-tracker
+  subcategory: ebook-libraries
+
+- title: r/Annas_Archive (Community Mirror Tracker)
+  url: https://www.reddit.com/r/Annas_Archive/
+  category: open-data-and-reference
+  tags:
+    - reddit
+    - community-tracker
+    - mirror-status
+    - ebook-libraries
+    - digital-library
+  replaces:
+    - Unverified E-book Mirrors
+    - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror domain status, system updates, and safe access routes for Anna's Archive.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Bypasses domain seizure turnover and protects users from malicious clone sites by routing through community-verified status updates.
+  # Friction Caveat: Reddit UI pushes mobile app banners, but the main feed remains zero-account readable on desktop.
+  # Audit Status: Approved — low-maintenance, safe reference listing.
+  id: r-annas-archive-community-tracker
+  subcategory: ebook-libraries
+
+- title: r/libgen (Community Mirror Tracker)
+  url: https://www.reddit.com/r/libgen/
+  category: open-data-and-reference
+  tags:
+    - reddit
+    - community-tracker
+    - mirror-status
+    - ebook-libraries
+    - digital-library
+  replaces:
+    - Unverified LibGen Mirrors
+    - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror status, verified IP/clearnet domains, and safety guidelines for Library Genesis.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Protects visitors from malicious clone sites and dead direct URLs by pointing to community-maintained status threads and mirror lists.
+  # Friction Caveat: Reddit interface presents mobile app prompts; main thread feeds are open and readable on desktop without an account.
+  # Audit Status: Approved — low-maintenance, safe reference listing for shadow library tracking.
+  id: r-libgen-community-tracker
   subcategory: ebook-libraries
 - title: Library of Congress — Ask a Librarian
-  url: https://www.loc.gov/rr/askalib/
+  url: https://www.loc.gov/research-centers/use-the-library/
   category: osint-open-access-research
   tags:
   - reference-librarians
@@ -3887,7 +3916,7 @@
   id: our-world-in-data
   subcategory: open-data-statistics
 - title: PDF Drive
-  url: https://www.pdfdrive.com
+  url: https://www.pdfdrive.com/
   category: osint-open-access-research
   tags:
   - pdf-search
@@ -4004,22 +4033,25 @@
     data.
   id: world-bank-open-data
   subcategory: open-data-statistics
-- title: Z-Library
-  url: https://z-library.se
-  category: educational-research-repositories
+- title: r/zlibrary (Community Mirror Tracker)
+  url: https://www.reddit.com/r/zlibrary/
+  category: open-data-and-reference
   tags:
-  - shadow-library
-  - ebooks
-  - academic-papers
-  - digitized-books
-  - tor
+    - reddit
+    - community-tracker
+    - mirror-status
+    - open-access
+    - digital-library
   replaces:
-  - Closed publisher silos
-  - Expensive academic databases
-  annotation: Massive shadow library providing open access to millions of digitized
-    books, academic papers, and rare texts via rotating mirrors and networks.
-  id: z-library
-  subcategory: ebook-libraries
+    - Paid E-book Services
+    - Malicious Mirror Domains
+  annotation: Active community subreddit maintaining verified mirror lists, onion links, and system uptime reports for Z-Library to prevent phishing and domain hijacking.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Direct links to Z-Library shift constantly due to domain seizures. Linking the subreddit provides a zero-account community status tracker for safe access.
+  # Friction Caveat: Reddit enforces aggressive mobile app download prompts and browser logins for deep thread reading; main feed remains open.
+  # Audit Status: Approved — safer than listing a direct URL that frequently goes dead or gets spoofed.
+  id: r-zlibrary-community-tracker
+  subcategory: community-trackers
 - title: Zotero
   url: https://www.zotero.org
   category: office-productivity-utilities
@@ -4035,39 +4067,48 @@
     with optional encrypted syncing.
   id: zotero
   subcategory: reference-bookmark-managers
-- title: Anna’s Archive
-  url: https://annas-archive.org
-  category: educational-research-repositories
+- title: r/Annas_Archive (Community Mirror Tracker)
+  url: https://www.reddit.com/r/Annas_Archive/
+  category: open-data-and-reference
   tags:
-  - shadow-library
-  - open-access
-  - book-archive
-  - metadata-aggregator
-  - tor
+    - reddit
+    - community-tracker
+    - mirror-status
+    - open-access
+    - digital-library
   replaces:
-  - Paywalled academic databases
-  - Commercial ebook stores
-  annotation: Massive open-source shadow library and metadata aggregator indexing
-    multiple mirror repositories to preserve books, papers, and media for educational
-    purposes only.
-  id: annas-archive
-  subcategory: ebook-libraries
-- title: Sci-Hub
-  url: https://sci-hub.se
-  category: educational-research-repositories
+    - Unverified E-book Mirrors
+    - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror domain status, system updates, and safe access routes for Anna's Archive.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Bypasses domain seizure turnover and protects users from malicious clone sites by routing through community-verified status updates.
+  # Friction Caveat: Reddit UI pushes mobile app banners, but the main feed remains zero-account readable on desktop.
+  # Audit Status: Approved — low-maintenance, safe reference listing.
+  id: r-annas-archive-community-tracker
+  subcategory: community-trackers
+# --- DEPRECATED / PRUNED ENTRY ---
+# Title: Sci-Hub
+# Rationale: Dropped due to permanent content freeze (no papers added post-2020), extreme domain instability, and high risk of user-facing phishing mirrors.
+- title: CORE (Connecting Repositories)
+  url: https://core.ac.uk
+  category: open-data-and-reference
   tags:
-  - shadow-library
-  - academic-papers
-  - paywall-bypass
-  - open-access
-  - research
+    - academic-research
+    - open-access
+    - research-papers
+    - public-domain
+    - scholarly-articles
   replaces:
-  - Paid publisher subscriptions
-  - Individual article paywalls
-  annotation: Pioneering shadow library providing unauthenticated access to millions
-    of research papers and academic journal articles for educational purposes only.
-  id: sci-hub
-  subcategory: academic-paper-access
+    - Sci-Hub
+    - Commercial Journal Paywalls
+    - Gated Academic Databases
+  annotation: Non-profit harvester aggregating hundreds of millions of peer-reviewed, open-access research outputs directly from thousands of global university repositories.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Stable, non-commercial, and 100% legal alternative to Sci-Hub. Provides instant full-text PDF downloads without logins, paywalls, or rotating domain friction.
+  # Friction Caveat: Search interface occasionally surfaces records where only abstract metadata is available if the source host enforces restrictive open-access embargoes.
+  # Audit Status: Approved — zero account required, permanent URLs, zero paywalls.
+  id: core-ac-uk-academic-search
+  subcategory: academic-research
 - title: Brave Search
   url: https://search.brave.com
   category: privacy-focused-search-engines
@@ -4128,7 +4169,7 @@
   id: kagi
   subcategory: privacy-search-engines
 - title: Marginalia Search
-  url: https://search.marginalia.nu
+  url: https://marginalia-search.com
   category: privacy-focused-search-engines
   tags:
   - indie-web
@@ -4348,7 +4389,7 @@
   id: godot-engine
   subcategory: game-development
 - title: Google AI Studio
-  url: https://aistudio.google.com
+  url: https://aistudio.google.com/welcome
   category: local-self-hosted-ai-agents
   tags:
   - prompt-engineering
@@ -4676,7 +4717,7 @@
   id: remotive
   subcategory: remote-job-boards
 - title: RezPass
-  url: https://rezpass.com
+  url: https://www.rezpass.com/
   category: office-productivity-utilities
   tags:
   - resume-scanner
@@ -4722,7 +4763,7 @@
   id: hubspot-academy
   subcategory: professional-certifications
 - title: Meta Blueprint
-  url: https://www.facebookblueprint.com
+  url: https://www.facebookblueprint.com/student/catalogue
   category: educational-research-repositories
   tags:
   - digital-marketing
@@ -4806,7 +4847,7 @@
   id: phyphox
   subcategory: science-simulations
 - title: EyeWire
-  url: https://eyewire.org
+  url: https://eyewire.org/explore
   category: educational-research-repositories
   tags:
   - citizen-science
@@ -4854,7 +4895,7 @@
   id: musicca
   subcategory: creative-skills-learning
 - title: Workout.cool
-  url: https://workout.cool
+  url: https://workout.cool/en
   category: office-productivity-utilities
   tags:
   - fitness-tracker
@@ -4890,7 +4931,7 @@
   id: osiris-live
   subcategory: osint-frameworks
 - title: Common Tools
-  url: https://commontools.org
+  url: https://commontools.org/
   category: office-productivity-utilities
   tags:
   - local-first
@@ -5202,7 +5243,7 @@
   id: letters-of-note
   subcategory: primary-source-archives
 - title: Library of Short Stories
-  url: https://libraryofshortstories.com
+  url: https://libraryofshortstories.com/
   category: educational-research-repositories
   tags:
   - public-domain
@@ -5381,7 +5422,7 @@
   id: smithsonian-open-access-1
   subcategory: museum-heritage-archives
 - title: iNaturalist
-  url: https://inaturalist.org
+  url: https://inaturalist.org/
   category: educational-research-repositories
   tags:
   - open-source
@@ -5696,7 +5737,7 @@
   id: delphitools
   subcategory: web-utilities
 - title: CSS ICON
-  url: http://cssicon.space
+  url: http://cssicon.space/
   category: audio-video-image-manipulation
   tags:
   - css
@@ -5779,21 +5820,19 @@
     diagrams with a hand-drawn feel. Runs locally in-browser and is fully open-source.
   id: excalidraw
   subcategory: diagramming-whiteboards
-- title: File.Coffee
-  url: https://file.coffee
-  category: office-productivity-utilities
+- title: ti.fo
+  url: https://ti.fo
+  category: utilities-and-tools
   tags:
-  - file-sharing
-  - zero-signup
-  - instant-upload
-  - utility
+    - file-sharing
+    - encrypted-notes
+    - one-time-secret
+    - zero-knowledge
   replaces:
-  - Bloated cloud file-storage upsells
-  - Tracking-laden transfer services
-  annotation: A frictionless, zero-signup utility for sharing files instantly via
-    simple upload links without tracking walls or heavy corporate SaaS overhead.
-  id: filecoffee
-  subcategory: file-sharing-fax
+    - Trashbin / Temporary File Hosts
+  annotation: Lightweight, zero-account utility for sharing end-to-end encrypted secrets, self-destructing pastes, and one-time file drops without a login.
+  id: ti-fo-file-sharing
+  subcategory: temporary-file-sharing
 - title: Ray.so
   url: https://ray.so
   category: office-productivity-utilities
@@ -5826,7 +5865,7 @@
   id: timeis
   subcategory: web-utilities
 - title: Vectorpea
-  url: https://vectorpea.com
+  url: https://vectorpea.com/
   category: audio-video-image-manipulation
   tags:
   - vector-editor
@@ -6235,7 +6274,7 @@
   id: urlscanio
   subcategory: malware-url-analysis
 - title: PDF24 Creator & Tools
-  url: https://tools.pdf24.org
+  url: https://tools.pdf24.org/en/
   category: office-productivity-utilities
   tags:
   - pdf-editor
@@ -6513,7 +6552,7 @@
   id: dverso-bgremove
   subcategory: background-removal
 - title: AnonAddy (Eugen / SimpleLogin Alternative)
-  url: https://anonaddy.com
+  url: https://addy.io
   category: office-productivity-utilities
   tags:
   - open-source
@@ -6631,7 +6670,7 @@
   id: internet-live-stats
   subcategory: open-data-statistics
 - title: Geacron
-  url: https://geacron.com
+  url: https://geacron.com/page_ini.html
   category: office-productivity-utilities
   tags:
   - historical-atlas
@@ -6662,8 +6701,8 @@
     woodworking plans, cut lists, and step-by-step furniture building guides.
   id: ana-white
   subcategory: diy-maker-resources
-- title: Build Something
-  url: https://buildsomething.com
+- title: Kreg Projects
+  url: https://learn.kregtool.com/projects-plans/
   category: office-productivity-utilities
   tags:
   - woodworking
@@ -6676,21 +6715,7 @@
   annotation: A free project library sponsored by Kreg Tool offering downloadable
     woodworking plans, diagrams, and step-by-step tutorials for shop and home furniture.
   id: build-something
-  subcategory: diy-maker-resources
-- title: Woodworking for Mere Mortals
-  url: https://woodworkingformeremortals.com
-  category: office-productivity-utilities
-  tags:
-  - woodworking
-  - beginner-friendly
-  - tutorials
-  - maker-community
-  replaces:
-  - Intimidating professional joinery portals
-  annotation: An accessible, beginner-friendly woodworking platform created by Steve
-    Ramsey focused on shop techniques, budget tool setups, and practical weekend projects.
-  id: woodworking-for-mere-mortals
-  subcategory: diy-maker-resources
+  subcategory: diy-maker-resources  
 - title: Identifont
   url: https://www.identifont.com
   category: audio-video-image-manipulation
@@ -6759,7 +6784,7 @@
   id: meld
   subcategory: code-editors
 - title: VS Code (Visual Studio Code)
-  url: https://code.visualstudio.com
+  url: https://code.visualstudio.com/
   category: office-productivity-utilities
   tags:
   - open-source
@@ -6810,7 +6835,7 @@
   id: mini-tokyo-3d
   subcategory: interactive-3d-visualization
 - title: Scale of Universe
-  url: https://scaleofuniverse.com
+  url: https://scaleofuniverse.com/en
   category: office-productivity-utilities
   tags:
   - interactive-scaling
@@ -6827,7 +6852,7 @@
   id: scale-of-universe
   subcategory: science-simulations
 - title: WorldWide Telescope
-  url: https://worldwidetelescope.org
+  url: https://worldwidetelescope.org/webclient
   category: office-productivity-utilities
   tags:
   - open-source
@@ -6908,7 +6933,7 @@
   id: openprocessing
   subcategory: creative-coding-art
 - title: Spot The Station (NASA)
-  url: https://spotthestation.nasa.gov
+  url: https://www.nasa.gov/spot-the-station/
   category: office-productivity-utilities
   tags:
   - public-domain
@@ -7000,20 +7025,21 @@
   id: idealo
   subcategory: price-tracking
 - title: Skyscanner
-  url: https://www.skyscanner.net
-  category: office-productivity-utilities
+  url: https://www.skyscanner.com
+  category: travel-and-navigation
   tags:
-  - flight-comparison
-  - travel-utility
-  - meta-search
-  - zero-signup
+    - flight-matrix
+    - travel-search
+    - price-check
   replaces:
-  - Airlines direct-only browsing
-  - Gated travel agency booking fees
-  annotation: A powerful travel meta-search engine that scans hundreds of airlines
-    and online travel agencies to map out flight prices and flexible date routes.
-  id: skyscanner
-  subcategory: travel-planning
+    - Gated Flight Aggregators
+  annotation: Un-authenticated flight schedule and pricing matrix search tool.
+  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
+  # Inclusion Rationale: Allows zero-account flight calendar & route querying without mandatory logins.
+  # Friction Caveat: Acts as an affiliate funnel; requires incognito/clean context to avoid dynamic pricing cookies.
+  # Audit Status: Approved (borderline friction) — reconsider if affiliate funnels become more aggressive.
+  id: skyscanner-flight-search
+  subcategory: travel-utilities
 - title: Wise
   url: https://wise.com
   category: office-productivity-utilities
@@ -7146,7 +7172,7 @@
   id: colorhexa
   subcategory: color-tools
 - title: FamilySearch
-  url: https://www.familysearch.org
+  url: https://www.familysearch.org/en/united-states/
   category: office-productivity-utilities
   tags:
   - genealogy
@@ -7262,7 +7288,7 @@
   id: dictationio
   subcategory: writing-tools
 - title: Canva Whiteboards
-  url: https://www.canva.com/whiteboards
+  url: https://www.canva.com/online-whiteboard
   category: office-productivity-utilities
   tags:
   - visual-workspace
@@ -7276,7 +7302,7 @@
   id: canva-whiteboards
   subcategory: diagramming-whiteboards
 - title: IFTTT (If This Then That)
-  url: https://ifttt.com
+  url: https://ifttt.ai/
   category: office-productivity-utilities
   tags:
   - automation
