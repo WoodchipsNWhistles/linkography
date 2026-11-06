@@ -1,6 +1,6 @@
 - title: 123apps
   url: https://123apps.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-editing
   - audio-tools
@@ -19,7 +19,7 @@
   subcategory: media-converters
 - title: Hotpot.ai
   url: https://hotpot.ai/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ai-art
   - photo-editor
@@ -37,7 +37,7 @@
   subcategory: ai-image-tools
 - title: TerraPrinter
   url: https://terraprinter.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - 3d-printing
   - terrain-generator
@@ -57,7 +57,7 @@
   subcategory: cad-fabrication
 - title: LeoLabs Space Platform
   url: https://platform.leolabs.space/visualization
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - space-domain-awareness
   - orbital-mechanics
@@ -76,7 +76,7 @@
   subcategory: space-tracking
 - title: Evil Emoji
   url: https://evil-emoji.vercel.app/
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - steganography
   - zero-width-characters
@@ -94,7 +94,7 @@
   subcategory: text-encoding
 - title: BioDigital Human
   url: https://human.biodigital.com/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - anatomy
   - 3d-visualization
@@ -112,7 +112,7 @@
   subcategory: interactive-3d-visualization
 - title: Movie Scene Map
   url: https://moviescenemap.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - osint
   - mapping
@@ -130,7 +130,7 @@
   subcategory: film-locations
 - title: BoxTemplate
   url: https://boxtemplate.app/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - box-generator
   - laser-cutting
@@ -149,7 +149,7 @@
   subcategory: cad-fabrication
 - title: Animagraffs
   url: https://animagraffs.com/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - 3d-animation
   - mechanical-engineering
@@ -166,7 +166,7 @@
   subcategory: interactive-3d-visualization
 - title: LibriVox
   url: https://librivox.org/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - audiobooks
   - public-domain
@@ -183,7 +183,7 @@
   subcategory: public-domain-literature
 - title: CarCareKiosk
   url: https://www.carcarekiosk.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - automotive-repair
   - diy-mechanic
@@ -199,7 +199,7 @@
   subcategory: auto-repair-parts
 - title: RockAuto
   url: https://www.rockauto.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - auto-parts
   - part-numbers
@@ -216,7 +216,7 @@
   subcategory: auto-repair-parts
 - title: Learn Anything
   url: https://learn-anything.xyz/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - knowledge-graphs
   - curated-learning
@@ -234,7 +234,7 @@
   subcategory: course-aggregators
 - title: Class Central
   url: https://www.classcentral.com/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - mooc
   - course-aggregator
@@ -252,7 +252,7 @@
   subcategory: course-aggregators
 - title: AI Website Cloner Template
   url: https://github.com/JCodesMore/ai-website-cloner-template
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - open-source
   - ai-agents
@@ -272,7 +272,7 @@
   subcategory: ai-coding-assistants
 - title: Tribe DJ
   url: https://dj.tribexr.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - dj-simulator
   - browser-audio
@@ -290,7 +290,7 @@
   subcategory: sound-generators-music-toys
 - title: NoSignups
   url: https://nosignups.net/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - directory
   - open-source
@@ -308,7 +308,7 @@
   subcategory: software-directories
 - title: LostGamer.io
   url: https://lostgamer.io/
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - gaming
   - geoguessr-alternative
@@ -326,7 +326,7 @@
   subcategory: geography-games
 - title: Board Game Arena
   url: https://boardgamearena.com/
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - board-games
   - browser-gaming
@@ -344,7 +344,7 @@
   subcategory: board-games
 - title: SpacePlanner
   url: https://spaceplanner.co/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - floor-planner
   - cad
@@ -363,7 +363,7 @@
   subcategory: cad-fabrication
 - title: Make My Drive Fun
   url: https://makemydrivefun.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - road-trip
   - mapping
@@ -381,7 +381,7 @@
   subcategory: travel-planning
 - title: Nearby Glasses
   url: https://github.com/yjeanrenaud/yj_nearbyglasses
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - privacy
   - ble-scanner
@@ -399,7 +399,7 @@
   subcategory: surveillance-awareness
 - title: Epieos
   url: https://epieos.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - reverse-lookup
@@ -414,7 +414,7 @@
   subcategory: email-osint
 - title: Intelligence X
   url: https://intelx.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - data-archive
@@ -430,7 +430,7 @@
   subcategory: breach-lookup
 - title: Have I Been Pwned
   url: https://haveibeenpwned.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - breach-checker
@@ -446,7 +446,7 @@
   subcategory: breach-lookup
 - title: EmailRep
   url: https://emailrep.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - reputation-lookup
@@ -462,7 +462,7 @@
   subcategory: email-osint
 - title: MXToolbox
   url: https://mxtoolbox.com/
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - email-intelligence
   - dns-lookup
@@ -478,7 +478,7 @@
   subcategory: email-diagnostics
 - title: Mail-Tester
   url: https://www.mail-tester.com/
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - email-intelligence
   - deliverability
@@ -493,7 +493,7 @@
   subcategory: email-diagnostics
 - title: LeakCheck
   url: https://leakcheck.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - breach-lookup
@@ -509,7 +509,7 @@
   subcategory: breach-lookup
 - title: BreachDirectory
   url: https://breachdirectory.org/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - breach-checker
@@ -524,7 +524,7 @@
   subcategory: breach-lookup
 - title: Gravatar Profile Lookup
   url: https://gravatar.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - avatar-lookup
@@ -540,7 +540,7 @@
   subcategory: email-osint
 - title: Sherlock
   url: https://github.com/sherlock-project/sherlock
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - cli
@@ -557,7 +557,7 @@
   subcategory: username-search
 - title: Maigret
   url: https://github.com/soxoj/maigret
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - dossier-generation
@@ -575,7 +575,7 @@
   subcategory: username-search
 - title: WhatsMyName
   url: https://whatsmyname.app/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - web-utility
@@ -590,7 +590,7 @@
   subcategory: username-search
 - title: Blackbird
   url: https://github.com/antoniaci/blackbird
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - cli
@@ -606,7 +606,7 @@
   subcategory: username-search
 - title: Snoop
   url: https://github.com/snooppr/snoop
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - cli
@@ -621,7 +621,7 @@
   subcategory: username-search
 - title: Instant Username
   url: https://instantusername.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - web-utility
@@ -636,7 +636,7 @@
   subcategory: username-search
 - title: GitHub Search
   url: https://github.com/search
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - code-search
@@ -651,7 +651,7 @@
   subcategory: social-media-search
 - title: Searchcode
   url: https://searchcode.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - code-search
   - repository-lookup
@@ -666,7 +666,7 @@
   subcategory: code-search
 - title: Debian Code Search
   url: https://codesearch.debian.net
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - code-search
   - regex-search
@@ -680,7 +680,7 @@
   subcategory: code-search
 - title: Reddit Search
   url: https://www.reddit.com/search/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - social-search
@@ -695,7 +695,7 @@
   subcategory: social-media-search
 - title: Keybase
   url: https://keybase.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - cryptographic-proofs
@@ -710,7 +710,7 @@
   subcategory: username-search
 - title: Steam Community Search
   url: https://steamcommunity.com/search/users
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - gaming
@@ -725,7 +725,7 @@
   subcategory: social-media-search
 - title: Flickr Search
   url: https://www.flickr.com/search/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - image-search
@@ -740,7 +740,7 @@
   subcategory: social-media-search
 - title: Medium Search
   url: https://medium.com/search
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - username-investigation
   - author-lookup
@@ -755,7 +755,7 @@
   subcategory: social-media-search
 - title: PhoneInfoga
   url: https://github.com/sundowndev/phoneinfoga
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - phone-intelligence
   - cli
@@ -772,7 +772,7 @@
   subcategory: phone-osint
 - title: Google Images
   url: https://images.google.com/
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - reverse-image-search
@@ -785,7 +785,7 @@
   subcategory: reverse-image-search
 - title: Bing Visual Search
   url: https://www.microsoft.com/en-us/bing/visual-search
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - reverse-image-search
@@ -799,7 +799,7 @@
   subcategory: reverse-image-search
 - title: Yandex Images
   url: https://yandex.com/images/
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - reverse-image-search
@@ -814,7 +814,7 @@
   subcategory: reverse-image-search
 - title: TinEye
   url: https://tineye.com/
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - reverse-image-search
@@ -828,7 +828,7 @@
   subcategory: reverse-image-search
 - title: FotoForensics
   url: https://fotoforensics.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - error-level-analysis
@@ -843,7 +843,7 @@
   subcategory: image-verification
 - title: ExifTool
   url: https://exiftool.org/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - exif
@@ -859,7 +859,7 @@
   subcategory: image-verification
 - title: Jeffrey's Image Metadata Viewer
   url: https://exif.regex.info/exif.cgi
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - exif
@@ -873,7 +873,7 @@
   subcategory: image-verification
 - title: InVID / WeVerify Plugin
   url: https://github.com/AFP-Medialab/invid-verification-plugin
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - video-verification
@@ -889,7 +889,7 @@
   subcategory: image-verification
 - title: ImgOps
   url: https://imgops.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - web-utility
@@ -903,7 +903,7 @@
   subcategory: image-verification
 - title: Forensically
   url: https://29a.ch/sandbox/2012/forensically/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - error-level-analysis
@@ -920,7 +920,7 @@
   subcategory: image-verification
 - title: Search by Image
   url: https://github.com/dessant/search-by-image
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - reverse-image-search
@@ -936,7 +936,7 @@
   subcategory: reverse-image-search
 - title: Wikimedia Commons
   url: https://commons.wikimedia.org/wiki/Main_Page
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - image-verification
   - open-media
@@ -953,7 +953,7 @@
   subcategory: museum-heritage-archives
 - title: OpenStreetMap Image Layers
   url: https://www.openstreetmap.org/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - geospatial
@@ -969,7 +969,7 @@
   subcategory: gis-mapping-tools
 - title: Mapillary
   url: https://www.mapillary.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - image-verification
   - street-level-imagery
@@ -985,7 +985,7 @@
   subcategory: street-level-imagery
 - title: Etherscan
   url: https://etherscan.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - ethereum
@@ -1000,7 +1000,7 @@
   subcategory: blockchain-explorers
 - title: Blockchair
   url: https://blockchair.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - multi-chain
@@ -1014,7 +1014,7 @@
   subcategory: blockchain-explorers
 - title: Blockstream Explorer
   url: https://blockstream.info/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - bitcoin
@@ -1030,7 +1030,7 @@
   subcategory: blockchain-explorers
 - title: Mempool.space
   url: https://mempool.space/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - bitcoin
@@ -1045,7 +1045,7 @@
   subcategory: blockchain-explorers
 - title: Ethplorer
   url: https://ethplorer.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - ethereum
@@ -1059,7 +1059,7 @@
   subcategory: blockchain-explorers
 - title: BitInfoCharts
   url: https://bitinfocharts.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - multi-coin
@@ -1073,7 +1073,7 @@
   subcategory: blockchain-explorers
 - title: BSCScan
   url: https://bscscan.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - binance-smart-chain
@@ -1087,7 +1087,7 @@
   subcategory: blockchain-explorers
 - title: Polygonscan
   url: https://polygonscan.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - polygon
@@ -1101,7 +1101,7 @@
   subcategory: blockchain-explorers
 - title: Arbiscan
   url: https://arbiscan.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - arbitrum
@@ -1115,7 +1115,7 @@
   subcategory: blockchain-explorers
 - title: Tronscan
   url: https://tronscan.org/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - tron
@@ -1129,7 +1129,7 @@
   subcategory: blockchain-explorers
 - title: Solscan
   url: https://solscan.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - solana
@@ -1143,7 +1143,7 @@
   subcategory: blockchain-explorers
 - title: Solana Explorer
   url: https://explorer.solana.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - solana
@@ -1157,7 +1157,7 @@
   subcategory: blockchain-explorers
 - title: CardanoScan
   url: https://cardanoscan.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - cardano
@@ -1171,7 +1171,7 @@
   subcategory: blockchain-explorers
 - title: XRPSCAN
   url: https://xrpscan.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - xrp-ledger
@@ -1185,7 +1185,7 @@
   subcategory: blockchain-explorers
 - title: OXT
   url: https://oxt.me/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - blockchain-investigation
   - bitcoin
@@ -1201,7 +1201,7 @@
   subcategory: blockchain-explorers
 - title: VSCodium
   url: https://vscodium.com/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - ide
   - code-editor
@@ -1217,7 +1217,7 @@
   subcategory: code-editors
 - title: Ollama
   url: https://ollama.com/
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - llm-runner
   - local-ai
@@ -1234,7 +1234,7 @@
   subcategory: local-llm-runners
 - title: Code Llama
   url: https://github.com/meta-llama/codellama
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - llm
   - coding-model
@@ -1251,7 +1251,7 @@
   subcategory: coding-llms
 - title: DeepSeek Coder
   url: https://github.com/deepseek-ai/deepseek-coder
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - llm
   - coding-model
@@ -1267,7 +1267,7 @@
   subcategory: coding-llms
 - title: Qwen Coder
   url: https://github.com/QwenLM/qwen-code
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - llm
   - coding-model
@@ -1283,7 +1283,7 @@
   subcategory: coding-llms
 - title: McBroken
   url: https://mcbroken.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - utility
   - web-scraper
@@ -1299,7 +1299,7 @@
   subcategory: everyday-trackers
 - title: Tunefind
   url: https://www.tunefind.com/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - utility
   - soundtrack-database
@@ -1315,7 +1315,7 @@
   subcategory: film-resources
 - title: Open Culture
   url: https://www.openculture.com/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - courses
@@ -1332,7 +1332,7 @@
   subcategory: course-aggregators
 - title: AI Free Forever
   url: https://aifreeforever.com/
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - ai-aggregator
   - llm-chat
@@ -1348,7 +1348,7 @@
   subcategory: ai-chat-assistants
 - title: Flight Viz
   url: https://flight-viz.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - utility
   - flight-tracker
@@ -1364,7 +1364,7 @@
   subcategory: aviation-tracking
 - title: ToS;DR (Terms of Service; Didn't Read)
   url: https://tosdr.org/en
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - utility
   - privacy-auditing
@@ -1380,7 +1380,7 @@
   subcategory: privacy-auditing
 - title: Freebuff
   url: https://freebuff.com/
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - ai-coding-agent
   - cli-tool
@@ -1397,7 +1397,7 @@
   subcategory: ai-coding-assistants
 - title: RapidFireArt
   url: https://rapidfireart.com/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - art-tutorials
@@ -1413,7 +1413,7 @@
   subcategory: creative-skills-learning
 - title: Fast.ai
   url: https://www.fast.ai/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - deep-learning
@@ -1429,7 +1429,7 @@
   subcategory: free-courses
 - title: Elements of AI
   url: https://www.elementsofai.com/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - ai-fundamentals
@@ -1444,7 +1444,7 @@
   subcategory: free-courses
 - title: IBM SkillsBuild
   url: https://skillsbuild.org/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - tech-certification
@@ -1462,7 +1462,7 @@
   subcategory: free-certifications
 - title: HP LIFE (AI for Business Professionals)
   url: https://www.life-global.org/course/423-ai-for-business-professionals
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - ai-courses
@@ -1480,7 +1480,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy (Content Marketing Certification)
   url: https://academy.hubspot.com/courses/content-marketing
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - content-strategy
@@ -1499,7 +1499,7 @@
   subcategory: free-certifications
 - title: 'UMD Smith Learn: Artificial Intelligence & Career Transformation'
   url: https://umd-smithlearn.catalog.instructure.com/courses/artificial-intelligence-and-career-transformation
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - ai-fundamentals
@@ -1516,7 +1516,7 @@
   subcategory: free-certifications
 - title: Public Work
   url: https://www.cosmos.so/public-work
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - public-domain
@@ -1532,7 +1532,7 @@
   subcategory: icons-and-illustrations
 - title: Font Squirrel
   url: https://www.fontsquirrel.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - typography
@@ -1548,7 +1548,7 @@
   subcategory: fonts-typography
 - title: OpenMoji
   url: https://openmoji.org/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - open-source
@@ -1564,7 +1564,7 @@
   subcategory: icons-and-illustrations
 - title: Humaaans
   url: https://www.humaaans.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - illustrations
@@ -1580,7 +1580,7 @@
   subcategory: icons-and-illustrations
 - title: ManyPixels Illustration Gallery
   url: https://www.manypixels.co/gallery
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - illustrations
@@ -1596,7 +1596,7 @@
   subcategory: icons-and-illustrations
 - title: Iconoir
   url: https://iconoir.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - open-source
@@ -1612,7 +1612,7 @@
   subcategory: icons-and-illustrations
 - title: SVG Repo
   url: https://www.svgrepo.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - svg-icons
@@ -1628,7 +1628,7 @@
   subcategory: icons-and-illustrations
 - title: Openclipart
   url: https://openclipart.org/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design
   - clipart
@@ -1644,7 +1644,7 @@
   subcategory: icons-and-illustrations
 - title: fffuel
   url: https://fffuel.co/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - design-tools
   - svg-generator
@@ -1660,7 +1660,7 @@
   subcategory: design-asset-generators
 - title: DigitalDefynd
   url: https://digitaldefynd.com/
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - education
   - course-directory
@@ -1676,7 +1676,7 @@
   subcategory: course-aggregators
 - title: AnythingLLM
   url: https://anythingllm.com
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - rag
   - local-llm
@@ -1693,7 +1693,7 @@
   subcategory: local-llm-runners
 - title: Arena
   url: https://arena.ai/
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - benchmarking
   - llm-evaluation
@@ -1709,7 +1709,7 @@
   subcategory: ai-model-benchmarks
 - title: Claude
   url: https://claude.ai
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - assistant
   - llm
@@ -1725,7 +1725,7 @@
   subcategory: ai-chat-assistants
 - title: ComfyUI
   url: https://github.com/Comfy-Org/ComfyUI
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stable-diffusion
   - node-graph
@@ -1741,7 +1741,7 @@
   subcategory: ai-image-tools
 - title: Futurepedia
   url: https://futurepedia.io
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - directory
   - tool-discovery
@@ -1756,7 +1756,7 @@
   subcategory: software-directories
 - title: Gemini
   url: https://gemini.google.com
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - multimodal
   - assistant
@@ -1771,7 +1771,7 @@
   subcategory: ai-chat-assistants
 - title: Invoke.ai
   url: https://github.com/invoke-ai/InvokeAI
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - image-generation
   - canvas-editor
@@ -1786,7 +1786,7 @@
   subcategory: ai-image-tools
 - title: Opus Clip
   url: https://opus.pro
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-repurposing
   - auto-clipping
@@ -1801,7 +1801,7 @@
   subcategory: video-editors
 - title: Perchance AI
   url: https://perchance.org/welcome
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - anonymous
   - sandbox
@@ -1817,7 +1817,7 @@
   subcategory: ai-image-tools
 - title: Poe
   url: https://poe.com
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - aggregator
   - multi-model
@@ -1831,7 +1831,7 @@
   subcategory: ai-chat-assistants
 - title: Stratup
   url: https://stratup.ai/en
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - market-research
   - business-ideas
@@ -1846,7 +1846,7 @@
   subcategory: work-planning-tools
 - title: Brave
   url: https://brave.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - browser
   - privacy
@@ -1862,7 +1862,7 @@
   subcategory: web-browsers
 - title: Dark Reader
   url: https://darkreader.org
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - extension
   - dark-mode
@@ -1879,7 +1879,7 @@
   subcategory: browser-extensions
 - title: Firefox
   url: https://www.firefox.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - browser
   - open-source
@@ -1895,7 +1895,7 @@
   subcategory: web-browsers
 - title: Safari
   url: https://www.apple.com/safari/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - browser
   - webkit
@@ -1911,7 +1911,7 @@
   subcategory: web-browsers
 - title: AllHashtag
   url: https://www.all-hashtag.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - hashtag-generator
   - tag-analytics
@@ -1925,7 +1925,7 @@
   subcategory: social-media-management
 - title: AlsoAsked
   url: https://alsoasked.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-intent
   - people-also-ask
@@ -1940,7 +1940,7 @@
   subcategory: seo-content-research
 - title: Buffer
   url: https://buffer.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - social-scheduling
   - content-queuing
@@ -1955,7 +1955,7 @@
   subcategory: social-media-management
 - title: Circleboom
   url: https://circleboom.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - account-auditing
   - tweet-cleanup
@@ -1970,7 +1970,7 @@
   subcategory: social-media-management
 - title: ContentIdeas.io
   url: https://contentideas.io
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - content-discovery
   - social-trends
@@ -1984,7 +1984,7 @@
   subcategory: seo-content-research
 - title: ANY.RUN
   url: https://any.run
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - malware-sandbox
   - interactive-analysis
@@ -2000,7 +2000,7 @@
   subcategory: malware-url-analysis
 - title: Bitwarden
   url: https://bitwarden.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - password-manager
   - open-source
@@ -2017,7 +2017,7 @@
   subcategory: password-managers
 - title: Censys
   url: https://search.censys.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - attack-surface-management
   - asset-discovery
@@ -2031,7 +2031,7 @@
   subcategory: network-recon
 - title: AbuseIPDB
   url: https://www.abuseipdb.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - ip-threat-score
   - osint
@@ -2046,7 +2046,7 @@
   subcategory: network-recon
 - title: crt.sh
   url: https://crt.sh
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - certificate-transparency
   - reconnaissance
@@ -2060,7 +2060,7 @@
   subcategory: domain-dns-recon
 - title: Cyber Threat Intelligence Dashboard (infosecn1nja)
   url: https://github.com/infosecn1nja/Threat-Intelligence
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - threat-intel
   - ioc-lookups
@@ -2074,7 +2074,7 @@
   subcategory: threat-intelligence
 - title: DeHashed
   url: https://dehashed.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - breach-intelligence
   - credential-lookup
@@ -2089,7 +2089,7 @@
   subcategory: breach-lookup
 - title: DNSdumpster
   url: https://dnsdumpster.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - domain-research
   - dns-records
@@ -2103,7 +2103,7 @@
   subcategory: domain-dns-recon
 - title: EmailOSINT
   url: https://github.com/sovity/EmailOSINT
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-recon
   - reverse-lookup
@@ -2117,7 +2117,7 @@
   subcategory: email-osint
 - title: GreyNoise
   url: https://www.greynoise.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - threat-intelligence
   - scanner-filtering
@@ -2132,7 +2132,7 @@
   subcategory: threat-intelligence
 - title: Hacker News (The Hacker News)
   url: https://thehackernews.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - infosec-news
   - vulnerabilities
@@ -2146,7 +2146,7 @@
   subcategory: threat-intelligence
 - title: Kaspersky Cyberthreat Real-Time Map
   url: https://cybermap.kaspersky.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - threat-map
   - real-time-visualization
@@ -2160,7 +2160,7 @@
   subcategory: threat-intelligence
 - title: KeePassXC
   url: https://keepassxc.org
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - password-manager
   - offline
@@ -2176,7 +2176,7 @@
   subcategory: password-managers
 - title: Shodan
   url: https://www.shodan.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - iot-search
   - device-recon
@@ -2190,7 +2190,7 @@
   subcategory: network-recon
 - title: SpiderFoot
   url: https://github.com/smicallef/spiderfoot
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - automated-osint
   - attack-surface
@@ -2204,7 +2204,7 @@
   subcategory: osint-frameworks
 - title: VirusTotal
   url: https://www.virustotal.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - malware-scanner
   - file-analysis
@@ -2219,7 +2219,7 @@
   subcategory: malware-url-analysis
 - title: WhatIsMyIPAddress
   url: https://whatismyipaddress.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - ip-lookup
   - network-diagnostic
@@ -2233,7 +2233,7 @@
   subcategory: network-recon
 - title: WiGLE
   url: https://wigle.net
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - wireless-mapping
   - wifi-bssids
@@ -2247,7 +2247,7 @@
   subcategory: network-recon
 - title: Affinity (by Canva)
   url: https://affinity.studio/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - creative-suite
   - graphic-design
@@ -2263,7 +2263,7 @@
   subcategory: graphic-design-suites
 - title: ArtCraft
   url: https://artcraft.io
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ai-design
   - creative-tooling
@@ -2275,7 +2275,7 @@
   subcategory: ai-image-tools
 - title: ArtCrafts
   url: https://artcrafts.example
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - legacy-software
   - office-suite
@@ -2288,7 +2288,7 @@
   subcategory: raster-image-editors
 - title: Blender
   url: https://www.blender.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - 3d-creation
   - open-source
@@ -2304,7 +2304,7 @@
   subcategory: 3d-animation-vfx
 - title: Canva
   url: https://www.canva.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - graphic-design
   - cloud-publishing
@@ -2318,7 +2318,7 @@
   subcategory: graphic-design-suites
 - title: Cirkit Designer
   url: https://cirkitdesigner.com/
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - circuit-design
   - electronics
@@ -2333,7 +2333,7 @@
   subcategory: electronics-design
 - title: Cleanup.pictures
   url: https://cleanup.pictures
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - image-inpainting
   - object-removal
@@ -2347,7 +2347,7 @@
   subcategory: ai-image-tools
 - title: Clipdrop
   url: https://clipdrop.co
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ai-visual-tools
   - background-removal
@@ -2361,7 +2361,7 @@
   subcategory: ai-image-tools
 - title: Colorify
   url: https://colorify.example
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - palette-extraction
   - contrast-manipulation
@@ -2375,7 +2375,7 @@
   subcategory: color-tools
 - title: Darktable
   url: https://www.darktable.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - photography-workflow
   - raw-developer
@@ -2389,7 +2389,7 @@
   subcategory: raster-image-editors
 - title: Deep Nostalgia
   url: https://www.myheritage.com/deep-nostalgia
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - deep-learning
   - animation
@@ -2403,7 +2403,7 @@
   subcategory: ai-image-tools
 - title: FigCraft
   url: https://figcraft.example
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - interface-design
   - prototyping
@@ -2420,7 +2420,7 @@
   subcategory: ui-design-tools
 - title: FreeCAD
   url: https://www.freecad.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - parametric-cad
   - 3d-modeler
@@ -2435,7 +2435,7 @@
   subcategory: cad-fabrication
 - title: GIMP
   url: https://www.gimp.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - raster-editor
   - open-source
@@ -2450,7 +2450,7 @@
   subcategory: raster-image-editors
 - title: Inkscape
   url: https://inkscape.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - vector-graphics
   - illustration
@@ -2464,7 +2464,7 @@
   subcategory: vector-editors
 - title: Krita
   url: https://krita.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - digital-painting
   - concept-art
@@ -2479,7 +2479,7 @@
   subcategory: raster-image-editors
 - title: Natron
   url: https://natron.fr
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - compositing
   - vfx
@@ -2496,7 +2496,7 @@
   subcategory: 3d-animation-vfx
 - title: Nightshade
   url: https://nightshade.cs.uchicago.edu
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - adversarial-tools
   - data-poisoning
@@ -2510,7 +2510,7 @@
   subcategory: image-protection
 - title: Photopea
   url: https://www.photopea.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - browser-editor
   - raster-vector
@@ -2525,7 +2525,7 @@
   subcategory: raster-image-editors
 - title: remove.bg
   url: https://www.remove.bg
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - background-removal
   - image-segmentation
@@ -2539,7 +2539,7 @@
   subcategory: background-removal
 - title: Zoo.dev
   url: https://zoo.dev
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - cad-api
   - geometry-processing
@@ -2553,7 +2553,7 @@
   subcategory: cad-fabrication
 - title: Citywalki
   url: https://citywalki.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - ambient-exploration
   - street-level-video
@@ -2567,7 +2567,7 @@
   subcategory: street-level-imagery
 - title: EarthCam
   url: https://www.earthcam.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - live-webcams
   - streaming-cameras
@@ -2581,7 +2581,7 @@
   subcategory: webcam-directories
 - title: Flightradar24
   url: https://www.flightradar24.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - flight-tracking
   - ads-b
@@ -2595,7 +2595,7 @@
   subcategory: aviation-tracking
 - title: GeoGuessr
   url: https://www.geoguessr.com
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - geography-game
   - street-view
@@ -2609,7 +2609,7 @@
   subcategory: geography-games
 - title: Global Fishing Watch
   url: https://globalfishingwatch.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - maritime-tracking
   - ais-data
@@ -2624,7 +2624,7 @@
   subcategory: maritime-tracking
 - title: Google Earth
   url: https://earth.google.com/web/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - 3d-globe
   - satellite-imagery
@@ -2638,7 +2638,7 @@
   subcategory: satellite-imagery
 - title: Google Earth Timelapse
   url: https://earthengine.google.com/timelapse/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - satellite-timelapse
   - historical-imagery
@@ -2652,7 +2652,7 @@
   subcategory: satellite-imagery
 - title: MapCrunch
   url: https://www.mapcrunch.com
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - random-streetview
   - visual-exploration
@@ -2666,7 +2666,7 @@
   subcategory: geography-games
 - title: MarineTraffic
   url: https://www.marinetraffic.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - maritime-tracking
   - ais-vessels
@@ -2680,7 +2680,7 @@
   subcategory: maritime-tracking
 - title: NASA's Eyes
   url: https://science.nasa.gov/eyes/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - space-visualization
   - orbital-telemetry
@@ -2694,7 +2694,7 @@
   subcategory: space-tracking
 - title: OSIRIS Intelligence Dashboard
   url: https://osiris.intelligence.gq
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - gpu-dashboard
   - conflict-mapping
@@ -2709,7 +2709,7 @@
   subcategory: osint-frameworks
 - title: QGIS
   url: https://www.qgis.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - gis
   - spatial-analysis
@@ -2725,7 +2725,7 @@
   subcategory: gis-mapping-tools
 - title: Submarine Cable Map
   url: https://www.submarinecablemap.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - undersea-cables
   - telecommunications
@@ -2739,7 +2739,7 @@
   subcategory: maritime-tracking
 - title: TimeMap
   url: https://timemap.github.io
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - spatiotemporal
   - historical-mapping
@@ -2753,7 +2753,7 @@
   subcategory: historical-maps
 - title: Windy
   url: https://www.windy.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - weather-radar
   - meteorological-models
@@ -2767,7 +2767,7 @@
   subcategory: weather-maps
 - title: Zoom Earth
   url: https://zoom.earth
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - near-real-time-satellite
   - weather-tracking
@@ -2781,7 +2781,7 @@
   subcategory: weather-maps
 - title: AIVA
   url: https://www.aiva.ai
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ai-music
   - generative-audio
@@ -2796,7 +2796,7 @@
   subcategory: audio-editors
 - title: Audacity
   url: https://www.audacityteam.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - audio-editor
   - open-source
@@ -2812,7 +2812,7 @@
   subcategory: audio-editors
 - title: Auphonic
   url: https://auphonic.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - audio-post-production
   - loudness-correction
@@ -2826,7 +2826,7 @@
   subcategory: audio-editors
 - title: Calibre
   url: https://calibre-ebook.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - ebook-manager
   - format-converter
@@ -2842,7 +2842,7 @@
   subcategory: ebook-managers
 - title: Descript
   url: https://www.descript.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - transcript-editing
   - audio-video-editor
@@ -2856,7 +2856,7 @@
   subcategory: video-editors
 - title: Emby
   url: https://emby.media
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - media-server
   - streaming
@@ -2870,7 +2870,7 @@
   subcategory: media-servers
 - title: FFmpeg
   url: https://ffmpeg.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-processing
   - audio-converter
@@ -2886,7 +2886,7 @@
   subcategory: media-converters
 - title: GreenTuber
   url: https://greentuber.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ad-blocking-wrapper
   - mobile-video
@@ -2900,7 +2900,7 @@
   subcategory: youtube-clients
 - title: HandBrake
   url: https://handbrake.fr
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-transcoder
   - open-source
@@ -2915,7 +2915,7 @@
   subcategory: media-converters
 - title: Jellyfin
   url: https://jellyfin.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - media-server
   - self-hosted
@@ -2932,7 +2932,7 @@
   subcategory: media-servers
 - title: Kdenlive
   url: https://kdenlive.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-editor
   - non-linear
@@ -2948,7 +2948,7 @@
   subcategory: video-editors
 - title: NewPipe
   url: https://newpipe.net
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - android-frontend
   - youtube-client
@@ -2964,7 +2964,7 @@
   subcategory: youtube-clients
 - title: OpenShot
   url: https://www.openshot.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-editor
   - cross-platform
@@ -2979,7 +2979,7 @@
   subcategory: video-editors
 - title: Subtitle Edit
   url: https://www.nikse.dk/subtitleedit
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - subtitle-editor
   - srt
@@ -2994,7 +2994,7 @@
   subcategory: video-editors
 - title: TubeMate
   url: https://tubemate.net/w3/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - video-downloader
   - android-app
@@ -3008,7 +3008,7 @@
   subcategory: youtube-clients
 - title: VLC Media Player
   url: https://www.videolan.org/vlc/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - media-player
   - open-source
@@ -3024,7 +3024,7 @@
   subcategory: media-players-inspectors
 - title: YouTube ReVanced
   url: https://revanced.app
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - apk-patching
   - ad-blocking
@@ -3039,7 +3039,7 @@
   subcategory: youtube-clients
 - title: AFP Digital Verification Toolbox
   url: https://digital-verification.afp.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - fact-checking
   - media-verification
@@ -3053,7 +3053,7 @@
   subcategory: verification-toolkits
 - title: Bellingcat’s Online Investigation Toolkit
   url: https://www.bellingcat.com/resources/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - investigative-tools
   - satellite-analysis
@@ -3067,7 +3067,7 @@
   subcategory: verification-toolkits
 - title: CIA Reading Room (CREST)
   url: https://www.cia.gov/readingroom/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - declassified-records
   - foia
@@ -3081,7 +3081,7 @@
   subcategory: government-records-archives
 - title: OpenFactBook
   url: https://openfactbook.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - country-profiles
   - demographics
@@ -3098,7 +3098,7 @@
   subcategory: geopolitical-reference
 - title: UNdata
   url: https://data.un.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - statistics
   - global-data
@@ -3113,7 +3113,7 @@
   subcategory: global-statistics
 - title: World Bank Open Data
   url: https://data.worldbank.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - economic-data
   - global-indicators
@@ -3128,7 +3128,7 @@
   subcategory: global-statistics
 - title: FAA Aircraft Registry
   url: https://registry.faa.gov
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - aviation
   - public-records
@@ -3142,7 +3142,7 @@
   subcategory: aviation-tracking
 - title: Finding Verity Dashboard
   url: https://findingverity.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - digital-verification
   - media-forensics
@@ -3156,7 +3156,7 @@
   subcategory: verification-toolkits
 - title: GDELT Project
   url: https://www.gdeltproject.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - global-events
   - news-database
@@ -3170,7 +3170,7 @@
   subcategory: global-statistics
 - title: GeoHints
   url: https://geohints.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - geolocation
   - infrastructure-markers
@@ -3184,7 +3184,7 @@
   subcategory: geolocation-tools
 - title: GeoSpy
   url: https://geospy.ai
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - ai-geolocation
   - visual-analysis
@@ -3198,7 +3198,7 @@
   subcategory: geolocation-tools
 - title: Google Lens
   url: https://search.google/ways-to-search/lens/
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - visual-search
   - object-recognition
@@ -3211,7 +3211,7 @@
   subcategory: reverse-image-search
 - title: Grabify
   url: https://grabify.link
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - url-shortener
   - ip-logging
@@ -3225,7 +3225,7 @@
   subcategory: network-recon
 - title: Hunchly
   url: https://www.hunchly.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - web-capture
   - osint-journaling
@@ -3239,7 +3239,7 @@
   subcategory: web-archives
 - title: Hunter.io
   url: https://hunter.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-intelligence
   - domain-search
@@ -3253,7 +3253,7 @@
   subcategory: email-osint
 - title: ICANN Lookup
   url: https://lookup.icann.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - whois
   - rdap
@@ -3267,7 +3267,7 @@
   subcategory: domain-dns-recon
 - title: Import Yeti
   url: https://www.importyeti.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - supply-chain
   - customs-data
@@ -3281,7 +3281,7 @@
   subcategory: corporate-trade-records
 - title: Insecam
   url: http://www.insecam.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - webcams
   - unsecured-cameras
@@ -3295,7 +3295,7 @@
   subcategory: webcam-directories
 - title: InVID-WeVerify
   url: https://www.invid-project.eu
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - video-verification
   - reverse-image-search
@@ -3309,7 +3309,7 @@
   subcategory: image-verification
 - title: Lumen Database
   url: https://lumendatabase.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - dmca
   - legal-takedowns
@@ -3323,7 +3323,7 @@
   subcategory: government-records-archives
 - title: Maltego
   url: https://www.maltego.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - link-analysis
   - graphical-intelligence
@@ -3337,7 +3337,7 @@
   subcategory: osint-frameworks
 - title: NamUs
   url: https://namus.nij.ojp.gov
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - missing-persons
   - unidentified-persons
@@ -3351,7 +3351,7 @@
   subcategory: government-records-archives
 - title: OpenCorporates
   url: https://opencorporates.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - corporate-data
   - company-registers
@@ -3365,7 +3365,7 @@
   subcategory: corporate-trade-records
 - title: OpenSanctions
   url: https://www.opensanctions.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - sanctions
   - politically-exposed-persons
@@ -3379,7 +3379,7 @@
   subcategory: corporate-trade-records
 - title: OSINT Central Dashboard
   url: https://osintcentral.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - osint-directory
   - reconnaissance
@@ -3393,7 +3393,7 @@
   subcategory: osint-frameworks
 - title: OSINT Framework
   url: https://osintframework.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - osint-directory
   - node-based-nav
@@ -3407,7 +3407,7 @@
   subcategory: osint-frameworks
 - title: Overpass Turbo
   url: https://overpass-turbo.eu
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - openstreetmap
   - data-mining
@@ -3421,7 +3421,7 @@
   subcategory: gis-mapping-tools
 - title: Phonebook.cz
   url: https://phonebook.cz
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - osint-recon
   - domain-extraction
@@ -3435,7 +3435,7 @@
   subcategory: domain-dns-recon
 - title: PublicWWW
   url: https://publicwww.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - source-code-search
   - seo-recon
@@ -3452,7 +3452,7 @@
   subcategory: web-tech-profilers
 - title: Espacenet
   url: https://worldwide.espacenet.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - patents
   - epo
@@ -3468,7 +3468,7 @@
   subcategory: patent-search
 - title: Google Patents
   url: https://patents.google.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - patents
   - prior-art
@@ -3484,7 +3484,7 @@
   subcategory: patent-search
 - title: USPTO Patent Public Search (PPUBS)
   url: https://ppubs.uspto.gov
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - uspto
   - united-states-patents
@@ -3500,7 +3500,7 @@
   subcategory: patent-search
 - title: Tails OS
   url: https://tails.net/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - amnesic-os
   - tor
@@ -3517,7 +3517,7 @@
   subcategory: vpn-anonymity
 - title: uBlock Origin
   url: https://ublockorigin.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - content-blocker
   - open-source
@@ -3533,7 +3533,7 @@
   subcategory: ad-blockers
 - title: Blacklight
   url: https://themarkup.org/blacklight
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - tracker-inspection
   - privacy-audit
@@ -3547,7 +3547,7 @@
   subcategory: privacy-auditing
 - title: Cover Your Tracks (EFF)
   url: https://coveryourtracks.eff.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - browser-fingerprinting
   - privacy-testing
@@ -3561,7 +3561,7 @@
   subcategory: privacy-auditing
 - title: Just Delete Me
   url: https://justdeleteme.xyz
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - account-deletion
   - privacy-directory
@@ -3575,7 +3575,7 @@
   subcategory: privacy-auditing
 - title: Addy.io (AnonAddy)
   url: https://addy.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-aliasing
   - privacy
@@ -3591,7 +3591,7 @@
   subcategory: email-aliasing
 - title: SimpleLogin
   url: https://simplelogin.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - email-aliasing
   - privacy
@@ -3607,7 +3607,7 @@
   subcategory: email-aliasing
 - title: Proton Mail
   url: https://proton.me/mail
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - encrypted-email
   - privacy
@@ -3623,7 +3623,7 @@
   subcategory: secure-email-messaging
 - title: Mailfence
   url: https://mailfence.com/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - encrypted-email
   - pgp
@@ -3639,7 +3639,7 @@
   subcategory: secure-email-messaging
 - title: 10 Minute Mail
   url: https://10minutemail.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - disposable-email
   - burner-inbox
@@ -3653,7 +3653,7 @@
   subcategory: disposable-email
 - title: Guerrilla Mail
   url: https://www.guerrillamail.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - disposable-email
   - temporary-inbox
@@ -3667,7 +3667,7 @@
   subcategory: disposable-email
 - title: MailDrop
   url: https://maildrop.cc/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - disposable-email
   - temp-email
@@ -3682,7 +3682,7 @@
   subcategory: disposable-email
 - title: Mullvad VPN
   url: https://mullvad.net/en
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - vpn
   - no-logs
@@ -3698,7 +3698,7 @@
   subcategory: vpn-anonymity
 - title: Windscribe
   url: https://windscribe.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - vpn
   - ad-blocker
@@ -3713,7 +3713,7 @@
   subcategory: vpn-anonymity
 - title: SMSTome
   url: https://smstome.com/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - sms-verification
   - burner-numbers
@@ -3727,7 +3727,7 @@
   subcategory: burner-phone-numbers
 - title: OnlineSIM
   url: https://onlinesim.io/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - virtual-phone
   - sms-bypass
@@ -3741,7 +3741,7 @@
   subcategory: burner-phone-numbers
 - title: Session
   url: https://getsession.org/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - encrypted-messaging
   - metadata-private
@@ -3757,7 +3757,7 @@
   subcategory: secure-email-messaging
 - title: Thunderbird
   url: https://www.thunderbird.net/en-US/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - email-client
   - open-source
@@ -3772,7 +3772,7 @@
   subcategory: secure-email-messaging
 - title: FaxZero
   url: https://faxzero.com/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - fax
   - pdf-to-fax
@@ -3788,7 +3788,7 @@
   subcategory: file-sharing
 - title: Connected Papers
   url: https://www.connectedpapers.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - academic-search
   - graph-visualization
@@ -3804,7 +3804,7 @@
   subcategory: academic-paper-access
 - title: r/zlibrary (Community Mirror Tracker)
   url: https://www.reddit.com/r/zlibrary/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - reddit
   - community-tracker
@@ -3821,7 +3821,7 @@
   subcategory: ebook-libraries
 - title: r/Annas_Archive (Community Mirror Tracker)
   url: https://www.reddit.com/r/Annas_Archive/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - reddit
   - community-tracker
@@ -3837,7 +3837,7 @@
   subcategory: ebook-libraries
 - title: r/libgen (Community Mirror Tracker)
   url: https://www.reddit.com/r/libgen/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - reddit
   - community-tracker
@@ -3853,7 +3853,7 @@
   subcategory: ebook-libraries
 - title: Library of Congress — Ask a Librarian
   url: https://www.loc.gov/research-centers/use-the-library/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - reference-librarians
   - federal-archives
@@ -3866,7 +3866,7 @@
   subcategory: government-records-archives
 - title: Open Library
   url: https://openlibrary.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - digital-library
   - internet-archive
@@ -3881,7 +3881,7 @@
   subcategory: public-domain-literature
 - title: OpenAlex
   url: https://openalex.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - scholarly-index
   - open-access
@@ -3897,7 +3897,7 @@
   subcategory: academic-paper-access
 - title: Our World in Data
   url: https://ourworldindata.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - empirical-research
   - global-data
@@ -3913,7 +3913,7 @@
   subcategory: global-statistics
 - title: PDF Drive
   url: https://www.pdfdrive.com/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - pdf-search
   - ebooks
@@ -3928,7 +3928,7 @@
   subcategory: ebook-libraries
 - title: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - biomedical-literature
   - life-sciences
@@ -3942,7 +3942,7 @@
   subcategory: academic-paper-access
 - title: Smithsonian Open Access
   url: https://www.si.edu/openaccess
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - public-domain
   - museum-artifacts
@@ -3958,7 +3958,7 @@
   subcategory: museum-heritage-archives
 - title: UNData
   url: https://data.un.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - united-nations
   - global-indicators
@@ -3972,7 +3972,7 @@
   subcategory: global-statistics
 - title: Unpaywall
   url: https://unpaywall.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-access
   - scholarly-articles
@@ -3986,7 +3986,7 @@
   subcategory: academic-paper-access
 - title: Wayback Machine
   url: https://web.archive.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - digital-archive
   - web-history
@@ -4002,7 +4002,7 @@
   subcategory: web-archives
 - title: Wolfram|Alpha
   url: https://www.wolframalpha.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - computational-knowledge
   - symbolic-math
@@ -4017,7 +4017,7 @@
   subcategory: math-tools
 - title: World Bank Open Data
   url: https://data.worldbank.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - economic-data
   - global-development
@@ -4031,7 +4031,7 @@
   subcategory: global-statistics
 - title: r/zlibrary (Community Mirror Tracker)
   url: https://www.reddit.com/r/zlibrary/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - reddit
   - community-tracker
@@ -4048,7 +4048,7 @@
   subcategory: ebook-libraries
 - title: Zotero
   url: https://www.zotero.org
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - reference-management
   - open-source
@@ -4063,7 +4063,7 @@
   subcategory: reference-bookmark-managers
 - title: r/Annas_Archive (Community Mirror Tracker)
   url: https://www.reddit.com/r/Annas_Archive/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - reddit
   - community-tracker
@@ -4079,7 +4079,7 @@
   subcategory: ebook-libraries
 - title: CORE (Connecting Repositories)
   url: https://core.ac.uk
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - academic-research
   - open-access
@@ -4096,7 +4096,7 @@
   subcategory: academic-paper-access
 - title: Brave Search
   url: https://search.brave.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - independent-index
@@ -4111,7 +4111,7 @@
   subcategory: privacy-search-engines
 - title: Ecosia
   url: https://www.ecosia.org
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - privacy
@@ -4125,7 +4125,7 @@
   subcategory: privacy-search-engines
 - title: European Search Perspective (EUPSP) / Open Web Index
   url: https://openwebsearch.eu
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - open-web-index
   - search-infrastructure
@@ -4139,7 +4139,7 @@
   subcategory: independent-web-search
 - title: Kagi
   url: https://kagi.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - paid-search
@@ -4155,7 +4155,7 @@
   subcategory: privacy-search-engines
 - title: Marginalia Search
   url: https://marginalia-search.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - indie-web
   - text-first
@@ -4170,7 +4170,7 @@
   subcategory: independent-web-search
 - title: Million Short
   url: https://millionshort.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-filter
   - discovery
@@ -4185,7 +4185,7 @@
   subcategory: independent-web-search
 - title: Mojeek
   url: https://www.mojeek.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - independent-crawler
@@ -4201,7 +4201,7 @@
   subcategory: privacy-search-engines
 - title: Perplexity
   url: https://www.perplexity.ai
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - conversational-search
   - citation-backed
@@ -4216,7 +4216,7 @@
   subcategory: ai-search-engines
 - title: Phind
   url: https://www.phind.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - developer-search
   - code-troubleshooting
@@ -4230,7 +4230,7 @@
   subcategory: ai-search-engines
 - title: Qwant
   url: https://www.qwant.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - privacy
@@ -4245,7 +4245,7 @@
   subcategory: privacy-search-engines
 - title: SearXNG
   url: https://docs.searxng.org
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - metasearch
   - self-hosted
@@ -4263,7 +4263,7 @@
   subcategory: metasearch-self-hosted
 - title: Startpage
   url: https://www.startpage.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - privacy
   - google-results
@@ -4278,7 +4278,7 @@
   subcategory: privacy-search-engines
 - title: Abacus.ai
   url: https://abacus.ai
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - mlops
   - enterprise-ai
@@ -4294,7 +4294,7 @@
   subcategory: ai-dev-platforms
 - title: AlternativeTo
   url: https://alternativeto.net
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - software-discovery
   - open-source
@@ -4310,7 +4310,7 @@
   subcategory: software-directories
 - title: Bolt.new
   url: https://bolt.new
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - in-browser-ide
   - full-stack
@@ -4327,7 +4327,7 @@
   subcategory: ai-coding-assistants
 - title: BuiltWith
   url: https://builtwith.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - tech-profiler
   - web-reconnaissance
@@ -4343,7 +4343,7 @@
   subcategory: web-tech-profilers
 - title: Cursor
   url: https://cursor.com
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - code-editor
   - ai-ide
@@ -4359,7 +4359,7 @@
   subcategory: ai-coding-assistants
 - title: Godot Engine
   url: https://godotengine.org
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - game-engine
   - open-source
@@ -4375,7 +4375,7 @@
   subcategory: game-development
 - title: Google AI Studio
   url: https://aistudio.google.com/welcome
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - prompt-engineering
   - developer-environment
@@ -4390,7 +4390,7 @@
   subcategory: ai-dev-platforms
 - title: Google Opal
   url: https://local-self-hosted-ai-agents
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - no-code
   - ai-sandbox
@@ -4407,7 +4407,7 @@
   subcategory: ai-dev-platforms
 - title: Google Stitch
   url: https://labs.google
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - ui-design
   - text-to-ui
@@ -4424,7 +4424,7 @@
   subcategory: ui-design-tools
 - title: grep.app
   url: https://grep.app
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - code-search
   - regex
@@ -4441,7 +4441,7 @@
   subcategory: code-search
 - title: Hugging Face Spaces
   url: https://huggingface.co/spaces
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - ai-demos
   - hosting
@@ -4458,7 +4458,7 @@
   subcategory: ai-dev-platforms
 - title: Wappalyzer
   url: https://www.wappalyzer.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - tech-stack
   - browser-extension
@@ -4474,7 +4474,7 @@
   subcategory: web-tech-profilers
 - title: Mixkit
   url: https://mixkit.co
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stock-video
   - sound-effects
@@ -4490,7 +4490,7 @@
   subcategory: stock-media
 - title: Pexels
   url: https://www.pexels.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stock-photos
   - stock-videos
@@ -4504,7 +4504,7 @@
   subcategory: stock-media
 - title: Pixabay
   url: https://pixabay.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - royalty-free
   - photos
@@ -4519,7 +4519,7 @@
   subcategory: stock-media
 - title: StockSnap.io
   url: https://stocksnap.io
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stock-images
   - vectors
@@ -4532,7 +4532,7 @@
   subcategory: stock-media
 - title: Unsplash
   url: https://unsplash.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - high-resolution
   - photography
@@ -4547,7 +4547,7 @@
   subcategory: stock-media
 - title: Librestock
   url: https://librestock.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stock-photo-search
   - aggregator
@@ -4560,7 +4560,7 @@
   subcategory: stock-media
 - title: Motosha
   url: https://motosha.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - stock-photos
   - visual-assets
@@ -4571,7 +4571,7 @@
   subcategory: stock-media
 - title: StockVault
   url: https://www.stockvault.net
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - free-stock-photos
   - textures
@@ -4584,7 +4584,7 @@
   subcategory: stock-media
 - title: Career Hound
   url: https://www.careerhound.io
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - job-board
@@ -4598,7 +4598,7 @@
   subcategory: remote-job-boards
 - title: EuropeRemotely
   url: https://europeremotely.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - european-jobs
@@ -4611,7 +4611,7 @@
   subcategory: remote-job-boards
 - title: Jobspresso
   url: https://jobspresso.co
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - tech-jobs
@@ -4624,7 +4624,7 @@
   subcategory: remote-job-boards
 - title: Dynamite Jobs
   url: https://dynamitejobs.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - remote-first
@@ -4637,7 +4637,7 @@
   subcategory: remote-job-boards
 - title: SkipTheDrive
   url: https://www.skipthedrive.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - work-from-home
@@ -4650,7 +4650,7 @@
   subcategory: remote-job-boards
 - title: Pangian
   url: https://pangian.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - global-talent
@@ -4663,7 +4663,7 @@
   subcategory: remote-job-boards
 - title: Outsourcely
   url: https://www.outsourcely.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-workers
   - freelance-platform
@@ -4677,7 +4677,7 @@
   subcategory: remote-job-boards
 - title: Virtual Vocations
   url: https://www.virtualvocations.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - telecommute-jobs
   - hand-screened
@@ -4690,7 +4690,7 @@
   subcategory: remote-job-boards
 - title: Remotive
   url: https://remotive.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - remote-jobs
   - tech-careers
@@ -4703,7 +4703,7 @@
   subcategory: remote-job-boards
 - title: RezPass
   url: https://www.rezpass.com/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - resume-scanner
   - ats-optimizer
@@ -4716,7 +4716,7 @@
   subcategory: resume-career-tools
 - title: Google Skillshop (Digital Garage)
   url: https://skillshop.withgoogle.com
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - digital-marketing
   - free-courses
@@ -4732,7 +4732,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy
   url: https://academy.hubspot.com
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - free-courses
   - inbound-marketing
@@ -4749,7 +4749,7 @@
   subcategory: free-certifications
 - title: Meta Blueprint
   url: https://www.facebookblueprint.com/student/catalogue
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - digital-marketing
   - social-media
@@ -4766,7 +4766,7 @@
   subcategory: free-certifications
 - title: Microsoft Learn
   url: https://learn.microsoft.com
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - technical-training
   - free-courses
@@ -4783,7 +4783,7 @@
   subcategory: free-certifications
 - title: Teachable Machine
   url: https://teachablemachine.withgoogle.com
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - machine-learning
   - browser-ai
@@ -4800,7 +4800,7 @@
   subcategory: ai-dev-platforms
 - title: PhET Interactive Simulations
   url: https://phet.colorado.edu
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - interactive-science
   - physics-simulations
@@ -4817,7 +4817,7 @@
   subcategory: science-simulations
 - title: Phyphox
   url: https://phyphox.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - physics-experiments
   - mobile-sensors
@@ -4833,7 +4833,7 @@
   subcategory: science-simulations
 - title: EyeWire
   url: https://eyewire.org/explore
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - citizen-science
   - neuroscience
@@ -4849,7 +4849,7 @@
   subcategory: science-simulations
 - title: Twine (Twinery)
   url: https://twinery.org
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - interactive-fiction
   - open-source
@@ -4865,7 +4865,7 @@
   subcategory: interactive-fiction
 - title: Musicca
   url: https://www.musicca.com
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - music-theory
   - interactive-learning
@@ -4881,7 +4881,7 @@
   subcategory: creative-skills-learning
 - title: Workout.cool
   url: https://workout.cool/en
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - fitness-tracker
   - open-source
@@ -4899,7 +4899,7 @@
   subcategory: fitness-references
 - title: Osiris Live
   url: https://github.com/enzg/osiris-live
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - osint
   - global-intelligence
@@ -4917,7 +4917,7 @@
   subcategory: osint-frameworks
 - title: Common Tools
   url: https://commontools.org/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - local-first
   - open-source
@@ -4934,7 +4934,7 @@
   subcategory: web-utilities
 - title: TerraInk
   url: https://terraink.app
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - cartography
@@ -4952,7 +4952,7 @@
   subcategory: map-art
 - title: Anime.js
   url: https://animejs.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - animation
   - javascript-library
@@ -4970,7 +4970,7 @@
   subcategory: css-animation-libraries
 - title: Datashare
   url: https://github.com/ICIJ/datashare
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - search-engine
@@ -4988,7 +4988,7 @@
   subcategory: osint-frameworks
 - title: Sourcebot
   url: https://github.com/sourcebot-dev/sourcebot
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - open-source
   - code-search
@@ -5004,7 +5004,7 @@
   subcategory: code-search
 - title: MediaInfo
   url: https://mediaarea.net/MediaInfo
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - metadata
@@ -5021,7 +5021,7 @@
   subcategory: media-players-inspectors
 - title: Marginalia Search
   url: https://marginalia-search.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - search-engine
   - open-source
@@ -5037,7 +5037,7 @@
   subcategory: independent-web-search
 - title: DevFreeBooks
   url: https://devfreebooks.github.io
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - open-source
   - books
@@ -5053,7 +5053,7 @@
   subcategory: developer-resource-lists
 - title: Stirling-PDF
   url: https://github.com/Stirling-Tools/Stirling-PDF
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - pdf-utility
   - open-source
@@ -5071,7 +5071,7 @@
   subcategory: ocr-pdf-utilities
 - title: GoldenDict-ng
   url: https://github.com/xiaoyifang/goldendict-ng
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - open-source
   - dictionary
@@ -5088,7 +5088,7 @@
   subcategory: dictionaries-thesauri
 - title: OpenMHZ
   url: https://openmhz.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - radio
@@ -5105,7 +5105,7 @@
   subcategory: live-radio-streams
 - title: Aviation Safety Network
   url: https://aviation-safety.net
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - historical-archive
   - aviation
@@ -5121,7 +5121,7 @@
   subcategory: aviation-tracking
 - title: URLhaus
   url: https://urlhaus.abuse.ch
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - threat-intelligence
@@ -5137,7 +5137,7 @@
   subcategory: malware-url-analysis
 - title: Newton Project
   url: https://www.newtonproject.ox.ac.uk
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - academic-archive
   - open-access
@@ -5153,7 +5153,7 @@
   subcategory: primary-source-archives
 - title: SatVis
   url: https://satvis.space
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - satellite-tracking
@@ -5169,7 +5169,7 @@
   subcategory: space-tracking
 - title: PhilArchive
   url: https://philarchive.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-access
   - philosophy
@@ -5185,7 +5185,7 @@
   subcategory: academic-paper-access
 - title: Open Problem Garden
   url: https://openproblemgarden.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - mathematics
   - open-access
@@ -5200,7 +5200,7 @@
   subcategory: math-tools
 - title: Track Awesome List
   url: https://trackawesomelist.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - open-source
   - awesome-list
@@ -5215,7 +5215,7 @@
   subcategory: developer-resource-lists
 - title: Letters of Note
   url: https://lettersofnote.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - historical-archive
   - epistolary
@@ -5229,7 +5229,7 @@
   subcategory: primary-source-archives
 - title: Library of Short Stories
   url: https://libraryofshortstories.com/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - public-domain
   - literature
@@ -5243,7 +5243,7 @@
   subcategory: public-domain-literature
 - title: Dark Books Magic Archive
   url: https://darkbooks.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - public-domain
   - occult-history
@@ -5257,7 +5257,7 @@
   subcategory: public-domain-literature
 - title: Ancient Nerds
   url: https://ancientnerds.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-data
   - archaeology
@@ -5275,7 +5275,7 @@
   subcategory: museum-heritage-archives
 - title: LinkedCulture
   url: https://linkedculture.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-access
   - museum-archive
@@ -5291,7 +5291,7 @@
   subcategory: museum-heritage-archives
 - title: Dark Forest Archive
   url: https://darkforestarchive.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - historical-archive
   - digital-archive
@@ -5305,7 +5305,7 @@
   subcategory: primary-source-archives
 - title: AudioMass
   url: https://audiomass.co
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - audio-editor
@@ -5323,7 +5323,7 @@
   subcategory: audio-editors
 - title: trace.moe
   url: https://trace.moe
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - anime-search
@@ -5340,7 +5340,7 @@
   subcategory: reverse-image-search
 - title: Wheel of Names
   url: https://wheelofnames.com
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - open-source
   - randomizer
@@ -5356,7 +5356,7 @@
   subcategory: randomizers
 - title: Polypad
   url: https://polypad.amplify.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - interactive-math
   - virtual-manipulatives
@@ -5373,7 +5373,7 @@
   subcategory: math-tools
 - title: Morphic
   url: https://github.com/miurla/morphic
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - ai-search
@@ -5391,7 +5391,7 @@
   subcategory: ai-search-engines
 - title: Smithsonian Open Access
   url: https://si.edu/openaccess
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - cc0
   - public-domain
@@ -5408,7 +5408,7 @@
   subcategory: museum-heritage-archives
 - title: iNaturalist
   url: https://inaturalist.org/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-source
   - biodiversity
@@ -5426,7 +5426,7 @@
   subcategory: biodiversity-nature
 - title: Historic England Open Data Hub
   url: https://historicengland.org.uk/listing/the-list/data-downloads
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-data
   - open-government-licence
@@ -5445,7 +5445,7 @@
   subcategory: museum-heritage-archives
 - title: UBlock Origin
   url: https://github.com/gorhill/uBlock
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - ad-blocker
@@ -5463,7 +5463,7 @@
   subcategory: ad-blockers
 - title: LibreWolf
   url: https://librewolf.net
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - browser
@@ -5481,7 +5481,7 @@
   subcategory: web-browsers
 - title: SearXNG
   url: https://github.com/searxng/searxng
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - search-engine
@@ -5499,7 +5499,7 @@
   subcategory: metasearch-self-hosted
 - title: Standard Notes
   url: https://standardnotes.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - notes
@@ -5517,7 +5517,7 @@
   subcategory: private-notes-collaboration
 - title: CryptPad
   url: https://cryptpad.org
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - collaboration
@@ -5535,7 +5535,7 @@
   subcategory: private-notes-collaboration
 - title: Omatsuri
   url: https://omatsuri.app
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - frontend-tools
   - developer-utilities
@@ -5551,7 +5551,7 @@
   subcategory: frontend-dev-resources
 - title: Uiverse
   url: https://uiverse.io
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - ui-components
   - css
@@ -5567,7 +5567,7 @@
   subcategory: frontend-dev-resources
 - title: Animista
   url: https://animista.net
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - css-animations
   - visual-generator
@@ -5583,7 +5583,7 @@
   subcategory: css-animation-libraries
 - title: Favicon.im
   url: https://favicon.im
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - favicon-generator
   - web-utility
@@ -5598,7 +5598,7 @@
   subcategory: web-utilities
 - title: pwn.college
   url: https://pwn.college
-  category: open-access-learning-and-archives
+  category: online-learning-and-workforce-training
   tags:
   - cybersecurity
   - binary-exploitation
@@ -5616,7 +5616,7 @@
   subcategory: security-training
 - title: Grainrad
   url: https://grainrad.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - webgpu
   - ascii-art
@@ -5635,7 +5635,7 @@
   subcategory: creative-coding-art
 - title: Effect
   url: https://effect.app
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - typescript
   - open-source
@@ -5652,7 +5652,7 @@
   subcategory: frontend-dev-resources
 - title: free-for.dev
   url: https://free-for.dev
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - developer-tools
   - open-source
@@ -5670,7 +5670,7 @@
   subcategory: developer-resource-lists
 - title: SeedMap
   url: https://seedmap.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - biodiversity
   - open-access
@@ -5687,7 +5687,7 @@
   subcategory: biodiversity-nature
 - title: Space Type Generator
   url: https://spacetypegenerator.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - kinetic-typography
   - 3d-animation
@@ -5704,7 +5704,7 @@
   subcategory: creative-coding-art
 - title: delphitools
   url: https://delphi.tools
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - browser-tool
   - privacy-first
@@ -5723,7 +5723,7 @@
   subcategory: web-utilities
 - title: CSS ICON
   url: http://cssicon.space/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - css
   - pure-css
@@ -5741,7 +5741,7 @@
   subcategory: icons-and-illustrations
 - title: SteamDB Sales & Price Tracker
   url: https://steamdb.info/sales/
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - open-tool
   - price-tracker
@@ -5758,7 +5758,7 @@
   subcategory: game-deals
 - title: TokComment
   url: https://tokcomment.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - browser-tool
   - generator
@@ -5775,7 +5775,7 @@
   subcategory: design-asset-generators
 - title: Raindrop.io
   url: https://raindrop.io
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - bookmarking
   - cloud-sync
@@ -5791,7 +5791,7 @@
   subcategory: reference-bookmark-managers
 - title: Excalidraw
   url: https://excalidraw.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - whiteboard
   - open-source
@@ -5807,7 +5807,7 @@
   subcategory: diagramming-whiteboards
 - title: ti.fo
   url: https://ti.fo
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - file-sharing
   - encrypted-notes
@@ -5821,7 +5821,7 @@
   subcategory: file-sharing
 - title: Ray.so
   url: https://ray.so
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - developer-tools
   - code-snippets
@@ -5837,7 +5837,7 @@
   subcategory: screenshot-tools
 - title: Time.is
   url: https://time.is
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - time-utility
   - atomic-clock
@@ -5852,7 +5852,7 @@
   subcategory: web-utilities
 - title: Vectorpea
   url: https://vectorpea.com/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - vector-editor
   - browser-tool
@@ -5867,7 +5867,7 @@
   subcategory: vector-editors
 - title: Pascal Editor
   url: https://editor.pascal.app/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - 3d-editor
   - open-source
@@ -5884,7 +5884,7 @@
   subcategory: 3d-animation-vfx
 - title: Film-Grab
   url: https://film-grab.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - film-stills
   - cinema-archive
@@ -5900,7 +5900,7 @@
   subcategory: film-stills-references
 - title: MovieLens
   url: https://movielens.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - academic
   - open-data
@@ -5917,7 +5917,7 @@
   subcategory: film-resources
 - title: Shot.Cafe
   url: https://shot.cafe
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - cinematography
   - color-palette
@@ -5932,7 +5932,7 @@
   subcategory: film-stills-references
 - title: Film Colossus
   url: https://filmcolossus.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - film-analysis
   - cinema-criticism
@@ -5947,7 +5947,7 @@
   subcategory: film-resources
 - title: BFI Sight and Sound Poll
   url: https://www.bfi.org.uk/sight-and-sound
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - archive
   - film-history
@@ -5962,7 +5962,7 @@
   subcategory: film-resources
 - title: Timeline of Historical Film Colors
   url: https://filmcolors.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - academic
   - film-restoration
@@ -5978,7 +5978,7 @@
   subcategory: film-stills-references
 - title: Criterion Current
   url: https://www.criterion.com/current
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - film-essays
   - cinema-history
@@ -5993,7 +5993,7 @@
   subcategory: film-resources
 - title: WhatIsMyMovie
   url: https://www.whatismymovie.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - descriptive-search
   - semantic-search
@@ -6008,7 +6008,7 @@
   subcategory: film-resources
 - title: Movie-Locations
   url: https://www.movie-locations.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - filming-locations
   - geography
@@ -6023,7 +6023,7 @@
   subcategory: film-locations
 - title: Aider
   url: https://aider.chat
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - open-source
   - cli
@@ -6040,7 +6040,7 @@
   subcategory: ai-coding-assistants
 - title: OpenCode
   url: https://opencode.ai
-  category: ai-agents
+  category: ai-agents-and-development
   tags:
   - open-source
   - developer-tools
@@ -6056,7 +6056,7 @@
   subcategory: ai-coding-assistants
 - title: Dverso Laundry Background Remover
   url: https://tools.dverso.io/bgremove/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - background-remover
   - client-side
@@ -6075,7 +6075,7 @@
   subcategory: background-removal
 - title: pngimg
   url: https://pngimg.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - png-assets
   - transparent-background
@@ -6093,7 +6093,7 @@
   subcategory: icons-and-illustrations
 - title: Geist UI / Vercel Design System
   url: https://vercel.com/design
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - design-system
   - css
@@ -6109,7 +6109,7 @@
   subcategory: frontend-dev-resources
 - title: Tidewater
   url: https://dgreenheck.github.io/tidewater/
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - webgl
@@ -6127,7 +6127,7 @@
   subcategory: 3d-animation-vfx
 - title: Spelunkr TV
   url: https://spelunkr.tv
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - public-archive
   - vhs
@@ -6145,7 +6145,7 @@
   subcategory: creative-coding-art
 - title: QuickRef.ME
   url: https://quickref.me
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - cheat-sheets
   - developer-tools
@@ -6161,7 +6161,7 @@
   subcategory: frontend-dev-resources
 - title: Servier Medical Art (SMART)
   url: https://smart.servier.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - medical-illustrations
   - anatomy
@@ -6179,7 +6179,7 @@
   subcategory: icons-and-illustrations
 - title: myNoise
   url: https://mynoise.net
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - sound-generator
   - audio-engine
@@ -6196,7 +6196,7 @@
   subcategory: sound-generators-music-toys
 - title: FlightConnections
   url: https://www.flightconnections.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - flight-map
   - route-visualizer
@@ -6211,7 +6211,7 @@
   subcategory: travel-planning
 - title: Webkay
   url: https://webkay.robinlinus.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - browser-privacy
   - open-source
@@ -6228,7 +6228,7 @@
   subcategory: privacy-auditing
 - title: MyFridgeFood
   url: https://myfridgefood.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - recipe-finder
   - pantry-search
@@ -6244,7 +6244,7 @@
   subcategory: recipes-meal-planning
 - title: urlscan.io
   url: https://urlscan.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - security-sandbox
   - url-scanner
@@ -6261,7 +6261,7 @@
   subcategory: malware-url-analysis
 - title: PDF24 Creator & Tools
   url: https://tools.pdf24.org/en/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - pdf-editor
   - offline-desktop
@@ -6279,7 +6279,7 @@
   subcategory: ocr-pdf-utilities
 - title: Animated Drawings (Meta AI Research)
   url: https://sketch.metademolab.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - animation
@@ -6296,7 +6296,7 @@
   subcategory: 3d-animation-vfx
 - title: Watabou's Procedural Generators & Itch Page
   url: https://watabou.itch.io
-  category: games-and-play
+  category: productivity-reference-and-play
   tags:
   - procedural-generation
   - worldbuilding
@@ -6315,7 +6315,7 @@
   subcategory: tabletop-worldbuilding
 - title: CyberChef
   url: https://gchq.github.io/CyberChef/
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - open-source
   - apache-2.0
@@ -6334,7 +6334,7 @@
   subcategory: data-converters
 - title: Reactive Resume
   url: https://rxresu.me
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - mit-license
@@ -6353,7 +6353,7 @@
   subcategory: resume-career-tools
 - title: Have I Been Flocked?
   url: https://haveibeenflocked.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - surveillance-audit
   - public-records
@@ -6371,7 +6371,7 @@
   subcategory: surveillance-awareness
 - title: Cobalt
   url: https://cobalt.tools
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - video-downloader
@@ -6388,7 +6388,7 @@
   subcategory: media-converters
 - title: JustWatch
   url: https://www.justwatch.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - media-index
   - streaming-guide
@@ -6404,7 +6404,7 @@
   subcategory: film-resources
 - title: Project Gutenberg
   url: https://www.gutenberg.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - public-domain
   - ebooks
@@ -6421,7 +6421,7 @@
   subcategory: public-domain-literature
 - title: Squoosh
   url: https://squoosh.app
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - image-compression
@@ -6438,7 +6438,7 @@
   subcategory: media-converters
 - title: Carbon
   url: https://carbon.now.sh
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-source
   - developer-tools
@@ -6454,7 +6454,7 @@
   subcategory: screenshot-tools
 - title: Shots
   url: https://shots.so
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - mockup-generator
   - design-utility
@@ -6471,7 +6471,7 @@
   subcategory: design-asset-generators
 - title: CamelCamelCamel
   url: https://camelcamelcamel.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - price-tracker
   - amazon-history
@@ -6486,7 +6486,7 @@
   subcategory: price-tracking
 - title: GeoGebra
   url: https://www.geogebra.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - open-source
   - mathematics
@@ -6504,7 +6504,7 @@
   subcategory: math-tools
 - title: SageMath
   url: https://www.sagemath.org
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - open-source
   - gpl
@@ -6523,7 +6523,7 @@
   subcategory: math-tools
 - title: Dverso BgRemove
   url: https://bgremove.dverso.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - client-side
   - background-removal
@@ -6539,7 +6539,7 @@
   subcategory: background-removal
 - title: AnonAddy (Eugen / SimpleLogin Alternative)
   url: https://addy.io
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - open-source
   - self-hostable
@@ -6556,7 +6556,7 @@
   subcategory: email-aliasing
 - title: Radio Garden
   url: https://radio.garden
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - live-radio
   - interactive-globe
@@ -6573,7 +6573,7 @@
   subcategory: live-radio
 - title: Kutt
   url: https://kutt.it
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - link-shortener
@@ -6591,7 +6591,7 @@
   subcategory: web-utilities
 - title: Hugging Face QR Code AI Art Generator
   url: https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - open-weights
   - controlnet
@@ -6609,7 +6609,7 @@
   subcategory: ai-image-tools
 - title: Sleepy Owl Sound Studio
   url: https://sleepyowl.io
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - sound-generator
   - ambient-audio
@@ -6625,7 +6625,7 @@
   subcategory: sound-generators-music-toys
 - title: Parcels App
   url: https://parcelsapp.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - package-tracker
   - universal-utility
@@ -6641,7 +6641,7 @@
   subcategory: everyday-trackers
 - title: Internet Live Stats
   url: https://www.internetlivestats.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - statistics
   - real-time-data
@@ -6657,7 +6657,7 @@
   subcategory: global-statistics
 - title: Geacron
   url: https://geacron.com/page_ini.html
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - historical-atlas
   - world-history
@@ -6673,7 +6673,7 @@
   subcategory: historical-maps
 - title: Ana-White
   url: https://ana-white.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - woodworking
   - free-plans
@@ -6689,7 +6689,7 @@
   subcategory: diy-maker-resources
 - title: Kreg Projects
   url: https://learn.kregtool.com/projects-plans/
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - woodworking
   - project-plans
@@ -6704,7 +6704,7 @@
   subcategory: diy-maker-resources
 - title: Identifont
   url: https://www.identifont.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - font-identification
   - typography
@@ -6720,7 +6720,7 @@
   subcategory: fonts-typography
 - title: IMSLP (Petrucci Music Library)
   url: https://imslp.org
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - sheet-music
   - public-domain
@@ -6737,7 +6737,7 @@
   subcategory: sheet-music
 - title: Tesseract OCR
   url: https://github.com/tesseract-ocr/tesseract
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - apache-2.0
@@ -6755,7 +6755,7 @@
   subcategory: ocr-pdf-utilities
 - title: Meld
   url: https://meldmerge.org
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - gpl
@@ -6771,7 +6771,7 @@
   subcategory: code-editors
 - title: VS Code (Visual Studio Code)
   url: https://code.visualstudio.com/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - open-source
   - mit-license
@@ -6788,7 +6788,7 @@
   subcategory: code-editors
 - title: Hackaday
   url: https://hackaday.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - maker-community
   - electronics
@@ -6805,7 +6805,7 @@
   subcategory: diy-maker-resources
 - title: Mini Tokyo 3D
   url: https://minitokyo3d.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-source
   - real-time-data
@@ -6822,7 +6822,7 @@
   subcategory: interactive-3d-visualization
 - title: Scale of Universe
   url: https://scaleofuniverse.com/en
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - interactive-scaling
   - educational
@@ -6839,7 +6839,7 @@
   subcategory: science-simulations
 - title: WorldWide Telescope
   url: https://worldwidetelescope.org/webclient
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - open-source
   - astronomy
@@ -6856,7 +6856,7 @@
   subcategory: science-simulations
 - title: Floor796
   url: https://floor796.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - pixel-art
   - animation
@@ -6872,7 +6872,7 @@
   subcategory: creative-coding-art
 - title: Chrome Music Lab
   url: https://musiclab.chromeexperiments.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - web-audio-api
   - music-theory
@@ -6888,7 +6888,7 @@
   subcategory: sound-generators-music-toys
 - title: Shipmap
   url: https://www.shipmap.org
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - data-visualization
   - shipping-routes
@@ -6904,7 +6904,7 @@
   subcategory: maritime-tracking
 - title: OpenProcessing
   url: https://openprocessing.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - creative-coding
   - p5js
@@ -6920,7 +6920,7 @@
   subcategory: creative-coding-art
 - title: Spot The Station (NASA)
   url: https://www.nasa.gov/spot-the-station/
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - public-domain
   - nasa
@@ -6935,7 +6935,7 @@
   subcategory: space-tracking
 - title: Zoomquilt
   url: https://zoomquilt.org
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - endless-zoom
   - digital-art
@@ -6951,7 +6951,7 @@
   subcategory: creative-coding-art
 - title: CareerOneStop Scholarship Finder
   url: https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - scholarship-search
   - government-utility
@@ -6967,7 +6967,7 @@
   subcategory: scholarships-funding
 - title: JLV College Counseling
   url: https://jlvcollegecounseling.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - scholarship-directory
   - independent-resource
@@ -6981,7 +6981,7 @@
   subcategory: scholarships-funding
 - title: Keepa
   url: https://keepa.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - price-tracker
   - amazon-utility
@@ -6998,7 +6998,7 @@
   subcategory: price-tracking
 - title: Idealo
   url: https://www.idealo.co.uk
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - price-comparison
   - shopping-utility
@@ -7012,7 +7012,7 @@
   subcategory: price-tracking
 - title: Skyscanner
   url: https://www.skyscanner.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - flight-matrix
   - travel-search
@@ -7024,7 +7024,7 @@
   subcategory: travel-planning
 - title: Wise
   url: https://wise.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - currency-exchange
   - international-transfer
@@ -7037,7 +7037,7 @@
   subcategory: money-transfer-fx
 - title: Monito
   url: https://www.monito.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - transfer-comparison
   - remittance
@@ -7051,7 +7051,7 @@
   subcategory: money-transfer-fx
 - title: Budget Bytes
   url: https://www.budgetbytes.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - recipe-database
   - frugal-living
@@ -7066,7 +7066,7 @@
   subcategory: recipes-meal-planning
 - title: Filmot
   url: https://filmot.com
-  category: search-engines
+  category: osint-and-reconnaissance
   tags:
   - osint-tool
   - youtube-search
@@ -7081,7 +7081,7 @@
   subcategory: video-transcript-search
 - title: FreeSewing
   url: https://freesewing.eu
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - open-source
   - sewing-patterns
@@ -7096,7 +7096,7 @@
   subcategory: diy-maker-resources
 - title: GPS Visualizer
   url: https://www.gpsvisualizer.com
-  category: osint-open-access-research
+  category: osint-and-reconnaissance
   tags:
   - gps-utility
   - mapping
@@ -7110,7 +7110,7 @@
   subcategory: gis-mapping-tools
 - title: Animated Knots by Grog
   url: https://www.animatedknots.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - reference
   - utility
@@ -7125,7 +7125,7 @@
   subcategory: diy-maker-resources
 - title: The Wood Database
   url: https://www.wood-database.com
-  category: open-data-and-reference
+  category: productivity-reference-and-play
   tags:
   - wood-identification
   - maker-utility
@@ -7140,7 +7140,7 @@
   subcategory: diy-maker-resources
 - title: ColorHexa
   url: https://www.colorhexa.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - color-tool
   - design-utility
@@ -7155,7 +7155,7 @@
   subcategory: color-tools
 - title: FamilySearch
   url: https://www.familysearch.org/en/united-states/
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - genealogy
   - historical-records
@@ -7170,7 +7170,7 @@
   subcategory: genealogy-records
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com
-  category: open-access-learning-and-archives
+  category: open-access-archives-and-research
   tags:
   - historical-maps
   - cartography
@@ -7186,7 +7186,7 @@
   subcategory: historical-maps
 - title: Goblin.tools
   url: https://goblin.tools
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - ai-utility
   - task-decomposition
@@ -7202,7 +7202,7 @@
   subcategory: work-planning-tools
 - title: OneTab
   url: https://www.one-tab.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - browser-extension
   - tab-manager
@@ -7216,7 +7216,7 @@
   subcategory: browser-extensions
 - title: Clockify
   url: https://clockify.me
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - time-tracking
   - productivity
@@ -7229,7 +7229,7 @@
   subcategory: work-planning-tools
 - title: Trello
   url: https://trello.com
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - kanban
   - project-management
@@ -7243,7 +7243,7 @@
   subcategory: work-planning-tools
 - title: Hemingway Editor
   url: https://hemingwayapp.com
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - writing-assistant
   - readability
@@ -7257,7 +7257,7 @@
   subcategory: writing-tools
 - title: Dictation.io
   url: https://dictation.io
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - speech-to-text
   - browser-utility
@@ -7271,7 +7271,7 @@
   subcategory: speech-to-text
 - title: Canva Whiteboards
   url: https://www.canva.com/online-whiteboard
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - visual-workspace
   - collaboration
@@ -7285,7 +7285,7 @@
   subcategory: diagramming-whiteboards
 - title: IFTTT (If This Then That)
   url: https://ifttt.ai/
-  category: office-productivity-utilities
+  category: productivity-reference-and-play
   tags:
   - automation
   - integration
@@ -7299,7 +7299,7 @@
   subcategory: work-planning-tools
 - title: Markup Hero
   url: https://markuphero.com
-  category: audio-video-image-manipulation
+  category: media-and-creative-production
   tags:
   - screenshot-tool
   - annotation
@@ -7313,7 +7313,7 @@
   subcategory: screenshot-tools
 - title: ExplainShell
   url: https://explainshell.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - linux
   - bash
@@ -7328,7 +7328,7 @@
   subcategory: terminal-utilities
 - title: grep.app
   url: https://grep.app
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - code-search
   - github
@@ -7342,7 +7342,7 @@
   subcategory: code-search
 - title: RegExr
   url: https://regexr.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - regex
   - developer-utility
@@ -7356,7 +7356,7 @@
   subcategory: developer-utilities
 - title: Dictation.io
   url: https://dictation.io
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - speech-to-text
   - transcription
@@ -7370,7 +7370,7 @@
   subcategory: speech-to-text
 - title: OneLook Reverse Dictionary
   url: https://onelook.com
-  category: text-and-writing
+  category: productivity-reference-and-play
   tags:
   - dictionary
   - linguistics
@@ -7384,7 +7384,7 @@
   subcategory: dictionaries-thesauri
 - title: public-apis (GitHub Repository)
   url: https://github.com/public-apis/public-apis
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - api-directory
   - open-source
@@ -7400,7 +7400,7 @@
   subcategory: api-directories
 - title: Free Public APIs
   url: https://freepublicapis.com
-  category: developer-tools
+  category: developer-and-system-utilities
   tags:
   - api-directory
   - developer-utility
@@ -7413,3 +7413,84 @@
     free public APIs with clear flags for authentication and CORS requirements.
   id: free-public-apis-directory
   subcategory: api-directories
+- id: graynoise
+  name: GrayNoise
+  url: https://www.graynoise.io/
+  description: Threat intelligence platform that filters out internet-wide background
+    noise and mass-scanning traffic to isolate targeted cyber attacks.
+  category: osint-and-reconnaissance
+  subcategory: threat-intelligence
+- id: securitytrails
+  name: SecurityTrails
+  url: https://securitytrails.com/
+  description: Comprehensive domain intelligence platform providing deep passive DNS
+    history, subdomain enumeration, and historical WHOIS data for infrastructure recon.
+  category: osint-and-reconnaissance
+  subcategory: domain-and-dns-recon
+- id: ipinfo
+  name: IPinfo
+  url: https://ipinfo.io/
+  tags:
+  - fremium
+  description: Industry-standard IP address intelligence platform providing precise
+    geolocation, ASN mappings, and infrastructure reconnaissance with a robust freemium
+    tier.
+  category: osint-and-reconnaissance
+  subcategory: network-and-ip-recon
+- id: nasa-worldview
+  name: NASA Worldview
+  url: https://worldview.earthdata.nasa.gov/
+  description: Interactive open-access platform for exploring daily global satellite
+    imagery, tracking natural hazards, and visualizing environmental time-series data.
+  category: osint-and-reconnaissance
+  subcategory: geospatial-and-satellite-recon
+- id: copernicus-browser
+  name: Copernicus Browser
+  url: https://browser.dataspace.copernicus.eu/
+  description: Official European Space Agency platform for exploring, visualizing,
+    and analyzing open-access global satellite imagery from Sentinel missions for
+    change detection and environmental monitoring.
+  category: osint-and-reconnaissance
+  subcategory: geospatial-and-satellite-recon
+- id: dumpsterdiver
+  name: DumpsterDiver
+  url: https://github.com/securing/DumpsterDiver
+  description: Open-source security tool that analyzes files, archives, and git logs
+    for hardcoded secrets, private keys, and sensitive data using entropy analysis.
+  category: developer-and-system-utilities
+  subcategory: code-analysis-and-secret-scanning
+- id: ghidra
+  name: Ghidra
+  url: https://github.com/NationalSecurityAgency/ghidra
+  description: Open-source reverse engineering suite developed by the NSA featuring
+    a full-featured disassembler and multi-platform decompiler.
+  category: developer-and-system-utilities
+  subcategory: binary-analysis-and-reverse-engineering
+- id: apache-nifi
+  name: Apache NiFi
+  url: https://nifi.apache.org/
+  description: Powerful, easy-to-use system for processing and distributing data,
+    originally engineered at the NSA for secure data routing and flow management.
+  category: developer-and-system-utilities
+  subcategory: data-pipelines-and-etl
+- id: mitigating-web-shells
+  name: NSA Mitigating Web Shells
+  url: https://github.com/nsacyber/Mitigating-Web-Shells
+  description: Curated YARA rules and detection guidance released by the NSA cybersecurity
+    directorate for identifying common web shells on compromised servers.
+  category: osint-and-reconnaissance
+  subcategory: threat-intelligence-and-dfir
+- id: enigma-simulator
+  name: NSA Enigma Simulator
+  url: https://github.com/nsacyber/Enigma
+  description: Python implementation of the historical Enigma machine encryption device,
+    released by the NSA for educational and cryptographic analysis.
+  category: productivity-reference-and-play
+  subcategory: historical-cryptography
+- id: selinux
+  name: SELinux (Security-Enhanced Linux)
+  url: https://github.com/SELinuxProject
+  description: Mandatory Access Control (MAC) security architecture built into the
+    Linux kernel to enforce strict least-privilege domain transitions and access controls.
+  category: developer-and-system-utilities
+  subcategory: systems-security-and-hardening
