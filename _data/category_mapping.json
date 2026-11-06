@@ -1,0 +1,1890 @@
+{
+  "123apps": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-converters"
+  },
+  "hotpotai": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "terraprinter": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "cad-fabrication"
+  },
+  "leolabs-space-platform": {
+    "category": "osint-open-access-research",
+    "subcategory": "space-tracking"
+  },
+  "evil-emoji": {
+    "category": "text-and-writing",
+    "subcategory": "text-encoding"
+  },
+  "biodigital-human": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "interactive-3d-visualization"
+  },
+  "movie-scene-map": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-locations"
+  },
+  "boxtemplate": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "cad-fabrication"
+  },
+  "animagraffs": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "interactive-3d-visualization"
+  },
+  "librivox": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "public-domain-literature"
+  },
+  "carcarekiosk": {
+    "category": "open-data-and-reference",
+    "subcategory": "auto-repair-parts"
+  },
+  "rockauto": {
+    "category": "open-data-and-reference",
+    "subcategory": "auto-repair-parts"
+  },
+  "learn-anything": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "course-aggregators"
+  },
+  "class-central": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "course-aggregators"
+  },
+  "ai-website-cloner-template": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "tribe-dj": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "sound-generators-music-toys"
+  },
+  "nosignups": {
+    "category": "open-data-and-reference",
+    "subcategory": "software-directories"
+  },
+  "lostgamerio": {
+    "category": "games-and-play",
+    "subcategory": "geography-games"
+  },
+  "board-game-arena": {
+    "category": "games-and-play",
+    "subcategory": "board-games"
+  },
+  "spaceplanner": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "cad-fabrication"
+  },
+  "make-my-drive-fun": {
+    "category": "open-data-and-reference",
+    "subcategory": "travel-planning"
+  },
+  "nearby-glasses": {
+    "category": "osint-open-access-research",
+    "subcategory": "surveillance-awareness"
+  },
+  "epieos": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-osint"
+  },
+  "intelligence-x": {
+    "category": "osint-open-access-research",
+    "subcategory": "breach-lookup"
+  },
+  "have-i-been-pwned": {
+    "category": "osint-open-access-research",
+    "subcategory": "breach-lookup"
+  },
+  "emailrep": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-osint"
+  },
+  "mxtoolbox": {
+    "category": "developer-tools",
+    "subcategory": "email-diagnostics"
+  },
+  "mail-tester": {
+    "category": "developer-tools",
+    "subcategory": "email-diagnostics"
+  },
+  "leakcheck": {
+    "category": "osint-open-access-research",
+    "subcategory": "breach-lookup"
+  },
+  "breachdirectory": {
+    "category": "osint-open-access-research",
+    "subcategory": "breach-lookup"
+  },
+  "gravatar-profile-lookup": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-osint"
+  },
+  "sherlock": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "maigret": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "whatsmyname": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "blackbird": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "snoop": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "instant-username": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "github-search": {
+    "category": "osint-open-access-research",
+    "subcategory": "social-media-search"
+  },
+  "searchcode-code-search": {
+    "category": "developer-tools",
+    "subcategory": "code-search"
+  },
+  "debian-code-search": {
+    "category": "developer-tools",
+    "subcategory": "code-search"
+  },
+  "reddit-search": {
+    "category": "osint-open-access-research",
+    "subcategory": "social-media-search"
+  },
+  "keybase": {
+    "category": "osint-open-access-research",
+    "subcategory": "username-search"
+  },
+  "steam-community-search": {
+    "category": "osint-open-access-research",
+    "subcategory": "social-media-search"
+  },
+  "flickr-search": {
+    "category": "osint-open-access-research",
+    "subcategory": "social-media-search"
+  },
+  "medium-search": {
+    "category": "osint-open-access-research",
+    "subcategory": "social-media-search"
+  },
+  "phoneinfoga": {
+    "category": "osint-open-access-research",
+    "subcategory": "phone-osint"
+  },
+  "google-images": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "bing-visual-search": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "yandex-images": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "tineye": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "fotoforensics": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "exiftool": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "jeffreys-image-metadata-viewer": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "invid-weverify-plugin": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "imgops": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "forensically": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "search-by-image": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "wikimedia-commons": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "openstreetmap-image-layers": {
+    "category": "osint-open-access-research",
+    "subcategory": "gis-mapping-tools"
+  },
+  "mapillary": {
+    "category": "osint-open-access-research",
+    "subcategory": "street-level-imagery"
+  },
+  "etherscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "blockchair": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "blockstream-explorer": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "mempoolspace": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "ethplorer": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "bitinfocharts": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "bscscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "polygonscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "arbiscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "tronscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "solscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "solana-explorer": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "cardanoscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "xrpscan": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "oxt": {
+    "category": "osint-open-access-research",
+    "subcategory": "blockchain-explorers"
+  },
+  "vscodium": {
+    "category": "office-productivity-utilities",
+    "subcategory": "code-editors"
+  },
+  "ollama": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "local-llm-runners"
+  },
+  "code-llama": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "coding-llms"
+  },
+  "deepseek-coder": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "coding-llms"
+  },
+  "qwen-coder": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "coding-llms"
+  },
+  "mcbroken": {
+    "category": "open-data-and-reference",
+    "subcategory": "everyday-trackers"
+  },
+  "tunefind": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "open-culture": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "course-aggregators"
+  },
+  "ai-free-forever": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-chat-assistants"
+  },
+  "flight-viz": {
+    "category": "osint-open-access-research",
+    "subcategory": "aviation-tracking"
+  },
+  "tosdr-terms-of-service-didnt-read": {
+    "category": "osint-open-access-research",
+    "subcategory": "privacy-auditing"
+  },
+  "freebuff": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "rapidfireart": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "creative-skills-learning"
+  },
+  "fastai": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-courses"
+  },
+  "elements-of-ai": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-courses"
+  },
+  "ibm-skillsbuild": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "hp-life-ai-for-business-professionals": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "hubspot-academy-content-marketing-certification": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "umd-smith-learn-artificial-intelligence-career-transformation": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "public-work": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "font-squirrel": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "fonts-typography"
+  },
+  "openmoji": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "humaaans": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "manypixels-illustration-gallery": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "iconoir": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "svg-repo": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "openclipart": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "fffuel": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "design-asset-generators"
+  },
+  "digitaldefynd": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "course-aggregators"
+  },
+  "anythingllm": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "local-llm-runners"
+  },
+  "arena": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-model-benchmarks"
+  },
+  "claude": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-chat-assistants"
+  },
+  "comfyui": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "futurepedia": {
+    "category": "open-data-and-reference",
+    "subcategory": "software-directories"
+  },
+  "gemini": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-chat-assistants"
+  },
+  "invokeai": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "opus-clip": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "video-editors"
+  },
+  "perchance-ai": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "poe": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-chat-assistants"
+  },
+  "stratup": {
+    "category": "office-productivity-utilities",
+    "subcategory": "work-planning-tools"
+  },
+  "brave": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-browsers"
+  },
+  "dark-reader": {
+    "category": "office-productivity-utilities",
+    "subcategory": "browser-extensions"
+  },
+  "firefox": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-browsers"
+  },
+  "safari": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-browsers"
+  },
+  "allhashtag": {
+    "category": "office-productivity-utilities",
+    "subcategory": "social-media-management"
+  },
+  "alsoasked": {
+    "category": "search-engines",
+    "subcategory": "seo-content-research"
+  },
+  "buffer": {
+    "category": "office-productivity-utilities",
+    "subcategory": "social-media-management"
+  },
+  "circleboom": {
+    "category": "office-productivity-utilities",
+    "subcategory": "social-media-management"
+  },
+  "contentideasio": {
+    "category": "search-engines",
+    "subcategory": "seo-content-research"
+  },
+  "anyrun": {
+    "category": "osint-open-access-research",
+    "subcategory": "malware-url-analysis"
+  },
+  "bitwarden": {
+    "category": "office-productivity-utilities",
+    "subcategory": "password-managers"
+  },
+  "censys": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "abuseipdb-ip-lookup": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "crtsh": {
+    "category": "osint-open-access-research",
+    "subcategory": "domain-dns-recon"
+  },
+  "cyber-threat-intelligence-dashboard-infosecn1nja": {
+    "category": "osint-open-access-research",
+    "subcategory": "threat-intelligence"
+  },
+  "dehashed": {
+    "category": "osint-open-access-research",
+    "subcategory": "breach-lookup"
+  },
+  "dnsdumpster": {
+    "category": "osint-open-access-research",
+    "subcategory": "domain-dns-recon"
+  },
+  "emailosint": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-osint"
+  },
+  "greynoise": {
+    "category": "osint-open-access-research",
+    "subcategory": "threat-intelligence"
+  },
+  "hacker-news-the-hacker-news": {
+    "category": "osint-open-access-research",
+    "subcategory": "threat-intelligence"
+  },
+  "kaspersky-cyberthreat-real-time-map": {
+    "category": "osint-open-access-research",
+    "subcategory": "threat-intelligence"
+  },
+  "keepassxc": {
+    "category": "office-productivity-utilities",
+    "subcategory": "password-managers"
+  },
+  "shodan": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "spiderfoot": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "virustotal": {
+    "category": "osint-open-access-research",
+    "subcategory": "malware-url-analysis"
+  },
+  "whatismyipaddress": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "wigle": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "affinity-by-canva": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "graphic-design-suites"
+  },
+  "artcraft": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "artcrafts": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "raster-image-editors"
+  },
+  "blender": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "3d-animation-vfx"
+  },
+  "canva": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "graphic-design-suites"
+  },
+  "cirkit-designer": {
+    "category": "developer-tools",
+    "subcategory": "electronics-design"
+  },
+  "cleanuppictures": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "clipdrop": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "colorify": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "color-tools"
+  },
+  "darktable": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "raster-image-editors"
+  },
+  "deep-nostalgia": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "figcraft": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ui-design-tools"
+  },
+  "freecad": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "cad-fabrication"
+  },
+  "gimp": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "raster-image-editors"
+  },
+  "inkscape": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "vector-editors"
+  },
+  "krita": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "raster-image-editors"
+  },
+  "natron": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "3d-animation-vfx"
+  },
+  "nightshade": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "image-protection"
+  },
+  "photopea": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "raster-image-editors"
+  },
+  "removebg": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "background-removal"
+  },
+  "zoodev": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "cad-fabrication"
+  },
+  "citywalki": {
+    "category": "osint-open-access-research",
+    "subcategory": "street-level-imagery"
+  },
+  "earthcam": {
+    "category": "osint-open-access-research",
+    "subcategory": "webcam-directories"
+  },
+  "flightradar24": {
+    "category": "osint-open-access-research",
+    "subcategory": "aviation-tracking"
+  },
+  "geoguessr": {
+    "category": "games-and-play",
+    "subcategory": "geography-games"
+  },
+  "global-fishing-watch": {
+    "category": "osint-open-access-research",
+    "subcategory": "maritime-tracking"
+  },
+  "google-earth": {
+    "category": "osint-open-access-research",
+    "subcategory": "satellite-imagery"
+  },
+  "google-earth-timelapse": {
+    "category": "osint-open-access-research",
+    "subcategory": "satellite-imagery"
+  },
+  "mapcrunch": {
+    "category": "games-and-play",
+    "subcategory": "geography-games"
+  },
+  "marinetraffic": {
+    "category": "osint-open-access-research",
+    "subcategory": "maritime-tracking"
+  },
+  "nasas-eyes": {
+    "category": "osint-open-access-research",
+    "subcategory": "space-tracking"
+  },
+  "osiris-intelligence-dashboard": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "qgis": {
+    "category": "osint-open-access-research",
+    "subcategory": "gis-mapping-tools"
+  },
+  "submarine-cable-map": {
+    "category": "osint-open-access-research",
+    "subcategory": "maritime-tracking"
+  },
+  "timemap": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "historical-maps"
+  },
+  "windy": {
+    "category": "osint-open-access-research",
+    "subcategory": "weather-maps"
+  },
+  "zoom-earth": {
+    "category": "osint-open-access-research",
+    "subcategory": "weather-maps"
+  },
+  "aiva": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "audio-editors"
+  },
+  "audacity": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "audio-editors"
+  },
+  "auphonic": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "audio-editors"
+  },
+  "calibre": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ebook-managers"
+  },
+  "descript": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "video-editors"
+  },
+  "emby": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-servers"
+  },
+  "ffmpeg": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-converters"
+  },
+  "greentuber": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "youtube-clients"
+  },
+  "handbrake": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-converters"
+  },
+  "jellyfin": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-servers"
+  },
+  "kdenlive": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "video-editors"
+  },
+  "newpipe": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "youtube-clients"
+  },
+  "openshot": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "video-editors"
+  },
+  "subtitle-edit": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "video-editors"
+  },
+  "tubemate": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "youtube-clients"
+  },
+  "vlc-media-player": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-players-inspectors"
+  },
+  "youtube-revanced": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "youtube-clients"
+  },
+  "afp-digital-verification-toolbox": {
+    "category": "osint-open-access-research",
+    "subcategory": "verification-toolkits"
+  },
+  "bellingcats-online-investigation-toolkit": {
+    "category": "osint-open-access-research",
+    "subcategory": "verification-toolkits"
+  },
+  "cia-reading-room-crest": {
+    "category": "osint-open-access-research",
+    "subcategory": "government-records-archives"
+  },
+  "openfactbook-reference": {
+    "category": "open-data-and-reference",
+    "subcategory": "geopolitical-reference"
+  },
+  "undata-global-statistics": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "world-bank-open-data": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "faa-aircraft-registry": {
+    "category": "osint-open-access-research",
+    "subcategory": "aviation-tracking"
+  },
+  "finding-verity-dashboard": {
+    "category": "osint-open-access-research",
+    "subcategory": "verification-toolkits"
+  },
+  "gdelt-project": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "geohints": {
+    "category": "osint-open-access-research",
+    "subcategory": "geolocation-tools"
+  },
+  "geospy": {
+    "category": "osint-open-access-research",
+    "subcategory": "geolocation-tools"
+  },
+  "google-lens": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "grabify": {
+    "category": "osint-open-access-research",
+    "subcategory": "network-recon"
+  },
+  "hunchly": {
+    "category": "osint-open-access-research",
+    "subcategory": "web-archives"
+  },
+  "hunterio": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-osint"
+  },
+  "icann-lookup": {
+    "category": "osint-open-access-research",
+    "subcategory": "domain-dns-recon"
+  },
+  "import-yeti": {
+    "category": "osint-open-access-research",
+    "subcategory": "corporate-trade-records"
+  },
+  "insecam": {
+    "category": "osint-open-access-research",
+    "subcategory": "webcam-directories"
+  },
+  "invid-weverify": {
+    "category": "osint-open-access-research",
+    "subcategory": "image-verification"
+  },
+  "lumen-database": {
+    "category": "osint-open-access-research",
+    "subcategory": "government-records-archives"
+  },
+  "maltego": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "namus": {
+    "category": "osint-open-access-research",
+    "subcategory": "government-records-archives"
+  },
+  "opencorporates": {
+    "category": "osint-open-access-research",
+    "subcategory": "corporate-trade-records"
+  },
+  "opensanctions": {
+    "category": "osint-open-access-research",
+    "subcategory": "corporate-trade-records"
+  },
+  "osint-central-dashboard": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "osint-framework": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "overpass-turbo": {
+    "category": "osint-open-access-research",
+    "subcategory": "gis-mapping-tools"
+  },
+  "phonebookcz": {
+    "category": "osint-open-access-research",
+    "subcategory": "domain-dns-recon"
+  },
+  "publicwww": {
+    "category": "osint-open-access-research",
+    "subcategory": "web-tech-profilers"
+  },
+  "espacenet": {
+    "category": "osint-open-access-research",
+    "subcategory": "patent-search"
+  },
+  "google-patents": {
+    "category": "osint-open-access-research",
+    "subcategory": "patent-search"
+  },
+  "uspto-patent-public-search-ppubs": {
+    "category": "osint-open-access-research",
+    "subcategory": "patent-search"
+  },
+  "tails-os": {
+    "category": "osint-open-access-research",
+    "subcategory": "vpn-anonymity"
+  },
+  "ublock-origin": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ad-blockers"
+  },
+  "blacklight": {
+    "category": "osint-open-access-research",
+    "subcategory": "privacy-auditing"
+  },
+  "cover-your-tracks-eff": {
+    "category": "osint-open-access-research",
+    "subcategory": "privacy-auditing"
+  },
+  "just-delete-me": {
+    "category": "osint-open-access-research",
+    "subcategory": "privacy-auditing"
+  },
+  "addyio-anonaddy": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-aliasing"
+  },
+  "simplelogin": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-aliasing"
+  },
+  "proton-mail": {
+    "category": "office-productivity-utilities",
+    "subcategory": "secure-email-messaging"
+  },
+  "mailfence": {
+    "category": "office-productivity-utilities",
+    "subcategory": "secure-email-messaging"
+  },
+  "10-minute-mail": {
+    "category": "osint-open-access-research",
+    "subcategory": "disposable-email"
+  },
+  "guerrilla-mail": {
+    "category": "osint-open-access-research",
+    "subcategory": "disposable-email"
+  },
+  "maildrop": {
+    "category": "osint-open-access-research",
+    "subcategory": "disposable-email"
+  },
+  "mullvad-vpn": {
+    "category": "osint-open-access-research",
+    "subcategory": "vpn-anonymity"
+  },
+  "windscribe": {
+    "category": "osint-open-access-research",
+    "subcategory": "vpn-anonymity"
+  },
+  "smstome": {
+    "category": "osint-open-access-research",
+    "subcategory": "burner-phone-numbers"
+  },
+  "onlinesim": {
+    "category": "osint-open-access-research",
+    "subcategory": "burner-phone-numbers"
+  },
+  "session": {
+    "category": "office-productivity-utilities",
+    "subcategory": "secure-email-messaging"
+  },
+  "thunderbird": {
+    "category": "office-productivity-utilities",
+    "subcategory": "secure-email-messaging"
+  },
+  "faxzero": {
+    "category": "office-productivity-utilities",
+    "subcategory": "file-sharing"
+  },
+  "connected-papers": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "r-zlibrary-community-tracker": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "ebook-libraries"
+  },
+  "r-annas-archive-community-tracker": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "ebook-libraries"
+  },
+  "r-libgen-community-tracker": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "ebook-libraries"
+  },
+  "library-of-congress-ask-a-librarian": {
+    "category": "osint-open-access-research",
+    "subcategory": "government-records-archives"
+  },
+  "open-library": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "public-domain-literature"
+  },
+  "openalex": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "our-world-in-data": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "pdf-drive": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "ebook-libraries"
+  },
+  "pubmed": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "smithsonian-open-access": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "undata": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "unpaywall": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "wayback-machine": {
+    "category": "osint-open-access-research",
+    "subcategory": "web-archives"
+  },
+  "wolframalpha": {
+    "category": "open-data-and-reference",
+    "subcategory": "math-tools"
+  },
+  "zotero": {
+    "category": "office-productivity-utilities",
+    "subcategory": "reference-bookmark-managers"
+  },
+  "core-ac-uk-academic-search": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "brave-search": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "ecosia": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "european-search-perspective-eupsp-open-web-index": {
+    "category": "search-engines",
+    "subcategory": "independent-web-search"
+  },
+  "kagi": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "marginalia-search": {
+    "category": "search-engines",
+    "subcategory": "independent-web-search"
+  },
+  "million-short": {
+    "category": "search-engines",
+    "subcategory": "independent-web-search"
+  },
+  "mojeek": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "perplexity": {
+    "category": "search-engines",
+    "subcategory": "ai-search-engines"
+  },
+  "phind": {
+    "category": "search-engines",
+    "subcategory": "ai-search-engines"
+  },
+  "qwant": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "searxng": {
+    "category": "search-engines",
+    "subcategory": "metasearch-self-hosted"
+  },
+  "startpage": {
+    "category": "search-engines",
+    "subcategory": "privacy-search-engines"
+  },
+  "abacusai": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-dev-platforms"
+  },
+  "alternativeto": {
+    "category": "open-data-and-reference",
+    "subcategory": "software-directories"
+  },
+  "boltnew": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "builtwith": {
+    "category": "osint-open-access-research",
+    "subcategory": "web-tech-profilers"
+  },
+  "cursor": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "godot-engine": {
+    "category": "developer-tools",
+    "subcategory": "game-development"
+  },
+  "google-ai-studio": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-dev-platforms"
+  },
+  "google-opal": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-dev-platforms"
+  },
+  "google-stitch": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ui-design-tools"
+  },
+  "grepapp": {
+    "category": "developer-tools",
+    "subcategory": "code-search"
+  },
+  "hugging-face-spaces": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-dev-platforms"
+  },
+  "wappalyzer": {
+    "category": "osint-open-access-research",
+    "subcategory": "web-tech-profilers"
+  },
+  "mixkit": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "pexels": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "pixabay": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "stocksnapio": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "unsplash": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "librestock": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "motosha": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "stockvault": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "stock-media"
+  },
+  "career-hound": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "europeremotely": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "jobspresso": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "dynamite-jobs": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "skipthedrive": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "pangian": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "outsourcely": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "virtual-vocations": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "remotive": {
+    "category": "open-data-and-reference",
+    "subcategory": "remote-job-boards"
+  },
+  "rezpass": {
+    "category": "office-productivity-utilities",
+    "subcategory": "resume-career-tools"
+  },
+  "google-skillshop-digital-garage": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "hubspot-academy": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "meta-blueprint": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "microsoft-learn": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "free-certifications"
+  },
+  "teachable-machine": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-dev-platforms"
+  },
+  "phet-interactive-simulations": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "science-simulations"
+  },
+  "phyphox": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "science-simulations"
+  },
+  "eyewire": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "science-simulations"
+  },
+  "twine-twinery": {
+    "category": "games-and-play",
+    "subcategory": "interactive-fiction"
+  },
+  "musicca": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "creative-skills-learning"
+  },
+  "workoutcool": {
+    "category": "open-data-and-reference",
+    "subcategory": "fitness-references"
+  },
+  "osiris-live": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "common-tools": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-utilities"
+  },
+  "terraink": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "map-art"
+  },
+  "animejs": {
+    "category": "developer-tools",
+    "subcategory": "css-animation-libraries"
+  },
+  "datashare": {
+    "category": "osint-open-access-research",
+    "subcategory": "osint-frameworks"
+  },
+  "sourcebot": {
+    "category": "developer-tools",
+    "subcategory": "code-search"
+  },
+  "mediainfo": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-players-inspectors"
+  },
+  "marginalia-search-1": {
+    "category": "search-engines",
+    "subcategory": "independent-web-search"
+  },
+  "devfreebooks": {
+    "category": "developer-tools",
+    "subcategory": "developer-resource-lists"
+  },
+  "stirling-pdf": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ocr-pdf-utilities"
+  },
+  "goldendict-ng": {
+    "category": "text-and-writing",
+    "subcategory": "dictionaries-thesauri"
+  },
+  "openmhz": {
+    "category": "osint-open-access-research",
+    "subcategory": "live-radio-streams"
+  },
+  "aviation-safety-network": {
+    "category": "osint-open-access-research",
+    "subcategory": "aviation-tracking"
+  },
+  "urlhaus": {
+    "category": "osint-open-access-research",
+    "subcategory": "malware-url-analysis"
+  },
+  "newton-project": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "primary-source-archives"
+  },
+  "satvis": {
+    "category": "osint-open-access-research",
+    "subcategory": "space-tracking"
+  },
+  "philarchive": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "academic-paper-access"
+  },
+  "open-problem-garden": {
+    "category": "open-data-and-reference",
+    "subcategory": "math-tools"
+  },
+  "track-awesome-list": {
+    "category": "developer-tools",
+    "subcategory": "developer-resource-lists"
+  },
+  "letters-of-note": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "primary-source-archives"
+  },
+  "library-of-short-stories": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "public-domain-literature"
+  },
+  "dark-books-magic-archive": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "public-domain-literature"
+  },
+  "ancient-nerds": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "linkedculture": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "dark-forest-archive": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "primary-source-archives"
+  },
+  "audiomass": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "audio-editors"
+  },
+  "tracemoe": {
+    "category": "search-engines",
+    "subcategory": "reverse-image-search"
+  },
+  "wheel-of-names": {
+    "category": "games-and-play",
+    "subcategory": "randomizers"
+  },
+  "polypad": {
+    "category": "open-data-and-reference",
+    "subcategory": "math-tools"
+  },
+  "morphic": {
+    "category": "search-engines",
+    "subcategory": "ai-search-engines"
+  },
+  "smithsonian-open-access-1": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "inaturalist": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "biodiversity-nature"
+  },
+  "historic-england-open-data-hub": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "museum-heritage-archives"
+  },
+  "ublock-origin-1": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ad-blockers"
+  },
+  "librewolf": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-browsers"
+  },
+  "searxng-1": {
+    "category": "search-engines",
+    "subcategory": "metasearch-self-hosted"
+  },
+  "standard-notes": {
+    "category": "office-productivity-utilities",
+    "subcategory": "private-notes-collaboration"
+  },
+  "cryptpad": {
+    "category": "office-productivity-utilities",
+    "subcategory": "private-notes-collaboration"
+  },
+  "omatsuri": {
+    "category": "developer-tools",
+    "subcategory": "frontend-dev-resources"
+  },
+  "uiverse": {
+    "category": "developer-tools",
+    "subcategory": "frontend-dev-resources"
+  },
+  "animista": {
+    "category": "developer-tools",
+    "subcategory": "css-animation-libraries"
+  },
+  "faviconim": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-utilities"
+  },
+  "pwncollege": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "security-training"
+  },
+  "grainrad": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "effect": {
+    "category": "developer-tools",
+    "subcategory": "frontend-dev-resources"
+  },
+  "free-fordev": {
+    "category": "developer-tools",
+    "subcategory": "developer-resource-lists"
+  },
+  "seedmap": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "biodiversity-nature"
+  },
+  "space-type-generator": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "delphitools": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-utilities"
+  },
+  "css-icon": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "steamdb-sales-price-tracker": {
+    "category": "games-and-play",
+    "subcategory": "game-deals"
+  },
+  "tokcomment": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "design-asset-generators"
+  },
+  "raindropio": {
+    "category": "office-productivity-utilities",
+    "subcategory": "reference-bookmark-managers"
+  },
+  "excalidraw": {
+    "category": "office-productivity-utilities",
+    "subcategory": "diagramming-whiteboards"
+  },
+  "ti-fo-file-sharing": {
+    "category": "office-productivity-utilities",
+    "subcategory": "file-sharing"
+  },
+  "rayso": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "screenshot-tools"
+  },
+  "timeis": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-utilities"
+  },
+  "vectorpea": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "vector-editors"
+  },
+  "pascal-editor": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "3d-animation-vfx"
+  },
+  "film-grab": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-stills-references"
+  },
+  "movielens": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "shotcafe": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-stills-references"
+  },
+  "film-colossus": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "bfi-sight-and-sound-poll": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "timeline-of-historical-film-colors": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-stills-references"
+  },
+  "criterion-current": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "whatismymovie": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "movie-locations": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-locations"
+  },
+  "aider": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "opencode": {
+    "category": "local-self-hosted-ai-agents",
+    "subcategory": "ai-coding-assistants"
+  },
+  "dverso-laundry-background-remover": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "background-removal"
+  },
+  "pngimg": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "geist-ui-vercel-design-system": {
+    "category": "developer-tools",
+    "subcategory": "frontend-dev-resources"
+  },
+  "tidewater": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "3d-animation-vfx"
+  },
+  "spelunkr-tv": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "quickrefme": {
+    "category": "developer-tools",
+    "subcategory": "frontend-dev-resources"
+  },
+  "servier-medical-art-smart": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "icons-and-illustrations"
+  },
+  "mynoise": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "sound-generators-music-toys"
+  },
+  "flightconnections": {
+    "category": "open-data-and-reference",
+    "subcategory": "travel-planning"
+  },
+  "webkay": {
+    "category": "osint-open-access-research",
+    "subcategory": "privacy-auditing"
+  },
+  "myfridgefood": {
+    "category": "open-data-and-reference",
+    "subcategory": "recipes-meal-planning"
+  },
+  "urlscanio": {
+    "category": "osint-open-access-research",
+    "subcategory": "malware-url-analysis"
+  },
+  "pdf24-creator-tools": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ocr-pdf-utilities"
+  },
+  "animated-drawings-meta-ai-research": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "3d-animation-vfx"
+  },
+  "watabous-procedural-generators-itch-page": {
+    "category": "games-and-play",
+    "subcategory": "tabletop-worldbuilding"
+  },
+  "cyberchef": {
+    "category": "developer-tools",
+    "subcategory": "data-converters"
+  },
+  "reactive-resume": {
+    "category": "office-productivity-utilities",
+    "subcategory": "resume-career-tools"
+  },
+  "have-i-been-flocked": {
+    "category": "osint-open-access-research",
+    "subcategory": "surveillance-awareness"
+  },
+  "cobalt": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-converters"
+  },
+  "justwatch": {
+    "category": "open-data-and-reference",
+    "subcategory": "film-resources"
+  },
+  "project-gutenberg": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "public-domain-literature"
+  },
+  "squoosh": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "media-converters"
+  },
+  "carbon": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "screenshot-tools"
+  },
+  "shots": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "design-asset-generators"
+  },
+  "camelcamelcamel": {
+    "category": "open-data-and-reference",
+    "subcategory": "price-tracking"
+  },
+  "geogebra": {
+    "category": "open-data-and-reference",
+    "subcategory": "math-tools"
+  },
+  "sagemath": {
+    "category": "open-data-and-reference",
+    "subcategory": "math-tools"
+  },
+  "dverso-bgremove": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "background-removal"
+  },
+  "anonaddy-eugen-simplelogin-alternative": {
+    "category": "osint-open-access-research",
+    "subcategory": "email-aliasing"
+  },
+  "radio-garden": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "live-radio"
+  },
+  "kutt": {
+    "category": "office-productivity-utilities",
+    "subcategory": "web-utilities"
+  },
+  "hugging-face-qr-code-ai-art-generator": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "ai-image-tools"
+  },
+  "sleepy-owl-sound-studio": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "sound-generators-music-toys"
+  },
+  "parcels-app": {
+    "category": "open-data-and-reference",
+    "subcategory": "everyday-trackers"
+  },
+  "internet-live-stats": {
+    "category": "open-data-and-reference",
+    "subcategory": "global-statistics"
+  },
+  "geacron": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "historical-maps"
+  },
+  "ana-white": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "build-something": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "identifont": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "fonts-typography"
+  },
+  "imslp-petrucci-music-library": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "sheet-music"
+  },
+  "tesseract-ocr": {
+    "category": "office-productivity-utilities",
+    "subcategory": "ocr-pdf-utilities"
+  },
+  "meld": {
+    "category": "office-productivity-utilities",
+    "subcategory": "code-editors"
+  },
+  "vs-code-visual-studio-code": {
+    "category": "office-productivity-utilities",
+    "subcategory": "code-editors"
+  },
+  "hackaday": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "mini-tokyo-3d": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "interactive-3d-visualization"
+  },
+  "scale-of-universe": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "science-simulations"
+  },
+  "worldwide-telescope": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "science-simulations"
+  },
+  "floor796": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "chrome-music-lab": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "sound-generators-music-toys"
+  },
+  "shipmap": {
+    "category": "osint-open-access-research",
+    "subcategory": "maritime-tracking"
+  },
+  "openprocessing": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "spot-the-station-nasa": {
+    "category": "osint-open-access-research",
+    "subcategory": "space-tracking"
+  },
+  "zoomquilt": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "creative-coding-art"
+  },
+  "careeronestop-scholarship-finder": {
+    "category": "open-data-and-reference",
+    "subcategory": "scholarships-funding"
+  },
+  "jlv-college-counseling": {
+    "category": "open-data-and-reference",
+    "subcategory": "scholarships-funding"
+  },
+  "keepa": {
+    "category": "open-data-and-reference",
+    "subcategory": "price-tracking"
+  },
+  "idealo": {
+    "category": "open-data-and-reference",
+    "subcategory": "price-tracking"
+  },
+  "skyscanner-flight-search": {
+    "category": "open-data-and-reference",
+    "subcategory": "travel-planning"
+  },
+  "wise": {
+    "category": "open-data-and-reference",
+    "subcategory": "money-transfer-fx"
+  },
+  "monito": {
+    "category": "open-data-and-reference",
+    "subcategory": "money-transfer-fx"
+  },
+  "budget-bytes": {
+    "category": "open-data-and-reference",
+    "subcategory": "recipes-meal-planning"
+  },
+  "filmot": {
+    "category": "search-engines",
+    "subcategory": "video-transcript-search"
+  },
+  "freesewing": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "gps-visualizer": {
+    "category": "osint-open-access-research",
+    "subcategory": "gis-mapping-tools"
+  },
+  "animated-knots-by-grog": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "the-wood-database": {
+    "category": "open-data-and-reference",
+    "subcategory": "diy-maker-resources"
+  },
+  "colorhexa": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "color-tools"
+  },
+  "familysearch": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "genealogy-records"
+  },
+  "david-rumsey-map-collection": {
+    "category": "open-access-learning-and-archives",
+    "subcategory": "historical-maps"
+  },
+  "goblintools": {
+    "category": "office-productivity-utilities",
+    "subcategory": "work-planning-tools"
+  },
+  "onetab": {
+    "category": "office-productivity-utilities",
+    "subcategory": "browser-extensions"
+  },
+  "clockify": {
+    "category": "office-productivity-utilities",
+    "subcategory": "work-planning-tools"
+  },
+  "trello": {
+    "category": "office-productivity-utilities",
+    "subcategory": "work-planning-tools"
+  },
+  "hemingway-editor": {
+    "category": "text-and-writing",
+    "subcategory": "writing-tools"
+  },
+  "dictationio": {
+    "category": "text-and-writing",
+    "subcategory": "speech-to-text"
+  },
+  "canva-whiteboards": {
+    "category": "office-productivity-utilities",
+    "subcategory": "diagramming-whiteboards"
+  },
+  "ifttt-if-this-then-that": {
+    "category": "office-productivity-utilities",
+    "subcategory": "work-planning-tools"
+  },
+  "markup-hero": {
+    "category": "audio-video-image-manipulation",
+    "subcategory": "screenshot-tools"
+  },
+  "explainshell-cli-parser": {
+    "category": "developer-tools",
+    "subcategory": "terminal-utilities"
+  },
+  "grep-app-code-search": {
+    "category": "developer-tools",
+    "subcategory": "code-search"
+  },
+  "regexr-pattern-tester": {
+    "category": "developer-tools",
+    "subcategory": "developer-utilities"
+  },
+  "dictation-io-speech-to-text": {
+    "category": "text-and-writing",
+    "subcategory": "speech-to-text"
+  },
+  "onelook-reverse-dictionary": {
+    "category": "text-and-writing",
+    "subcategory": "dictionaries-thesauri"
+  },
+  "github-public-apis-repository": {
+    "category": "developer-tools",
+    "subcategory": "api-directories"
+  },
+  "free-public-apis-directory": {
+    "category": "developer-tools",
+    "subcategory": "api-directories"
+  }
+}

@@ -37,7 +37,7 @@
   subcategory: ai-image-tools
 - title: TerraPrinter
   url: https://terraprinter.com/
-  category: osint-open-access-research
+  category: audio-video-image-manipulation
   tags:
   - 3d-printing
   - terrain-generator
@@ -54,7 +54,7 @@
     data (Copernicus DEM) and OpenStreetMap vectors into printable STL and multi-color
     3MF models with geographic structures.
   id: terraprinter
-  subcategory: terrain-map-generators
+  subcategory: cad-fabrication
 - title: LeoLabs Space Platform
   url: https://platform.leolabs.space/visualization
   category: osint-open-access-research
@@ -76,7 +76,7 @@
   subcategory: space-tracking
 - title: Evil Emoji
   url: https://evil-emoji.vercel.app/
-  category: office-productivity-utilities
+  category: text-and-writing
   tags:
   - steganography
   - zero-width-characters
@@ -91,10 +91,10 @@
     emoji strings using invisible zero-width Unicode characters for covert text payload
     transmission.
   id: evil-emoji
-  subcategory: decoding-converters
+  subcategory: text-encoding
 - title: BioDigital Human
   url: https://human.biodigital.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - anatomy
   - 3d-visualization
@@ -112,7 +112,7 @@
   subcategory: interactive-3d-visualization
 - title: Movie Scene Map
   url: https://moviescenemap.com/
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - osint
   - mapping
@@ -130,7 +130,7 @@
   subcategory: film-locations
 - title: BoxTemplate
   url: https://boxtemplate.app/
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - box-generator
   - laser-cutting
@@ -149,7 +149,7 @@
   subcategory: cad-fabrication
 - title: Animagraffs
   url: https://animagraffs.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - 3d-animation
   - mechanical-engineering
@@ -166,7 +166,7 @@
   subcategory: interactive-3d-visualization
 - title: LibriVox
   url: https://librivox.org/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - audiobooks
   - public-domain
@@ -183,7 +183,7 @@
   subcategory: public-domain-literature
 - title: CarCareKiosk
   url: https://www.carcarekiosk.com/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - automotive-repair
   - diy-mechanic
@@ -199,7 +199,7 @@
   subcategory: auto-repair-parts
 - title: RockAuto
   url: https://www.rockauto.com/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - auto-parts
   - part-numbers
@@ -216,7 +216,7 @@
   subcategory: auto-repair-parts
 - title: Learn Anything
   url: https://learn-anything.xyz/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - knowledge-graphs
   - curated-learning
@@ -234,7 +234,7 @@
   subcategory: course-aggregators
 - title: Class Central
   url: https://www.classcentral.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - mooc
   - course-aggregator
@@ -252,7 +252,7 @@
   subcategory: course-aggregators
 - title: AI Website Cloner Template
   url: https://github.com/JCodesMore/ai-website-cloner-template
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - open-source
   - ai-agents
@@ -290,7 +290,7 @@
   subcategory: sound-generators-music-toys
 - title: NoSignups
   url: https://nosignups.net/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - directory
   - open-source
@@ -308,7 +308,7 @@
   subcategory: software-directories
 - title: LostGamer.io
   url: https://lostgamer.io/
-  category: osint-open-access-research
+  category: games-and-play
   tags:
   - gaming
   - geoguessr-alternative
@@ -323,10 +323,10 @@
     video game worlds. Features single-player and multiplayer modes without subscription
     gating.
   id: lostgamerio
-  subcategory: geolocation-games
+  subcategory: geography-games
 - title: Board Game Arena
   url: https://boardgamearena.com/
-  category: office-productivity-utilities
+  category: games-and-play
   tags:
   - board-games
   - browser-gaming
@@ -341,10 +341,10 @@
     board and card games. Features real-time or asynchronous matchmaking and automated
     rule enforcement.
   id: board-game-arena
-  subcategory: browser-games
+  subcategory: board-games
 - title: SpacePlanner
   url: https://spaceplanner.co/
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - floor-planner
   - cad
@@ -363,7 +363,7 @@
   subcategory: cad-fabrication
 - title: Make My Drive Fun
   url: https://makemydrivefun.com/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - road-trip
   - mapping
@@ -381,7 +381,7 @@
   subcategory: travel-planning
 - title: Nearby Glasses
   url: https://github.com/yjeanrenaud/yj_nearbyglasses
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - privacy
   - ble-scanner
@@ -396,7 +396,7 @@
     glasses and camera-equipped eyewear via Bluetooth frames with zero telemetry and
     completely on-device processing.
   id: nearby-glasses
-  subcategory: surveillance-detection
+  subcategory: surveillance-awareness
 - title: Epieos
   url: https://epieos.com/
   category: osint-open-access-research
@@ -414,7 +414,7 @@
   subcategory: email-osint
 - title: Intelligence X
   url: https://intelx.io/
-  category: educational-research-repositories
+  category: osint-open-access-research
   tags:
   - email-intelligence
   - data-archive
@@ -462,7 +462,7 @@
   subcategory: email-osint
 - title: MXToolbox
   url: https://mxtoolbox.com/
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - email-intelligence
   - dns-lookup
@@ -478,7 +478,7 @@
   subcategory: email-diagnostics
 - title: Mail-Tester
   url: https://www.mail-tester.com/
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - email-intelligence
   - deliverability
@@ -493,7 +493,7 @@
   subcategory: email-diagnostics
 - title: LeakCheck
   url: https://leakcheck.io/
-  category: educational-research-repositories
+  category: osint-open-access-research
   tags:
   - email-intelligence
   - breach-lookup
@@ -509,7 +509,7 @@
   subcategory: breach-lookup
 - title: BreachDirectory
   url: https://breachdirectory.org/
-  category: educational-research-repositories
+  category: osint-open-access-research
   tags:
   - email-intelligence
   - breach-checker
@@ -589,7 +589,7 @@
   id: whatsmyname
   subcategory: username-search
 - title: Blackbird
-  url:  https://github.com/antoniaci/blackbird
+  url: https://github.com/antoniaci/blackbird
   category: osint-open-access-research
   tags:
   - username-investigation
@@ -636,7 +636,7 @@
   subcategory: username-search
 - title: GitHub Search
   url: https://github.com/search
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - username-investigation
   - code-search
@@ -648,37 +648,39 @@
   annotation: Public, native search interface allowing unauthenticated query targeting
     of usernames, commit histories, leaks, and user repositories without registration.
   id: github-search
-  subcategory: username-search
+  subcategory: social-media-search
 - title: Searchcode
   url: https://searchcode.com
-  category: privacy-focused-search-engines
+  category: developer-tools
   tags:
-    - code-search
-    - repository-lookup
-    - osint
-    - open-source
+  - code-search
+  - repository-lookup
+  - osint
+  - open-source
   replaces:
-    - Paid Code Scrapers
-    - Gated Code Search Engines
-  annotation: Free, un-authenticated source code and documentation search engine indexing billions of lines across public repositories.
+  - Paid Code Scrapers
+  - Gated Code Search Engines
+  annotation: Free, un-authenticated source code and documentation search engine indexing
+    billions of lines across public repositories.
   id: searchcode-code-search
   subcategory: code-search
 - title: Debian Code Search
   url: https://codesearch.debian.net
-  category: privacy-focused-search-engines
+  category: developer-tools
   tags:
-    - code-search
-    - regex-search
-    - open-source
-    - debian
+  - code-search
+  - regex-search
+  - open-source
+  - debian
   replaces:
-    - Commercial Source Code Indexers
-  annotation: Non-commercial engine providing instant, regex-capable search across the entire Debian open-source package archive without logins or tracking.
+  - Commercial Source Code Indexers
+  annotation: Non-commercial engine providing instant, regex-capable search across
+    the entire Debian open-source package archive without logins or tracking.
   id: debian-code-search
   subcategory: code-search
 - title: Reddit Search
   url: https://www.reddit.com/search/
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - username-investigation
   - social-search
@@ -690,7 +692,7 @@
   annotation: Native interface to query user profiles, posts, and public forum comments
     across the platform without requiring account creation.
   id: reddit-search
-  subcategory: username-search
+  subcategory: social-media-search
 - title: Keybase
   url: https://keybase.io/
   category: osint-open-access-research
@@ -708,7 +710,7 @@
   subcategory: username-search
 - title: Steam Community Search
   url: https://steamcommunity.com/search/users
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - username-investigation
   - gaming
@@ -720,10 +722,10 @@
   annotation: Native web search utility that allows unauthenticated lookup of public
     player profiles, historical handles, and custom URLs across the platform.
   id: steam-community-search
-  subcategory: username-search
+  subcategory: social-media-search
 - title: Flickr Search
   url: https://www.flickr.com/search/
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - username-investigation
   - image-search
@@ -735,10 +737,10 @@
   annotation: Free, unauthenticated photo and user search interface querying public
     user profiles, uploaded media, and embedded EXIF data.
   id: flickr-search
-  subcategory: username-search
+  subcategory: social-media-search
 - title: Medium Search
   url: https://medium.com/search
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - username-investigation
   - author-lookup
@@ -750,7 +752,7 @@
   annotation: Native search engine permitting direct, unauthenticated queries for
     public author handles, publications, and open user posts.
   id: medium-search
-  subcategory: username-search
+  subcategory: social-media-search
 - title: PhoneInfoga
   url: https://github.com/sundowndev/phoneinfoga
   category: osint-open-access-research
@@ -770,7 +772,7 @@
   subcategory: phone-osint
 - title: Google Images
   url: https://images.google.com/
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - image-verification
   - reverse-image-search
@@ -783,7 +785,7 @@
   subcategory: reverse-image-search
 - title: Bing Visual Search
   url: https://www.microsoft.com/en-us/bing/visual-search
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - image-verification
   - reverse-image-search
@@ -791,12 +793,13 @@
   - visual-osint
   replaces:
   - Commercial Image Matchers
-  annotation: Free reverse image tool offering targeted sub-crop scanning and product/source identification without mandatory account registration.
+  annotation: Free reverse image tool offering targeted sub-crop scanning and product/source
+    identification without mandatory account registration.
   id: bing-visual-search
   subcategory: reverse-image-search
 - title: Yandex Images
   url: https://yandex.com/images/
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - image-verification
   - reverse-image-search
@@ -811,7 +814,7 @@
   subcategory: reverse-image-search
 - title: TinEye
   url: https://tineye.com/
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - image-verification
   - reverse-image-search
@@ -825,7 +828,7 @@
   subcategory: reverse-image-search
 - title: FotoForensics
   url: https://fotoforensics.com/
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - error-level-analysis
@@ -837,10 +840,10 @@
   annotation: Free web utility using Error Level Analysis (ELA) and forensic algorithms
     to detect digital image alterations and hidden artifacts without tracking.
   id: fotoforensics
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: ExifTool
   url: https://exiftool.org/
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - exif
@@ -853,10 +856,10 @@
   annotation: Open-source, local command-line utility for reading, writing, and manipulating
     EXIF, IPTC, and XMP metadata across dozens of file formats with zero telemetry.
   id: exiftool
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: Jeffrey's Image Metadata Viewer
   url: https://exif.regex.info/exif.cgi
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - exif
@@ -867,10 +870,10 @@
   annotation: Free web-based EXIF viewer that provides comprehensive metadata, lens
     data, and embedded GPS coordinates without mandatory account registration.
   id: jeffreys-image-metadata-viewer
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: InVID / WeVerify Plugin
   url: https://github.com/AFP-Medialab/invid-verification-plugin
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - video-verification
@@ -883,10 +886,10 @@
   annotation: Open-source browser extension providing keyframe extraction, reverse
     image search shortcuts, and visual forensic tools for journalists and researchers.
   id: invid-weverify-plugin
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: ImgOps
   url: https://imgops.com/
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - web-utility
@@ -897,10 +900,10 @@
   annotation: Lightweight, direct web interface to run instant visual edits, metadata
     checks, reverse searches, and forensic filters on any hosted image without registration.
   id: imgops
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: Forensically
   url: https://29a.ch/sandbox/2012/forensically/
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - image-verification
   - error-level-analysis
@@ -914,10 +917,10 @@
     clone detection, noise analysis, and magnification filters directly in the browser
     with zero data uploads.
   id: forensically
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: Search by Image
   url: https://github.com/dessant/search-by-image
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - image-verification
   - reverse-image-search
@@ -933,7 +936,7 @@
   subcategory: reverse-image-search
 - title: Wikimedia Commons
   url: https://commons.wikimedia.org/wiki/Main_Page
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - image-verification
   - open-media
@@ -1214,7 +1217,7 @@
   subcategory: code-editors
 - title: Ollama
   url: https://ollama.com/
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - llm-runner
   - local-ai
@@ -1231,7 +1234,7 @@
   subcategory: local-llm-runners
 - title: Code Llama
   url: https://github.com/meta-llama/codellama
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1248,7 +1251,7 @@
   subcategory: coding-llms
 - title: DeepSeek Coder
   url: https://github.com/deepseek-ai/deepseek-coder
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1264,7 +1267,7 @@
   subcategory: coding-llms
 - title: Qwen Coder
   url: https://github.com/QwenLM/qwen-code
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1280,7 +1283,7 @@
   subcategory: coding-llms
 - title: McBroken
   url: https://mcbroken.com/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - utility
   - web-scraper
@@ -1296,7 +1299,7 @@
   subcategory: everyday-trackers
 - title: Tunefind
   url: https://www.tunefind.com/
-  category: audio-video-image-manipulation
+  category: open-data-and-reference
   tags:
   - utility
   - soundtrack-database
@@ -1312,7 +1315,7 @@
   subcategory: film-resources
 - title: Open Culture
   url: https://www.openculture.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - courses
@@ -1329,7 +1332,7 @@
   subcategory: course-aggregators
 - title: AI Free Forever
   url: https://aifreeforever.com/
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - ai-aggregator
   - llm-chat
@@ -1345,7 +1348,7 @@
   subcategory: ai-chat-assistants
 - title: Flight Viz
   url: https://flight-viz.com/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - utility
   - flight-tracker
@@ -1361,7 +1364,7 @@
   subcategory: aviation-tracking
 - title: ToS;DR (Terms of Service; Didn't Read)
   url: https://tosdr.org/en
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - utility
   - privacy-auditing
@@ -1377,7 +1380,7 @@
   subcategory: privacy-auditing
 - title: Freebuff
   url: https://freebuff.com/
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - ai-coding-agent
   - cli-tool
@@ -1394,7 +1397,7 @@
   subcategory: ai-coding-assistants
 - title: RapidFireArt
   url: https://rapidfireart.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - art-tutorials
@@ -1410,7 +1413,7 @@
   subcategory: creative-skills-learning
 - title: Fast.ai
   url: https://www.fast.ai/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - deep-learning
@@ -1423,10 +1426,10 @@
   annotation: Free practical deep learning and AI curriculum designed for coders,
     emphasizing hands-on implementation with zero subscription fees.
   id: fastai
-  subcategory: ai-ml-courses
+  subcategory: free-courses
 - title: Elements of AI
   url: https://www.elementsofai.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - ai-fundamentals
@@ -1438,10 +1441,10 @@
   annotation: Free, open online introduction to artificial intelligence created by
     the University of Helsinki and Reaktor, breaking down core concepts without prerequisites.
   id: elements-of-ai
-  subcategory: ai-ml-courses
+  subcategory: free-courses
 - title: IBM SkillsBuild
   url: https://skillsbuild.org/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - tech-certification
@@ -1456,10 +1459,10 @@
     courses, hands-on labs, and verifiable digital badges across AI, cybersecurity,
     and data analysis.
   id: ibm-skillsbuild
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: HP LIFE (AI for Business Professionals)
   url: https://www.life-global.org/course/423-ai-for-business-professionals
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - ai-courses
@@ -1474,10 +1477,10 @@
     offering verifiable certificates of completion without subscription paywalls or
     credit cards.
   id: hp-life-ai-for-business-professionals
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: HubSpot Academy (Content Marketing Certification)
   url: https://academy.hubspot.com/courses/content-marketing
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - content-strategy
@@ -1493,10 +1496,10 @@
     strategy, SEO optimization, and content creation frameworks with zero subscription
     paywalls.
   id: hubspot-academy-content-marketing-certification
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: 'UMD Smith Learn: Artificial Intelligence & Career Transformation'
   url: https://umd-smithlearn.catalog.instructure.com/courses/artificial-intelligence-and-career-transformation
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - ai-fundamentals
@@ -1510,10 +1513,10 @@
     of Maryland's Smith School of Business covering real-world AI applications and
     industry impact with zero platform paywalls.
   id: umd-smith-learn-artificial-intelligence-career-transformation
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: Public Work
   url: https://www.cosmos.so/public-work
-  category: osint-open-access-research
+  category: audio-video-image-manipulation
   tags:
   - design
   - public-domain
@@ -1526,7 +1529,7 @@
   annotation: Searchable open-access archive of high-resolution public domain vectors,
     photos, and historical art with no account walls or copyright restrictions.
   id: public-work
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: Font Squirrel
   url: https://www.fontsquirrel.com/
   category: audio-video-image-manipulation
@@ -1558,7 +1561,7 @@
   annotation: 100% open-source emoji and vector icon library providing direct downloads
     of full SVG/PNG sets for local design workflows.
   id: openmoji
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: Humaaans
   url: https://www.humaaans.com/
   category: audio-video-image-manipulation
@@ -1574,7 +1577,7 @@
   annotation: Free vector illustration construction kit allowing users to mix and
     match modular human character elements under a CC BY license.
   id: humaaans
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: ManyPixels Illustration Gallery
   url: https://www.manypixels.co/gallery
   category: audio-video-image-manipulation
@@ -1590,7 +1593,7 @@
   annotation: Royalty-free gallery of customizable SVG and PNG illustrations available
     for personal and commercial use without login or attribution.
   id: manypixels-illustration-gallery
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: Iconoir
   url: https://iconoir.com/
   category: audio-video-image-manipulation
@@ -1606,7 +1609,7 @@
   annotation: Massive MIT-licensed open-source vector icon library providing zero-friction
     SVG downloads and clean development framework integration.
   id: iconoir
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: SVG Repo
   url: https://www.svgrepo.com/
   category: audio-video-image-manipulation
@@ -1622,7 +1625,7 @@
   annotation: Open-access vector directory housing over 500,000 royalty-free SVGs
     for direct download or raw code copying without account walls.
   id: svg-repo
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: Openclipart
   url: https://openclipart.org/
   category: audio-video-image-manipulation
@@ -1638,7 +1641,7 @@
   annotation: Community-driven library of vector graphics published under CC0 Public
     Domain, completely free for unrestricted personal and commercial use.
   id: openclipart
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: fffuel
   url: https://fffuel.co/
   category: audio-video-image-manipulation
@@ -1657,7 +1660,7 @@
   subcategory: design-asset-generators
 - title: DigitalDefynd
   url: https://digitaldefynd.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - education
   - course-directory
@@ -1673,7 +1676,7 @@
   subcategory: course-aggregators
 - title: AnythingLLM
   url: https://anythingllm.com
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - rag
   - local-llm
@@ -1690,7 +1693,7 @@
   subcategory: local-llm-runners
 - title: Arena
   url: https://arena.ai/
-  category: osint-open-access-research
+  category: ai-agents
   tags:
   - benchmarking
   - llm-evaluation
@@ -1703,10 +1706,10 @@
   annotation: Cloud-hosted crowdsourced AI evaluation and benchmarking platform; useful
     as an external reference utility for blind testing and scoring models.
   id: arena
-  subcategory: ai-dev-platforms
+  subcategory: ai-model-benchmarks
 - title: Claude
   url: https://claude.ai
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - assistant
   - llm
@@ -1721,7 +1724,7 @@
   id: claude
   subcategory: ai-chat-assistants
 - title: ComfyUI
-  url:  https://github.com/Comfy-Org/ComfyUI
+  url: https://github.com/Comfy-Org/ComfyUI
   category: audio-video-image-manipulation
   tags:
   - stable-diffusion
@@ -1738,7 +1741,7 @@
   subcategory: ai-image-tools
 - title: Futurepedia
   url: https://futurepedia.io
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - directory
   - tool-discovery
@@ -1753,7 +1756,7 @@
   subcategory: software-directories
 - title: Gemini
   url: https://gemini.google.com
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - multimodal
   - assistant
@@ -1814,7 +1817,7 @@
   subcategory: ai-image-tools
 - title: Poe
   url: https://poe.com
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - aggregator
   - multi-model
@@ -1922,7 +1925,7 @@
   subcategory: social-media-management
 - title: AlsoAsked
   url: https://alsoasked.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-intent
   - people-also-ask
@@ -1967,7 +1970,7 @@
   subcategory: social-media-management
 - title: ContentIdeas.io
   url: https://contentideas.io
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - content-discovery
   - social-trends
@@ -2030,19 +2033,20 @@
   url: https://www.abuseipdb.com
   category: osint-open-access-research
   tags:
-    - ip-threat-score
-    - osint
-    - abuse-reporting
-    - network-security
+  - ip-threat-score
+  - osint
+  - abuse-reporting
+  - network-security
   replaces:
-    - Gated Threat Intelligence Search Engines
-    - Paid IP Reputation Services
-  annotation: Zero-signup IP lookup tool for checking abuse history, malicious activity reports, and subnet threat scores across millions of reported hosts.
+  - Gated Threat Intelligence Search Engines
+  - Paid IP Reputation Services
+  annotation: Zero-signup IP lookup tool for checking abuse history, malicious activity
+    reports, and subnet threat scores across millions of reported hosts.
   id: abuseipdb-ip-lookup
-  subcategory: ip-reputation-search
+  subcategory: network-recon
 - title: crt.sh
   url: https://crt.sh
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - certificate-transparency
   - reconnaissance
@@ -2070,7 +2074,7 @@
   subcategory: threat-intelligence
 - title: DeHashed
   url: https://dehashed.com
-  category: educational-research-repositories
+  category: osint-open-access-research
   tags:
   - breach-intelligence
   - credential-lookup
@@ -2172,7 +2176,7 @@
   subcategory: password-managers
 - title: Shodan
   url: https://www.shodan.io
-  category: privacy-focused-search-engines
+  category: osint-open-access-research
   tags:
   - iot-search
   - device-recon
@@ -2314,7 +2318,7 @@
   subcategory: graphic-design-suites
 - title: Cirkit Designer
   url: https://cirkitdesigner.com/
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - circuit-design
   - electronics
@@ -2416,7 +2420,7 @@
   subcategory: ui-design-tools
 - title: FreeCAD
   url: https://www.freecad.org
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - parametric-cad
   - 3d-modeler
@@ -2492,7 +2496,7 @@
   subcategory: 3d-animation-vfx
 - title: Nightshade
   url: https://nightshade.cs.uchicago.edu
-  category: local-self-hosted-ai-agents
+  category: audio-video-image-manipulation
   tags:
   - adversarial-tools
   - data-poisoning
@@ -2503,7 +2507,7 @@
   annotation: Adversarial data-poisoning tool designed to protect digital artwork
     by scrambling generative AI model training data.
   id: nightshade
-  subcategory: ai-defense
+  subcategory: image-protection
 - title: Photopea
   url: https://www.photopea.com
   category: audio-video-image-manipulation
@@ -2535,7 +2539,7 @@
   subcategory: background-removal
 - title: Zoo.dev
   url: https://zoo.dev
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - cad-api
   - geometry-processing
@@ -2591,7 +2595,7 @@
   subcategory: aviation-tracking
 - title: GeoGuessr
   url: https://www.geoguessr.com
-  category: osint-open-access-research
+  category: games-and-play
   tags:
   - geography-game
   - street-view
@@ -2602,7 +2606,7 @@
   annotation: Global geography exploration game that drops players into random Google
     Street View locations to pinpoint geographical coordinates using environment clues.
   id: geoguessr
-  subcategory: geolocation-games
+  subcategory: geography-games
 - title: Global Fishing Watch
   url: https://globalfishingwatch.org
   category: osint-open-access-research
@@ -2648,7 +2652,7 @@
   subcategory: satellite-imagery
 - title: MapCrunch
   url: https://www.mapcrunch.com
-  category: osint-open-access-research
+  category: games-and-play
   tags:
   - random-streetview
   - visual-exploration
@@ -2659,7 +2663,7 @@
   annotation: Random Google Street View location generator for visual exploration
     and virtual global teleportation.
   id: mapcrunch
-  subcategory: geolocation-games
+  subcategory: geography-games
 - title: MarineTraffic
   url: https://www.marinetraffic.com
   category: osint-open-access-research
@@ -2735,7 +2739,7 @@
   subcategory: maritime-tracking
 - title: TimeMap
   url: https://timemap.github.io
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - spatiotemporal
   - historical-mapping
@@ -2835,7 +2839,7 @@
   annotation: The definitive open-source e-book manager, reader, and format converter
     for building and organizing an offline digital library.
   id: calibre
-  subcategory: reference-bookmark-managers
+  subcategory: ebook-managers
 - title: Descript
   url: https://www.descript.com
   category: audio-video-image-manipulation
@@ -2852,7 +2856,7 @@
   subcategory: video-editors
 - title: Emby
   url: https://emby.media
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - media-server
   - streaming
@@ -2882,7 +2886,7 @@
   subcategory: media-converters
 - title: GreenTuber
   url: https://greentuber.com
-  category: educational-research-repositories
+  category: audio-video-image-manipulation
   tags:
   - ad-blocking-wrapper
   - mobile-video
@@ -2893,7 +2897,7 @@
     proprietary advertising networks. Presented for educational and analysis purposes
     only; review third-party terms carefully.
   id: greentuber
-  subcategory: ad-free-youtube-clients
+  subcategory: youtube-clients
 - title: HandBrake
   url: https://handbrake.fr
   category: audio-video-image-manipulation
@@ -2911,7 +2915,7 @@
   subcategory: media-converters
 - title: Jellyfin
   url: https://jellyfin.org
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - media-server
   - self-hosted
@@ -2944,7 +2948,7 @@
   subcategory: video-editors
 - title: NewPipe
   url: https://newpipe.net
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - android-frontend
   - youtube-client
@@ -2957,7 +2961,7 @@
     without Google Play Services, ads, or proprietary telemetry tracking. Presented
     for educational and research purposes only regarding alternative API consumption.
   id: newpipe
-  subcategory: ad-free-youtube-clients
+  subcategory: youtube-clients
 - title: OpenShot
   url: https://www.openshot.org
   category: audio-video-image-manipulation
@@ -2990,7 +2994,7 @@
   subcategory: video-editors
 - title: TubeMate
   url: https://tubemate.net/w3/
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - video-downloader
   - android-app
@@ -3001,7 +3005,7 @@
     locally via side-loaded APKs. Presented for educational and protocol analysis
     purposes only.
   id: tubemate
-  subcategory: ad-free-youtube-clients
+  subcategory: youtube-clients
 - title: VLC Media Player
   url: https://www.videolan.org/vlc/
   category: audio-video-image-manipulation
@@ -3020,7 +3024,7 @@
   subcategory: media-players-inspectors
 - title: YouTube ReVanced
   url: https://revanced.app
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - apk-patching
   - ad-blocking
@@ -3032,7 +3036,7 @@
     SponsorBlock, and custom features locally into official YouTube APKs. Presented
     for educational software engineering and reverse-engineering study only.
   id: youtube-revanced
-  subcategory: ad-free-youtube-clients
+  subcategory: youtube-clients
 - title: AFP Digital Verification Toolbox
   url: https://digital-verification.afp.com
   category: osint-open-access-research
@@ -3079,47 +3083,49 @@
   url: https://openfactbook.org
   category: open-data-and-reference
   tags:
-    - country-profiles
-    - demographics
-    - geography
-    - open-data
-    - public-domain
+  - country-profiles
+  - demographics
+  - geography
+  - open-data
+  - public-domain
   replaces:
-    - CIA World Factbook
-    - Gated Geopolitical Databases
-  annotation: Community-maintained successor to the discontinued CIA World Factbook, offering open, zero-tracking access to demographic, economic, and geographic data for 250+ countries.
+  - CIA World Factbook
+  - Gated Geopolitical Databases
+  annotation: Community-maintained successor to the discontinued CIA World Factbook,
+    offering open, zero-tracking access to demographic, economic, and geographic data
+    for 250+ countries.
   id: openfactbook-reference
   subcategory: geopolitical-reference
-
 - title: UNdata
   url: https://data.un.org
   category: open-data-and-reference
   tags:
-    - statistics
-    - global-data
-    - united-nations
-    - demographics
-    - open-access
+  - statistics
+  - global-data
+  - united-nations
+  - demographics
+  - open-access
   replaces:
-    - Commercial Statistical Databases
-  annotation: Single entry point for official United Nations statistical databases, providing instant, un-authenticated data downloads and cross-country metric comparisons.
+  - Commercial Statistical Databases
+  annotation: Single entry point for official United Nations statistical databases,
+    providing instant, un-authenticated data downloads and cross-country metric comparisons.
   id: undata-global-statistics
   subcategory: global-statistics
-
 - title: World Bank Open Data
   url: https://data.worldbank.org
   category: open-data-and-reference
   tags:
-    - economic-data
-    - global-indicators
-    - open-data
-    - public-domain
-    - csv-export
+  - economic-data
+  - global-indicators
+  - open-data
+  - public-domain
+  - csv-export
   replaces:
-    - Paid Economic Intelligence Platforms
-  annotation: Free, open-access repository of global development indicators and economic metrics with direct bulk CSV/JSON export capabilities and zero sign-up friction.
+  - Paid Economic Intelligence Platforms
+  annotation: Free, open-access repository of global development indicators and economic
+    metrics with direct bulk CSV/JSON export capabilities and zero sign-up friction.
   id: world-bank-open-data
-  subcategory: economic-statistics
+  subcategory: global-statistics
 - title: FAA Aircraft Registry
   url: https://registry.faa.gov
   category: osint-open-access-research
@@ -3150,7 +3156,7 @@
   subcategory: verification-toolkits
 - title: GDELT Project
   url: https://www.gdeltproject.org
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - global-events
   - news-database
@@ -3161,7 +3167,7 @@
   annotation: Global database of society, broadcasting, and news events across the
     world.
   id: gdelt-project
-  subcategory: open-data-statistics
+  subcategory: global-statistics
 - title: GeoHints
   url: https://geohints.com
   category: osint-open-access-research
@@ -3192,7 +3198,7 @@
   subcategory: geolocation-tools
 - title: Google Lens
   url: https://search.google/ways-to-search/lens/
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - visual-search
   - object-recognition
@@ -3219,7 +3225,7 @@
   subcategory: network-recon
 - title: Hunchly
   url: https://www.hunchly.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - web-capture
   - osint-journaling
@@ -3289,7 +3295,7 @@
   subcategory: webcam-directories
 - title: InVID-WeVerify
   url: https://www.invid-project.eu
-  category: audio-video-image-manipulation
+  category: osint-open-access-research
   tags:
   - video-verification
   - reverse-image-search
@@ -3300,7 +3306,7 @@
   annotation: Browser extension for video verification, reverse image search, and
     digital forensics.
   id: invid-weverify
-  subcategory: image-forensics
+  subcategory: image-verification
 - title: Lumen Database
   url: https://lumendatabase.org
   category: osint-open-access-research
@@ -3443,7 +3449,7 @@
     millions of web pages. Essential for OSINT investigations, tracking digital infrastructure,
     and locating specific script signatures.
   id: publicwww
-  subcategory: source-code-search
+  subcategory: web-tech-profilers
 - title: Espacenet
   url: https://worldwide.espacenet.com
   category: osint-open-access-research
@@ -3494,7 +3500,7 @@
   subcategory: patent-search
 - title: Tails OS
   url: https://tails.net/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - amnesic-os
   - tor
@@ -3527,7 +3533,7 @@
   subcategory: ad-blockers
 - title: Blacklight
   url: https://themarkup.org/blacklight
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - tracker-inspection
   - privacy-audit
@@ -3541,7 +3547,7 @@
   subcategory: privacy-auditing
 - title: Cover Your Tracks (EFF)
   url: https://coveryourtracks.eff.org
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - browser-fingerprinting
   - privacy-testing
@@ -3555,7 +3561,7 @@
   subcategory: privacy-auditing
 - title: Just Delete Me
   url: https://justdeleteme.xyz
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - account-deletion
   - privacy-directory
@@ -3569,7 +3575,7 @@
   subcategory: privacy-auditing
 - title: Addy.io (AnonAddy)
   url: https://addy.io/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - email-aliasing
   - privacy
@@ -3585,7 +3591,7 @@
   subcategory: email-aliasing
 - title: SimpleLogin
   url: https://simplelogin.io/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - email-aliasing
   - privacy
@@ -3614,7 +3620,7 @@
   annotation: Swiss-based encrypted email provider featuring zero-access architecture
     and end-to-end PGP encryption by default.
   id: proton-mail
-  subcategory: privacy-mail
+  subcategory: secure-email-messaging
 - title: Mailfence
   url: https://mailfence.com/
   category: office-productivity-utilities
@@ -3630,10 +3636,10 @@
   annotation: Security-focused suite offering end-to-end encrypted email, integrated
     PGP key management, and digital signatures without ad tracking.
   id: mailfence
-  subcategory: privacy-mail
+  subcategory: secure-email-messaging
 - title: 10 Minute Mail
   url: https://10minutemail.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - disposable-email
   - burner-inbox
@@ -3647,7 +3653,7 @@
   subcategory: disposable-email
 - title: Guerrilla Mail
   url: https://www.guerrillamail.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - disposable-email
   - temporary-inbox
@@ -3661,7 +3667,7 @@
   subcategory: disposable-email
 - title: MailDrop
   url: https://maildrop.cc/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - disposable-email
   - temp-email
@@ -3676,7 +3682,7 @@
   subcategory: disposable-email
 - title: Mullvad VPN
   url: https://mullvad.net/en
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - vpn
   - no-logs
@@ -3692,7 +3698,7 @@
   subcategory: vpn-anonymity
 - title: Windscribe
   url: https://windscribe.com/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - vpn
   - ad-blocker
@@ -3707,7 +3713,7 @@
   subcategory: vpn-anonymity
 - title: SMSTome
   url: https://smstome.com/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - sms-verification
   - burner-numbers
@@ -3721,7 +3727,7 @@
   subcategory: burner-phone-numbers
 - title: OnlineSIM
   url: https://onlinesim.io/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - virtual-phone
   - sms-bypass
@@ -3748,7 +3754,7 @@
   annotation: Decentralized, end-to-end encrypted messaging app operating over an
     onion-routed node network. Requires zero phone numbers or emails to register.
   id: session
-  subcategory: secure-messaging
+  subcategory: secure-email-messaging
 - title: Thunderbird
   url: https://www.thunderbird.net/en-US/
   category: office-productivity-utilities
@@ -3763,7 +3769,7 @@
   annotation: Open-source, local-first email client with native OpenPGP support, calendar
     integration, and full control over your mail storage.
   id: thunderbird
-  subcategory: privacy-mail
+  subcategory: secure-email-messaging
 - title: FaxZero
   url: https://faxzero.com/
   category: office-productivity-utilities
@@ -3779,10 +3785,10 @@
   annotation: Send digital PDF documents to physical fax numbers free. Essential for
     navigating legacy government, medical, and legal requirements.
   id: faxzero
-  subcategory: file-sharing-fax
+  subcategory: file-sharing
 - title: Connected Papers
   url: https://www.connectedpapers.com
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - academic-search
   - graph-visualization
@@ -3798,61 +3804,51 @@
   subcategory: academic-paper-access
 - title: r/zlibrary (Community Mirror Tracker)
   url: https://www.reddit.com/r/zlibrary/
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - reddit
-    - community-tracker
-    - mirror-status
-    - ebook-libraries
-    - digital-library
+  - reddit
+  - community-tracker
+  - mirror-status
+  - ebook-libraries
+  - digital-library
   replaces:
-    - Paid E-book Services
-    - Malicious Mirror Domains
-  annotation: Active community subreddit maintaining verified mirror lists, onion links, and system uptime reports for Z-Library to prevent phishing and domain hijacking.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Direct links to Z-Library shift constantly due to domain seizures. Linking the subreddit provides a zero-account community status tracker for safe access.
-  # Friction Caveat: Reddit enforces aggressive mobile app download prompts and browser logins for deep thread reading; main feed remains open.
-  # Audit Status: Approved — safer than listing a direct URL that frequently goes dead or gets spoofed.
+  - Paid E-book Services
+  - Malicious Mirror Domains
+  annotation: Active community subreddit maintaining verified mirror lists, onion
+    links, and system uptime reports for Z-Library to prevent phishing and domain
+    hijacking.
   id: r-zlibrary-community-tracker
   subcategory: ebook-libraries
-
 - title: r/Annas_Archive (Community Mirror Tracker)
   url: https://www.reddit.com/r/Annas_Archive/
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - reddit
-    - community-tracker
-    - mirror-status
-    - ebook-libraries
-    - digital-library
+  - reddit
+  - community-tracker
+  - mirror-status
+  - ebook-libraries
+  - digital-library
   replaces:
-    - Unverified E-book Mirrors
-    - Phishing Aggregators
-  annotation: Active community subreddit tracking official mirror domain status, system updates, and safe access routes for Anna's Archive.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Bypasses domain seizure turnover and protects users from malicious clone sites by routing through community-verified status updates.
-  # Friction Caveat: Reddit UI pushes mobile app banners, but the main feed remains zero-account readable on desktop.
-  # Audit Status: Approved — low-maintenance, safe reference listing.
+  - Unverified E-book Mirrors
+  - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror domain status, system
+    updates, and safe access routes for Anna's Archive.
   id: r-annas-archive-community-tracker
   subcategory: ebook-libraries
-
 - title: r/libgen (Community Mirror Tracker)
   url: https://www.reddit.com/r/libgen/
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - reddit
-    - community-tracker
-    - mirror-status
-    - ebook-libraries
-    - digital-library
+  - reddit
+  - community-tracker
+  - mirror-status
+  - ebook-libraries
+  - digital-library
   replaces:
-    - Unverified LibGen Mirrors
-    - Phishing Aggregators
-  annotation: Active community subreddit tracking official mirror status, verified IP/clearnet domains, and safety guidelines for Library Genesis.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Protects visitors from malicious clone sites and dead direct URLs by pointing to community-maintained status threads and mirror lists.
-  # Friction Caveat: Reddit interface presents mobile app prompts; main thread feeds are open and readable on desktop without an account.
-  # Audit Status: Approved — low-maintenance, safe reference listing for shadow library tracking.
+  - Unverified LibGen Mirrors
+  - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror status, verified
+    IP/clearnet domains, and safety guidelines for Library Genesis.
   id: r-libgen-community-tracker
   subcategory: ebook-libraries
 - title: Library of Congress — Ask a Librarian
@@ -3870,7 +3866,7 @@
   subcategory: government-records-archives
 - title: Open Library
   url: https://openlibrary.org
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - digital-library
   - internet-archive
@@ -3885,7 +3881,7 @@
   subcategory: public-domain-literature
 - title: OpenAlex
   url: https://openalex.org
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - scholarly-index
   - open-access
@@ -3901,7 +3897,7 @@
   subcategory: academic-paper-access
 - title: Our World in Data
   url: https://ourworldindata.org
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - empirical-research
   - global-data
@@ -3914,10 +3910,10 @@
   annotation: Empirical research and interactive data visualizations exploring global
     living conditions, health, and progress.
   id: our-world-in-data
-  subcategory: open-data-statistics
+  subcategory: global-statistics
 - title: PDF Drive
   url: https://www.pdfdrive.com/
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - pdf-search
   - ebooks
@@ -3932,7 +3928,7 @@
   subcategory: ebook-libraries
 - title: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - biomedical-literature
   - life-sciences
@@ -3946,7 +3942,7 @@
   subcategory: academic-paper-access
 - title: Smithsonian Open Access
   url: https://www.si.edu/openaccess
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - public-domain
   - museum-artifacts
@@ -3962,7 +3958,7 @@
   subcategory: museum-heritage-archives
 - title: UNData
   url: https://data.un.org
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - united-nations
   - global-indicators
@@ -3973,10 +3969,10 @@
   annotation: Authoritative statistical databases and global indicators coordinated
     by the United Nations.
   id: undata
-  subcategory: open-data-statistics
+  subcategory: global-statistics
 - title: Unpaywall
   url: https://unpaywall.org
-  category: osint-open-access-research
+  category: open-access-learning-and-archives
   tags:
   - open-access
   - scholarly-articles
@@ -4006,7 +4002,7 @@
   subcategory: web-archives
 - title: Wolfram|Alpha
   url: https://www.wolframalpha.com
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - computational-knowledge
   - symbolic-math
@@ -4021,7 +4017,7 @@
   subcategory: math-tools
 - title: World Bank Open Data
   url: https://data.worldbank.org
-  category: osint-open-access-research
+  category: open-data-and-reference
   tags:
   - economic-data
   - global-development
@@ -4032,26 +4028,24 @@
   annotation: Global economic development metrics, financial indicators, and country
     data.
   id: world-bank-open-data
-  subcategory: open-data-statistics
+  subcategory: global-statistics
 - title: r/zlibrary (Community Mirror Tracker)
   url: https://www.reddit.com/r/zlibrary/
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - reddit
-    - community-tracker
-    - mirror-status
-    - open-access
-    - digital-library
+  - reddit
+  - community-tracker
+  - mirror-status
+  - open-access
+  - digital-library
   replaces:
-    - Paid E-book Services
-    - Malicious Mirror Domains
-  annotation: Active community subreddit maintaining verified mirror lists, onion links, and system uptime reports for Z-Library to prevent phishing and domain hijacking.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Direct links to Z-Library shift constantly due to domain seizures. Linking the subreddit provides a zero-account community status tracker for safe access.
-  # Friction Caveat: Reddit enforces aggressive mobile app download prompts and browser logins for deep thread reading; main feed remains open.
-  # Audit Status: Approved — safer than listing a direct URL that frequently goes dead or gets spoofed.
+  - Paid E-book Services
+  - Malicious Mirror Domains
+  annotation: Active community subreddit maintaining verified mirror lists, onion
+    links, and system uptime reports for Z-Library to prevent phishing and domain
+    hijacking.
   id: r-zlibrary-community-tracker
-  subcategory: community-trackers
+  subcategory: ebook-libraries
 - title: Zotero
   url: https://www.zotero.org
   category: office-productivity-utilities
@@ -4069,49 +4063,40 @@
   subcategory: reference-bookmark-managers
 - title: r/Annas_Archive (Community Mirror Tracker)
   url: https://www.reddit.com/r/Annas_Archive/
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - reddit
-    - community-tracker
-    - mirror-status
-    - open-access
-    - digital-library
+  - reddit
+  - community-tracker
+  - mirror-status
+  - open-access
+  - digital-library
   replaces:
-    - Unverified E-book Mirrors
-    - Phishing Aggregators
-  annotation: Active community subreddit tracking official mirror domain status, system updates, and safe access routes for Anna's Archive.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Bypasses domain seizure turnover and protects users from malicious clone sites by routing through community-verified status updates.
-  # Friction Caveat: Reddit UI pushes mobile app banners, but the main feed remains zero-account readable on desktop.
-  # Audit Status: Approved — low-maintenance, safe reference listing.
+  - Unverified E-book Mirrors
+  - Phishing Aggregators
+  annotation: Active community subreddit tracking official mirror domain status, system
+    updates, and safe access routes for Anna's Archive.
   id: r-annas-archive-community-tracker
-  subcategory: community-trackers
-# --- DEPRECATED / PRUNED ENTRY ---
-# Title: Sci-Hub
-# Rationale: Dropped due to permanent content freeze (no papers added post-2020), extreme domain instability, and high risk of user-facing phishing mirrors.
+  subcategory: ebook-libraries
 - title: CORE (Connecting Repositories)
   url: https://core.ac.uk
-  category: open-data-and-reference
+  category: open-access-learning-and-archives
   tags:
-    - academic-research
-    - open-access
-    - research-papers
-    - public-domain
-    - scholarly-articles
+  - academic-research
+  - open-access
+  - research-papers
+  - public-domain
+  - scholarly-articles
   replaces:
-    - Sci-Hub
-    - Commercial Journal Paywalls
-    - Gated Academic Databases
-  annotation: Non-profit harvester aggregating hundreds of millions of peer-reviewed, open-access research outputs directly from thousands of global university repositories.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Stable, non-commercial, and 100% legal alternative to Sci-Hub. Provides instant full-text PDF downloads without logins, paywalls, or rotating domain friction.
-  # Friction Caveat: Search interface occasionally surfaces records where only abstract metadata is available if the source host enforces restrictive open-access embargoes.
-  # Audit Status: Approved — zero account required, permanent URLs, zero paywalls.
+  - Sci-Hub
+  - Commercial Journal Paywalls
+  - Gated Academic Databases
+  annotation: Non-profit harvester aggregating hundreds of millions of peer-reviewed,
+    open-access research outputs directly from thousands of global university repositories.
   id: core-ac-uk-academic-search
-  subcategory: academic-research
+  subcategory: academic-paper-access
 - title: Brave Search
   url: https://search.brave.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - independent-index
@@ -4126,7 +4111,7 @@
   subcategory: privacy-search-engines
 - title: Ecosia
   url: https://www.ecosia.org
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - privacy
@@ -4140,7 +4125,7 @@
   subcategory: privacy-search-engines
 - title: European Search Perspective (EUPSP) / Open Web Index
   url: https://openwebsearch.eu
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - open-web-index
   - search-infrastructure
@@ -4154,7 +4139,7 @@
   subcategory: independent-web-search
 - title: Kagi
   url: https://kagi.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - paid-search
@@ -4170,7 +4155,7 @@
   subcategory: privacy-search-engines
 - title: Marginalia Search
   url: https://marginalia-search.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - indie-web
   - text-first
@@ -4185,7 +4170,7 @@
   subcategory: independent-web-search
 - title: Million Short
   url: https://millionshort.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-filter
   - discovery
@@ -4200,7 +4185,7 @@
   subcategory: independent-web-search
 - title: Mojeek
   url: https://www.mojeek.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - independent-crawler
@@ -4216,7 +4201,7 @@
   subcategory: privacy-search-engines
 - title: Perplexity
   url: https://www.perplexity.ai
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - conversational-search
   - citation-backed
@@ -4231,7 +4216,7 @@
   subcategory: ai-search-engines
 - title: Phind
   url: https://www.phind.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - developer-search
   - code-troubleshooting
@@ -4245,7 +4230,7 @@
   subcategory: ai-search-engines
 - title: Qwant
   url: https://www.qwant.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - privacy
@@ -4260,7 +4245,7 @@
   subcategory: privacy-search-engines
 - title: SearXNG
   url: https://docs.searxng.org
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - metasearch
   - self-hosted
@@ -4278,7 +4263,7 @@
   subcategory: metasearch-self-hosted
 - title: Startpage
   url: https://www.startpage.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - privacy
   - google-results
@@ -4293,7 +4278,7 @@
   subcategory: privacy-search-engines
 - title: Abacus.ai
   url: https://abacus.ai
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - mlops
   - enterprise-ai
@@ -4309,7 +4294,7 @@
   subcategory: ai-dev-platforms
 - title: AlternativeTo
   url: https://alternativeto.net
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - software-discovery
   - open-source
@@ -4325,7 +4310,7 @@
   subcategory: software-directories
 - title: Bolt.new
   url: https://bolt.new
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - in-browser-ide
   - full-stack
@@ -4355,10 +4340,10 @@
   annotation: Comprehensive web technology profiler indexing frameworks, analytics,
     hosting infrastructure, and historical stack data across domains.
   id: builtwith
-  subcategory: tech-stack-profilers
+  subcategory: web-tech-profilers
 - title: Cursor
   url: https://cursor.com
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - code-editor
   - ai-ide
@@ -4374,7 +4359,7 @@
   subcategory: ai-coding-assistants
 - title: Godot Engine
   url: https://godotengine.org
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - game-engine
   - open-source
@@ -4390,7 +4375,7 @@
   subcategory: game-development
 - title: Google AI Studio
   url: https://aistudio.google.com/welcome
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - prompt-engineering
   - developer-environment
@@ -4405,7 +4390,7 @@
   subcategory: ai-dev-platforms
 - title: Google Opal
   url: https://local-self-hosted-ai-agents
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - no-code
   - ai-sandbox
@@ -4439,7 +4424,7 @@
   subcategory: ui-design-tools
 - title: grep.app
   url: https://grep.app
-  category: osint-open-access-research
+  category: developer-tools
   tags:
   - code-search
   - regex
@@ -4453,10 +4438,10 @@
     to run case-sensitive queries and regular expressions across open-source public
     Git repositories.
   id: grepapp
-  subcategory: source-code-search
+  subcategory: code-search
 - title: Hugging Face Spaces
   url: https://huggingface.co/spaces
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - ai-demos
   - hosting
@@ -4486,7 +4471,7 @@
   annotation: Browser extension and API tool that instantly identifies CMS platforms,
     JavaScript libraries, payment gateways, and server stacks on active web pages.
   id: wappalyzer
-  subcategory: tech-stack-profilers
+  subcategory: web-tech-profilers
 - title: Mixkit
   url: https://mixkit.co
   category: audio-video-image-manipulation
@@ -4599,7 +4584,7 @@
   subcategory: stock-media
 - title: Career Hound
   url: https://www.careerhound.io
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - job-board
@@ -4613,7 +4598,7 @@
   subcategory: remote-job-boards
 - title: EuropeRemotely
   url: https://europeremotely.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - european-jobs
@@ -4626,7 +4611,7 @@
   subcategory: remote-job-boards
 - title: Jobspresso
   url: https://jobspresso.co
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - tech-jobs
@@ -4639,7 +4624,7 @@
   subcategory: remote-job-boards
 - title: Dynamite Jobs
   url: https://dynamitejobs.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - remote-first
@@ -4652,7 +4637,7 @@
   subcategory: remote-job-boards
 - title: SkipTheDrive
   url: https://www.skipthedrive.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - work-from-home
@@ -4665,7 +4650,7 @@
   subcategory: remote-job-boards
 - title: Pangian
   url: https://pangian.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - global-talent
@@ -4678,7 +4663,7 @@
   subcategory: remote-job-boards
 - title: Outsourcely
   url: https://www.outsourcely.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-workers
   - freelance-platform
@@ -4692,7 +4677,7 @@
   subcategory: remote-job-boards
 - title: Virtual Vocations
   url: https://www.virtualvocations.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - telecommute-jobs
   - hand-screened
@@ -4705,7 +4690,7 @@
   subcategory: remote-job-boards
 - title: Remotive
   url: https://remotive.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - remote-jobs
   - tech-careers
@@ -4731,7 +4716,7 @@
   subcategory: resume-career-tools
 - title: Google Skillshop (Digital Garage)
   url: https://skillshop.withgoogle.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - digital-marketing
   - free-courses
@@ -4744,10 +4729,10 @@
     accredited courses and professional certifications in marketing, analytics, and
     digital skills.
   id: google-skillshop-digital-garage
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: HubSpot Academy
   url: https://academy.hubspot.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - free-courses
   - inbound-marketing
@@ -4761,10 +4746,10 @@
     certifications and training courses across inbound marketing, sales, customer
     service, and revenue operations.
   id: hubspot-academy
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: Meta Blueprint
   url: https://www.facebookblueprint.com/student/catalogue
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - digital-marketing
   - social-media
@@ -4778,10 +4763,10 @@
     free eLearning courses and structured guides for advertising, content management,
     and digital marketing across Meta technologies.
   id: meta-blueprint
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: Microsoft Learn
   url: https://learn.microsoft.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - technical-training
   - free-courses
@@ -4795,10 +4780,10 @@
     technologies, Azure, cloud computing, and developer tools, featuring hands-on
     interactive sandboxes and professional certifications.
   id: microsoft-learn
-  subcategory: professional-certifications
+  subcategory: free-certifications
 - title: Teachable Machine
   url: https://teachablemachine.withgoogle.com
-  category: local-self-hosted-ai-agents
+  category: ai-agents
   tags:
   - machine-learning
   - browser-ai
@@ -4815,7 +4800,7 @@
   subcategory: ai-dev-platforms
 - title: PhET Interactive Simulations
   url: https://phet.colorado.edu
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - interactive-science
   - physics-simulations
@@ -4832,7 +4817,7 @@
   subcategory: science-simulations
 - title: Phyphox
   url: https://phyphox.org
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - physics-experiments
   - mobile-sensors
@@ -4848,7 +4833,7 @@
   subcategory: science-simulations
 - title: EyeWire
   url: https://eyewire.org/explore
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - citizen-science
   - neuroscience
@@ -4864,7 +4849,7 @@
   subcategory: science-simulations
 - title: Twine (Twinery)
   url: https://twinery.org
-  category: office-productivity-utilities
+  category: games-and-play
   tags:
   - interactive-fiction
   - open-source
@@ -4877,10 +4862,10 @@
   annotation: Open-source, local-first tool for creating interactive, nonlinear stories
     and text-based games without requiring programming experience.
   id: twine-twinery
-  subcategory: game-development
+  subcategory: interactive-fiction
 - title: Musicca
   url: https://www.musicca.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - music-theory
   - interactive-learning
@@ -4896,7 +4881,7 @@
   subcategory: creative-skills-learning
 - title: Workout.cool
   url: https://workout.cool/en
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - fitness-tracker
   - open-source
@@ -4911,7 +4896,7 @@
     featuring a comprehensive exercise database, PWA support, and full self-hosting
     capabilities with zero telemetry.
   id: workoutcool
-  subcategory: fitness-tracking
+  subcategory: fitness-references
 - title: Osiris Live
   url: https://github.com/enzg/osiris-live
   category: osint-open-access-research
@@ -4964,10 +4949,10 @@
     that generates print-ready map art, wallpapers, and route renders from OpenStreetMap
     data entirely in the browser with zero data retention.
   id: terraink
-  subcategory: terrain-map-generators
+  subcategory: map-art
 - title: Anime.js
   url: https://animejs.com
-  category: audio-video-image-manipulation
+  category: developer-tools
   tags:
   - animation
   - javascript-library
@@ -5003,7 +4988,7 @@
   subcategory: osint-frameworks
 - title: Sourcebot
   url: https://github.com/sourcebot-dev/sourcebot
-  category: osint-open-access-research
+  category: developer-tools
   tags:
   - open-source
   - code-search
@@ -5016,7 +5001,7 @@
   annotation: An open-source, self-hostable code search engine that indexes local
     and remote Git repositories for fast semantic and regex code navigation.
   id: sourcebot
-  subcategory: source-code-search
+  subcategory: code-search
 - title: MediaInfo
   url: https://mediaarea.net/MediaInfo
   category: audio-video-image-manipulation
@@ -5036,7 +5021,7 @@
   subcategory: media-players-inspectors
 - title: Marginalia Search
   url: https://marginalia-search.com
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - search-engine
   - open-source
@@ -5052,7 +5037,7 @@
   subcategory: independent-web-search
 - title: DevFreeBooks
   url: https://devfreebooks.github.io
-  category: educational-research-repositories
+  category: developer-tools
   tags:
   - open-source
   - books
@@ -5086,7 +5071,7 @@
   subcategory: ocr-pdf-utilities
 - title: GoldenDict-ng
   url: https://github.com/xiaoyifang/goldendict-ng
-  category: office-productivity-utilities
+  category: text-and-writing
   tags:
   - open-source
   - dictionary
@@ -5100,7 +5085,7 @@
   annotation: An open-source (GPL-3.0+) cross-platform feature-rich dictionary lookup
     program supporting multiple offline dictionary formats.
   id: goldendict-ng
-  subcategory: writing-tools
+  subcategory: dictionaries-thesauri
 - title: OpenMHZ
   url: https://openmhz.com
   category: osint-open-access-research
@@ -5120,7 +5105,7 @@
   subcategory: live-radio-streams
 - title: Aviation Safety Network
   url: https://aviation-safety.net
-  category: educational-research-repositories
+  category: osint-open-access-research
   tags:
   - historical-archive
   - aviation
@@ -5152,7 +5137,7 @@
   subcategory: malware-url-analysis
 - title: Newton Project
   url: https://www.newtonproject.ox.ac.uk
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - academic-archive
   - open-access
@@ -5184,7 +5169,7 @@
   subcategory: space-tracking
 - title: PhilArchive
   url: https://philarchive.org
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - open-access
   - philosophy
@@ -5200,7 +5185,7 @@
   subcategory: academic-paper-access
 - title: Open Problem Garden
   url: https://openproblemgarden.org
-  category: educational-research-repositories
+  category: open-data-and-reference
   tags:
   - mathematics
   - open-access
@@ -5215,7 +5200,7 @@
   subcategory: math-tools
 - title: Track Awesome List
   url: https://trackawesomelist.com
-  category: educational-research-repositories
+  category: developer-tools
   tags:
   - open-source
   - awesome-list
@@ -5230,7 +5215,7 @@
   subcategory: developer-resource-lists
 - title: Letters of Note
   url: https://lettersofnote.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - historical-archive
   - epistolary
@@ -5244,7 +5229,7 @@
   subcategory: primary-source-archives
 - title: Library of Short Stories
   url: https://libraryofshortstories.com/
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - public-domain
   - literature
@@ -5258,7 +5243,7 @@
   subcategory: public-domain-literature
 - title: Dark Books Magic Archive
   url: https://darkbooks.org
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - public-domain
   - occult-history
@@ -5272,7 +5257,7 @@
   subcategory: public-domain-literature
 - title: Ancient Nerds
   url: https://ancientnerds.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - open-data
   - archaeology
@@ -5290,7 +5275,7 @@
   subcategory: museum-heritage-archives
 - title: LinkedCulture
   url: https://linkedculture.org
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - open-access
   - museum-archive
@@ -5306,7 +5291,7 @@
   subcategory: museum-heritage-archives
 - title: Dark Forest Archive
   url: https://darkforestarchive.com
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - historical-archive
   - digital-archive
@@ -5338,7 +5323,7 @@
   subcategory: audio-editors
 - title: trace.moe
   url: https://trace.moe
-  category: audio-video-image-manipulation
+  category: search-engines
   tags:
   - open-source
   - anime-search
@@ -5355,7 +5340,7 @@
   subcategory: reverse-image-search
 - title: Wheel of Names
   url: https://wheelofnames.com
-  category: office-productivity-utilities
+  category: games-and-play
   tags:
   - open-source
   - randomizer
@@ -5368,10 +5353,10 @@
   annotation: An open-source, client-side, ad-free customizable spinning wheel utility
     for randomized selections, giveaways, and decision-making.
   id: wheel-of-names
-  subcategory: web-utilities
+  subcategory: randomizers
 - title: Polypad
   url: https://polypad.amplify.com
-  category: educational-research-repositories
+  category: open-data-and-reference
   tags:
   - interactive-math
   - virtual-manipulatives
@@ -5388,7 +5373,7 @@
   subcategory: math-tools
 - title: Morphic
   url: https://github.com/miurla/morphic
-  category: local-self-hosted-ai-agents
+  category: search-engines
   tags:
   - open-source
   - ai-search
@@ -5406,7 +5391,7 @@
   subcategory: ai-search-engines
 - title: Smithsonian Open Access
   url: https://si.edu/openaccess
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - cc0
   - public-domain
@@ -5423,7 +5408,7 @@
   subcategory: museum-heritage-archives
 - title: iNaturalist
   url: https://inaturalist.org/
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - open-source
   - biodiversity
@@ -5441,7 +5426,7 @@
   subcategory: biodiversity-nature
 - title: Historic England Open Data Hub
   url: https://historicengland.org.uk/listing/the-list/data-downloads
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - open-data
   - open-government-licence
@@ -5496,7 +5481,7 @@
   subcategory: web-browsers
 - title: SearXNG
   url: https://github.com/searxng/searxng
-  category: privacy-focused-search-engines
+  category: search-engines
   tags:
   - open-source
   - search-engine
@@ -5550,7 +5535,7 @@
   subcategory: private-notes-collaboration
 - title: Omatsuri
   url: https://omatsuri.app
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - frontend-tools
   - developer-utilities
@@ -5566,7 +5551,7 @@
   subcategory: frontend-dev-resources
 - title: Uiverse
   url: https://uiverse.io
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - ui-components
   - css
@@ -5582,7 +5567,7 @@
   subcategory: frontend-dev-resources
 - title: Animista
   url: https://animista.net
-  category: audio-video-image-manipulation
+  category: developer-tools
   tags:
   - css-animations
   - visual-generator
@@ -5613,7 +5598,7 @@
   subcategory: web-utilities
 - title: pwn.college
   url: https://pwn.college
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - cybersecurity
   - binary-exploitation
@@ -5650,7 +5635,7 @@
   subcategory: creative-coding-art
 - title: Effect
   url: https://effect.app
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - typescript
   - open-source
@@ -5667,7 +5652,7 @@
   subcategory: frontend-dev-resources
 - title: free-for.dev
   url: https://free-for.dev
-  category: educational-research-repositories
+  category: developer-tools
   tags:
   - developer-tools
   - open-source
@@ -5685,7 +5670,7 @@
   subcategory: developer-resource-lists
 - title: SeedMap
   url: https://seedmap.org
-  category: educational-research-repositories
+  category: open-access-learning-and-archives
   tags:
   - biodiversity
   - open-access
@@ -5753,10 +5738,10 @@
     created by Wenting Zhang. Zero external fonts, zero SVG images, and zero JS dependencies—just
     copy and paste single-div HTML/CSS.
   id: css-icon
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: SteamDB Sales & Price Tracker
   url: https://steamdb.info/sales/
-  category: office-productivity-utilities
+  category: games-and-play
   tags:
   - open-tool
   - price-tracker
@@ -5770,7 +5755,7 @@
     price changes, historic lows, and active publisher sales without intrusive ads,
     tracking garbage, or affiliate dark patterns.
   id: steamdb-sales-price-tracker
-  subcategory: price-tracking
+  subcategory: game-deals
 - title: TokComment
   url: https://tokcomment.com
   category: audio-video-image-manipulation
@@ -5806,7 +5791,7 @@
   subcategory: reference-bookmark-managers
 - title: Excalidraw
   url: https://excalidraw.com
-  category: audio-video-image-manipulation
+  category: office-productivity-utilities
   tags:
   - whiteboard
   - open-source
@@ -5822,20 +5807,21 @@
   subcategory: diagramming-whiteboards
 - title: ti.fo
   url: https://ti.fo
-  category: utilities-and-tools
+  category: office-productivity-utilities
   tags:
-    - file-sharing
-    - encrypted-notes
-    - one-time-secret
-    - zero-knowledge
+  - file-sharing
+  - encrypted-notes
+  - one-time-secret
+  - zero-knowledge
   replaces:
-    - Trashbin / Temporary File Hosts
-  annotation: Lightweight, zero-account utility for sharing end-to-end encrypted secrets, self-destructing pastes, and one-time file drops without a login.
+  - Trashbin / Temporary File Hosts
+  annotation: Lightweight, zero-account utility for sharing end-to-end encrypted secrets,
+    self-destructing pastes, and one-time file drops without a login.
   id: ti-fo-file-sharing
-  subcategory: temporary-file-sharing
+  subcategory: file-sharing
 - title: Ray.so
   url: https://ray.so
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - developer-tools
   - code-snippets
@@ -5898,7 +5884,7 @@
   subcategory: 3d-animation-vfx
 - title: Film-Grab
   url: https://film-grab.com
-  category: audio-video-image-manipulation
+  category: open-data-and-reference
   tags:
   - film-stills
   - cinema-archive
@@ -5914,7 +5900,7 @@
   subcategory: film-stills-references
 - title: MovieLens
   url: https://movielens.org
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - academic
   - open-data
@@ -5931,7 +5917,7 @@
   subcategory: film-resources
 - title: Shot.Cafe
   url: https://shot.cafe
-  category: audio-video-image-manipulation
+  category: open-data-and-reference
   tags:
   - cinematography
   - color-palette
@@ -5946,7 +5932,7 @@
   subcategory: film-stills-references
 - title: Film Colossus
   url: https://filmcolossus.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - film-analysis
   - cinema-criticism
@@ -5961,7 +5947,7 @@
   subcategory: film-resources
 - title: BFI Sight and Sound Poll
   url: https://www.bfi.org.uk/sight-and-sound
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - archive
   - film-history
@@ -5976,7 +5962,7 @@
   subcategory: film-resources
 - title: Timeline of Historical Film Colors
   url: https://filmcolors.org
-  category: audio-video-image-manipulation
+  category: open-data-and-reference
   tags:
   - academic
   - film-restoration
@@ -5992,7 +5978,7 @@
   subcategory: film-stills-references
 - title: Criterion Current
   url: https://www.criterion.com/current
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - film-essays
   - cinema-history
@@ -6007,7 +5993,7 @@
   subcategory: film-resources
 - title: WhatIsMyMovie
   url: https://www.whatismymovie.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - descriptive-search
   - semantic-search
@@ -6022,7 +6008,7 @@
   subcategory: film-resources
 - title: Movie-Locations
   url: https://www.movie-locations.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - filming-locations
   - geography
@@ -6037,7 +6023,7 @@
   subcategory: film-locations
 - title: Aider
   url: https://aider.chat
-  category: office-productivity-utilities
+  category: ai-agents
   tags:
   - open-source
   - cli
@@ -6054,7 +6040,7 @@
   subcategory: ai-coding-assistants
 - title: OpenCode
   url: https://opencode.ai
-  category: office-productivity-utilities
+  category: ai-agents
   tags:
   - open-source
   - developer-tools
@@ -6104,10 +6090,10 @@
     with transparent backgrounds, freely available under Creative Commons (CC BY-NC
     4.0) for non-commercial design and composite workflows.
   id: pngimg
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: Geist UI / Vercel Design System
   url: https://vercel.com/design
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - design-system
   - css
@@ -6159,7 +6145,7 @@
   subcategory: creative-coding-art
 - title: QuickRef.ME
   url: https://quickref.me
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - cheat-sheets
   - developer-tools
@@ -6190,7 +6176,7 @@
     and anatomical illustrations released under Creative Commons (CC BY 3.0) for research,
     publication, and visual design workflows.
   id: servier-medical-art-smart
-  subcategory: icon-illustration-assets
+  subcategory: icons-and-illustrations
 - title: myNoise
   url: https://mynoise.net
   category: audio-video-image-manipulation
@@ -6210,7 +6196,7 @@
   subcategory: sound-generators-music-toys
 - title: FlightConnections
   url: https://www.flightconnections.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - flight-map
   - route-visualizer
@@ -6225,7 +6211,7 @@
   subcategory: travel-planning
 - title: Webkay
   url: https://webkay.robinlinus.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - browser-privacy
   - open-source
@@ -6242,7 +6228,7 @@
   subcategory: privacy-auditing
 - title: MyFridgeFood
   url: https://myfridgefood.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - recipe-finder
   - pantry-search
@@ -6258,7 +6244,7 @@
   subcategory: recipes-meal-planning
 - title: urlscan.io
   url: https://urlscan.io
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - security-sandbox
   - url-scanner
@@ -6310,7 +6296,7 @@
   subcategory: 3d-animation-vfx
 - title: Watabou's Procedural Generators & Itch Page
   url: https://watabou.itch.io
-  category: audio-video-image-manipulation
+  category: games-and-play
   tags:
   - procedural-generation
   - worldbuilding
@@ -6326,10 +6312,10 @@
     City Generator, Perilous Shores, and One Page Dungeon—plus rogue-like games built
     for instant browser play.
   id: watabous-procedural-generators-itch-page
-  subcategory: game-development
+  subcategory: tabletop-worldbuilding
 - title: CyberChef
   url: https://gchq.github.io/CyberChef/
-  category: office-productivity-utilities
+  category: developer-tools
   tags:
   - open-source
   - apache-2.0
@@ -6345,7 +6331,7 @@
     encoding, compression, and data analysis that runs 100% client-side in the browser
     via JavaScript with zero server telemetry or data transmission.
   id: cyberchef
-  subcategory: decoding-converters
+  subcategory: data-converters
 - title: Reactive Resume
   url: https://rxresu.me
   category: office-productivity-utilities
@@ -6367,7 +6353,7 @@
   subcategory: resume-career-tools
 - title: Have I Been Flocked?
   url: https://haveibeenflocked.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - surveillance-audit
   - public-records
@@ -6382,7 +6368,7 @@
     audit logs from Flock Safety ALPR (Automated License Plate Reader) systems, allowing
     users to check if their license plate has been queried by law enforcement agencies.
   id: have-i-been-flocked
-  subcategory: surveillance-detection
+  subcategory: surveillance-awareness
 - title: Cobalt
   url: https://cobalt.tools
   category: audio-video-image-manipulation
@@ -6402,7 +6388,7 @@
   subcategory: media-converters
 - title: JustWatch
   url: https://www.justwatch.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - media-index
   - streaming-guide
@@ -6418,7 +6404,7 @@
   subcategory: film-resources
 - title: Project Gutenberg
   url: https://www.gutenberg.org
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - public-domain
   - ebooks
@@ -6452,7 +6438,7 @@
   subcategory: media-converters
 - title: Carbon
   url: https://carbon.now.sh
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - open-source
   - developer-tools
@@ -6485,7 +6471,7 @@
   subcategory: design-asset-generators
 - title: CamelCamelCamel
   url: https://camelcamelcamel.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - price-tracker
   - amazon-history
@@ -6500,7 +6486,7 @@
   subcategory: price-tracking
 - title: GeoGebra
   url: https://www.geogebra.org
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - open-source
   - mathematics
@@ -6518,7 +6504,7 @@
   subcategory: math-tools
 - title: SageMath
   url: https://www.sagemath.org
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - open-source
   - gpl
@@ -6553,7 +6539,7 @@
   subcategory: background-removal
 - title: AnonAddy (Eugen / SimpleLogin Alternative)
   url: https://addy.io
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - open-source
   - self-hostable
@@ -6584,7 +6570,7 @@
     and Moniker that streams live broadcast radio signals from thousands of local
     stations around the globe.
   id: radio-garden
-  subcategory: live-radio-streams
+  subcategory: live-radio
 - title: Kutt
   url: https://kutt.it
   category: office-productivity-utilities
@@ -6639,7 +6625,7 @@
   subcategory: sound-generators-music-toys
 - title: Parcels App
   url: https://parcelsapp.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - package-tracker
   - universal-utility
@@ -6655,7 +6641,7 @@
   subcategory: everyday-trackers
 - title: Internet Live Stats
   url: https://www.internetlivestats.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - statistics
   - real-time-data
@@ -6668,10 +6654,10 @@
     for global internet usage, Google searches, active websites, and social media
     traffic.
   id: internet-live-stats
-  subcategory: open-data-statistics
+  subcategory: global-statistics
 - title: Geacron
   url: https://geacron.com/page_ini.html
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - historical-atlas
   - world-history
@@ -6687,7 +6673,7 @@
   subcategory: historical-maps
 - title: Ana-White
   url: https://ana-white.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - woodworking
   - free-plans
@@ -6703,7 +6689,7 @@
   subcategory: diy-maker-resources
 - title: Kreg Projects
   url: https://learn.kregtool.com/projects-plans/
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - woodworking
   - project-plans
@@ -6715,7 +6701,7 @@
   annotation: A free project library sponsored by Kreg Tool offering downloadable
     woodworking plans, diagrams, and step-by-step tutorials for shop and home furniture.
   id: build-something
-  subcategory: diy-maker-resources  
+  subcategory: diy-maker-resources
 - title: Identifont
   url: https://www.identifont.com
   category: audio-video-image-manipulation
@@ -6734,7 +6720,7 @@
   subcategory: fonts-typography
 - title: IMSLP (Petrucci Music Library)
   url: https://imslp.org
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - sheet-music
   - public-domain
@@ -6802,7 +6788,7 @@
   subcategory: code-editors
 - title: Hackaday
   url: https://hackaday.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - maker-community
   - electronics
@@ -6819,7 +6805,7 @@
   subcategory: diy-maker-resources
 - title: Mini Tokyo 3D
   url: https://minitokyo3d.com
-  category: audio-video-image-manipulation
+  category: open-access-learning-and-archives
   tags:
   - open-source
   - real-time-data
@@ -6836,7 +6822,7 @@
   subcategory: interactive-3d-visualization
 - title: Scale of Universe
   url: https://scaleofuniverse.com/en
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - interactive-scaling
   - educational
@@ -6853,7 +6839,7 @@
   subcategory: science-simulations
 - title: WorldWide Telescope
   url: https://worldwidetelescope.org/webclient
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - open-source
   - astronomy
@@ -6902,7 +6888,7 @@
   subcategory: sound-generators-music-toys
 - title: Shipmap
   url: https://www.shipmap.org
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - data-visualization
   - shipping-routes
@@ -6918,7 +6904,7 @@
   subcategory: maritime-tracking
 - title: OpenProcessing
   url: https://openprocessing.org
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - creative-coding
   - p5js
@@ -6934,7 +6920,7 @@
   subcategory: creative-coding-art
 - title: Spot The Station (NASA)
   url: https://www.nasa.gov/spot-the-station/
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - public-domain
   - nasa
@@ -6965,7 +6951,7 @@
   subcategory: creative-coding-art
 - title: CareerOneStop Scholarship Finder
   url: https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - scholarship-search
   - government-utility
@@ -6981,7 +6967,7 @@
   subcategory: scholarships-funding
 - title: JLV College Counseling
   url: https://jlvcollegecounseling.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - scholarship-directory
   - independent-resource
@@ -6995,7 +6981,7 @@
   subcategory: scholarships-funding
 - title: Keepa
   url: https://keepa.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - price-tracker
   - amazon-utility
@@ -7012,7 +6998,7 @@
   subcategory: price-tracking
 - title: Idealo
   url: https://www.idealo.co.uk
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - price-comparison
   - shopping-utility
@@ -7026,23 +7012,19 @@
   subcategory: price-tracking
 - title: Skyscanner
   url: https://www.skyscanner.com
-  category: travel-and-navigation
+  category: open-data-and-reference
   tags:
-    - flight-matrix
-    - travel-search
-    - price-check
+  - flight-matrix
+  - travel-search
+  - price-check
   replaces:
-    - Gated Flight Aggregators
+  - Gated Flight Aggregators
   annotation: Un-authenticated flight schedule and pricing matrix search tool.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Allows zero-account flight calendar & route querying without mandatory logins.
-  # Friction Caveat: Acts as an affiliate funnel; requires incognito/clean context to avoid dynamic pricing cookies.
-  # Audit Status: Approved (borderline friction) — reconsider if affiliate funnels become more aggressive.
   id: skyscanner-flight-search
-  subcategory: travel-utilities
+  subcategory: travel-planning
 - title: Wise
   url: https://wise.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - currency-exchange
   - international-transfer
@@ -7055,7 +7037,7 @@
   subcategory: money-transfer-fx
 - title: Monito
   url: https://www.monito.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - transfer-comparison
   - remittance
@@ -7069,7 +7051,7 @@
   subcategory: money-transfer-fx
 - title: Budget Bytes
   url: https://www.budgetbytes.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - recipe-database
   - frugal-living
@@ -7084,7 +7066,7 @@
   subcategory: recipes-meal-planning
 - title: Filmot
   url: https://filmot.com
-  category: office-productivity-utilities
+  category: search-engines
   tags:
   - osint-tool
   - youtube-search
@@ -7099,7 +7081,7 @@
   subcategory: video-transcript-search
 - title: FreeSewing
   url: https://freesewing.eu
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - open-source
   - sewing-patterns
@@ -7114,7 +7096,7 @@
   subcategory: diy-maker-resources
 - title: GPS Visualizer
   url: https://www.gpsvisualizer.com
-  category: office-productivity-utilities
+  category: osint-open-access-research
   tags:
   - gps-utility
   - mapping
@@ -7128,7 +7110,7 @@
   subcategory: gis-mapping-tools
 - title: Animated Knots by Grog
   url: https://www.animatedknots.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - reference
   - utility
@@ -7143,7 +7125,7 @@
   subcategory: diy-maker-resources
 - title: The Wood Database
   url: https://www.wood-database.com
-  category: office-productivity-utilities
+  category: open-data-and-reference
   tags:
   - wood-identification
   - maker-utility
@@ -7158,7 +7140,7 @@
   subcategory: diy-maker-resources
 - title: ColorHexa
   url: https://www.colorhexa.com
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - color-tool
   - design-utility
@@ -7173,7 +7155,7 @@
   subcategory: color-tools
 - title: FamilySearch
   url: https://www.familysearch.org/en/united-states/
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - genealogy
   - historical-records
@@ -7188,7 +7170,7 @@
   subcategory: genealogy-records
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com
-  category: office-productivity-utilities
+  category: open-access-learning-and-archives
   tags:
   - historical-maps
   - cartography
@@ -7261,7 +7243,7 @@
   subcategory: work-planning-tools
 - title: Hemingway Editor
   url: https://hemingwayapp.com
-  category: office-productivity-utilities
+  category: text-and-writing
   tags:
   - writing-assistant
   - readability
@@ -7275,7 +7257,7 @@
   subcategory: writing-tools
 - title: Dictation.io
   url: https://dictation.io
-  category: office-productivity-utilities
+  category: text-and-writing
   tags:
   - speech-to-text
   - browser-utility
@@ -7286,7 +7268,7 @@
   annotation: A browser-based speech-to-text utility that uses speech recognition
     to transcribe spoken words directly into written text without requiring an account.
   id: dictationio
-  subcategory: writing-tools
+  subcategory: speech-to-text
 - title: Canva Whiteboards
   url: https://www.canva.com/online-whiteboard
   category: office-productivity-utilities
@@ -7317,7 +7299,7 @@
   subcategory: work-planning-tools
 - title: Markup Hero
   url: https://markuphero.com
-  category: office-productivity-utilities
+  category: audio-video-image-manipulation
   tags:
   - screenshot-tool
   - annotation
@@ -7333,128 +7315,101 @@
   url: https://explainshell.com
   category: developer-tools
   tags:
-    - linux
-    - bash
-    - terminal
-    - command-line
-    - man-pages
+  - linux
+  - bash
+  - terminal
+  - command-line
+  - man-pages
   replaces:
-    - Manual Man-Page Digging
-  annotation: Interactive tool that parses complex shell commands and maps every flag to its corresponding man page documentation.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Zero account, zero friction, highly functional for unpacking dense shell one-liners.
-  # Friction Caveat: Relies on static man-page indexes; occasionally lacks obscure third-party CLI flags.
-  # Audit Status: Approved.
+  - Manual Man-Page Digging
+  annotation: Interactive tool that parses complex shell commands and maps every flag
+    to its corresponding man page documentation.
   id: explainshell-cli-parser
   subcategory: terminal-utilities
-
 - title: grep.app
   url: https://grep.app
   category: developer-tools
   tags:
-    - code-search
-    - github
-    - regex
-    - open-source
+  - code-search
+  - github
+  - regex
+  - open-source
   replaces:
-    - GitHub Gated Search
-  annotation: Lightning-fast code search engine querying millions of public GitHub repositories using exact string, case-sensitive, or regex matching.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Completely un-authenticated search across open source codebases. Bypasses GitHub login barriers.
-  # Friction Caveat: None. Clean, instant UI.
-  # Audit Status: Approved.
+  - GitHub Gated Search
+  annotation: Lightning-fast code search engine querying millions of public GitHub
+    repositories using exact string, case-sensitive, or regex matching.
   id: grep-app-code-search
   subcategory: code-search
-
 - title: RegExr
   url: https://regexr.com
   category: developer-tools
   tags:
-    - regex
-    - developer-utility
-    - pattern-matching
-    - text-processing
+  - regex
+  - developer-utility
+  - pattern-matching
+  - text-processing
   replaces:
-    - Paid Regex Testing Tools
-  annotation: HTML/JS-based regular expression builder and tester featuring real-time syntax highlighting, side-by-side explanations, and instant cheat sheets.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Fully functional zero-signup browser utility for debugging patterns.
-  # Friction Caveat: None.
-  # Audit Status: Approved.
+  - Paid Regex Testing Tools
+  annotation: HTML/JS-based regular expression builder and tester featuring real-time
+    syntax highlighting, side-by-side explanations, and instant cheat sheets.
   id: regexr-pattern-tester
   subcategory: developer-utilities
-
 - title: Dictation.io
   url: https://dictation.io
   category: text-and-writing
   tags:
-    - speech-to-text
-    - transcription
-    - browser-utility
-    - voice-notes
+  - speech-to-text
+  - transcription
+  - browser-utility
+  - voice-notes
   replaces:
-    - Gated Dictation SaaS Apps
-  annotation: Browser-based speech recognition tool that transcribes voice into plain text in real time using local Web Speech APIs.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Instant voice-to-text in the browser without creating an account or logging in.
-  # Friction Caveat: Requires Chrome/Brave speech engine permissions.
-  # Audit Status: Approved.
+  - Gated Dictation SaaS Apps
+  annotation: Browser-based speech recognition tool that transcribes voice into plain
+    text in real time using local Web Speech APIs.
   id: dictation-io-speech-to-text
-  subcategory: writing-tools
-
+  subcategory: speech-to-text
 - title: OneLook Reverse Dictionary
   url: https://onelook.com
-  category: open-data-and-reference
+  category: text-and-writing
   tags:
-    - dictionary
-    - linguistics
-    - word-finder
-    - reference
+  - dictionary
+  - linguistics
+  - word-finder
+  - reference
   replaces:
-    - Standard Online Dictionaries
-  annotation: Search engine for words and phrases that allows reverse queries by concept, wildcard pattern matching, and semantic definitions.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Excellent utility for finding obscure terms or exact phrasing from descriptions alone. Zero account.
-  # Friction Caveat: Visual layout is dated, but zero functional friction.
-  # Audit Status: Approved.
+  - Standard Online Dictionaries
+  annotation: Search engine for words and phrases that allows reverse queries by concept,
+    wildcard pattern matching, and semantic definitions.
   id: onelook-reverse-dictionary
-  subcategory: reference-tools
-  
+  subcategory: dictionaries-thesauri
 - title: public-apis (GitHub Repository)
   url: https://github.com/public-apis/public-apis
   category: developer-tools
   tags:
-    - api-directory
-    - open-source
-    - github
-    - developer-resources
-    - free-apis
+  - api-directory
+  - open-source
+  - github
+  - developer-resources
+  - free-apis
   replaces:
-    - Monetized API Marketplaces
-    - Commercial SaaS Directories
-  annotation: Community-maintained, open-source Markdown catalog indexing thousands of free public APIs organized across dozens of categories.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Completely open-source, non-commercial list. Bypasses monetized directory walls, sponsored affiliate listings, and email popups.
-  # Friction Caveat: It is a raw README file on GitHub; requires manual browsing or searching within the repository page.
-  # Audit Status: Approved — gold standard for open API discovery.
+  - Monetized API Marketplaces
+  - Commercial SaaS Directories
+  annotation: Community-maintained, open-source Markdown catalog indexing thousands
+    of free public APIs organized across dozens of categories.
   id: github-public-apis-repository
   subcategory: api-directories
-
 - title: Free Public APIs
   url: https://freepublicapis.com
   category: developer-tools
   tags:
-    - api-directory
-    - developer-utility
-    - open-access
-    - free-apis
-    - testing-tools
+  - api-directory
+  - developer-utility
+  - open-access
+  - free-apis
+  - testing-tools
   replaces:
-    - Gated API Marketplaces
-  annotation: Clean, zero-account browser directory that catalogs and daily-tests free public APIs with clear flags for authentication and CORS requirements.
-  # --- INTERNAL AUDIT / MAINTENANCE NOTES ---
-  # Inclusion Rationale: Provides instant filtering for zero-auth / keyless APIs without forcing user accounts or signups.
-  # Friction Caveat: Some individual APIs listed inside the directory may require their own third-party keys.
-  # Audit Status: Approved — fast, un-gated interface.
+  - Gated API Marketplaces
+  annotation: Clean, zero-account browser directory that catalogs and daily-tests
+    free public APIs with clear flags for authentication and CORS requirements.
   id: free-public-apis-directory
   subcategory: api-directories
