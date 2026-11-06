@@ -2739,7 +2739,7 @@
   subcategory: maritime-tracking
 - title: TimeMap
   url: https://timemap.github.io
-  category: open-access-archives-and-research
+  category: historical-research-and-combat-arts
   tags:
   - spatiotemporal
   - historical-mapping
@@ -6657,7 +6657,7 @@
   subcategory: global-statistics
 - title: Geacron
   url: https://geacron.com/page_ini.html
-  category: open-access-archives-and-research
+  category: historical-research-and-combat-arts
   tags:
   - historical-atlas
   - world-history
@@ -7170,7 +7170,7 @@
   subcategory: genealogy-records
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com
-  category: open-access-archives-and-research
+  category: historical-research-and-combat-arts
   tags:
   - historical-maps
   - cartography
@@ -7416,14 +7416,14 @@
 - id: graynoise
   name: GrayNoise
   url: https://www.graynoise.io/
-  description: Threat intelligence platform that filters out internet-wide background
+  annotation: Threat intelligence platform that filters out internet-wide background
     noise and mass-scanning traffic to isolate targeted cyber attacks.
   category: osint-and-reconnaissance
   subcategory: threat-intelligence
 - id: securitytrails
   name: SecurityTrails
   url: https://securitytrails.com/
-  description: Comprehensive domain intelligence platform providing deep passive DNS
+  annotation: Comprehensive domain intelligence platform providing deep passive DNS
     history, subdomain enumeration, and historical WHOIS data for infrastructure recon.
   category: osint-and-reconnaissance
   subcategory: domain-and-dns-recon
@@ -7432,7 +7432,7 @@
   url: https://ipinfo.io/
   tags:
   - fremium
-  description: Industry-standard IP address intelligence platform providing precise
+  annotation: Industry-standard IP address intelligence platform providing precise
     geolocation, ASN mappings, and infrastructure reconnaissance with a robust freemium
     tier.
   category: osint-and-reconnaissance
@@ -7440,14 +7440,14 @@
 - id: nasa-worldview
   name: NASA Worldview
   url: https://worldview.earthdata.nasa.gov/
-  description: Interactive open-access platform for exploring daily global satellite
+  annotation: Interactive open-access platform for exploring daily global satellite
     imagery, tracking natural hazards, and visualizing environmental time-series data.
   category: osint-and-reconnaissance
   subcategory: geospatial-and-satellite-recon
 - id: copernicus-browser
   name: Copernicus Browser
   url: https://browser.dataspace.copernicus.eu/
-  description: Official European Space Agency platform for exploring, visualizing,
+  annotation: Official European Space Agency platform for exploring, visualizing,
     and analyzing open-access global satellite imagery from Sentinel missions for
     change detection and environmental monitoring.
   category: osint-and-reconnaissance
@@ -7455,42 +7455,100 @@
 - id: dumpsterdiver
   name: DumpsterDiver
   url: https://github.com/securing/DumpsterDiver
-  description: Open-source security tool that analyzes files, archives, and git logs
+  annotation: Open-source security tool that analyzes files, archives, and git logs
     for hardcoded secrets, private keys, and sensitive data using entropy analysis.
   category: developer-and-system-utilities
   subcategory: code-analysis-and-secret-scanning
 - id: ghidra
   name: Ghidra
   url: https://github.com/NationalSecurityAgency/ghidra
-  description: Open-source reverse engineering suite developed by the NSA featuring
+  annotation: Open-source reverse engineering suite developed by the NSA featuring
     a full-featured disassembler and multi-platform decompiler.
   category: developer-and-system-utilities
   subcategory: binary-analysis-and-reverse-engineering
 - id: apache-nifi
   name: Apache NiFi
   url: https://nifi.apache.org/
-  description: Powerful, easy-to-use system for processing and distributing data,
+  annotation: Powerful, easy-to-use system for processing and distributing data,
     originally engineered at the NSA for secure data routing and flow management.
   category: developer-and-system-utilities
   subcategory: data-pipelines-and-etl
 - id: mitigating-web-shells
   name: NSA Mitigating Web Shells
   url: https://github.com/nsacyber/Mitigating-Web-Shells
-  description: Curated YARA rules and detection guidance released by the NSA cybersecurity
+  annotation: Curated YARA rules and detection guidance released by the NSA cybersecurity
     directorate for identifying common web shells on compromised servers.
   category: osint-and-reconnaissance
-  subcategory: threat-intelligence-and-dfir
-- id: enigma-simulator
-  name: NSA Enigma Simulator
-  url: https://github.com/nsacyber/Enigma
-  description: Python implementation of the historical Enigma machine encryption device,
-    released by the NSA for educational and cryptographic analysis.
-  category: productivity-reference-and-play
-  subcategory: historical-cryptography
+  subcategory: threat-intelligence-and-dfir 
 - id: selinux
   name: SELinux (Security-Enhanced Linux)
   url: https://github.com/SELinuxProject
-  description: Mandatory Access Control (MAC) security architecture built into the
+  annotation: Mandatory Access Control (MAC) security architecture built into the
     Linux kernel to enforce strict least-privilege domain transitions and access controls.
   category: developer-and-system-utilities
   subcategory: systems-security-and-hardening
+- title: Accelerated Training in Defense Manufacturing (ATDM)
+  url: https://atdm.org
+  category: online-learning-and-workforce-training
+  subcategory: vocational development
+  annotation: Rapid technical training program targeting critical defense manufacturing and trade skills.
+
+- title: Job Corps
+  url: https://www.jobcorps.gov
+  category: online-learning-and-workforce-training
+  subcategory: vocational development
+  annotation: Federal tuition-free residential education and technical career training program.
+
+- title: Registered Apprenticeships
+  url: https://www.apprenticeship.gov
+  category: online-learning-and-workforce-training
+  subcategory: vocational development
+  annotation: Federal directory of paid, earn-while-you-learn vocational apprenticeship opportunities.
+
+- title: American Job Centers (WIOA)
+  url: https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx
+  category: online-learning-and-workforce-training
+  subcategory: workforce training
+  annotation: Federal and state network providing local career counseling, job placement, and WIOA training grants.
+
+- title: Year Up United
+  url: https://www.yearup.org
+  category: online-learning-and-workforce-training
+  subcategory: workforce training
+  annotation: Tuition-free career training, corporate internships, and stipends for young adults.
+
+- title: Per Scholas
+  url: https://www.perscholas.org
+  category: online-learning-and-workforce-training
+  subcategory: professional certification
+  annotation: Tuition-free technology training and certification tracks in IT, cybersecurity, and data.
+
+- title: NPower
+  url: https://www.npower.org
+  category: online-learning-and-workforce-training
+  subcategory: professional certification
+  annotation: Free tech fundamentals, cloud, and cybersecurity training for veterans and young adults.
+
+- title: Goodwill Career & Technical Academy
+  url: https://gctatraining.org
+  category: online-learning-and-workforce-training
+  subcategory: vocational development
+  annotation: Austin-based technical academy offering affordable trade and professional certifications.
+
+- title: Goodwill Location Finder
+  url: https://www.goodwill.org/locator
+  category: online-learning-and-workforce-training
+  subcategory: workforce training
+  annotation: National directory to locate regional Goodwill workforce training and career center programs.
+
+- title: Grace Institute
+  url: https://graceinstitute.org
+  category: online-learning-and-workforce-training
+  subcategory: workforce training
+  annotation: Tuition-free administrative and professional workforce training programs for women.
+
+- title: LaunchCode
+  url: https://www.launchcode.org
+  category: online-learning-and-workforce-training
+  subcategory: professional certification
+  annotation: Free foundational coding education, apprenticeship pathways, and tech career placement.
