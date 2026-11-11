@@ -7006,8 +7006,8 @@
 
 - title: WebLLM
   url: https://webllm.mlc.ai
-  category: developer-and-system-utilities
-  subcategory: developer-tools
+  category: ai-agents-and-development
+  subcategory: local-llm-runners
   tags:
     - open-source
     - local-ai
@@ -7019,3 +7019,3237 @@
     - Paid subscription chatbot APIs
   annotation: High-performance, in-browser LLM inference engine running entirely client-side via WebGPU and WebAssembly with zero server dependency.
   id: webllm
+
+- title: BentoPDF
+  url: https://www.bentopdf.com
+  category: developer-and-system-utilities
+  subcategory: document-and-file-utilities
+  tags:
+    - open-source
+    - pdf-toolkit
+    - privacy-focused
+    - browser-based
+    - zero-signup
+  replaces:
+    - Paid subscription PDF cloud tools (Smallpdf, Adobe web suite)
+    - Gated document conversion SaaS
+  annotation: Free, open-source, client-side PDF toolkit for merging, splitting, OCR, and editing documents entirely in the browser with zero server uploads.
+  id: bentopdf
+
+- title: Grist
+  url: https://www.getgrist.com
+  category: developer-and-system-utilities
+  subcategory: document-and-file-utilities
+  tags:
+    - open-source
+    - relational-spreadsheet
+    - sqlite
+    - python-formulas
+    - local-first
+  replaces:
+    - Gated cloud database platforms (Airtable)
+    - Unstructured corporate spreadsheets
+  annotation: Open-source relational spreadsheet and database hybrid combining SQLite storage, typed columns, Python formulas, and complete data portability.
+  id: grist
+
+- title: PairDrop
+  url: https://pairdrop.net
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-sharing
+    - local-first
+    - p2p
+    - zero-signup
+  replaces:
+    - Gated cloud file transfer SaaS
+    - Proprietary ecosystem-locked sharing tools (AirDrop restrictions)
+  annotation: Free, open-source, local-first web application for sharing files, text, and messages securely between devices on the same network with zero signups.
+  id: pairdrop
+
+- title: JS Paint
+  url: https://jspaint.app
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - nostalgia
+    - image-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Bloated modern image editing suites for simple tasks
+    - Gated proprietary web drawing apps
+  annotation: Open-source, web-based remake of classic MS Paint featuring client-side rendering, infinite undo, and zero-signup instant access.
+  id: jspaint
+
+- title: privacy.sexy
+  url: https://privacy.sexy
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - privacy-hardening
+    - security-scripts
+    - cross-platform
+    - zero-signup
+  replaces:
+    - Closed-source telemetry debloaters
+    - Proprietary commercial privacy tools
+  annotation: Open-source web and desktop utility providing customizable privacy and security hardening scripts for Windows, macOS, and Linux with zero signups.
+  id: privacy-sexy
+
+- title: OpenReel
+  url: https://openreel.video
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - video-editor
+    - local-first
+    - webgpu
+    - zero-signup
+  replaces:
+    - Proprietary cloud video editors (CapCut web)
+    - Subscription-locked desktop editing suites
+  annotation: Free, open-source, local-first video editor with WebGPU acceleration, model-agnostic AI agent integration, and zero server uploads.
+  id: openreel
+
+- title: Chili3D
+  url: https://chili3d.com
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - 3d-cad
+    - webassembly
+    - parametric-modeling
+    - browser-based
+  replaces:
+    - Heavy proprietary desktop CAD software
+    - Gated commercial 3D modeling tools
+  annotation: Free, open-source, browser-based 3D CAD application featuring OpenCascade compiled to WebAssembly, parametric modeling, and AI-assisted design.
+  id: chili3d
+
+- title: Screenshot Studio
+  url: https://screenshotstudio.dev
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - screenshot-editor
+    - local-first
+    - privacy-focused
+    - zero-signup
+  replaces:
+    - Gated cloud mockup generators
+    - Subscription-heavy marketing design SaaS
+  annotation: Free, open-source, local-first utility for turning raw screenshots into polished App Store and marketing assets entirely client-side with zero server uploads.
+  id: screenshot-studio
+
+- title: LocalSend
+  url: https://localsend.org
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-sharing
+    - local-first
+    - p2p
+    - zero-signup
+  replaces:
+    - Proprietary cloud file transfer services
+    - Centralized messaging storage tools
+  annotation: Free, open-source local-first tool for secure device-to-device file sharing and communication over a local network with zero cloud servers.
+  id: localsend
+
+- title: ComposeYogi
+  url: https://composeyogi.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - music-production
+    - daw
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated cloud music collaboration platforms
+    - Subscription-heavy desktop audio production suites
+  annotation: Free, open-source in-browser digital audio workstation and beatmaker offering professional production tools with zero-signup access.
+  id: composeyogi
+
+- title: Lanjut
+  url: https://github.com/rimzzlabs/lanjut
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - resume-builder
+    - local-first
+    - ats-friendly
+    - zero-signup
+  replaces:
+    - Gated commercial resume SaaS platforms
+    - Data-harvesting career profile builders
+  annotation: Free, open-source, local-first ATS-friendly resume and CV builder operating entirely client-side with local IndexedDB persistence and zero signups.
+  id: lanjut
+
+- title: BottleShip
+  url: https://bottleship.happydog.games
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - emulator
+    - webgpu
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated cloud game streaming services
+    - Heavy wrapper-based desktop compatibility suites
+  annotation: Open-source browser-based x86 Windows game emulator that runs native executables client-side via WebGPU, WebAudio, and OPFS with zero server dependencies.
+  id: bottleship
+
+- title: Webtor
+  url: https://webtor.io
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - torrent-streaming
+    - p2p
+    - browser-based
+    - zero-signup
+  replaces:
+    - Dedicated desktop BitTorrent clients
+    - Gated cloud torrent downloaders
+  annotation: Free, open-source web torrent client that streams and downloads torrents directly in the browser with zero software installation and zero signups.
+  id: webtor
+
+- title: midee
+  url: https://midee.app
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - midi-visualizer
+    - music-tools
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked desktop piano roll video makers
+    - Gated cloud MIDI conversion SaaS
+  annotation: Free, open-source browser-based MIDI visualizer and player that renders falling-note animations and exports MP4 video locally with zero signups.
+  id: midee
+
+- title: Fluid Framework
+  url: https://fluidframework.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - real-time-collaboration
+    - javascript-framework
+    - local-first
+    - distributed-data
+  replaces:
+    - Proprietary real-time sync backends
+    - Closed-source collaboration SDKs
+  annotation: Open-source developer framework for building high-performance, real-time collaborative web applications with distributed data structures.
+  id: fluid-framework
+
+- title: M3E Canvas
+  url: https://lnkiai.github.io/m3e-canvas/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - ui-builder
+    - material-design
+    - ai-prompt-generator
+    - zero-signup
+  replaces:
+    - Gated cloud design prototyping SaaS
+    - Manual text-only UI description workflows
+  annotation: Free, open-source browser-native visual UI builder for sketching Material 3 Expressive screens and exporting structured prompts for AI coding assistants.
+  id: m3e-canvas
+
+- title: JustDeleteme
+  url: https://justdeleteme.it
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - privacy-tool
+    - account-deletion
+    - zero-signup
+  replaces:
+    - Paid account-deletion services
+    - Gated privacy compliance platforms
+  annotation: Free, open-source directory providing direct links and instructions to bypass dark patterns and delete online accounts across the web.
+  id: justdeleteme
+- title: OpenCAD Studio
+  url: https://github.com/opencad-studio
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - 3d-cad
+    - browser-based
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary cloud-locked CAD suites
+    - Subscription-heavy engineering software
+  annotation: Open-source, browser-based 3D CAD modeling studio running client-side with zero signups and complete local file sovereignty.
+  id: opencad-studio
+- title: croc
+  url: https://github.com/schollz/croc
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - file-transfer
+    - end-to-end-encrypted
+    - zero-signup
+  replaces:
+    - Centralized file-upload hosting sites
+    - Privacy-invasive cloud transfer tools
+  annotation: Secure, open-source P2P command-line file transfer utility enabling direct end-to-end encrypted sharing between devices with zero signups.
+  id: croc
+- title: OpenDAW
+  url: https://opendaw.org
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - daw
+    - audio-production
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-locked commercial audio production suites
+    - Gated cloud-tethered recording tools
+  annotation: Modular, open-source digital audio workstation engineered for local-first multi-track production and synthesis with zero signups.
+  id: opendaw
+
+- title: pdfme
+  url: https://pdfme.com
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - pdf-generator
+    - typescript
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated cloud document generation APIs
+    - Proprietary PDF builder SaaS
+  annotation: Open-source TypeScript PDF generation library and WYSIWYG template editor running client-side with zero signups.
+  id: pdfme
+- title: dDocs
+  url: https://ddocs.new
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - collaborative-docs
+    - local-first
+    - end-to-end-encrypted
+    - zero-signup
+  replaces:
+    - Google Docs and Microsoft 365
+    - Privacy-invasive corporate cloud suites
+  annotation: Open-source, privacy-first collaborative document editor with end-to-end post-quantum encryption and local-first guest access.
+  id: ddocs
+
+- title: IT-Tools
+  url: https://it-tools.tech
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - developer-utilities
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Scattered, ad-ridden developer utility websites
+    - Proprietary online conversion SaaS
+  annotation: Collection of 80+ open-source, browser-based utilities for developers and system administrators running entirely client-side with zero-signup access.
+  id: it-tools
+
+- title: Vert
+  url: https://vert.run
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-converter
+    - webassembly
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-based file conversion SaaS
+    - Data-harvesting conversion utilities
+  annotation: Open-source, local-first file converter powered by WebAssembly to convert images, audio, and documents securely in the browser with zero server uploads.
+  id: vert
+
+- title: Pixelorama
+  url: https://www.pixelorama.org
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - pixel-art
+    - sprite-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked sprite editing tools
+    - Proprietary pixel art software suites
+  annotation: Free, open-source 2D sprite and pixel art editor built with the Godot engine, supporting client-side drawing, animation, and zero-signup access.
+  id: pixelorama
+
+- title: Drumhaus
+  url: https://drumha.us
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - drum-machine
+    - sequencer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated cloud beatmaking platforms
+    - Subscription-heavy music software
+  annotation: Open-source browser-based drum machine and beat sequencer built with React and Tone.js for instant client-side audio creation with zero signups.
+  id: drumhaus
+
+- title: Algorithm Visualizer
+  url: https://algorithm-visualizer.org
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - algorithm-visualizer
+    - educational
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary computer science learning platforms
+    - Static code debugging tutorials
+  annotation: Interactive, open-source platform that brings code algorithms to life with visual step-by-step browser rendering and zero signups.
+  id: algorithm-visualizer
+
+
+- title: Subtitle Edit
+  url: https://www.subtitleedit.org
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - subtitle-editor
+    - video-tools
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-locked video captioning SaaS
+    - Proprietary transcription suites
+  annotation: Free, open-source subtitle editor and synchronization tool supporting local-first video caption workflows with zero accounts required.
+  id: subtitle-edit-1
+
+- title: draw.io
+  url: https://draw.io
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - diagramming
+    - flowcharts
+    - local-first
+    - zero-signup
+  replaces:
+    - Gated commercial diagramming SaaS (Lucidchart)
+    - Subscription-locked flowchart tools
+  annotation: Free, open-source diagram and flowchart editor with full local file sovereignty, offline desktop app support, and zero-signup access.
+  id: draw-io
+
+- title: CircuitJS1
+  url: https://www.falstad.com/circuit/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - circuit-simulator
+    - electronics
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy desktop EDA simulation suites
+    - Proprietary browser-based engineering tools
+  annotation: Free, open-source electronic circuit simulator running entirely client-side in the browser for real-time schematic modeling with zero signups.
+  id: circuitjs1
+
+- title: KiCanvas
+  url: https://kicanvas.org
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - kicad-viewer
+    - pcb-design
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary schematic viewer cloud platforms
+    - Forced desktop installations for quick PCB checks
+  annotation: Open-source, browser-based interactive viewer for KiCad schematics and PCBs operating entirely client-side with zero file uploads.
+  id: kicanvas
+
+- title: BRouter-Web
+  url: https://brouter.de/brouter-web/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - route-planner
+    - mapping
+    - openstreetmap
+    - zero-signup
+  replaces:
+    - Data-harvesting proprietary mapping platforms
+    - Cloud-locked commercial navigation planners
+  annotation: Open-source web interface for offline-capable OpenStreetMap routing and elevation-aware path planning with complete user privacy.
+  id: brouter-web
+
+- title: dSheets
+  url: https://dsheets.new
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - spreadsheet
+    - local-first
+    - end-to-end-encrypted
+    - zero-signup
+  replaces:
+    - Google Sheets and Microsoft Excel
+    - Privacy-invasive cloud office suites
+  annotation: Open-source, privacy-first spreadsheet tool with end-to-end post-quantum encryption and local-first data storage.
+  id: dsheets
+
+- title: Piskel
+  url: https://www.piskelapp.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - pixel-art
+    - sprite-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary sprite editors
+    - Subscription-heavy desktop pixel suites
+  annotation: Free, open-source browser-based sprite and pixel art editor supporting animated GIFs and local export with zero signups.
+  id: piskel
+
+- title: Dillinger
+  url: https://dillinger.io
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - markdown-editor
+    - live-preview
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial Markdown writing suites
+    - Heavy proprietary document editors
+  annotation: Free, open-source online Markdown editor with live preview, instant code export, and zero-signup browser accessibility.
+  id: dillinger
+
+- title: SVG-edit
+  url: https://svgedit.netlify.app
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - vector-graphics
+    - svg-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked vector graphic suites
+    - Heavy cloud-tethered design tools
+  annotation: Free, open-source web-based vector graphics editor operating entirely client-side for SVG creation and manipulation with zero signups.
+  id: svg-edit
+
+- title: EtherCalc
+  url: https://ethercalc.net
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - spreadsheet
+    - real-time-collaboration
+    - browser-based
+    - zero-signup
+  replaces:
+    - Google Sheets and Microsoft Excel
+    - Gated cloud-tethered office suites
+  annotation: Open-source web spreadsheet supporting real-time multi-user collaboration with zero accounts, logins, or editing locks.
+  id: ethercalc
+
+- title: Method Draw
+  url: https://method.ac
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - vector-editor
+    - svg-drawing
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial vector design suites
+    - Subscription-heavy graphic applications
+  annotation: Open-source, web-based SVG vector editor providing a clean, streamlined browser drawing environment with zero signups.
+  id: method-draw
+
+- title: Markdown Live Preview
+  url: https://markdownlivepreview.dev
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - markdown-viewer
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Gated cloud markdown editors
+    - Heavy proprietary document preview tools
+  annotation: Minimal, open-source browser-based markdown viewer and scratchpad that renders files 100% client-side with zero-signup access.
+  id: markdown-live-preview
+- title: Notepad PWA
+  url: https://notepad.js.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - notepad
+    - pwa
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked note-taking SaaS
+    - Proprietary telemetry-heavy note apps
+  annotation: Open-source, offline-capable Progressive Web App notepad that autosaves text locally in the browser with zero signups or server tracking.
+  id: notepad-pwa
+
+- title: Python Tutor
+  url: https://pythontutor.com
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - code-visualizer
+    - educational
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary debugging courseware
+    - Closed-source code visualization SaaS
+  annotation: Free, open-source web application that visually steps through program execution and memory structures in the browser with zero signups.
+  id: python-tutor
+
+- title: Waifu2x
+  url: https://waifu2x.udp.jp
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - image-upscaling
+    - neural-networks
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked image enhancement cloud SaaS
+    - Proprietary desktop upscaling software
+  annotation: Open-source image upscaling and noise-reduction utility powered by neural networks for crisp client-side processing with zero signups.
+  id: waifu2x
+- title: Edna
+  url: https://edna.arslexis.io
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - note-taking
+    - local-first
+    - block-editor
+    - zero-signup
+  replaces:
+    - Notion and proprietary cloud note suites
+    - Gated document collaboration tools
+  annotation: Open-source, block-based note-taking web application featuring local disk storage, markdown support, and zero-signup access.
+  id: edna
+- title: Simple Video Player
+  url: https://simplevideoplayer.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - video-player
+    - browser-based
+    - local-first
+    - zero-signup
+  replaces:
+    - Gated web media streaming portals
+    - Proprietary cloud-tethered video players
+  annotation: Open-source, browser-based media player for running local video files and subtitles entirely client-side with zero server uploads.
+  id: simple-video-player
+
+- title: OpenSSL Webterm
+  url: https://cryptool.org/cto/openssl/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - webassembly
+    - cryptography
+    - browser-based
+    - zero-signup
+  replaces:
+    - Server-side online SSL/CSR generation tools
+    - Heavy command-line installation wrappers
+  annotation: Open-source WebAssembly terminal running OpenSSL v3 locally in the browser with a React frontend and zero server uploads.
+  id: openssl-webterm
+
+- title: ntsc-rs
+  url: https://ntsc.rs
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - video-effects
+    - webassembly
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary subscription video filter plugins
+    - Cloud-locked VHS retro effect SaaS
+  annotation: Open-source WebAssembly-powered analog TV and VHS video effect processor running client-side with zero-signup access.
+  id: ntsc-rs
+
+- title: Museum of Ages
+  url: https://museumofages.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - 3d-museum
+    - webgpu
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated virtual tour portals
+    - Closed-source educational museum platforms
+  annotation: Open-source WebGPU/Three.js digital museum showcasing historical 3D reconstructions entirely client-side with zero signups.
+  id: museum-of-ages
+
+- title: GitHub Readme Streak Stats
+  url: https://github.com/DenverCoder1/github-readme-streak-stats
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - github-tool
+    - svg-generator
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Proprietary profile statistics SaaS widgets
+    - Gated developer analytics dashboards
+  annotation: Open-source dynamic SVG generator for rendering GitHub contribution streaks on profile READMEs with full self-hosting options.
+  id: github-readme-streak-stats
+
+- title: Daily Stars Explorer
+  url: https://github.com/daily-stars/daily-stars-explorer
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - github-analytics
+    - self-hosted
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary repository analytics SaaS
+    - Cloud-locked metrics dashboards
+  annotation: Open-source, self-hosted GitHub star history and activity trend visualization tool with a minimal footprint and zero external telemetry.
+  id: daily-stars-explorer
+
+- title: Advanced Easing Editor
+  url: https://easingwizard.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - css-easing
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Gated proprietary animation design tools
+    - Cloud-tethered CSS generators
+  annotation: Browser-based, client-side CSS easing curve editor and generator for designing precise UI motion parameters with zero signups.
+  id: advanced-easing-editor
+
+- title: OpenMouse
+  url: https://github.com/Macmee/OpenMouse
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - peripheral-utility
+    - local-first
+    - cross-device
+    - zero-signup
+  replaces:
+    - Paywalled peripheral sharing apps (Synergy/ShareMouse)
+    - Proprietary device control suites
+  annotation: Free, open-source local-first alternative for controlling and sharing peripheral inputs across devices with zero account walls.
+  id: openmouse
+
+- title: Paaster
+  url: https://github.com/WardPearce/paaster
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - pastebin
+    - end-to-end-encrypted
+    - local-first
+    - zero-signup
+  replaces:
+    - Telemetry-heavy public paste services
+    - Cloud-locked snippet storage SaaS
+  annotation: Privacy-first open-source pastebin with client-side end-to-end encryption, automatic text handling, and zero-signup access.
+  id: paaster
+
+- title: Champagne Wiki
+  url: https://champagne.pages.dev
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - resource-directory
+    - privacy-tools
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary resource portals
+    - Commercial software discovery directories
+  annotation: Curated open-source archive and directory of privacy tools, utilities, and media resources with zero-signup access.
+  id: champagne-wiki
+
+- title: DSA View View
+  url: https://dsa-view-view.vercel.app
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - algorithm-visualizer
+    - typescript
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked computer science learning platforms
+    - Closed-source code visualizer SaaS
+  annotation: Open-source browser-based data structure and algorithm visualization tool for stepping through TypeScript logic with zero signups.
+  id: dsa-view-view
+- title: AsciiDoc Alive
+  url: https://gaurav-nelson.github.io/asciidocalive/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - asciidoc-editor
+    - live-preview
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy local Asciidoctor build chains
+    - Proprietary documentation preview SaaS
+  annotation: Open-source browser-based AsciiDoc editor with real-time preview, diagram rendering, and instant export with zero signups.
+  id: asciidoc-alive
+
+- title: Weaponize.it
+  url: https://weaponize.it
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - security-toolkit
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Proprietary security auditing platforms
+    - Gated penetration testing script portals
+  annotation: Community-driven open-source repository of scripts, commands, and security tools for developers and system engineers.
+  id: weaponize-it
+  
+- title: {fmt}
+  url: https://fmt.dev
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - c++-library
+    - formatting
+    - local-first
+    - zero-signup
+  replaces:
+    - Slow standard C++ iostreams
+    - Heavy proprietary string formatting dependencies
+  annotation: Open-source, high-performance, type-safe C++ formatting library replacing standard iostreams with zero external runtime dependencies.
+  id: fmt-library
+
+- title: Codi.link
+  url: https://codi.link
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - code-sandbox
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Gated proprietary code playgrounds
+    - Heavy cloud-tethered frontend development SaaS
+  annotation: Open-source browser-based HTML, CSS, and JavaScript live editor sandbox with instant preview and zero-signup access.
+  id: codi-link
+
+- title: HappyTokenizer
+  url: https://happytokenizer.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - tokenizer
+    - ai-tools
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary token estimation cloud SaaS
+    - Backend-dependent LLM debugging tools
+  annotation: Client-side browser utility for analyzing text tokenization across multiple LLM encodings and estimating token costs with zero signups.
+  id: happytokenizer
+
+- title: Stockade
+  url: https://github.com/reaperhulk/stockade
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - credential-manager
+    - self-hosted
+    - local-first
+    - rbac
+  replaces:
+    - Gated commercial credential sharing platforms
+    - Proprietary enterprise vault SaaS
+  annotation: Open-source credential management tool featuring project-based sharing, access controls, and self-hosted backend security.
+  id: stockade
+
+- title: HappyFormatter
+  url: https://happyformatter.com/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - code-formatter
+    - webassembly
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-based code formatting and minification APIs
+    - Data-harvesting snippet processing tools
+  annotation: Private, WebAssembly-powered code formatter and minifier supporting 20+ languages entirely client-side with zero server uploads.
+  id: happyformatter
+
+- title: SkySend
+  url: https://github.com/skyfay/SkySend
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-sharing
+    - end-to-end-encrypted
+    - browser-based
+    - zero-signup
+  replaces:
+    - Centralized file upload hosting SaaS
+    - Privacy-invasive transfer utilities
+  annotation: Minimalist, open-source file and memo sharing tool featuring client-side end-to-end encryption and automatic data purging.
+  id: skysend
+- title: Aura Gradients
+  url: https://github.com/CristianOlivera1/Aura
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - css-gradients
+    - design-system
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary gradient generator SaaS
+    - Gated UI design pattern libraries
+  annotation: Open-source library of 200+ ambient CSS gradients built using layered blend modes for modern UI design.
+  id: aura-gradients
+- title: cycleCAD
+  url: https://cyclecnc.com/app/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - 3d-cad
+    - browser-based
+    - parametric
+    - zero-signup
+  replaces:
+    - Proprietary cloud-locked CAD software
+    - Heavy subscription engineering suites
+  annotation: Browser-native parametric 3D CAD modeler built on a real B-rep kernel with client-side execution and zero signups.
+  id: cyclecad
+
+- title: Windhawk
+  url: https://windhawk.net
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - windows-customization
+    - modding-framework
+    - local-first
+    - zero-signup
+  replaces:
+    - Closed-source system patchers
+    - Telemetry-heavy Windows tweaking utilities
+  annotation: Open-source customization framework and marketplace for Windows programs allowing transparent, local-first code mods.
+  id: windhawk
+- title: Aperi'Solve
+  url: https://www.aperisolve.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - steganalysis
+    - image-forensics
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial forensic analysis suites
+    - Proprietary security investigation tools
+  annotation: Open-source steganalysis web platform for automated image layer analysis and hidden data extraction with zero-signup access.
+  id: aperisolve
+
+
+- title: OpenPlan3D
+  url: https://openplan3d.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - floor-plan-editor
+    - 3d-design
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-heavy architectural planning software
+    - Proprietary cloud design suites (RoomSketcher)
+  annotation: Free, open-source 2D and 3D floor plan and home design editor running entirely in the browser with zero signups.
+  id: openplan3d
+
+- title: Katbin
+  url: https://katb.in
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - pastebin
+    - url-shortener
+    - browser-based
+    - zero-signup
+  replaces:
+    - Telemetry-heavy public snippet platforms
+    - Gated cloud text-sharing services
+  annotation: Fast, lightweight, open-source pastebin and URL shortener for secure snippet sharing with zero-signup access.
+  id: katbin
+
+- title: Frappe Playground
+  url: https://lubus.in/frappe-playground
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - webassembly
+    - erp-sandbox
+    - local-first
+    - zero-signup
+  replaces:
+    - Hosted cloud server test environments
+    - Gated enterprise trial setups
+  annotation: Open-source WebAssembly-powered Frappe and ERPNext sandbox running entirely client-side with local IndexedDB storage.
+  id: frappe-playground
+
+- title: 1.tools
+  url: https://1-tools.com/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - developer-utilities
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Scattered ad-ridden conversion tools
+    - Proprietary data-processing SaaS
+  annotation: Comprehensive open-source suite of client-side developer converters, formatters, and generators running locally in the browser with zero signups.
+  id: 1-tools
+
+- title: TinyImage
+  url: https://tinyimage.pages.dev/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - image-compression
+    - local-first
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked image optimization SaaS
+    - Privacy-invasive bulk conversion services
+  annotation: Privacy-first browser-based image compression, format conversion, and resizing utility supporting secure local-first execution with zero signups.
+  id: tinyimage
+
+- title: ErikrafT Drop
+  url: https://drop.erikraft.com/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - file-transfer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Centralized file upload services
+    - Proprietary cloud transfer tools
+  annotation: Open-source peer-to-peer file and text transfer application inspired by AirDrop, running entirely client-side with zero signups.
+  id: erikraft-drop
+- title: Monkeytype
+  url: https://monkeytype.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - typing-test
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Gated commercial typing practice portals
+    - Telemetry-heavy training SaaS
+  annotation: Popular, open-source customizable typing test and practice web application running entirely client-side with zero-signup access.
+  id: monkeytype
+- title: terminal.sexy
+  url: https://terminal.sexy
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - terminal-customization
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Closed-source color scheme generation tools
+    - Server-dependent theme config repositories
+  annotation: Open-source browser-based terminal color scheme designer and exporter supporting multiple terminal formats client-side.
+  id: terminal-sexy
+- title: Design Systems Checklist
+  url: https://designsystemschecklist.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - design-systems
+    - reference-guide
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial design planning frameworks
+    - Proprietary UX auditing guides
+  annotation: Open-source interactive checklist and reference guide for planning, building, and maintaining robust design systems.
+  id: design-systems-checklist
+- title: editoraPDF
+  url: https://github.com/affsquadDevs/editorapdf
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - pdf-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary PDF manipulation SaaS
+    - Subscription-heavy document editing tools
+  annotation: Open-source browser-based PDF editing and manipulation utility operating client-side with zero signups.
+  id: editorapdf
+
+- title: ReadLocal
+  url: https://github.com/Imranpranto/readlocal-local-markdown-md-file-renderer
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - reader
+    - local-first
+    - zero-signup
+  replaces:
+    - Telemetry-heavy cloud reader platforms
+    - Proprietary e-book ecosystems
+  annotation: Open-source local-first reader application designed for privacy-respecting document and text consumption.
+  id: readlocal
+
+- title: KeyFont
+  url: https://github.com/KeyPDF/KeyFont
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - typography
+    - font-viewer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial font management SaaS
+    - Proprietary desktop font suites
+  annotation: Open-source browser-based typography and font inspection utility running client-side with zero accounts.
+  id: keyfont
+
+- title: Forge
+  url: https://github.com/initializ/forge
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - development-tool
+    - local-first
+    - zero-signup
+  replaces:
+    - Closed-source build environments
+    - Cloud-locked developer toolchains
+  annotation: Open-source development environment and toolchain manager operating locally with complete source code transparency.
+  id: forge
+
+- title: FIT Stats
+  url: https://github.com/iGroza/fit-stats
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - fitness-parser
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary fitness tracking dashboards
+    - Gated cloud sport analytics SaaS
+  annotation: Open-source browser-based parser and analyzer for FIT activity files running 100% client-side.
+  id: fit-stats
+
+- title: OmniTools
+  url: https://github.com/iib0011/omni-tools
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - utility-suite
+    - browser-based
+    - zero-signup
+  replaces:
+    - Scattered proprietary utility websites
+    - Data-harvesting conversion platforms
+  annotation: Collection of open-source browser utilities for everyday developer and text processing tasks.
+  id: omnitools
+
+- title: BinThere
+  url: https://github.com/nxfu/binthere
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - binary-analyzer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source hex editing SaaS
+    - Proprietary analysis tools
+  annotation: Open-source client-side binary and hex analysis tool running entirely within the browser.
+  id: binthere
+
+- title: PyNote
+  url: https://github.com/bouzidanas/pynote-notebook-editor
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - python-notebook
+    - webassembly
+    - zero-signup
+  replaces:
+    - Cloud-tethered notebook SaaS (Databricks/Google Colab telemetry)
+    - Gated execution environments
+  annotation: Open-source WebAssembly-powered Python notebook running client-side with local execution.
+  id: pynote
+
+- title: DBView
+  url: https://github.com/dbviews/dbview
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - database-viewer
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary database management SaaS
+    - Telemetry-heavy client software
+  annotation: Open-source lightweight database viewer operating entirely client-side with zero server uploads.
+  id: dbview
+
+- title: GitReverse
+  url: https://github.com/filiksyos/gitreverse
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - git-utility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated repository analysis tools
+    - Proprietary code history visualizers
+  annotation: Open-source repository history visualization and analysis tool running client-side.
+  id: gitreverse
+
+- title: zoxilsi studio
+  url: https://github.com/zoxilsi/studio
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - creative-suite
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked creative software
+    - Cloud-tethered design suites
+  annotation: Open-source browser-based creative production suite supporting client-side media editing.
+  id: zoxilsi-studio
+
+- title: NoSuggest
+  url: https://github.com/No-Suggest/NoSuggest
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - privacy-tool
+    - browser-extension
+    - zero-signup
+  replaces:
+    - Surveillance-heavy algorithmic feeds
+    - Data-harvesting recommendation engines
+  annotation: Open-source privacy utility designed to strip algorithmic recommendations and clutter from web interfaces.
+  id: nosuggest
+
+- title: Rosint+
+  url: https://github.com/zuxu4n/Rosint
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - security-tool
+    - osint
+    - zero-signup
+  replaces:
+    - Proprietary intelligence gathering SaaS
+    - Gated security research suites
+  annotation: Open-source OSINT and security reconnaissance toolkit operating with full local transparency.
+  id: rosint-plus
+
+- title: Markmap
+  url: https://markmap.js.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - markdown-mindmap
+    - visualization
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked mind mapping SaaS
+    - Proprietary charting tools
+  annotation: Open-source browser utility that parses Markdown text into interactive, zoomable mindmaps entirely client-side.
+  id: markmap
+
+- title: Kroki
+  url: https://kroki.io
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - diagrams-as-code
+    - developer-tools
+    - zero-signup
+  replaces:
+    - Fragmented diagramming server installations
+    - Gated visualization plugins
+  annotation: Open-source diagram-as-code service supporting dozens of text-to-diagram formats through a unified rendering engine.
+  id: kroki
+
+- title: App Store Web Search
+  url: https://careerflora.com/open-source-tools
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - app-store
+    - search-tool
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary app market intelligence SaaS
+    - Gated mobile discovery platforms
+  annotation: Web application for searching and exploring Apple App Store listings and metadata with zero signups.
+  id: app-store-web-search
+
+- title: Quizbun
+  url: https://quizbun.fyi/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - quiz-catalog
+    - education
+    - local-first
+    - zero-signup
+  replaces:
+    - Gated commercial quiz platforms
+    - Telemetry-heavy e-learning SaaS
+  annotation: Static, explanation-first quiz catalog for self-learners supporting public quizzes and private local imports with zero signups.
+  id: quizbun
+
+- title: eNumbers Lookup
+  url: https://github.com/BraveOPotato/NoSignups
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - food-additives
+    - data-lookup
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary food additive scanner apps
+    - Data-harvesting diet portals
+  annotation: Modern web application for looking up E-number food additives with comprehensive data from Open Food Facts.
+  id: enumbers-lookup
+
+- title: roadmap.sh
+  url: https://roadmap.sh/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - developer-roadmaps
+    - educational
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source career consulting portals
+    - Gated developer training paths
+  annotation: Community-driven platform providing comprehensive guides, educational roadmaps, and career pathways for software developers.
+  id: roadmaps-sh
+
+- title: ColorKit
+  url: https://colorkit.dev/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - color-utilities
+    - accessibility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary color accessibility SaaS
+    - Gated contrast analysis tools
+  annotation: Privacy-first color toolkit for designers and developers measuring contrast, perception, and color blindness compliance.
+  id: colorkit
+
+- title: open-razerkit
+  url: https://github.com/HamzaYslmn/open-razerkit
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - peripheral-control
+    - rgb-management
+    - local-first
+    - zero-signup
+  replaces:
+    - Telemetry-heavy Razer Synapse suite
+    - Closed-source device control software
+  annotation: Open-source utility to control Razer device RGB effects, settings, and hardware profiles directly from the terminal or browser.
+  id: open-razerkit
+
+- title: Missing Manual
+  url: https://github.com/missing-manual/missing-manual
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - documentation
+    - reference-guide
+    - zero-signup
+  replaces:
+    - Proprietary technical reference guides
+    - Closed-source manuals
+  annotation: Open-source documentation and resource hub providing comprehensive technical guides with zero signups.
+  id: missing-manual
+
+- title: FFmpeg CLI Online
+  url: https://github.com/ffmpegwasm/ffmpeg.wasm
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - ffmpeg
+    - video-processing
+    - webassembly
+    - zero-signup
+  replaces:
+    - Cloud-locked video conversion SaaS
+    - Heavy server-side encoding pipelines
+  annotation: WebAssembly-powered browser interface for executing FFmpeg commands completely client-side without server file uploads.
+  id: ffmpeg-cli-online
+
+- title: GitFut
+  url: https://gitfut.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - github-tooling
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Closed-source developer profile badges
+    - Proprietary gaming stats SaaS
+  annotation: Creative web application that converts GitHub profile stats and contributions into a World-Cup-style football player card.
+  id: gitfut
+
+- title: CheckMyGit
+  url: https://checkmygit.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - github-portfolio
+    - visualization
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated portfolio builder SaaS
+    - Proprietary developer resume builders
+  annotation: Open-source tool that instantly transforms GitHub repositories and contribution history into a shareable visual portfolio.
+  id: checkmygit
+
+- title: OpenReader
+  url: https://docs.openreader.richardr.dev/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - text-to-speech
+    - document-reader
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-locked e-reader ecosystems
+    - Telemetry-heavy audiobook SaaS
+  annotation: Open-source multilingual text-to-speech document and EPUB reader providing read-along narration locally.
+  id: openreader
+
+- title: Relay
+  url: https://github.com/byrishi/Relay
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - data-transfer
+    - zero-signup
+  replaces:
+    - Centralized file sharing SaaS
+    - Proprietary relay services
+  annotation: Open-source, lightweight data relay utility for direct communication channels with zero-signup access.
+  id: relay
+
+- title: FreeCut
+  url: https://github.com/freecut-org/freecut
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - video-editor
+    - browser-based
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription video editing SaaS
+    - Telemetry-heavy editing suites
+  annotation: Open-source browser-based video cutting and editing utility designed for client-side privacy.
+  id: freecut
+
+- title: e2ecp
+  url: https://github.com/e2ecp/e2ecp
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - end-to-end-encrypted
+    - clipboard-sharing
+    - local-first
+    - zero-signup
+  replaces:
+    - Telemetry-heavy clipboard sync services
+    - Centralized cloud paste tools
+  annotation: Open-source end-to-end encrypted data and clipboard transmission utility with zero server tracking.
+  id: e2ecp
+
+- title: OpenHero
+  url: https://github.com/openhero/openhero
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - banner-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated marketing asset SaaS
+    - Proprietary design templates
+  annotation: Open-source client-side web banner and graphic asset generator with zero signups.
+  id: openhero
+
+- title: CodeMap AI
+  url: https://github.com/codemap-ai/codemap
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - code-mapping
+    - local-first
+    - zero-signup
+  replaces:
+    - Closed-source repository visualization SaaS
+    - Gated code navigation tools
+  annotation: Open-source repository structure visualizer and code mapping utility for local codebases.
+  id: codemap-ai
+
+- title: OwnCardly
+  url: https://github.com/owncardly/owncardly
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - digital-card
+    - local-first
+    - zero-signup
+  replaces:
+    - Gated digital business card SaaS
+    - Telemetry-heavy profile sharing platforms
+  annotation: Open-source local-first digital business card and profile generator with zero-signup access.
+  id: owncardly
+  
+- title: Log Voyager
+  url: https://www.logvoyager.cc/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - log-analyzer
+    - local-first
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked log analysis SaaS
+    - Proprietary telemetry processing tools
+  annotation: Free, open-source browser-based log file analyzer that reads and filters large text, JSON, and GZIP logs locally without server uploads.
+  id: log-voyager
+
+- title: ShareClean
+  url: https://apps.apple.com/app/shareclean-photo-privacy-tool/id6759267207
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - exif-remover
+    - privacy-tool
+    - local-first
+    - zero-signup
+  replaces:
+    - Data-harvesting photo sharing platforms
+    - Closed-source metadata removal apps
+  annotation: Privacy-first utility that strips sensitive identifying EXIF metadata from images locally before sharing.
+  id: shareclean
+
+- title: CSV Repair
+  url: https://jsontotable.io/csv-fixer/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - csv-utility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Complex scripting for broken data imports
+    - Proprietary data-cleaning SaaS
+  annotation: Browser-based utility that inspects and repairs broken CSV file syntax, unquoted commas, and mismatched columns locally.
+  id: csv-repair
+
+- title: Favicon API
+  url: https://favicondl.com/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - favicon-extractor
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Proprietary branding asset lookup SaaS
+    - Gated icon retrieval APIs
+  annotation: Lightweight, keyless API service to extract and cache high-resolution favicons from any domain instantly.
+  id: favicon-api
+
+- title: Daggerheart GM Screen
+  url: https://github.com/Jutier/Daggerheart
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - tabletop-gaming
+    - gm-tool
+    - local-first
+    - zero-signup
+  replaces:
+    - Gated digital tabletop rulebooks
+    - Proprietary campaign management SaaS
+  annotation: Open-source, customizable digital GM screen for tabletop roleplaying featuring local state storage and zero tracking.
+  id: daggerheart-gm-screen
+
+- title: Word Aligner
+  url: https://tinygods.dev/projects/aligner/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - linguistics
+    - diagram-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary translation annotation suites
+    - Manual layout diagramming software
+  annotation: Browser-based open-source tool for creating interlinear word alignment diagrams and linguistic glosses with URL-state sharing.
+  id: word-aligner
+
+- title: BezierMotion
+  url: https://bezier-cad.xyz/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - parametric-cad
+    - local-first
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked proprietary CAD software
+    - Heavy subscription engineering suites
+  annotation: Browser-native and desktop parametric 3D CAD modeler operating entirely client-side with zero accounts or cloud file uploads.
+  id: beziermotion
+
+- title: QrTransfer
+  url: https://qrtransfer.io/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - file-transfer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Centralized file sharing upload services
+    - Unencrypted cross-device transfer SaaS
+  annotation: Real-time, account-free peer-to-peer file and text transfer utility coordinated via local QR code pairing.
+  id: qtransfer
+
+- title: Cryptgeon
+  url: https://cryptgeon.com/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - end-to-end-encrypted
+    - pastebin
+    - local-first
+    - zero-signup
+  replaces:
+    - Telemetry-heavy public note platforms
+    - Cloud-stored snippet repositories
+  annotation: Secure, open-source note and file-sharing service utilizing client-side AES-GCM encryption where servers store zero plaintext keys.
+  id: cryptgeon
+
+- title: Mermify
+  url: https://github.com/mermify/mermify
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - diagramming
+    - bidirectional-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated visual diagramming SaaS
+    - One-way code generation tools
+  annotation: Open-source bi-directional visual editor bridging text-based Mermaid.js syntax with interactive drag-and-drop flowchart manipulation.
+  id: mermify
+
+- title: DrawShare
+  url: https://www.drawshare.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - digital-painting
+    - animation-studio
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked painting software
+    - Algorithmic feed-driven art platforms
+  annotation: Browser-based digital drawing, animation studio, and community platform featuring local execution and zero-signup creation tools.
+  id: drawshare
+- title: Giraffile
+  url: https://giraffile.pages.dev/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - file-transfer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Centralized file hosting SaaS
+    - Privacy-invasive cloud transfer tools
+  annotation: Open-source, browser-native file-sharing utility operating entirely via WebRTC and local memory with zero cloud servers or signups.
+  id: giraffile
+
+- title: Strong Editor
+  url: https://strongeditor.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - writing-assistant
+    - privacy-focused
+    - browser-based
+    - zero-signup
+  replaces:
+    - Telemetry-heavy copywriting platforms
+    - Closed-source cloud writing assistants
+  annotation: Free, privacy-focused online text editor that highlights poor phrasing, passive voice, and readability issues client-side with zero tracking.
+  id: strong-editor
+
+- title: AFFiNE
+  url: https://affine.pro/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - workspace
+    - local-first
+    - zero-signup
+  replaces:
+    - Notion and proprietary cloud knowledge bases
+    - Gated multi-tool collaboration SaaS
+  annotation: Open-source, all-in-one workspace combining documents, whiteboards, and databases with local-first storage and zero signups.
+  id: affine
+
+- title: SVGOMG
+  url: https://svgomg.net/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - svg-optimizer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source graphic optimization SaaS
+    - Heavy desktop SVG compression tools
+  annotation: Open-source web-based GUI for SVGO that optimizes and compresses SVG vector graphics entirely client-side.
+  id: svgomg
+
+- title: ASCIIFlow
+  url: https://asciiflow.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - diagram-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy proprietary flowchart software
+    - Cloud-tethered diagramming SaaS
+  annotation: Client-side browser-based application for sketching and exporting text-based ASCII diagrams and flowcharts instantly.
+  id: asciiflow
+
+- title: Glyphr Studio
+  url: https://www.glyphrstudio.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - font-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-heavy desktop font design suites
+    - Proprietary typography creation software
+  annotation: Free, open-source web-based font editor aimed at typeface design enthusiasts, running entirely client-side.
+  id: glyphr-studio
+
+- title: markdown2pdf
+  url: https://github.com/marrcle/markdown2pdf
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - markdown-converter
+    - pdf-generator
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked document conversion SaaS
+    - Gated PDF export utilities
+  annotation: Open-source utility for converting Markdown files directly into structured PDFs with full client-side execution.
+  id: markdown2pdf
+  
+- title: tldraw
+  url: https://tldraw.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - whiteboard
+    - infinite-canvas
+    - zero-signup
+  replaces:
+    - Proprietary collaborative canvas SaaS
+    - Gated virtual whiteboarding platforms
+  annotation: Open-source React-based infinite canvas and collaborative whiteboard SDK with instant browser-based sketching.
+  id: tldraw
+
+
+- title: Feather
+  url: https://feathericons.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - icons
+    - design-system
+    - zero-signup
+  replaces:
+    - Proprietary icon packs
+    - Gated design symbol libraries
+  annotation: Collection of simply beautiful open-source icons designed on a 24x24 grid with emphasis on clarity and consistency.
+  id: feather
+
+- title: Heroicons
+  url: https://heroicons.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - icons
+    - design-system
+    - zero-signup
+  replaces:
+    - Commercial icon subscription libraries
+    - Closed-source UI graphic sets
+  annotation: Set of free, open-source hand-crafted SVG icons by the makers of Tailwind CSS.
+  id: heroicons
+
+- title: Full Stack Open
+  url: https://fullstackopen.com/en/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - educational-platform
+    - developer-training
+    - zero-signup
+  replaces:
+    - Gated commercial programming bootcamps
+    - Closed-source web development courses
+  annotation: Comprehensive open-source educational platform introducing modern JavaScript web development, React, Node.js, and GraphQL.
+  id: full-stack-open
+
+- title: EditorPilot
+  url: https://editorpilot.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - ai-writing-assistant
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked proprietary AI writing tools
+    - Data-harvesting text editors
+  annotation: Private AI writing assistant designed to run locally within browser constraints to ensure user data never leaves the device.
+  id: editorpilot
+
+- title: Universal Resume Template
+  url: https://github.com/susam/resume
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - resume-builder
+    - markdown
+    - zero-signup
+  replaces:
+    - Gated commercial resume SaaS platforms
+    - Paywalled document templates
+  annotation: Open-source developer-focused resume template and generation toolkit using markdown or clean styling.
+  id: universal-resume-template
+
+- title: self.st icons
+  url: https://github.com/selfhst/icons
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - icon-set
+    - design-system
+    - zero-signup
+  replaces:
+    - Proprietary icon libraries
+    - Gated asset marketplaces
+  annotation: Open-source curated collection of icons for web development and UI design systems.
+  id: self-st-icons
+
+- title: QRCodeShow
+  url: https://github.com/ZYSzys/QRCodeShow
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - qr-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Ad-ridden online QR code creators
+    - Data-tracking generation SaaS
+  annotation: Client-side utility for generating custom QR codes securely inside the browser.
+  id: qrcodeshow
+
+- title: Scratch Tabs
+  url: https://github.com/l-m/scratch-tabs
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - notepad
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked note extensions
+    - Telemetry-heavy browser scratchpads
+  annotation: Lightweight open-source new-tab notepad extension storing text locally with zero telemetry.
+  id: scratch-tabs
+
+- title: Sipp Chat
+  url: https://github.com/sipp-chat/sipp
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - communication
+    - zero-signup
+  replaces:
+    - Centralized messaging SaaS
+    - Account-walled chat services
+  annotation: Open-source lightweight peer-to-peer communication tool operating with complete privacy.
+  id: sipp-chat
+
+- title: DoHabit
+  url: https://github.com/dohabit/dohabit
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - habit-tracker
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-heavy routine tracking apps
+    - Cloud-tethered habit software
+  annotation: Open-source local-first habit tracking application designed for personal productivity and data sovereignty.
+  id: dohabit
+
+- title: Tabler Icons
+  url: https://tabler.io/icons
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - svg-icons
+    - design-system
+    - zero-signup
+  replaces:
+    - Proprietary icon subscriptions
+    - Commercial symbol libraries
+  annotation: Collection of over 5,000 free, high-quality MIT-licensed SVG icons designed on a 24x24 grid for web and UI design.
+  id: tabler-icons
+
+- title: Remix Icon
+  url: https://remixicon.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - system-symbols
+    - design-system
+    - zero-signup
+  replaces:
+    - Gated icon packs
+    - Closed-source UI symbol suites
+  annotation: Open-source neutral-style system symbols and icon set elaborately crafted for designers and developers.
+  id: remix-icon
+
+- title: Phosphor Icons
+  url: https://phosphoricons.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - flexible-icons
+    - design-system
+    - zero-signup
+  replaces:
+    - Commercial icon families
+    - Proprietary UI assets
+  annotation: Flexible, comprehensive icon family supporting multiple weights and styles for interfaces and diagrams.
+  id: phosphor-icons
+
+- title: Simple Icons
+  url: https://simpleicons.org/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - brand-icons
+    - svg-library
+    - zero-signup
+  replaces:
+    - Copyright-restricted brand logos
+    - Fragmented corporate asset searches
+  annotation: Curated collection of hundreds of open-source SVG icons for popular brand logos and platforms.
+  id: simple-icons
+
+- title: Lucide
+  url: https://lucide.dev/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - community-icons
+    - design-system
+    - zero-signup
+  replaces:
+    - Stagnant icon forks
+    - Proprietary UI icon packs
+  annotation: Community-led, open-source fork of Feather Icons offering an expanded, highly consistent set of SVG glyphs.
+  id: lucide
+
+- title: LookScanned
+  url: https://lookscanned.io/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - document-scanner
+    - browser-based
+    - zero-signup
+  replaces:
+    - Data-harvesting scanning SaaS
+    - Proprietary document distortion tools
+  annotation: Open-source web tool that makes digital PDFs and images look like they were printed and scanned locally in the browser.
+  id: lookscanned
+
+- title: Compress
+  url: https://github.com/Scorpio3310/compress-pro
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - compression-utility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked file compression SaaS
+    - Privacy-invasive conversion utilities
+  annotation: Client-side browser utility for compressing and optimizing media files locally with zero server uploads.
+  id: compress-utility
+
+- title: Agora Cosmica
+  url: https://agora.space/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - knowledge-base
+    - decentralized
+    - zero-signup
+  replaces:
+    - Centralized wiki SaaS
+    - Proprietary documentation platforms
+  annotation: Open-source decentralized knowledge graph and collaboration space operating with local data ownership.
+  id: agora-cosmica
+
+- title: gists.sh
+  url: https://gists.sh/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - snippet-sharing
+    - terminal-tool
+    - zero-signup
+  replaces:
+    - Telemetry-heavy code sharing portals
+    - Account-walled snippet SaaS
+  annotation: Minimalist command-line and browser tool for creating instant code gists with absolute privacy and zero-signup access.
+  id: gists-sh
+
+- title: Planar
+  url: https://github.com/planarjs/planar
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - vector-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-heavy vector graphics suites
+    - Cloud-locked design software
+  annotation: Open-source browser-based planar design and vector drafting utility running entirely client-side.
+  id: planar
+
+- title: Klecks
+  url: https://kleki.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - painting-app
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated proprietary sketching software
+    - Subscription-locked painting suites
+  annotation: Open-source browser-based painting and drawing web application powering Kleki, featuring layers, brushes, and WebGL filters.
+  id: klecks
+
+- title: Gridfinity Layout Tool
+  url: https://gridfinitylayouttool.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - 3d-printing
+    - organization
+    - browser-based
+    - zero-signup
+  replaces:
+    - Manual 3D drawer layout calculation
+    - Gated CAD organization software
+  annotation: Free, open-source web application for planning storage layouts and generating modular 3D-printable Gridfinity drawer organizers.
+  id: gridfinity-layout-tool
+
+- title: DropSilk
+  url: https://github.com/medy17/dropsilk
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p
+    - file-transfer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Centralized file upload SaaS
+    - Telemetry-heavy file sharing platforms
+  annotation: Modern, privacy-focused peer-to-peer file transfer and screen streaming application built with WebRTC with zero server storage.
+  id: dropsilk
+
+- title: Void Mesh
+  url: https://voidmesh.xyz/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - shader-effects
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked video processing SaaS
+    - Closed-source graphics filter apps
+  annotation: Browser-based tool that applies real-time dithering, halftone, glass, and ASCII shader effects to images, videos, and GIFs locally on an infinite canvas.
+  id: voidmesh
+
+- title: Wavacity
+  url: https://wavacity.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - audio-editor
+    - webassembly
+    - zero-signup
+  replaces:
+    - Heavy desktop audio editing software
+    - Closed-source cloud audio suites
+  annotation: Full-featured WebAssembly port of the Audacity audio editor running entirely client-side in the browser without installations.
+  id: wavacity
+
+- title: SQLChef
+  url: https://github.com/jonathanwalker/SQLChef
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - sql-tool
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked database query platforms
+    - Proprietary data analysis SaaS
+  annotation: Powerful web-based SQL query tool inspired by CyberChef for local structured file analysis and manipulation.
+  id: sqlchef
+
+- title: Clear Canvas
+  url: https://clearcanvas.app/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - background-remover
+    - webassembly
+    - zero-signup
+  replaces:
+    - Subscription-locked image cutout SaaS
+    - Cloud-tethered background removal APIs
+  annotation: Free, private, AI-powered background remover using ONNX Runtime and WebAssembly to run entirely client-side.
+  id: clearcanvas
+
+- title: Pandoc WASM
+  url: https://github.com/pandoc/pandoc-wasm
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - document-converter
+    - webassembly
+    - zero-signup
+  replaces:
+    - Server-dependent document translation pipelines
+    - Proprietary conversion SaaS
+  annotation: Official WebAssembly binary wrapper of Pandoc enabling universal document conversion directly in browsers and Node.js.
+  id: pandoc-wasm
+
+- title: JSON Crack
+  url: https://github.com/AykutSarac/jsoncrack.com
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - json-visualizer
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source data mapping SaaS
+    - Complex manual schema parsing tools
+  annotation: Innovative open-source tool for visualizing JSON data into structured, interactive graphs for analysis and validation.
+  id: json-crack
+
+- title: Koodo Reader
+  url: https://github.com/koodo-reader/koodo-reader
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - e-book-reader
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary e-reader ecosystems
+    - Telemetry-heavy document managers
+  annotation: Powerful open-source e-book reader and manager supporting EPUB, PDF, and MOBI with local-first cross-platform synchronization.
+  id: koodo-reader
+
+
+- title: AST Explorer
+  url: https://github.com/fkling/astexplorer
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - code-parser
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source syntax tree inspection SaaS
+    - Proprietary compiler debuggers
+  annotation: Web tool to interactively explore Abstract Syntax Trees generated by various language parsers and AST transformers.
+  id: ast-explorer
+
+- title: Blockbench
+  url: https://github.com/JannisX11/blockbench
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - 3d-modeling
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-heavy low-poly modeling suites
+    - Cloud-locked asset editors
+  annotation: Free, open-source 3D model editor for low-poly models and pixel art textures with standardized export formats.
+  id: blockbench
+
+- title: SVG Path Editor
+  url: https://github.com/Yqnn/svg-path-editor
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - svg-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source vector modification tools
+    - Gated design editing software
+  annotation: Powerful web-based tool for creating and editing SVG vector paths through an intuitive visual interface.
+  id: svg-path-editor
+
+- title: MiroTalk P2P
+  url: https://github.com/miroslavpejic85/mirotalk
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - video-conferencing
+    - p2p
+    - zero-signup
+  replaces:
+    - Telemetry-heavy meeting SaaS
+    - Centralized corporate calling platforms
+  annotation: Open-source, self-hosted video conferencing platform using direct peer-to-peer WebRTC connections for real-time communication.
+  id: mirotalk-p2p
+
+- title: Flowchart.fun
+  url: https://flowchart.fun/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - flowchart-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - LucidChart and proprietary diagramming SaaS
+    - Complex manual visual editors
+  annotation: Fast, open-source web application for quickly generating flowcharts and diagrams directly from structured text input.
+  id: flowchart-fun
+
+- title: Sqlime
+  url: https://sqlime.org/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - sqlite-playground
+    - webassembly
+    - zero-signup
+  replaces:
+    - Cloud-locked database query platforms
+    - Heavy proprietary data analysis suites
+  annotation: Full-featured browser-based SQLite playground compiled to WebAssembly for debugging, querying, and sharing SQL snippets locally.
+  id: sqlime
+
+- title: Image Scrubber
+  url: https://everestpipkin.github.io/image-scrubber/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - privacy-tool
+    - exif-remover
+    - zero-signup
+  replaces:
+    - Data-harvesting photo-sharing apps
+    - Cloud-tethered metadata stripping tools
+  annotation: Client-side privacy utility for anonymizing photographs by stripping EXIF metadata and selectively blurring identifying features locally.
+  id: image-scrubber
+
+- title: Ente Paste
+  url: https://paste.ente.com/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - end-to-end-encrypted
+    - pastebin
+    - zero-signup
+  replaces:
+    - Telemetry-heavy public note platforms
+    - Unencrypted snippet sharing SaaS
+  annotation: Privacy-first, end-to-end encrypted pastebin for securely sharing sensitive text like API keys and recovery codes with automatic expiry.
+  id: ente-paste
+
+
+- title: Spliit
+  url: https://spliit.app/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - expense-tracker
+    - local-first
+    - zero-signup
+  replaces:
+    - Premium-locked budgeting apps
+    - Telemetry-heavy financial sharing platforms
+  annotation: Free, open-source application for tracking and splitting shared expenses among friends and family with complete data privacy.
+  id: spliit
+
+- title: GodSVG
+  url: https://github.com/MewPurPur/GodSVG
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - svg-editor
+    - local-first
+    - zero-signup
+  replaces:
+    - Bloated vector graphics suites
+    - Automated code-bloating design apps
+  annotation: Structured, open-source SVG editor designed to output clean, unbloated code directly with real-time visual and text manipulation.
+  id: godsvg
+
+- title: Linwood Butterfly
+  url: https://butterfly.linwood.dev/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - infinite-canvas
+    - note-taking
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-locked digital whiteboards
+    - Telemetry-heavy note-taking SaaS
+  annotation: Powerful, open-source cross-platform infinite canvas for sketching, handwriting, and visual thinking with local-first storage.
+  id: linwood-butterfly
+
+- title: PaperKnife
+  url: https://potatameister.github.io/PaperKnife/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - pdf-utility
+    - webassembly
+    - zero-signup
+  replaces:
+    - Data-harvesting online PDF converters
+    - Cloud-locked document editing suites
+  annotation: Professional-grade, open-source zero-server PDF utility running entirely client-side via WebAssembly for secure merging, splitting, and compression.
+  id: paperknife
+
+- title: Dithering Studio
+  url: https://ditheringstudio.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - image-processing
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked image manipulation SaaS
+    - Proprietary retro graphics converters
+  annotation: Fast, private, open-source client-side web application for applying classic and experimental dithering algorithms, custom palettes, and presets to images and videos with zero signups.
+  id: dithering-studio
+
+- title: Dither (Fuego)
+  url: https://dither.fuego.im/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - image-processing
+    - browser-based
+    - zero-signup
+  replaces:
+    - Cloud-locked image manipulation SaaS
+    - Proprietary retro graphics converters
+  annotation: Pixel-perfect open-source browser utility for applying dithering effects, custom palettes, and adjustments to images locally with zero signups.
+  id: dither-fuego
+
+- title: ToolsAtZero
+  url: https://www.toolsatzero.com/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - developer-utilities
+    - browser-based
+    - client-side
+    - zero-signup
+  replaces:
+    - Scattered ad-ridden utility websites
+    - Proprietary cloud-tethered developer toolsets
+  annotation: Comprehensive open-source registry of over 50 client-side utilities, PDF tools, image formatters, and calculators running entirely in browser memory with zero tracking or signups.
+  id: toolsatzero
+
+- title: GreenDolphin
+  url: https://greendolph.in/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - music-transcription
+    - audio-looper
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked music transcription software
+    - Closed-source audio practice tools
+  annotation: Open-source audio loop, practice, and analysis tool designed for musicians learning songs by ear, running client-side with zero signups.
+  id: greendolphin
+
+- title: Bigjpg
+  url: https://bigjpg.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - image-upscaling
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked image enhancement SaaS
+    - Proprietary upscaling desktop suites
+  annotation: AI-powered image upscaler utilizing deep convolutional neural networks to enlarge photos and illustrations while reducing noise and jagged edges.
+  id: bigjpg
+
+- title: Audioalter
+  url: https://audioalter.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - audio-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy desktop audio editing software
+    - Closed-source sound effect suites
+  annotation: Suite of browser-based audio tools for adjusting speed, volume, pitch, panning, and noise reduction directly in the browser.
+  id: audioalter
+
+- title: Sejda
+  url: https://www.sejda.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - pdf-editor
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked desktop PDF suites
+    - Proprietary document conversion SaaS
+  annotation: Web-based PDF editor and utility suite for editing, merging, splitting, and compressing documents with privacy-focused auto-deletion.
+  id: sejda
+
+- title: CloudConvert
+  url: https://cloudconvert.com/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-converter
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source format conversion SaaS
+    - Proprietary media conversion tools
+  annotation: Online file converter supporting over 200 formats for audio, video, documents, and archives with secure browser processing.
+  id: cloudconvert
+
+- title: Palette.fm
+  url: https://palette.fm/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - colorization
+    - browser-based
+    - zero-signup
+  replaces:
+    - Complex manual photo colorization suites
+    - Gated historical restoration SaaS
+  annotation: AI-powered web tool that automatically colorizes black-and-white photographs with customizable color palettes.
+  id: palette-fm
+
+- title: LostMyPass
+  url: https://www.lostmypass.com/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - password-recovery
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source decryption suites
+    - Proprietary security auditing tools
+  annotation: Online file password recovery and unlocking utility for common document formats including archives, spreadsheets, and PDFs.
+  id: lostmypass
+
+- title: CodeBeautify
+  url: https://codebeautify.org/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - code-formatter
+    - browser-based
+    - zero-signup
+  replaces:
+    - Complex manual data formatting scripts
+    - Proprietary data validation tools
+  annotation: Comprehensive suite of online developer utilities for validating, formatting, converting, and un-breaking messy code and data files.
+  id: codebeautify
+- title: Freesound
+  url: https://freesound.org/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - audio-database
+    - sound-effects
+    - creative-commons
+    - zero-signup
+  replaces:
+    - Proprietary commercial sound effect libraries
+    - Gated audio asset marketplaces
+  annotation: Massive collaborative database of Creative Commons-licensed audio snippets, field recordings, and sound effects shared by a global community.
+  id: freesound
+- title: Eyecandy
+  url: https://eyecannndy.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - visual-library
+    - filmmaking-tools
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary mood-board platforms
+    - Gated cinematic reference libraries
+  annotation: Curated visual technique and cinematography reference library for filmmakers and video creators to explore shot types, camera angles, and transitions.
+  id: eyecandy
+- title: Museum of Icelandic Sorcery and Witchcraft
+  url: https://galdrasyning.is/en/galdrastafir/
+  category: historical-research-and-combat-arts
+  subcategory: historical-archives-and-manuscripts
+  tags:
+    - open-source
+    - historical-archive
+    - folklore-database
+    - zero-signup
+  replaces:
+    - Paywalled esoteric databases
+    - Closed-source historical manuscripts
+  annotation: Comprehensive digital archive documenting authentic Icelandic magical staves (galdrastafir), grimoires, and traditional folk magic instructions.
+  id: museum-of-icelandic-sorcery-and-witchcraft
+- title: PopTox
+  url: https://www.poptox.com/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source-alternative
+    - voip
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary desktop VOIP apps
+    - Subscription-locked international calling cards
+  annotation: Web-based VOIP utility that allows users to place internet-to-phone calls to mobile and landline numbers directly from a standard browser without app downloads or forced account creation.
+  id: poptox
+- title: Radiooooo
+  url: https://radiooooo.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - web-application
+    - music-archive
+    - browser-based
+    - zero-signup
+  replaces:
+    - Algorithmic streaming playlists
+    - Gated music discovery platforms
+  annotation: Interactive musical time machine allowing users to select any country and decade from 1900 to today to explore localized music history.
+  id: radiooooo
+
+- title: RunPee
+  url: https://runpee.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - mobile-web-utility
+    - movie-companion
+    - browser-based
+    - zero-signup
+  replaces:
+    - Blindly guessing cinema restroom breaks
+    - Missing critical movie plot points
+  annotation: Companion utility providing suggested movie bathroom breaks, spoiler summaries, and extra scene markers for theatergoers.
+  id: runpee
+
+- title: EatThisMuch
+  url: https://www.eatthismuch.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - nutritional-planner
+    - diet-assistant
+    - browser-based
+    - zero-signup
+  replaces:
+    - Rigid manual calorie calculation sheets
+    - Closed-source diet coaching apps
+  annotation: Automated meal planner that generates custom daily meal plans, recipes, and grocery lists based on specific calorie and macro goals.
+  id: eat-this-much
+
+- title: Roadtrippers
+  url: https://roadtrippers.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - travel-planner
+    - mapping-utility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Basic commercial GPS mapping software
+    - Fragmented travel itinerary tools
+  annotation: Trip planning web application for plotting routes, calculating fuel costs, and discovering scenic roadside attractions.
+  id: roadtrippers
+
+
+- title: Scale of the Universe
+  url: https://htwins.net/scale2/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - educational
+    - interactive-infographic
+    - browser-based
+    - zero-signup
+  replaces:
+    - Static science textbook infographics
+    - Gated physics simulation software
+  annotation: Interactive zoomable web visualization exploring everything from tiny subatomic particles to the farthest observable galaxies.
+  id: scale-of-the-universe
+
+- title: FormulaBot
+  url: https://formulabot.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - ai-utility
+    - spreadsheet-assistant
+    - browser-based
+    - zero-signup
+  replaces:
+    - Manual spreadsheet formula debugging
+    - Complex SQL syntax lookup tutorials
+  annotation: AI-powered tool that instantly translates plain-English instructions into complex Excel formulas and Google Sheets scripts.
+  id: formulabot
+
+- title: Lofi.cafe
+  url: https://lofi.cafe/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - web-audio
+    - ambient-player
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy streaming audio applications
+    - Ad-heavy video playlists for studying
+  annotation: Minimalist web-based ambient lo-fi radio featuring retro visualizers and curated audio channels for focused work.
+  id: lofi-cafe
+
+- title: What Should I Read Next?
+  url: https://www.whatshouldireadnext.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - book-recommendation
+    - literary-database
+    - browser-based
+    - zero-signup
+  replaces:
+    - Algorithmic bookstore recommendation carousels
+    - Manual literary review searching
+  annotation: Book recommendation engine that analyzes user favorites to suggest similar titles based on shared reader reading habits.
+  id: what-should-i-read-next
+
+- title: Kiwix
+  url: https://kiwix.org/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - offline-wiki
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked reference databases
+    - Telemetry-heavy research portals
+  annotation: Free, open-source offline reader and content manager that lets you download and browse entire copies of Wikipedia, Stack Exchange, and medical wikis locally without internet access.
+  id: kiwix
+
+- title: Organic Maps
+  url: https://organicmaps.app/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - offline-maps
+    - gps-navigation
+    - zero-signup
+  replaces:
+    - Data-harvesting commercial mapping apps
+    - Cloud-tethered GPS navigation software
+  annotation: Ultra-fast, open-source offline map and navigation application powered by OpenStreetMap data, designed for privacy and complete offline use.
+  id: organic-maps
+
+- title: Briar
+  url: https://briarproject.org/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - decentralized-messaging
+    - p2p
+    - zero-signup
+  replaces:
+    - Centralized corporate chat applications
+    - Server-dependent messaging SaaS
+  annotation: Secure, open-source peer-to-peer messenger designed for activists and journalists, operating over Bluetooth, local Wi-Fi mesh, or Tor without central servers.
+  id: briar
+
+- title: Syncthing
+  url: https://syncthing.net/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-sync
+    - local-first
+    - zero-signup
+  replaces:
+    - Commercial cloud storage sync tools
+    - Proprietary file hosting services
+  annotation: Decentralized continuous file synchronization program that securely syncs files directly between your devices over local networks with zero cloud storage.
+  id: syncthing
+
+
+- title: Meshtastic
+  url: https://meshtastic.org/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - off-grid-communication
+    - radio-mesh
+    - zero-signup
+  replaces:
+    - Cellular-dependent communication networks
+    - Proprietary tracking hardware software
+  annotation: Open-source, decentralized off-grid mesh network built on affordable radio hardware to send encrypted text messages without cellular towers or internet.
+  id: meshtastic
+
+- title: LM Studio
+  url: https://lmstudio.ai/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - local-ai
+    - llm-runner
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-locked proprietary AI APIs
+    - Data-harvesting chat platforms
+  annotation: Desktop application to discover, download, and run open-source large language models locally on your own GPU with complete privacy.
+  id: lm-studio
+
+- title: Joplin
+  url: https://joplinapp.org/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - note-taking
+    - end-to-end-encrypted
+    - zero-signup
+  replaces:
+    - Proprietary cloud-locked note apps
+    - Telemetry-heavy writing suites
+  annotation: Open-source, end-to-end encrypted note-taking and todo application that stores data locally with flexible synchronization options.
+  id: joplin
+
+- title: PeakFinder
+  url: https://www.peakfinder.com/
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - mapping-utility
+    - outdoor-tool
+    - browser-based
+    - zero-signup
+  replaces:
+    - Proprietary mountain identification apps
+    - Static topographic guides
+  annotation: Interactive panoramic viewer that maps and labels surrounding mountain peaks using elevation data for hikers and explorers.
+  id: peakfinder
+- title: Vert.sh
+  url: https://vert.sh/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - file-converter
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-tethered conversion SaaS
+    - Telemetry-heavy file conversion tools
+  annotation: Client-side file converter processing images, audio, and documents locally via WebAssembly with zero server uploads or signups.
+  id: vert-sh
+  
+- title: Framasoft (Dégooglisons Internet)
+  url: https://degooglisons-internet.org/
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - privacy-activism
+    - decentralized-ecosystem
+    - zero-signup
+  replaces:
+    - Centralized Big Tech corporate SaaS ecosystems
+    - Telemetry-heavy cloud software suites
+  annotation: Comprehensive French open-source initiative and alternative tool directory providing ethical, privacy-focused open-source alternatives (such as Framapad, Framadrive, and Framatalk) to commercial big-tech services.
+  id: degooglisons-internet
+
+- title: Temp-Mail
+  url: https://github.com/mehmetkahya0/temp-mail
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - disposable-email
+    - privacy
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated commercial temporary email SaaS
+    - Telemetry-heavy burner inbox providers
+  annotation: Privacy-first, open-source disposable email web app running entirely client-side with zero backend storage or accounts required.
+  id: temp-mail
+
+- title: No-Cost AI
+  url: https://github.com/zebbern/no-cost-ai
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - free-ai
+    - api-aggregators
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Paid AI subscription tiers
+    - Proprietary multi-model wrapper platforms
+  annotation: Open-source curated collection and directory of free AI services, chat endpoints, models, and voice APIs.
+  id: no-cost-ai
+
+- title: Vantezzen File Transfer
+  url: https://github.com/vantezzen/file-transfer
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - open-source
+    - p2p-sharing
+    - compression
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud storage upload links
+    - Proprietary file-sharing subscription services
+  annotation: Open-source peer-to-peer file transfer utility featuring automatic zlib compression for fast local and browser-based sharing.
+  id: vantezzen-file-transfer
+
+- title: Toolbus
+  url: https://thetoolbus.ai
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - open-source-alternatives
+    - browser-based
+    - developer-utilities
+    - document-tools
+    - zero-signup
+  replaces:
+    - Subscription-locked SaaS utility platforms
+    - Gated document and conversion websites
+  annotation: Curated web platform and utility suite offering free, frictionless PDF converters, image tools, calculators, and developer helpers.
+  id: toolbus
+
+- title: SnapFiles
+  url: https://www.snapfiles.com/
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - software-directory
+    - freeware
+    - windows-utilities
+    - curated-reviews
+  replaces:
+    - Ad-heavy, bundleware-infested download portals
+    - Gated software discovery sites
+  annotation: Long-standing, human-curated software directory and review platform specializing in safe freeware, open-source tools, and desktop utilities.
+  id: snapfiles
+
+- title: FossHub
+  url: https://www.fosshub.com/
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - software-directory
+    - open-source
+    - direct-downloads
+    - desktop-utilities
+    - zero-adware
+  replaces:
+    - Ad-heavy software download portals
+    - Bloatware and wrapper-infested mirrors
+  annotation: High-speed, trusted software distribution platform providing clean, direct downloads for popular open-source projects and desktop utilities without adware.
+  id: fosshub
+- title: PortableApps.com
+  url: https://portableapps.com/
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - open-source
+    - portable-software
+    - desktop-utilities
+    - local-first
+    - zero-install
+  replaces:
+    - Registry-bloating desktop installers
+    - Closed-source software delivery wrappers
+  annotation: The world's most popular portable software platform and directory, providing hundreds of verified, self-contained open-source and freeware apps that run without local installation.
+  id: portableapps
+
+- title: SourceForge
+  url: https://sourceforge.net/
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - software-directory
+    - open-source
+    - legacy-archive
+    - desktop-utilities
+    - project-hosting
+  replaces:
+    - Centralized proprietary software stores
+    - Gated download managers
+  annotation: Veteran open-source software directory, development community, and project hosting platform providing free tools and direct downloads for millions of users.
+  id: sourceforge
+
+
+
