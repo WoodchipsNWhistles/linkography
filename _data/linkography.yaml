@@ -10251,5 +10251,606 @@
   annotation: Veteran open-source software directory, development community, and project hosting platform providing free tools and direct downloads for millions of users.
   id: sourceforge
 
+- title: Field Manual Vault
+  url: https://www.trex-arms.com/field-manual-vault
+  category: productivity-reference-and-play
+  subcategory: open-reference-directories
+  tags:
+    - field-manuals
+    - survivalism
+    - reference-library
+    - offline-ready
+  replaces:
+    - Scattered proprietary survival PDF dumps
+    - Gated tactical resource repositories
+  annotation: Curated digital vault of public domain field manuals, survival guides, and reference documents for preparedness and emergency readiness.
+  id: field-manual-vault
+  
+- title: DOF Simulator
+  url: https://dofsimulator.net/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - photography-tool
+    - optical-calculator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Static depth-of-field charts
+    - Gated photography training software
+  annotation: Interactive browser-based camera depth-of-field simulator and optical calculator that visually renders background blur, bokeh, diffraction, and hyperfocal distance based on sensor size, focal length, and aperture.
+  id: dof-simulator
+
+- title: Musike
+  url: https://github.com/Ernani1234/musike
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - music-player
+    - youtube-client
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription-locked music streaming services
+    - Ad-heavy proprietary music apps
+  annotation: Free, open-source personal music player for YouTube and YouTube Music catalogs providing ad-free listening, local playlists, and zero-signup access.
+  id: musike
+
+- title: ProCraft
+  url: https://github.com/artcraft-android/procraft
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - digital-painting
+    - android-app
+    - rust-engine
+    - zero-signup
+  replaces:
+    - Subscription-heavy proprietary mobile art studios
+    - Gated iOS-exclusive digital painting apps
+  annotation: Free, open-source raster painting studio for Android tablets, Windows, and Linux built in pure Rust featuring pressure-sensitive brushes, layers, animation, and 3D painting.
+  id: procraft
+
+- title: OpenSEO
+  url: https://github.com/open-seo/open-seo
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - seo-tools
+    - developer-utilities
+    - zero-signup
+  replaces:
+    - Proprietary subscription SEO platforms (Ahrefs, Semrush)
+    - Closed-source web audit suites
+  annotation: Free, open-source search engine optimization platform for running local SEO audits, keyword tracking, and website analysis.
+  id: open-seo
+
+- title: Chatwoot
+  url: https://github.com/chatwoot/chatwoot
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - customer-support
+    - live-chat
+    - self-hosted
+  replaces:
+    - Paid customer messaging SaaS (Intercom, Crisp, Zendesk)
+    - Cloud-tethered live chat software
+  annotation: Open-source customer engagement suite and live chat platform providing omni-channel support via self-hosting.
+  id: chatwoot
+
+- title: PrivacyTests.org
+  url: https://privacytests.org
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - browser-privacy
+    - comparative-benchmarks
+    - web-security
+    - zero-signup
+  replaces:
+    - Marketing claims from web browser vendors
+    - Biased privacy reviews
+  annotation: Open-source, automated test suite providing independent benchmarks comparing popular web browser privacy and tracking protections.
+  id: privacytests
+
+- title: Dead Link Checker
+  url: https://www.deadlinkchecker.com
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - web-utility
+    - link-checker
+    - website-audit
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy commercial site audit software
+    - Manual link verification workflows
+  annotation: Free web utility that automatically crawls websites to detect broken, dead, or corrupted hyperlinks.
+  id: deadlinkchecker
 
 
+- title: Rome2Rio
+  url: https://www.rome2rio.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - travel-planner
+    - route-finder
+    - transit-search
+    - browser-based
+    - zero-signup
+  replaces:
+    - Searching multiple fragmented travel booking portals
+    - Manual transit schedule cross-referencing
+  annotation: Multi-modal travel search engine that plots transit routes worldwide across trains, buses, flights, and ferries.
+  id: rome2rio
+
+- title: Screenity
+  url: https://screenity.io
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - screen-recorder
+    - browser-extension
+    - local-first
+    - zero-signup
+  replaces:
+    - Paid subscription screen recorders (Loom)
+    - Watermarked recording tools
+  annotation: Free, open-source browser extension for recording, annotating, and editing screen captures locally without account limits or watermarks.
+  id: screenity
+
+- title: WAVE Web Accessibility Evaluation Tool
+  url: https://wave.webaim.org
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - accessibility
+    - web-audit
+    - a11y
+    - browser-based
+    - zero-signup
+  replaces:
+    - Expensive enterprise accessibility audit platforms
+    - Manual WCAG compliance checking
+  annotation: Suite of web evaluation tools providing visual feedback about website accessibility and WCAG compliance issues.
+  id: wave-webaim
+
+- title: SwissTransfer
+  url: https://www.swisstransfer.com
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - file-transfer
+    - encrypted-sharing
+    - privacy
+    - zero-signup
+  replaces:
+    - Account-gated file hosting services (WeTransfer)
+    - Low size limit cloud storage sharing
+  annotation: Free file transfer service allowing end-to-end encrypted file sharing up to 50GB per transfer with zero signup required.
+  id: swisstransfer
+
+- title: ToonTales
+  url: https://toontales.net/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source-alternative
+    - media-archive
+    - animation
+    - browser-based
+    - zero-signup
+  replaces:
+    - Paywalled classic animation streaming services
+    - Closed-source cartoon archives
+  annotation: Free browser-based archival repository for classic cartoons, animations, and historical media collections with zero signups.
+  id: toontales
+
+- title: OpenWhispr
+  url: https://github.com/openwhispr/openwhispr
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - speech-to-text
+    - ai-transcription
+    - local-first
+    - zero-signup
+  replaces:
+    - Cloud-based transcription subscriptions (Otter.ai, Descript)
+    - Telemetry-heavy voice recognition APIs
+  annotation: Open-source speech recognition and transcription workspace running local OpenAI Whisper models client-side with zero data tracking.
+  id: openwhispr
+
+- title: Cap
+  url: https://github.com/CapSoftware/Cap
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - screen-recorder
+    - video-sharing
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription screen recording SaaS (Loom, Vidyard)
+    - Watermarked commercial recording tools
+  annotation: Free, open-source Loom alternative for capturing, editing, and sharing instant screen recordings locally or self-hosted.
+  id: cap
+
+- title: AppFlowy
+  url: https://github.com/AppFlowy-IO/AppFlowy
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - workspace
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary cloud workspaces (Notion, Coda)
+    - Gated team knowledge bases
+  annotation: Open-source, offline-first workspace constructed with Flutter and Rust for document editing, wikis, and project management with full data privacy.
+  id: appflowy
+
+- title: VoiceStudio
+  url: https://github.com/VoiceStudio/VoiceStudio
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - text-to-speech
+    - voice-synthesis
+    - local-first
+  replaces:
+    - Paid AI voice generation services (ElevenLabs)
+    - Cloud-locked voice cloning tools
+  annotation: Open-source local audio environment for synthesizing, cloning, and processing custom AI voices without cloud API fees.
+  id: voicestudio
+
+- title: Open Higgsfield
+  url: https://github.com/Open-Generative-AI/Open-Higgsfield
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - open-source
+    - video-generation
+    - generative-ai
+    - self-hosted
+  replaces:
+    - Subscription generative video SaaS (Runway, Pika)
+    - Closed-source AI animation platforms
+  annotation: Open-source framework for self-hosting and running video generation and generative media models locally.
+  id: open-higgsfield
+
+- title: Playground (Playground v2.5)
+  url: https://playgroundai.com/
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - generative-ai
+    - text-to-image
+    - open-models
+    - browser-based
+  replaces:
+    - Gated commercial art generators with strict usage caps
+    - Closed-source proprietary image synthesis pipelines
+  annotation: Advanced AI image generation platform backed by state-of-the-art open aesthetic models offering robust visual creation tools.
+  id: playground-ai
+
+- title: myspoti
+  url: https://github.com/Ernani1234/myspoti
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - music-player
+    - browser-based
+    - lightweight
+    - zero-signup
+  replaces:
+    - Bloated desktop streaming clients
+    - Telemetry-heavy media desktop apps
+  annotation: Free, open-source web-based music player interface offering a lightweight, bloat-free streaming experience in the browser.
+  id: myspoti
+
+- title: Open Store
+  url: https://openstore.site/
+  category: developer-and-system-utilities
+  subcategory: open-reference-directories
+  tags:
+    - open-source
+    - application-store
+    - linux
+    - mobile
+    - zero-signup
+  replaces:
+    - Proprietary mobile app stores
+    - Gated closed-source software ecosystems
+  annotation: Decentralized, open-source application marketplace and software repository providing free, direct app distribution for alternative mobile operating systems and open platforms.
+  id: open-store
+
+- title: Gather (by DAO)
+  url: https://gather.be-of-dao.com/
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - creative-coding
+    - point-cloud
+    - browser-based
+    - interactive-art
+    - zero-signup
+  replaces:
+    - Gated interactive media creation suites
+    - Heavy proprietary point-cloud visualization tools
+  annotation: Browser-based interactive creative app that turns static images into dynamic, sound-responsive point clouds that scatter and gather.
+  id: gather-dao
+
+- title: Archive.org
+  url: https://archive.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - digital-library
+    - public-domain
+    - zero-signup
+  replaces:
+    - Closed institutional library portals
+    - Paywalled digital archives
+  annotation: Universal digital library offering free access to millions of public domain books, web pages, software, and media without registration.
+  id: archive-org
+
+- title: Project Gutenberg
+  url: https://gutenberg.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - e-books
+    - public-domain
+    - zero-signup
+  replaces:
+    - Commercial eBook marketplaces
+    - Closed digital publishing platforms
+  annotation: Open library of over 70,000 free public domain eBooks available for instant reading and download with zero account creation.
+  id: gutenberg-org
+
+- title: iLovePDF
+  url: https://www.ilovepdf.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - pdf-tools
+    - document-utility
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-locked desktop PDF software
+    - Heavy enterprise document conversion suites
+  annotation: Suite of instant browser-based document utilities for merging, splitting, converting, and compressing PDFs without requiring registration.
+  id: ilovepdf-com
+
+- title: Unscreen
+  url: https://www.unscreen.com
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - video-editing
+    - background-remover
+    - browser-based
+    - zero-signup
+  replaces:
+    - Heavy video keying and green screen desktop software
+    - Gated video editing suites
+  annotation: Automated video utility for analyzing and removing video backgrounds without green screens or manual keyframing.
+  id: unscreen-com
+
+- title: Privnote
+  url: https://privnote.com
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - secret-sharing
+    - self-destructing
+    - privacy
+    - zero-signup
+  replaces:
+    - Unencrypted communication channels
+    - Persistent text hosting services
+  annotation: Transient note service for sending self-destructing encrypted messages that automatically delete immediately upon being read.
+  id: privnote-com
+
+- title: Temp-Mail
+  url: https://temp-mail.org
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - disposable-email
+    - privacy
+    - anti-spam
+    - zero-signup
+  replaces:
+    - Primary email exposure to spam
+    - Gated burner email providers
+  annotation: Instant disposable inbox utility generating temporary email addresses to receive verification messages and protect main accounts from spam.
+  id: temp-mail-org
+
+- title: File.io
+  url: https://www.file.io
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - file-sharing
+    - transient-storage
+    - privacy
+    - zero-signup
+  replaces:
+    - Permanent cloud storage uploads
+    - Account-gated file transfer platforms
+  annotation: Ephemeral file-sharing utility designed around privacy that automatically deletes uploaded files after a single download.
+  id: file-io
+
+- title: musicForProgramming
+  url: https://musicforprogramming.net
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - audio-player
+    - focus-music
+    - ambient
+    - zero-signup
+  replaces:
+    - Algorithmic music streaming subscriptions
+    - Ad-supported video focus streams
+  annotation: Minimalist series of curated mix tracks formatted as a synth-wave terminal interface to aid concentration while coding and writing.
+  id: musicforprogramming-net
+
+- title: Coffitivity
+  url: https://coffitivity.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - ambient-sound
+    - productivity
+    - browser-based
+    - zero-signup
+  replaces:
+    - Gated focus app subscriptions
+    - Monotonous background audio
+  annotation: Audio environment generator recreating the ambient chatter and sounds of a coffee shop to boost creative productivity.
+  id: coffitivity-com
+
+
+- title: Semantic Scholar
+  url: https://www.semanticscholar.org
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - academic-search
+    - ai-research
+    - zero-signup
+  replaces:
+    - Closed institutional citation databases
+    - Commercial scientific publication search
+  annotation: Free, AI-backed academic search engine designed to extract key insights, citations, and structural connections from scientific literature.
+  id: semantic-scholar-org
+
+- title: SciSpace
+  url: https://scispace.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - academic-research
+    - paper-analysis
+    - ai-reading
+    - zero-signup
+  replaces:
+    - Manual academic jargon lookup
+    - Proprietary paper summarization software
+  annotation: AI research workspace for discovering, understanding, and summarizing dense scientific papers and technical literature.
+  id: scispace-com
+
+- title: Regex101
+  url: https://regex101.com
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - regex-tester
+    - code-debugger
+    - client-side
+    - zero-signup
+  replaces:
+    - Complex manual expression parsing
+    - Heavy IDE plugins for regex testing
+  annotation: Essential developer environment for building, testing, and debugging regular expressions with real-time pattern explanation and match highlighting.
+  id: regex101-com
+
+
+- title: JSON Formatter & Validator
+  url: https://jsonformatter.org
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - json-parser
+    - code-formatter
+    - client-side
+    - zero-signup
+  replaces:
+    - Manual JSON string parsing
+    - Closed data formatting plugins
+  annotation: Dedicated web tool to format, validate, convert, and inspect raw JSON data into clean human-readable trees locally in the browser.
+  id: jsonformatter-org
+
+
+- title: Downdetector
+  url: https://downdetector.com
+  category: developer-and-system-utilities
+  subcategory: device-and-network-utilities
+  tags:
+    - network-status
+    - outage-monitor
+    - zero-signup
+  replaces:
+    - Proprietary service status dashboards
+    - Fragmented support forums
+  annotation: Real-time outage reporting platform monitoring web services, applications, telecommunications, and cloud providers based on crowdsourced data.
+  id: downdetector-com
+
+- title: Flowlab Nightloop
+  url: https://flowlab.io/nightloop
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - music-production
+    - sound-design
+    - browser-based
+    - audio-synth
+    - interactive
+  replaces:
+    - Subscription-based web DAW plugins
+    - Closed sound FX design suites
+  annotation: Interactive browser-based sound synthesis and audio design tool for building procedural ambient loops, sound effects, and game audio directly in the browser.
+  id: flowlab-nightloop
+
+- title: PDFbq
+  url: https://pdfbq.com
+  category: developer-and-system-utilities
+  subcategory: office-productivity-utilities
+  tags:
+    - pdf-tools
+    - client-side
+    - browser-based
+    - zero-signup
+    - document-conversion
+  replaces:
+    - Gated cloud PDF conversion SaaS
+    - Privacy-invasive PDF upload platforms
+  annotation: Free browser-based PDF utility tool for splitting, merging, compressing, and editing PDF documents locally without account walls or file limits.
+  id: pdfbq
+
+- title: Fal.ai Toolse
+  url: https://fal.ai/toolse
+  category: ai-agents-and-development
+  subcategory: ai-dev-platforms
+  tags:
+    - generative-ai
+    - media-inference
+    - web-utilities
+    - API-tools
+    - open-models
+  replaces:
+    - High-latency cloud AI generation APIs
+    - Closed proprietary generative model suites
+  annotation: Suite of ultra-fast browser utilities and web interfaces powered by Fal.ai for real-time generative image, audio, and media processing.
+  id: fal-ai-toolse
