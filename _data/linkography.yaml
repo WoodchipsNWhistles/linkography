@@ -6812,3 +6812,210 @@
   subcategory: professional certification
   annotation: Free foundational coding education, apprenticeship pathways, and tech career placement.
   id: launchcode
+- title: LingoHut
+  url: https://www.lingohut.com
+  category: online-learning-and-workforce-training
+  subcategory: languages
+  tags:
+    - vocabulary
+    - multi-language
+    - free-education
+    - browser-based
+    - reference
+  replaces:
+    - Paywalled language apps
+    - Gated vocabulary builders
+  annotation: Free, zero-friction web utility providing bite-sized vocabulary and phrase lessons across 50+ languages with no registration, logins, or fees required.
+  id: lingohut
+
+- title: Ziggy ASL
+  url: https://ziggyasl.com
+  category: online-learning-and-workforce-training
+  subcategory: languages
+  tags:
+    - american-sign-language
+    - accessibility
+    - video-dictionary
+    - open-reference
+    - sign-language
+  replaces:
+    - Stock animation sign language tools
+    - Gated ASL learning modules
+  annotation: Open web-based American Sign Language resource offering a free filmed dictionary of real signs and phrases using human-filmed video clips.
+  id: ziggy-asl
+
+- title: Things Workshop
+  url: https://www.things-workshop.com
+  category: online-learning-and-workforce-training
+  subcategory: interactive-learning
+  tags:
+    - interactive-models
+    - visual-learning
+    - educational-reference
+    - browser-based
+    - 3d-models
+  replaces:
+    - Gated interactive textbooks
+    - Bloated educational software suites
+  annotation: Interactive educational web platform providing visual 3D models and clear explanations to break down how complex things work.
+  id: things-workshop
+
+- title: CityRT
+  url: https://cityrt.com
+  category: productivity-reference-and-play
+  subcategory: games-and-play
+  tags:
+    - browser-game
+    - city-builder
+    - simulation
+    - zero-install
+    - web-utility
+  replaces:
+    - Heavy downloaded city management software
+    - Bloated browser games with forced ads
+  annotation: Lightweight browser-based city builder allowing users to design towns with roads, districts, and municipal budgets directly in the browser.
+  id: cityrt
+
+- title: JPMorgan Chase Investment Banking Job Simulation (via Forage)
+  url: https://www.theforage.com/simulations/jpmorgan/investment-banking-hkyd
+  category: online-learning-and-workforce-training
+  subcategory: professional certification
+  tags:
+    - financial-modeling
+    - investment-banking
+    - career-development
+    - resume-builder
+    - free-certification
+  replaces:
+    - Expensive Wall Street prep courses
+    - Gated finance recruiting pipelines
+  annotation: Free virtual job simulation offering practical experience in financial analysis, DCF modeling, and pitch-book creation with a verifiable certificate of completion.
+  id: jpmorgan-investment-banking-simulation
+
+- title: OpenCut
+  url: https://opencut.app
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - video-editor
+    - privacy-focused
+    - cross-platform
+    - zero-signup
+  replaces:
+    - Bloated cloud video editors (CapCut, Canva video)
+    - Proprietary subscription editing suites
+  annotation: Free, open-source video editor running client-side with zero tracking, account walls, or subscription fees.
+  id: opencut
+
+- title: Hoppscotch
+  url: https://hoppscotch.io
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - api-client
+    - web-utility
+    - developer-tools
+    - lightweight
+  replaces:
+    - Postman (bloated desktop app with forced cloud accounts)
+    - Gated enterprise API testing suites
+  annotation: Free, open-source, browser-based API development ecosystem for testing REST, GraphQL, and WebSockets with zero forced signups or telemetry.
+  id: hoppscotch
+
+- title: Logseq
+  url: https://logseq.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - local-first
+    - markdown
+    - knowledge-management
+    - privacy-focused
+  replaces:
+    - Notion (bloated databases and forced cloud subscriptions)
+    - Proprietary note-taking silos
+  annotation: Privacy-first, open-source knowledge management and outlining tool that stores your notes as local plain-text files with zero forced cloud lock-in.
+  id: logseq
+
+- title: drawDB
+  url: https://www.drawdb.app
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - database-diagram
+    - sql-generator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Paid database modeling suites
+    - Bloated enterprise diagramming tools
+  annotation: Free, open-source browser-based database diagram editor and SQL script generator allowing visual schema design with zero signups.
+  id: drawdb
+
+- title: Graphite
+  url: https://graphite.rs
+  category: media-and-creative-production
+  subcategory: media-and-video-tools
+  tags:
+    - open-source
+    - vector-graphics
+    - rust
+    - webassembly
+    - browser-based
+  replaces:
+    - Adobe Illustrator (heavy subscription suites)
+    - Proprietary cloud design apps
+  annotation: Free, open-source, in-browser vector graphics and illustration editor built in Rust and WebAssembly with non-destructive node-based editing.
+  id: graphite-rs
+
+- title: Readest
+  url: https://readest.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - open-source
+    - ebook-reader
+    - local-first
+    - privacy-focused
+    - cross-platform
+  replaces:
+    - Proprietary cloud e-readers (Kindle/Apple Books web silos)
+    - Bloated e-book management suites with forced telemetry
+  annotation: Free, open-source cross-platform EPUB and PDF reader built with a local-first philosophy, zero-signup web access, and flexible sync.
+  id: readest
+
+- title: StackEdit
+  url: https://stackedit.io
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - markdown-editor
+    - browser-based
+    - zero-signup
+    - writing-tool
+  replaces:
+    - Bloated online document suites
+    - Gated proprietary writing apps
+  annotation: Free, open-source in-browser Markdown editor featuring real-time preview, equation rendering, and zero-signup local storage.
+  id: stackedit
+
+- title: WebLLM
+  url: https://webllm.mlc.ai
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - local-ai
+    - webgpu
+    - browser-based
+    - zero-signup
+  replaces:
+    - Closed-source cloud AI wrappers
+    - Paid subscription chatbot APIs
+  annotation: High-performance, in-browser LLM inference engine running entirely client-side via WebGPU and WebAssembly with zero server dependency.
+  id: webllm
