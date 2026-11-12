@@ -10854,3 +10854,152 @@
     - Closed proprietary generative model suites
   annotation: Suite of ultra-fast browser utilities and web interfaces powered by Fal.ai for real-time generative image, audio, and media processing.
   id: fal-ai-toolse
+  
+- title: lo-pi radio
+  url: https://pudding.cool/projects/lopi/
+  category: productivity-reference-and-play
+  subcategory: games-and-play
+  tags:
+    - interactive
+    - dataviz
+    - mathematics
+    - browser-based
+    - zero-signup
+  replaces:
+    - Standard looped ambient noise generators
+    - Gated commercial background music apps
+  annotation: Infinite lo-fi beat generator and visualizer powered entirely by the sequential digits of Pi, created by The Pudding.
+  id: lopi-radio
+
+- title: NSA Enigma Simulator
+  url: https://github.com/NationalSecurityAgency/enigma-simulator
+  category: historical-research-and-combat-arts
+  subcategory: historical-cryptography
+  tags:
+    - open-source
+    - cryptography
+    - python
+    - jupyter-notebook
+    - historical
+    - zero-signup
+  replaces:
+    - Proprietary crypto education software
+    - Closed-source historical simulation tools
+  annotation: Open-source educational toolkit by the NSA featuring Python simulations and Jupyter notebooks demonstrating historical Enigma cipher breaking and cryptanalysis.
+  id: nsa-enigma-simulator
+
+
+- title: Ignorant
+  url: https://github.com/megadose/ignorant
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - open-source
+    - osint
+    - account-discovery
+    - CLI-utility
+  replaces:
+    - Paid social-media lookup brokers
+  annotation: Open-source command-line tool that checks whether a phone number is registered on major social platforms without alerting the target.
+  id: ignorant
+
+- title: Bellingcat Telegram Phone Number Checker
+  url: https://github.com/bellingcat/telegram-phone-number-checker
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - open-source
+    - osint
+    - telegram
+    - investigative-tool
+  replaces:
+    - Proprietary messaging-app OSINT services
+  annotation: Open-source Python utility developed by Bellingcat to verify if phone numbers are linked to active Telegram accounts.
+  id: bellingcat-telegram-checker
+
+- title: Phunter
+  url: https://github.com/N0rz3/Phunter
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - open-source
+    - osint
+    - phone-recon
+    - CLI-utility
+  replaces:
+    - Ad-heavy reverse phone lookup sites
+  annotation: Lightweight open-source reconnaissance script for extracting carrier, location, and public footprint data from phone numbers.
+  id: phunter
+
+- title: Have I Been Zuckered
+  url: https://haveibeenzuckered.com
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - free
+    - breach-lookup
+    - privacy
+    - zero-signup
+  replaces:
+    - Paid dark-web monitoring subscriptions
+  annotation: Single-purpose, zero-signup lookup tool to check if a phone number was exposed in the 533-million-record Facebook data breach.
+  id: have-i-been-zuckered
+
+- title: Trend Micro Data Leak Checker
+  url: https://global.trendmicro.com/us/security-intelligence/tools/data-leak-checker
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - free
+    - data-leak
+    - breach-checker
+    - privacy
+    - zero-signup
+  replaces:
+    - Paid identity theft monitoring platforms
+  annotation: Free utility by Trend Micro allowing users to check whether their personal phone numbers or email addresses have appeared in known data breaches.
+  id: trend-micro-data-leak-checker
+
+- title: USPhoneBook
+  url: https://www.usphonebook.com
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - free-tier
+    - reverse-lookup
+    - public-records
+    - people-search
+  replaces:
+    - Gated subscriber-only phone directory services
+  annotation: Public directory and reverse phone lookup platform offering free baseline records for U.S. numbers and residential listings.
+  id: usphonebook
+
+- title: Sky Dialer
+  url: https://skydialer.in
+  category: osint-and-reconnaissance
+  subcategory: osint-open-access-research
+  tags:
+    - free
+    - reverse-lookup
+    - phone-directory
+    - caller-id
+  replaces:
+    - Subscription-locked mobile caller ID databases
+  annotation: Free reverse phone lookup and number identification platform providing caller details and carrier data.
+  id: sky-dialer
+
+- title: SkillTree Platform
+  url: https://skilltreeplatform.dev/
+  category: developer-and-system-utilities
+  subcategory: developer-tools
+  tags:
+    - open-source
+    - gamification
+    - micro-learning
+    - training-platform
+    - zero-signup
+  replaces:
+    - Commercial enterprise LMS suites
+    - Proprietary user-onboarding software
+  annotation: Open-source micro-learning gamification framework developed by the NSA for embedding interactive training paths, badges, and progress tracking into web applications.
+  id: nsa-skilltree
