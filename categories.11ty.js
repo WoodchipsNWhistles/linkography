@@ -6,7 +6,7 @@ class SubcategoryPages {
   data() {
     const yamlPath = path.join(__dirname, "_data/linkography.yaml");
     const fileContents = fs.readFileSync(yamlPath, "utf8");
-    const linkographyData = yaml.load(fileContents);
+    const linkographyData = yaml.load(fileContents) || [];
 
     const groups = {};
     linkographyData.forEach(item => {
@@ -19,6 +19,16 @@ class SubcategoryPages {
       groups[key].items.push(item);
     });
 
+    // Sort items alphabetically (case-insensitive) within each subcategory group
+    const subcategoriesList = Object.values(groups).map(group => {
+      group.items.sort((a, b) => {
+        const titleA = String(a.title || "").toLowerCase();
+        const titleB = String(b.title || "").toLowerCase();
+        return titleA.localeCompare(titleB);
+      });
+      return group;
+    });
+
     return {
       layout: "layout.njk",
       pagination: {
@@ -26,7 +36,7 @@ class SubcategoryPages {
         size: 1,
         alias: "sub"
       },
-      subcategoriesList: Object.values(groups),
+      subcategoriesList,
       permalink: function(data) {
         const cat = this.slugify(data.sub.category);
         const sub = this.slugify(data.sub.subcategory);
