@@ -4,12 +4,9 @@ import yaml
 # Define mapping rules for entries currently stuck in 'ai-dev-platforms'
 # Key: item ID, Value: (new_category, new_subcategory)
 MIGRATION_MAP = {
-    "bottleship": ("productivity-reference-and-play", "games-and-play"),
-	"circuitjs1": ("developer-and-system-utilities", "electronics-design"),
-	"kicanvas": ("developer-and-system-utilities", "electronics-design"),
-	"editorapdf": ("developer-and-system-utilities", "office-productivity-utilities"),
-	"fit-stats": ("developer-and-system-utilities", "device-and-network-utilities"),
-	"weaponize-it": ("osint-and-reconnaissance", "threat-intelligence")
+
+	"uspto-patent-public-search-ppubs":("osint-and-reconnaissance","public-records-and-registries"),
+
 }
 
 def clean_ai_dev_platforms(file_path):

@@ -53,27 +53,9 @@
     and OpenStreetMap vectors into printable STL and multi-color 3MF models with geographic structures.
   id: terraprinter
   subcategory: cad-fabrication
-- title: LeoLabs Space Platform
-  url: https://platform.leolabs.space/visualization
-  category: osint-and-reconnaissance
-  tags:
-  - space-domain-awareness
-  - orbital-mechanics
-  - satellite-tracking
-  - space-debris
-  - low-earth-orbit
-  - 3d-visualization
-  replaces:
-  - Stuff in Space
-  - N2YO Standard Tracking
-  - Proprietary Telemetry Portals
-  annotation: Interactive 3D low Earth orbit (LEO) visualization powered by a global radar network, tracking
-    live satellites, active payloads, and space debris fields in real time.
-  id: leolabs-space-platform
-  subcategory: space-tracking
 - title: Evil Emoji
   url: https://evil-emoji.vercel.app/
-  category: productivity-reference-and-play
+  category: osint-and-reconnaissance
   tags:
   - steganography
   - zero-width-characters
@@ -87,7 +69,7 @@
   annotation: Browser-based steganography utility hiding secret messages inside ordinary emoji strings
     using invisible zero-width Unicode characters for covert text payload transmission.
   id: evil-emoji
-  subcategory: text-encoding
+  subcategory: cryptography-and-steganalysis
 - title: BioDigital Human
   url: https://human.biodigital.com/
   category: open-access-archives-and-research
@@ -1332,7 +1314,7 @@
   annotation: Free, browser-based 3D flight tracking utility built with Rust and WebGL2 rendering 10,000+
     live global flights at 60fps without account requirements.
   id: flight-viz
-  subcategory: aviation-tracking
+  subcategory: tracking-recon
 - title: ToS;DR (Terms of Service; Didn't Read)
   url: https://tosdr.org/en
   category: osint-and-reconnaissance
@@ -2018,7 +2000,7 @@
   - Commercial cert monitoring
   annotation: Certificate transparency log search engine for domain and infrastructure recon.
   id: crtsh
-  subcategory: domain-dns-recon
+  subcategory: domain-recon
 - title: Cyber Threat Intelligence Dashboard (infosecn1nja)
   url: https://github.com/infosecn1nja/Threat-Intelligence
   category: osint-and-reconnaissance
@@ -2060,7 +2042,7 @@
   annotation: Domain research tool that discovers hosts related to a domain, mapping out DNS records,
     subgraphs, and infrastructure maps for network reconnaissance.
   id: dnsdumpster
-  subcategory: domain-dns-recon
+  subcategory: domain-recon
 - title: EmailOSINT
   url: https://github.com/sovity/EmailOSINT
   category: osint-and-reconnaissance
@@ -2530,20 +2512,6 @@
     and remote locations worldwide.
   id: earthcam
   subcategory: webcam-directories
-- title: Flightradar24
-  url: https://www.flightradar24.com
-  category: osint-and-reconnaissance
-  tags:
-  - flight-tracking
-  - ads-b
-  - aviation-osint
-  - air-traffic
-  replaces:
-  - Proprietary flight tracking portals
-  annotation: Real-time flight tracking service providing live map data on global air traffic, commercial
-    flights, and military aircraft movements.
-  id: flightradar24
-  subcategory: aviation-tracking
 - title: GeoGuessr
   url: https://www.geoguessr.com
   category: productivity-reference-and-play
@@ -2572,7 +2540,7 @@
   annotation: Open-access tracking platform using AIS and satellite data to monitor industrial fishing,
     dark fleets, and maritime activity.
   id: global-fishing-watch
-  subcategory: maritime-tracking
+  subcategory: tracking-recon
 - title: Google Earth
   url: https://earth.google.com/web/
   category: osint-and-reconnaissance
@@ -2627,7 +2595,7 @@
   annotation: Global live AIS tracking platform mapping ship movements, port data, and maritime traffic
     routes.
   id: marinetraffic
-  subcategory: maritime-tracking
+  subcategory: tracking-recon
 - title: NASA's Eyes
   url: https://science.nasa.gov/eyes/
   category: osint-and-reconnaissance
@@ -2641,7 +2609,7 @@
   annotation: Interactive 3D visualization suite driven by real orbital telemetry for tracking satellites,
     planets, asteroids, and space probes.
   id: nasas-eyes
-  subcategory: space-tracking
+  subcategory: tracking-recon
 - title: OSIRIS Intelligence Dashboard
   url: https://osiris.intelligence.gq
   category: osint-and-reconnaissance
@@ -2686,7 +2654,7 @@
   annotation: Comprehensive interactive map by TeleGeography detailing global undersea fiber-optic cable
     infrastructure and landing points.
   id: submarine-cable-map
-  subcategory: maritime-tracking
+  subcategory: geospatial
 - title: TimeMap
   url: https://timemap.github.io
   category: historical-research-and-combat-arts
@@ -3085,7 +3053,7 @@
   annotation: Official Federal Aviation Administration search portal tracking U.S. civil aircraft registrations,
     ownership histories, and airframe data by N-number.
   id: faa-aircraft-registry
-  subcategory: aviation-tracking
+  subcategory: public-records-and-registries
 - title: Finding Verity Dashboard
   url: https://findingverity.com
   category: osint-and-reconnaissance
@@ -3126,7 +3094,7 @@
   annotation: Crowdsourced global reference guide indexing physical infrastructure markers (utility poles,
     road signs, bollards) for photo geolocation.
   id: geohints
-  subcategory: geolocation-tools
+  subcategory: geolocation
 - title: GeoSpy
   url: https://geospy.ai
   category: osint-and-reconnaissance
@@ -3140,7 +3108,7 @@
   annotation: AI-powered visual geolocation tool analyzing ambient geographical and architectural features
     in images to predict locations.
   id: geospy
-  subcategory: geolocation-tools
+  subcategory: geolocation
 - title: Google Lens
   url: https://search.google/ways-to-search/lens/
   category: osint-and-reconnaissance
@@ -3208,7 +3176,7 @@
   annotation: Official registration data lookup tool providing authoritative WHOIS and RDAP records for
     top-level domains.
   id: icann-lookup
-  subcategory: domain-dns-recon
+  subcategory: domain-recon
 - title: Import Yeti
   url: https://www.importyeti.com
   category: osint-and-reconnaissance
@@ -3222,7 +3190,7 @@
   annotation: Global supply chain intelligence platform searching US Customs bills of lading and shipping
     manifests to map international manufacturing sources.
   id: import-yeti
-  subcategory: corporate-trade-records
+  subcategory: public-records-and-registries
 - title: Insecam
   url: http://www.insecam.org
   category: osint-and-reconnaissance
@@ -3303,7 +3271,7 @@
   annotation: Largest open database of corporate data in the world, aggregating company registers globally
     to map corporate entities and officer networks.
   id: opencorporates
-  subcategory: corporate-trade-records
+  subcategory: public-records-and-registries
 - title: OpenSanctions
   url: https://www.opensanctions.org
   category: osint-and-reconnaissance
@@ -3317,7 +3285,7 @@
   annotation: Consolidated database of sanction lists, politically exposed persons, and crime data for
     compliance and investigative tracking.
   id: opensanctions
-  subcategory: corporate-trade-records
+  subcategory: public-records-and-registries
 - title: OSINT Central Dashboard
   url: https://osintcentral.com
   category: osint-and-reconnaissance
@@ -3373,7 +3341,7 @@
   annotation: Intelligence X-backed OSINT recon tool designed to rapidly extract and aggregate domains,
     email addresses, and URLs from indexed datasets.
   id: phonebookcz
-  subcategory: domain-dns-recon
+  subcategory: domain-recon
 - title: PublicWWW
   url: https://publicwww.com
   category: osint-and-reconnaissance
@@ -3406,7 +3374,7 @@
   annotation: European Patent Office database indexing over 150 million international patent publications,
     legal statuses, and technical disclosures.
   id: espacenet
-  subcategory: patent-search
+  subcategory: public-records-and-registries
 - title: Google Patents
   url: https://patents.google.com
   category: osint-and-reconnaissance
@@ -3422,7 +3390,7 @@
   annotation: Full-text international patent search engine indexing global grants, applications, prior
     art, and non-patent literature.
   id: google-patents
-  subcategory: patent-search
+  subcategory: public-records-and-registries
 - title: USPTO Patent Public Search (PPUBS)
   url: https://ppubs.uspto.gov
   category: osint-and-reconnaissance
@@ -3438,7 +3406,7 @@
   annotation: Official full-text search engine provided by the U.S. Patent and Trademark Office for published
     patent applications and patent grants.
   id: uspto-patent-public-search-ppubs
-  subcategory: patent-search
+  subcategory: public-records-and-registries
 - title: Tails OS
   url: https://tails.net/
   category: osint-and-reconnaissance
@@ -3564,7 +3532,7 @@
   subcategory: secure-email-messaging
 - title: 10 Minute Mail
   url: https://10minutemail.com
-  category: osint-and-reconnaissance
+  category: privacy-and-security
   tags:
   - disposable-email
   - burner-inbox
@@ -3578,7 +3546,7 @@
   subcategory: disposable-email
 - title: Guerrilla Mail
   url: https://www.guerrillamail.com
-  category: osint-and-reconnaissance
+  category: privacy-and-security
   tags:
   - disposable-email
   - temporary-inbox
@@ -3592,7 +3560,7 @@
   subcategory: disposable-email
 - title: MailDrop
   url: https://maildrop.cc/
-  category: osint-and-reconnaissance
+  category: privacy-and-security
   tags:
   - disposable-email
   - temp-email
@@ -4046,7 +4014,7 @@
   subcategory: privacy-search-engines
 - title: Perplexity
   url: https://www.perplexity.ai
-  category: osint-and-reconnaissance
+  category: ai-agents-and-development
   tags:
   - conversational-search
   - citation-backed
@@ -4061,7 +4029,7 @@
   subcategory: ai-search-engines
 - title: Phind
   url: https://www.phind.com
-  category: osint-and-reconnaissance
+  category: ai-agents-and-development
   tags:
   - developer-search
   - code-troubleshooting
@@ -4562,22 +4530,6 @@
     and training courses across inbound marketing, sales, customer service, and revenue operations.
   id: hubspot-academy
   subcategory: free-certifications
-- title: Meta Blueprint
-  url: https://www.facebookblueprint.com/student/catalogue
-  category: online-learning-and-workforce-training
-  tags:
-  - digital-marketing
-  - social-media
-  - free-courses
-  - advertising-certifications
-  - meta-training
-  replaces:
-  - Paid social media marketing bootcamps
-  - Commercial Facebook ad courses
-  annotation: Meta's official global training and certification platform providing free eLearning courses
-    and structured guides for advertising, content management, and digital marketing across Meta technologies.
-  id: meta-blueprint
-  subcategory: free-certifications
 - title: Microsoft Learn
   url: https://learn.microsoft.com
   category: online-learning-and-workforce-training
@@ -4924,7 +4876,7 @@
   annotation: A comprehensive public archive detailing historical aircraft accidents, safety incidents,
     and flight safety investigation records.
   id: aviation-safety-network
-  subcategory: aviation-tracking
+  subcategory: public-records-and-registries
 - title: URLhaus
   url: https://urlhaus.abuse.ch
   category: osint-and-reconnaissance
@@ -4972,7 +4924,7 @@
   annotation: An open-source web application using Cesium to calculate and render real-time 3D satellite
     orbits entirely in the browser.
   id: satvis
-  subcategory: space-tracking
+  subcategory: tracking-recon
 - title: PhilArchive
   url: https://philarchive.org
   category: open-access-archives-and-research
@@ -5174,7 +5126,7 @@
   subcategory: math-tools
 - title: Morphic
   url: https://github.com/miurla/morphic
-  category: osint-and-reconnaissance
+  category: ai-agents-and-development
   tags:
   - open-source
   - ai-search
@@ -5325,7 +5277,7 @@
   annotation: An open-source collection of frontend developer and design utilities providing zero-bloat
     web tools for generating SVGs, gradients, and CSS snippets.
   id: omatsuri
-  subcategory: frontend-dev-resources
+  subcategory: developer-tools
 - title: Uiverse
   url: https://uiverse.io
   category: developer-and-system-utilities
@@ -5341,7 +5293,7 @@
   annotation: A community-built collection of modern UI components, buttons, and card styles built with
     CSS and Tailwind for quick local implementation.
   id: uiverse
-  subcategory: frontend-dev-resources
+  subcategory: developer-tools
 - title: Animista
   url: https://animista.net
   category: developer-and-system-utilities
@@ -5424,7 +5376,7 @@
   annotation: An open-source (MIT), fully typed functional programming framework for TypeScript that provides
     structured concurrency, robust error handling, and transactional state management without vendor lock-in.
   id: effect
-  subcategory: frontend-dev-resources
+  subcategory: developer-tools
 - title: free-for.dev
   url: https://free-for.dev
   category: developer-and-system-utilities
@@ -5876,7 +5828,7 @@
   annotation: Vercel's open design system featuring high-contrast monochrome design tokens, crisp 1px
     borders, subtle layout rails, and Geist typography.
   id: geist-ui-vercel-design-system
-  subcategory: frontend-dev-resources
+  subcategory: developer-tools
 - title: Tidewater
   url: https://dgreenheck.github.io/tidewater/
   category: media-and-creative-production
@@ -5927,7 +5879,7 @@
   annotation: A zero-signup, open-source cheat sheet collection for programming languages, CLI commands,
     tools, and databases contributed by open-source developers.
   id: quickrefme
-  subcategory: frontend-dev-resources
+  subcategory: developer-tools
 - title: Servier Medical Art (SMART)
   url: https://smart.servier.com
   category: media-and-creative-production
@@ -6648,7 +6600,7 @@
   annotation: An interactive WebGL map created by Kiln and the UCL Energy Institute that visualizes global
     commercial shipping movements and CO2 emissions over an entire year using open maritime AIS data.
   id: shipmap
-  subcategory: maritime-tracking
+  subcategory: tracking-recon
 - title: OpenProcessing
   url: https://openprocessing.org
   category: media-and-creative-production
@@ -6678,7 +6630,7 @@
   annotation: An ad-free public utility operated by NASA that provides real-time orbital tracking and
     location-based sighting alerts for the International Space Station.
   id: spot-the-station-nasa
-  subcategory: space-tracking
+  subcategory: tracking-recon
 - title: Zoomquilt
   url: https://zoomquilt.org
   category: media-and-creative-production
@@ -7088,7 +7040,7 @@
   annotation: HTML/JS-based regular expression builder and tester featuring real-time syntax highlighting,
     side-by-side explanations, and instant cheat sheets.
   id: regexr-pattern-tester
-  subcategory: developer-utilities
+  subcategory: developer-tools
 - title: OneLook Reverse Dictionary
   url: https://onelook.com
   category: productivity-reference-and-play
@@ -7147,7 +7099,7 @@
   annotation: Comprehensive domain intelligence platform providing deep passive DNS history, subdomain
     enumeration, and historical WHOIS data for infrastructure recon.
   category: osint-and-reconnaissance
-  subcategory: domain-and-dns-recon
+  subcategory: domain-recon
 - id: ipinfo
   title: IPinfo
   url: https://ipinfo.io/
@@ -7156,21 +7108,21 @@
   annotation: Industry-standard IP address intelligence platform providing precise geolocation, ASN mappings,
     and infrastructure reconnaissance with a robust freemium tier.
   category: osint-and-reconnaissance
-  subcategory: network-and-ip-recon
+  subcategory: network-recon
 - id: nasa-worldview
   title: NASA Worldview
   url: https://worldview.earthdata.nasa.gov/
   annotation: Interactive open-access platform for exploring daily global satellite imagery, tracking
     natural hazards, and visualizing environmental time-series data.
   category: osint-and-reconnaissance
-  subcategory: geospatial-and-satellite-recon
+  subcategory: geospatial
 - id: copernicus-browser
   title: Copernicus Browser
   url: https://browser.dataspace.copernicus.eu/
   annotation: Official European Space Agency platform for exploring, visualizing, and analyzing open-access
     global satellite imagery from Sentinel missions for change detection and environmental monitoring.
   category: osint-and-reconnaissance
-  subcategory: geospatial-and-satellite-recon
+  subcategory: geospatial
 - id: dumpsterdiver
   title: DumpsterDiver
   url: https://github.com/securing/DumpsterDiver
@@ -7198,7 +7150,7 @@
   annotation: Curated YARA rules and detection guidance released by the NSA cybersecurity directorate
     for identifying common web shells on compromised servers.
   category: osint-and-reconnaissance
-  subcategory: threat-intelligence-and-dfir
+  subcategory: threat-intelligence
 - id: selinux
   title: SELinux (Security-Enhanced Linux)
   url: https://github.com/SELinuxProject
@@ -7483,8 +7435,8 @@
   id: webllm
 - title: BentoPDF
   url: https://www.bentopdf.com
-  category: developer-and-system-utilities
-  subcategory: document-and-file-utilities
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
   tags:
   - open-source
   - pdf-toolkit
@@ -7499,8 +7451,8 @@
   id: bentopdf
 - title: Grist
   url: https://www.getgrist.com
-  category: developer-and-system-utilities
-  subcategory: document-and-file-utilities
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
   tags:
   - open-source
   - relational-spreadsheet
@@ -7739,8 +7691,8 @@
   id: m3e-canvas
 - title: JustDeleteme
   url: https://justdeleteme.it
-  category: developer-and-system-utilities
-  subcategory: device-and-network-utilities
+  category: privacy-and-security
+  subcategory: privacy-tools
   tags:
   - open-source
   - privacy-tool
@@ -8251,7 +8203,7 @@
 - title: Daily Stars Explorer
   url: https://emanuelef.github.io/daily-stars-explorer/#/helm/helm
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - github-analytics
@@ -8521,8 +8473,8 @@
   id: windhawk
 - title: Aperi'Solve
   url: https://www.aperisolve.com
-  category: media-and-creative-production
-  subcategory: media-and-video-tools
+  category: osint-and-reconnaissance
+  subcategory: cryptography-and-steganalysis
   tags:
   - open-source
   - steganalysis
@@ -8681,7 +8633,7 @@
   id: design-systems-checklist
 - title: editoraPDF
   url: https://github.com/affsquadDevs/editorapdf
-  category: developer-and-system-utilities
+  category: productivity-reference-and-play
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8814,7 +8766,7 @@
 - title: GitReverse
   url: https://github.com/filiksyos/gitreverse
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - git-utility
@@ -8887,7 +8839,7 @@
 - title: Kroki
   url: https://kroki.io
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - diagrams-as-code
@@ -9029,7 +8981,7 @@
 - title: GitFut
   url: https://gitfut.com/
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - github-tooling
@@ -9044,7 +8996,7 @@
 - title: CheckMyGit
   url: https://checkmygit.com/
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - github-portfolio
@@ -9306,7 +9258,7 @@
 - title: Mermify
   url: https://github.com/mermify/mermify
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - diagramming
@@ -9400,7 +9352,7 @@
 - title: ASCIIFlow
   url: https://asciiflow.com/
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - diagram-generator
@@ -9906,7 +9858,7 @@
 - title: AST Explorer
   url: https://github.com/fkling/astexplorer
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - code-parser
@@ -9965,7 +9917,7 @@
   id: mirotalk-p2p
 - title: Flowchart.fun
   url: https://flowchart.fun/
-  category: developer-and-system-utilities
+  category: productivity-reference-and-play
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9981,7 +9933,7 @@
 - title: Sqlime
   url: https://sqlime.org/
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - sqlite-playground
@@ -10239,7 +10191,7 @@
 - title: CodeBeautify
   url: https://codebeautify.org/
   category: developer-and-system-utilities
-  subcategory: developer-utilities
+  subcategory: developer-tools
   tags:
   - open-source
   - code-formatter
@@ -10584,10 +10536,10 @@
     privacy-focused open-source alternatives (such as Framapad, Framadrive, and Framatalk) to commercial
     big-tech services.
   id: degooglisons-internet
-- title: Temp-Mail
+- title: Mehmet Kahya's Temp-Mail
   url: https://github.com/mehmetkahya0/temp-mail
-  category: developer-and-system-utilities
-  subcategory: device-and-network-utilities
+  category: privacy-and-security
+  subcategory: disposable-email
   tags:
   - open-source
   - disposable-email
@@ -11132,8 +11084,8 @@
   id: privnote-com
 - title: Temp-Mail
   url: https://temp-mail.org
-  category: developer-and-system-utilities
-  subcategory: device-and-network-utilities
+  category: privacy-and-security
+  subcategory: disposable-email
   tags:
   - disposable-email
   - privacy
@@ -11282,7 +11234,7 @@
   id: flowlab-nightloop
 - title: PDFbq
   url: https://pdfbq.com
-  category: developer-and-system-utilities
+  category: productivity-reference-and-play
   subcategory: office-productivity-utilities
   tags:
   - pdf-tools
@@ -11670,22 +11622,6 @@
   annotation: Open-source recursive AI investigation agent for micro-surveillance, entity resolution,
     lobbying/contract cross-referencing, and evidence-chain construction with a Tauri desktop UI.
   id: openplanter
-- title: WhatsMyName
-  url: https://whatsmyname.app/
-  category: osint-and-reconnaissance
-  subcategory: device-and-network-utilities
-  tags:
-  - open-source
-  - osint
-  - username-search
-  - privacy
-  - zero-signup
-  replaces:
-  - Paid proprietary username checking SaaS
-  - Manual profile discovery tools
-  annotation: Open-source OSINT tool for checking the existence of usernames across hundreds of websites
-    instantly for security and digital footprint audits.
-  id: whatsmyname
 - title: Revealer
   url: https://revealer.us/
   category: osint-and-reconnaissance
@@ -11737,7 +11673,7 @@
 - title: geo-sleuth
   url: https://github.com/Oldcircle/geo-sleuth
   category: osint-and-reconnaissance
-  subcategory: device-and-network-utilities
+  subcategory: geolocation
   tags:
   - open-source
   - osint
@@ -11818,7 +11754,7 @@
 - title: Whoxy
   url: https://www.whoxy.com/
   category: osint-and-reconnaissance
-  subcategory: domain-intelligence
+  subcategory: domain-recon
   tags:
   - open-source-alternative
   - whois-database
@@ -11831,3 +11767,51 @@
   annotation: Comprehensive WHOIS database and reverse lookup API for tracking domain ownership history,
     registrar data, and interconnected web infrastructure.
   id: whoxy
+- title: Mult.dev
+  url: https://mult.dev/
+  category: productivity-reference-and-play
+  subcategory: games-and-play
+  tags:
+  - map-animation
+  - travel-visualizer
+  - gpx-parser
+  - browser-based
+  - creative
+  replaces:
+  - Heavy desktop cartography software
+  - Complex video editing path plugins
+  annotation: Browser-based travel map animation tool for turning routes, GPX tracks, and photos into
+    dynamic video stories and geographic recaps.
+  id: mult-dev
+- title: Loot Drop
+  url: https://www.loot-drop.io/
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+  - startup-graveyard
+  - case-studies
+  - market-analysis
+  - open-reference
+  - zero-signup
+  replaces:
+  - Gated startup intelligence platforms
+  - Scattered post-mortem articles
+  annotation: Comprehensive open database and startup graveyard tracking failed ventures, post-mortem
+    analysis, and actionable rebuild plans.
+  id: loot-drop
+- title: TV Garden
+  url: https://tvgarden.world/
+  category: productivity-reference-and-play
+  subcategory: media-and-video-tools
+  tags:
+  - live-tv
+  - streaming
+  - interactive-globe
+  - browser-based
+  - zero-signup
+  replaces:
+  - Regional cable broadcast restrictions
+  - Gated international TV streaming portals
+  annotation: Interactive web platform and 3D globe for discovering and streaming free live television,
+    radio, and webcams from around the world.
+  id: tv-garden
