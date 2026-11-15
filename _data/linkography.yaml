@@ -1,6 +1,6 @@
 - title: 123apps
   url: https://123apps.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-editing
   - audio-tools
@@ -18,7 +18,7 @@
   subcategory: media-converters
 - title: Hotpot.ai
   url: https://hotpot.ai/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - ai-art
   - photo-editor
@@ -36,7 +36,7 @@
   subcategory: ai-image-tools
 - title: TerraPrinter
   url: https://terraprinter.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - 3d-printing
   - terrain-generator
@@ -72,7 +72,7 @@
   subcategory: cryptography-and-steganalysis
 - title: BioDigital Human
   url: https://human.biodigital.com/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - anatomy
   - 3d-visualization
@@ -90,7 +90,7 @@
   subcategory: interactive-3d-visualization
 - title: Movie Scene Map
   url: https://moviescenemap.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - osint
   - mapping
@@ -107,7 +107,7 @@
   subcategory: film-locations
 - title: BoxTemplate
   url: https://boxtemplate.app/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - box-generator
   - laser-cutting
@@ -125,7 +125,7 @@
   subcategory: cad-fabrication
 - title: Animagraffs
   url: https://animagraffs.com/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - 3d-animation
   - mechanical-engineering
@@ -142,7 +142,7 @@
   subcategory: interactive-3d-visualization
 - title: LibriVox
   url: https://librivox.org/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - audiobooks
   - public-domain
@@ -159,7 +159,7 @@
   subcategory: public-domain-literature
 - title: CarCareKiosk
   url: https://www.carcarekiosk.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - automotive-repair
   - diy-mechanic
@@ -175,7 +175,7 @@
   subcategory: auto-repair-parts
 - title: RockAuto
   url: https://www.rockauto.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - auto-parts
   - part-numbers
@@ -191,7 +191,7 @@
   subcategory: auto-repair-parts
 - title: Learn Anything
   url: https://learn-anything.xyz/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - knowledge-graphs
   - curated-learning
@@ -208,7 +208,7 @@
   subcategory: course-aggregators
 - title: Class Central
   url: https://www.classcentral.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - mooc
   - course-aggregator
@@ -225,7 +225,7 @@
   subcategory: course-aggregators
 - title: AI Website Cloner Template
   url: https://github.com/JCodesMore/ai-website-cloner-template
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - open-source
   - ai-agents
@@ -244,7 +244,7 @@
   subcategory: coding-llms
 - title: Tribe DJ
   url: https://dj.tribexr.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - dj-simulator
   - browser-audio
@@ -261,7 +261,7 @@
   subcategory: sound-generators-music-toys
 - title: NoSignups
   url: https://nosignups.net/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - directory
   - open-source
@@ -278,7 +278,7 @@
   subcategory: software-directories
 - title: LostGamer.io
   url: https://lostgamer.io/
-  category: productivity-reference-and-play
+  category: play
   tags:
   - gaming
   - geoguessr-alternative
@@ -295,7 +295,7 @@
   subcategory: geography-games
 - title: Board Game Arena
   url: https://boardgamearena.com/
-  category: productivity-reference-and-play
+  category: play
   tags:
   - board-games
   - browser-gaming
@@ -312,7 +312,7 @@
   subcategory: board-games
 - title: SpacePlanner
   url: https://spaceplanner.co/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - floor-planner
   - cad
@@ -330,7 +330,7 @@
   subcategory: cad-fabrication
 - title: Make My Drive Fun
   url: https://makemydrivefun.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - road-trip
   - mapping
@@ -625,7 +625,7 @@
   subcategory: code-search
 - title: Debian Code Search
   url: https://codesearch.debian.net
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - code-search
   - regex-search
@@ -892,7 +892,7 @@
   subcategory: reverse-image-search
 - title: Wikimedia Commons
   url: https://commons.wikimedia.org/wiki/Main_Page
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - image-verification
   - open-media
@@ -1156,7 +1156,7 @@
   subcategory: blockchain-explorers
 - title: VSCodium
   url: https://vscodium.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - ide
   - code-editor
@@ -1172,7 +1172,7 @@
   subcategory: code-editors
 - title: Ollama
   url: https://ollama.com/
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - llm-runner
   - local-ai
@@ -1189,7 +1189,7 @@
   subcategory: local-llm-runners
 - title: Code Llama
   url: https://github.com/meta-llama/codellama
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1205,7 +1205,7 @@
   subcategory: coding-llms
 - title: DeepSeek Coder
   url: https://github.com/deepseek-ai/deepseek-coder
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1221,7 +1221,7 @@
   subcategory: coding-llms
 - title: Qwen Coder
   url: https://github.com/QwenLM/qwen-code
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - llm
   - coding-model
@@ -1237,7 +1237,7 @@
   subcategory: coding-llms
 - title: McBroken
   url: https://mcbroken.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - utility
   - web-scraper
@@ -1253,7 +1253,7 @@
   subcategory: everyday-trackers
 - title: Tunefind
   url: https://www.tunefind.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - utility
   - soundtrack-database
@@ -1269,7 +1269,7 @@
   subcategory: film-resources
 - title: Open Culture
   url: https://www.openculture.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - courses
@@ -1285,7 +1285,7 @@
   subcategory: course-aggregators
 - title: AI Free Forever
   url: https://aifreeforever.com/
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - ai-aggregator
   - llm-chat
@@ -1333,7 +1333,7 @@
   subcategory: privacy-auditing
 - title: Freebuff
   url: https://freebuff.com/
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - ai-coding-agent
   - cli-tool
@@ -1350,7 +1350,7 @@
   subcategory: coding-llms
 - title: RapidFireArt
   url: https://rapidfireart.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - art-tutorials
@@ -1366,7 +1366,7 @@
   subcategory: creative-skills-learning
 - title: Fast.ai
   url: https://www.fast.ai/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - deep-learning
@@ -1382,7 +1382,7 @@
   subcategory: free-courses
 - title: Elements of AI
   url: https://www.elementsofai.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - ai-fundamentals
@@ -1397,7 +1397,7 @@
   subcategory: free-courses
 - title: IBM SkillsBuild
   url: https://skillsbuild.org/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - tech-certification
@@ -1414,7 +1414,7 @@
   subcategory: free-certifications
 - title: HP LIFE (AI for Business Professionals)
   url: https://www.life-global.org/course/423-ai-for-business-professionals
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - ai-courses
@@ -1431,7 +1431,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy (Content Marketing Certification)
   url: https://academy.hubspot.com/courses/content-marketing
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - content-strategy
@@ -1449,7 +1449,7 @@
   subcategory: free-certifications
 - title: 'UMD Smith Learn: Artificial Intelligence & Career Transformation'
   url: https://umd-smithlearn.catalog.instructure.com/courses/artificial-intelligence-and-career-transformation
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - ai-fundamentals
@@ -1465,7 +1465,7 @@
   subcategory: free-certifications
 - title: Public Work
   url: https://www.cosmos.so/public-work
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - public-domain
@@ -1481,7 +1481,7 @@
   subcategory: icons-and-illustrations
 - title: Font Squirrel
   url: https://www.fontsquirrel.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - typography
@@ -1497,7 +1497,7 @@
   subcategory: fonts-typography
 - title: OpenMoji
   url: https://openmoji.org/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - open-source
@@ -1513,7 +1513,7 @@
   subcategory: icons-and-illustrations
 - title: Humaaans
   url: https://www.humaaans.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - illustrations
@@ -1529,7 +1529,7 @@
   subcategory: icons-and-illustrations
 - title: ManyPixels Illustration Gallery
   url: https://www.manypixels.co/gallery
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - illustrations
@@ -1545,7 +1545,7 @@
   subcategory: icons-and-illustrations
 - title: Iconoir
   url: https://iconoir.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - open-source
@@ -1561,7 +1561,7 @@
   subcategory: icons-and-illustrations
 - title: SVG Repo
   url: https://www.svgrepo.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - svg-icons
@@ -1577,7 +1577,7 @@
   subcategory: icons-and-illustrations
 - title: Openclipart
   url: https://openclipart.org/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design
   - clipart
@@ -1593,7 +1593,7 @@
   subcategory: icons-and-illustrations
 - title: fffuel
   url: https://fffuel.co/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - design-tools
   - svg-generator
@@ -1609,7 +1609,7 @@
   subcategory: design-asset-generators
 - title: DigitalDefynd
   url: https://digitaldefynd.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - education
   - course-directory
@@ -1624,7 +1624,7 @@
   subcategory: course-aggregators
 - title: AnythingLLM
   url: https://anythingllm.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - rag
   - local-llm
@@ -1641,7 +1641,7 @@
   subcategory: local-llm-runners
 - title: Arena
   url: https://arena.ai/
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - benchmarking
   - llm-evaluation
@@ -1657,7 +1657,7 @@
   subcategory: ai-model-benchmarks
 - title: Claude
   url: https://claude.ai
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - assistant
   - llm
@@ -1673,7 +1673,7 @@
   subcategory: ai-chat-assistants
 - title: ComfyUI
   url: https://github.com/Comfy-Org/ComfyUI
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stable-diffusion
   - node-graph
@@ -1689,7 +1689,7 @@
   subcategory: ai-image-tools
 - title: Futurepedia
   url: https://futurepedia.io
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - directory
   - tool-discovery
@@ -1704,7 +1704,7 @@
   subcategory: software-directories
 - title: Gemini
   url: https://gemini.google.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - multimodal
   - assistant
@@ -1719,7 +1719,7 @@
   subcategory: ai-chat-assistants
 - title: Invoke.ai
   url: https://github.com/invoke-ai/InvokeAI
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - image-generation
   - canvas-editor
@@ -1734,7 +1734,7 @@
   subcategory: ai-image-tools
 - title: Opus Clip
   url: https://opus.pro
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-repurposing
   - auto-clipping
@@ -1749,7 +1749,7 @@
   subcategory: video-editors
 - title: Perchance AI
   url: https://perchance.org/welcome
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - anonymous
   - sandbox
@@ -1765,7 +1765,7 @@
   subcategory: ai-image-tools
 - title: Poe
   url: https://poe.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - aggregator
   - multi-model
@@ -1779,7 +1779,7 @@
   subcategory: ai-chat-assistants
 - title: Stratup
   url: https://stratup.ai/en
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - market-research
   - business-ideas
@@ -1794,7 +1794,7 @@
   subcategory: work-planning-tools
 - title: Brave
   url: https://brave.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - browser
   - privacy
@@ -1809,7 +1809,7 @@
   subcategory: web-browsers
 - title: Dark Reader
   url: https://darkreader.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - extension
   - dark-mode
@@ -1825,7 +1825,7 @@
   subcategory: browser-extensions
 - title: Firefox
   url: https://www.firefox.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - browser
   - open-source
@@ -1841,7 +1841,7 @@
   subcategory: web-browsers
 - title: Safari
   url: https://www.apple.com/safari/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - browser
   - webkit
@@ -1857,7 +1857,7 @@
   subcategory: web-browsers
 - title: AllHashtag
   url: https://www.all-hashtag.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - hashtag-generator
   - tag-analytics
@@ -1885,7 +1885,7 @@
   subcategory: seo-content-research
 - title: Buffer
   url: https://buffer.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - social-scheduling
   - content-queuing
@@ -1900,7 +1900,7 @@
   subcategory: social-media-management
 - title: Circleboom
   url: https://circleboom.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - account-auditing
   - tweet-cleanup
@@ -1944,7 +1944,7 @@
   subcategory: malware-url-analysis
 - title: Bitwarden
   url: https://bitwarden.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - password-manager
   - open-source
@@ -2101,7 +2101,7 @@
   subcategory: threat-intelligence
 - title: KeePassXC
   url: https://keepassxc.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - password-manager
   - offline
@@ -2186,7 +2186,7 @@
   subcategory: network-recon
 - title: Affinity (by Canva)
   url: https://affinity.studio/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - creative-suite
   - graphic-design
@@ -2201,20 +2201,8 @@
   id: affinity-by-canva
   subcategory: graphic-design-suites
 - title: ArtCraft
-  url: https://artcraft.io
-  category: media-and-creative-production
-  tags:
-  - ai-design
-  - creative-tooling
-  - visual-generation
-  replaces:
-  - Proprietary design suites
-  annotation: AI and design tooling platform for creative workflows.
-  id: artcraft
-  subcategory: ai-image-tools
-- title: ArtCrafts
-  url: https://artcrafts.example
-  category: media-and-creative-production
+  url: https://getartcraft.com/apps
+  category: occupy-saas
   tags:
   - legacy-software
   - office-suite
@@ -2222,12 +2210,13 @@
   replaces:
   - Microsoft Office
   - Adobe Photoshop CS2
-  annotation: Free alternative suite for Word, Excel, and legacy Photoshop tools.
-  id: artcrafts
-  subcategory: raster-image-editors
+  annotation: Free alternative suite for Word, Excel, and legacy Photoshop tools decompiled with Claude
+    Code and reprogrammed in Rust.
+  id: artcraft
+  subcategory: creative-and-office-suites
 - title: Blender
   url: https://www.blender.org
-  category: media-and-creative-production
+  category: occupy-saas
   tags:
   - 3d-creation
   - open-source
@@ -2240,10 +2229,10 @@
   annotation: Free, open-source 3D creation suite covering modeling, rigging, animation, simulation, rendering,
     and compositing with absolute local data sovereignty.
   id: blender
-  subcategory: 3d-animation-vfx
+  subcategory: creative-and-office-suites
 - title: Canva
   url: https://www.canva.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - graphic-design
   - cloud-publishing
@@ -2257,7 +2246,7 @@
   subcategory: graphic-design-suites
 - title: Cirkit Designer
   url: https://cirkitdesigner.com/
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - circuit-design
   - electronics
@@ -2271,7 +2260,7 @@
   subcategory: electronics-design
 - title: Cleanup.pictures
   url: https://cleanup.pictures
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - image-inpainting
   - object-removal
@@ -2285,7 +2274,7 @@
   subcategory: ai-image-tools
 - title: Clipdrop
   url: https://clipdrop.co
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - ai-visual-tools
   - background-removal
@@ -2299,7 +2288,7 @@
   subcategory: ai-image-tools
 - title: Colorify
   url: https://colorify.example
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - palette-extraction
   - contrast-manipulation
@@ -2313,7 +2302,7 @@
   subcategory: color-tools
 - title: Darktable
   url: https://www.darktable.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - photography-workflow
   - raw-developer
@@ -2327,7 +2316,7 @@
   subcategory: raster-image-editors
 - title: Deep Nostalgia
   url: https://www.myheritage.com/deep-nostalgia
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - deep-learning
   - animation
@@ -2341,7 +2330,7 @@
   subcategory: ai-image-tools
 - title: FigCraft
   url: https://figcraft.example
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - interface-design
   - prototyping
@@ -2357,7 +2346,7 @@
   subcategory: ui-design-tools
 - title: FreeCAD
   url: https://www.freecad.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - parametric-cad
   - 3d-modeler
@@ -2372,7 +2361,7 @@
   subcategory: cad-fabrication
 - title: GIMP
   url: https://www.gimp.org
-  category: media-and-creative-production
+  category: occupy-saas
   tags:
   - raster-editor
   - open-source
@@ -2383,10 +2372,10 @@
   annotation: Free and open-source cross-platform raster image editor; local-first alternative to Adobe
     Photoshop for advanced image editing, retouching, and graphic manipulation.
   id: gimp
-  subcategory: raster-image-editors
+  subcategory: creative-and-office-suites
 - title: Inkscape
   url: https://inkscape.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - vector-graphics
   - illustration
@@ -2400,7 +2389,7 @@
   subcategory: vector-editors
 - title: Krita
   url: https://krita.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - digital-painting
   - concept-art
@@ -2415,7 +2404,7 @@
   subcategory: raster-image-editors
 - title: Natron
   url: https://natron.fr
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - compositing
   - vfx
@@ -2431,7 +2420,7 @@
   subcategory: 3d-animation-vfx
 - title: Nightshade
   url: https://nightshade.cs.uchicago.edu
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - adversarial-tools
   - data-poisoning
@@ -2445,7 +2434,7 @@
   subcategory: image-protection
 - title: Photopea
   url: https://www.photopea.com
-  category: media-and-creative-production
+  category: occupy-saas
   tags:
   - browser-editor
   - raster-vector
@@ -2456,10 +2445,10 @@
   annotation: Browser-based advanced raster and vector graphics editor with native PSD, AI, and XD compatibility;
     pragmatic utility for heavy image editing without local installation.
   id: photopea
-  subcategory: raster-image-editors
+  subcategory: creative-and-office-suites
 - title: remove.bg
   url: https://www.remove.bg
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - background-removal
   - image-segmentation
@@ -2472,7 +2461,7 @@
   subcategory: background-removal
 - title: Zoo.dev
   url: https://zoo.dev
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - cad-api
   - geometry-processing
@@ -2514,7 +2503,7 @@
   subcategory: webcam-directories
 - title: GeoGuessr
   url: https://www.geoguessr.com
-  category: productivity-reference-and-play
+  category: play
   tags:
   - geography-game
   - street-view
@@ -2571,7 +2560,7 @@
   subcategory: satellite-imagery
 - title: MapCrunch
   url: https://www.mapcrunch.com
-  category: productivity-reference-and-play
+  category: play
   tags:
   - random-streetview
   - visual-exploration
@@ -2657,7 +2646,7 @@
   subcategory: geospatial
 - title: TimeMap
   url: https://timemap.github.io
-  category: historical-research-and-combat-arts
+  category: research-and-reference
   tags:
   - spatiotemporal
   - historical-mapping
@@ -2668,7 +2657,7 @@
   annotation: Interactive spatiotemporal mapping interface for modeling historical events, border changes,
     and chronological data geographically.
   id: timemap
-  subcategory: historical-maps
+  subcategory: historical-and-martial-arts
 - title: Windy
   url: https://www.windy.com
   category: osint-and-reconnaissance
@@ -2699,7 +2688,7 @@
   subcategory: weather-maps
 - title: AIVA
   url: https://www.aiva.ai
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - ai-music
   - generative-audio
@@ -2714,7 +2703,7 @@
   subcategory: audio-editors
 - title: Audacity
   url: https://www.audacityteam.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - audio-editor
   - open-source
@@ -2730,7 +2719,7 @@
   subcategory: audio-editors
 - title: Auphonic
   url: https://auphonic.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - audio-post-production
   - loudness-correction
@@ -2744,7 +2733,7 @@
   subcategory: audio-editors
 - title: Calibre
   url: https://calibre-ebook.com
-  category: productivity-reference-and-play
+  category: occupy-saas
   tags:
   - ebook-manager
   - format-converter
@@ -2757,10 +2746,10 @@
   annotation: The definitive open-source e-book manager, reader, and format converter for building and
     organizing an offline digital library.
   id: calibre
-  subcategory: ebook-managers
+  subcategory: media-and-document-suites
 - title: Descript
   url: https://www.descript.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - transcript-editing
   - audio-video-editor
@@ -2774,7 +2763,7 @@
   subcategory: video-editors
 - title: Emby
   url: https://emby.media
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - media-server
   - streaming
@@ -2788,7 +2777,7 @@
   subcategory: media-servers
 - title: FFmpeg
   url: https://ffmpeg.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-processing
   - audio-converter
@@ -2804,7 +2793,7 @@
   subcategory: media-converters
 - title: GreenTuber
   url: https://greentuber.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - ad-blocking-wrapper
   - mobile-video
@@ -2817,7 +2806,7 @@
   subcategory: youtube-clients
 - title: HandBrake
   url: https://handbrake.fr
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-transcoder
   - open-source
@@ -2832,7 +2821,7 @@
   subcategory: media-converters
 - title: Jellyfin
   url: https://jellyfin.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - media-server
   - self-hosted
@@ -2848,7 +2837,7 @@
   subcategory: media-servers
 - title: Kdenlive
   url: https://kdenlive.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-editor
   - non-linear
@@ -2864,7 +2853,7 @@
   subcategory: video-editors
 - title: NewPipe
   url: https://newpipe.net
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - android-frontend
   - youtube-client
@@ -2880,7 +2869,7 @@
   subcategory: youtube-clients
 - title: OpenShot
   url: https://www.openshot.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-editor
   - cross-platform
@@ -2895,7 +2884,7 @@
   subcategory: video-editors
 - title: Subtitle Edit
   url: https://www.nikse.dk/subtitleedit
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - subtitle-editor
   - srt
@@ -2910,7 +2899,7 @@
   subcategory: video-editors
 - title: TubeMate
   url: https://tubemate.net/w3/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - video-downloader
   - android-app
@@ -2923,7 +2912,7 @@
   subcategory: youtube-clients
 - title: VLC Media Player
   url: https://www.videolan.org/vlc/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - media-player
   - open-source
@@ -2939,7 +2928,7 @@
   subcategory: media-players-inspectors
 - title: YouTube ReVanced
   url: https://revanced.app
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - apk-patching
   - ad-blocking
@@ -2996,7 +2985,7 @@
   subcategory: government-records-archives
 - title: OpenFactBook
   url: https://openfactbook.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - country-profiles
   - demographics
@@ -3012,7 +3001,7 @@
   subcategory: geopolitical-reference
 - title: UNdata
   url: https://data.un.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - statistics
   - global-data
@@ -3027,7 +3016,7 @@
   subcategory: global-statistics
 - title: World Bank Open Data
   url: https://data.worldbank.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - economic-data
   - global-indicators
@@ -3070,7 +3059,7 @@
   subcategory: verification-toolkits
 - title: GDELT Project
   url: https://www.gdeltproject.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - global-events
   - news-database
@@ -3426,7 +3415,7 @@
   subcategory: vpn-anonymity
 - title: uBlock Origin
   url: https://ublockorigin.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - content-blocker
   - open-source
@@ -3500,7 +3489,7 @@
   subcategory: email-aliasing
 - title: Proton Mail
   url: https://proton.me/mail
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - encrypted-email
   - privacy
@@ -3516,7 +3505,7 @@
   subcategory: secure-email-messaging
 - title: Mailfence
   url: https://mailfence.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - encrypted-email
   - pgp
@@ -3606,7 +3595,7 @@
   subcategory: vpn-anonymity
 - title: SMSTome
   url: https://smstome.com/
-  category: osint-and-reconnaissance
+  category: privacy-and-security
   tags:
   - sms-verification
   - burner-numbers
@@ -3617,10 +3606,10 @@
   annotation: Free public temporary phone numbers for receiving SMS verification codes when registering
     for non-sensitive online services.
   id: smstome
-  subcategory: burner-phone-numbers
+  subcategory: disposable-phone-numbers
 - title: OnlineSIM
   url: https://onlinesim.io/
-  category: osint-and-reconnaissance
+  category: privacy-and-security
   tags:
   - virtual-phone
   - sms-bypass
@@ -3631,10 +3620,10 @@
   annotation: Provides private temporary and long-term virtual numbers for two-factor authentication and
     SMS verification bypass.
   id: onlinesim
-  subcategory: burner-phone-numbers
+  subcategory: disposable-phone-numbers
 - title: Session
   url: https://getsession.org/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - encrypted-messaging
   - metadata-private
@@ -3650,7 +3639,7 @@
   subcategory: secure-email-messaging
 - title: Thunderbird
   url: https://www.thunderbird.net/en-US/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - email-client
   - open-source
@@ -3665,7 +3654,7 @@
   subcategory: secure-email-messaging
 - title: FaxZero
   url: https://faxzero.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - fax
   - pdf-to-fax
@@ -3681,7 +3670,7 @@
   subcategory: file-sharing
 - title: Connected Papers
   url: https://www.connectedpapers.com
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - academic-search
   - graph-visualization
@@ -3697,7 +3686,7 @@
   subcategory: academic-paper-access
 - title: r/libgen (Community Mirror Tracker)
   url: https://www.reddit.com/r/libgen/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - reddit
   - community-tracker
@@ -3726,7 +3715,7 @@
   subcategory: government-records-archives
 - title: Open Library
   url: https://openlibrary.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - digital-library
   - internet-archive
@@ -3741,7 +3730,7 @@
   subcategory: public-domain-literature
 - title: OpenAlex
   url: https://openalex.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - scholarly-index
   - open-access
@@ -3756,7 +3745,7 @@
   subcategory: academic-paper-access
 - title: Our World in Data
   url: https://ourworldindata.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - empirical-research
   - global-data
@@ -3772,7 +3761,7 @@
   subcategory: global-statistics
 - title: PDF Drive
   url: https://www.pdfdrive.com/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - pdf-search
   - ebooks
@@ -3787,7 +3776,7 @@
   subcategory: ebook-libraries
 - title: PubMed
   url: https://pubmed.ncbi.nlm.nih.gov
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - biomedical-literature
   - life-sciences
@@ -3800,7 +3789,7 @@
   subcategory: academic-paper-access
 - title: Smithsonian Open Access
   url: https://www.si.edu/openaccess
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - public-domain
   - museum-artifacts
@@ -3816,7 +3805,7 @@
   subcategory: museum-heritage-archives
 - title: Unpaywall
   url: https://unpaywall.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-access
   - scholarly-articles
@@ -3845,7 +3834,7 @@
   subcategory: web-archives
 - title: Wolfram|Alpha
   url: https://www.wolframalpha.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - computational-knowledge
   - symbolic-math
@@ -3860,7 +3849,7 @@
   subcategory: math-tools
 - title: r/zlibrary (Community Mirror Tracker)
   url: https://www.reddit.com/r/zlibrary/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - reddit
   - community-tracker
@@ -3876,7 +3865,7 @@
   subcategory: ebook-libraries
 - title: Zotero
   url: https://www.zotero.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - reference-management
   - open-source
@@ -3891,7 +3880,7 @@
   subcategory: reference-bookmark-managers
 - title: r/Annas_Archive (Community Mirror Tracker)
   url: https://www.reddit.com/r/Annas_Archive/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - reddit
   - community-tracker
@@ -3907,7 +3896,7 @@
   subcategory: ebook-libraries
 - title: CORE (Connecting Repositories)
   url: https://core.ac.uk
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - academic-research
   - open-access
@@ -4014,7 +4003,7 @@
   subcategory: privacy-search-engines
 - title: Perplexity
   url: https://www.perplexity.ai
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - conversational-search
   - citation-backed
@@ -4029,7 +4018,7 @@
   subcategory: ai-search-engines
 - title: Phind
   url: https://www.phind.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - developer-search
   - code-troubleshooting
@@ -4089,7 +4078,7 @@
   subcategory: privacy-search-engines
 - title: Abacus.ai
   url: https://abacus.ai
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - mlops
   - enterprise-ai
@@ -4105,7 +4094,7 @@
   subcategory: ai-dev-platforms
 - title: AlternativeTo
   url: https://alternativeto.net
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - software-discovery
   - open-source
@@ -4121,7 +4110,7 @@
   subcategory: software-directories
 - title: Bolt.new
   url: https://bolt.new
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - in-browser-ide
   - full-stack
@@ -4153,7 +4142,7 @@
   subcategory: web-tech-profilers
 - title: Cursor
   url: https://cursor.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - code-editor
   - ai-ide
@@ -4169,7 +4158,7 @@
   subcategory: coding-llms
 - title: Godot Engine
   url: https://godotengine.org
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - game-engine
   - open-source
@@ -4185,7 +4174,7 @@
   subcategory: game-development
 - title: Google AI Studio
   url: https://aistudio.google.com/welcome
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - prompt-engineering
   - developer-environment
@@ -4200,7 +4189,7 @@
   subcategory: ai-dev-platforms
 - title: Google Opal
   url: https://local-self-hosted-ai-agents
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - no-code
   - ai-sandbox
@@ -4216,7 +4205,7 @@
   subcategory: ai-dev-platforms
 - title: Google Stitch
   url: https://labs.google
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - ui-design
   - text-to-ui
@@ -4232,7 +4221,7 @@
   subcategory: ui-design-tools
 - title: Hugging Face Spaces
   url: https://huggingface.co/spaces
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - ai-demos
   - hosting
@@ -4264,7 +4253,7 @@
   subcategory: web-tech-profilers
 - title: Mixkit
   url: https://mixkit.co
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stock-video
   - sound-effects
@@ -4280,7 +4269,7 @@
   subcategory: stock-media
 - title: Pexels
   url: https://www.pexels.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stock-photos
   - stock-videos
@@ -4294,7 +4283,7 @@
   subcategory: stock-media
 - title: Pixabay
   url: https://pixabay.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - royalty-free
   - photos
@@ -4308,7 +4297,7 @@
   subcategory: stock-media
 - title: StockSnap.io
   url: https://stocksnap.io
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stock-images
   - vectors
@@ -4321,7 +4310,7 @@
   subcategory: stock-media
 - title: Unsplash
   url: https://unsplash.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - high-resolution
   - photography
@@ -4335,7 +4324,7 @@
   subcategory: stock-media
 - title: Librestock
   url: https://librestock.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stock-photo-search
   - aggregator
@@ -4347,7 +4336,7 @@
   subcategory: stock-media
 - title: Motosha
   url: https://motosha.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - stock-photos
   - visual-assets
@@ -4358,7 +4347,7 @@
   subcategory: stock-media
 - title: StockVault
   url: https://www.stockvault.net
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - free-stock-photos
   - textures
@@ -4371,7 +4360,7 @@
   subcategory: stock-media
 - title: Career Hound
   url: https://www.careerhound.io
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - job-board
@@ -4384,7 +4373,7 @@
   subcategory: remote-job-boards
 - title: EuropeRemotely
   url: https://europeremotely.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - european-jobs
@@ -4397,7 +4386,7 @@
   subcategory: remote-job-boards
 - title: Jobspresso
   url: https://jobspresso.co
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - tech-jobs
@@ -4410,7 +4399,7 @@
   subcategory: remote-job-boards
 - title: Dynamite Jobs
   url: https://dynamitejobs.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - remote-first
@@ -4423,7 +4412,7 @@
   subcategory: remote-job-boards
 - title: SkipTheDrive
   url: https://www.skipthedrive.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - work-from-home
@@ -4436,7 +4425,7 @@
   subcategory: remote-job-boards
 - title: Pangian
   url: https://pangian.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - global-talent
@@ -4448,7 +4437,7 @@
   subcategory: remote-job-boards
 - title: Outsourcely
   url: https://www.outsourcely.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-workers
   - freelance-platform
@@ -4462,7 +4451,7 @@
   subcategory: remote-job-boards
 - title: Virtual Vocations
   url: https://www.virtualvocations.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - telecommute-jobs
   - hand-screened
@@ -4475,7 +4464,7 @@
   subcategory: remote-job-boards
 - title: Remotive
   url: https://remotive.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - remote-jobs
   - tech-careers
@@ -4488,7 +4477,7 @@
   subcategory: remote-job-boards
 - title: RezPass
   url: https://www.rezpass.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - resume-scanner
   - ats-optimizer
@@ -4501,7 +4490,7 @@
   subcategory: resume-career-tools
 - title: Google Skillshop (Digital Garage)
   url: https://skillshop.withgoogle.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - digital-marketing
   - free-courses
@@ -4516,7 +4505,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy
   url: https://academy.hubspot.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - free-courses
   - inbound-marketing
@@ -4532,7 +4521,7 @@
   subcategory: free-certifications
 - title: Microsoft Learn
   url: https://learn.microsoft.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - technical-training
   - free-courses
@@ -4548,7 +4537,7 @@
   subcategory: free-certifications
 - title: Teachable Machine
   url: https://teachablemachine.withgoogle.com
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - machine-learning
   - browser-ai
@@ -4564,7 +4553,7 @@
   subcategory: ai-dev-platforms
 - title: PhET Interactive Simulations
   url: https://phet.colorado.edu
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - interactive-science
   - physics-simulations
@@ -4580,7 +4569,7 @@
   subcategory: science-simulations
 - title: Phyphox
   url: https://phyphox.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - physics-experiments
   - mobile-sensors
@@ -4596,7 +4585,7 @@
   subcategory: science-simulations
 - title: EyeWire
   url: https://eyewire.org/explore
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - citizen-science
   - neuroscience
@@ -4611,7 +4600,7 @@
   subcategory: science-simulations
 - title: Twine (Twinery)
   url: https://twinery.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - interactive-fiction
   - open-source
@@ -4627,7 +4616,7 @@
   subcategory: interactive-fiction
 - title: Musicca
   url: https://www.musicca.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - music-theory
   - interactive-learning
@@ -4643,7 +4632,7 @@
   subcategory: creative-skills-learning
 - title: Workout.cool
   url: https://workout.cool/en
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - fitness-tracker
   - open-source
@@ -4678,7 +4667,7 @@
   subcategory: osint-frameworks
 - title: Common Tools
   url: https://commontools.org/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - local-first
   - open-source
@@ -4694,7 +4683,7 @@
   subcategory: web-utilities
 - title: TerraInk
   url: https://terraink.app
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - cartography
@@ -4712,7 +4701,7 @@
   subcategory: map-art
 - title: Anime.js
   url: https://animejs.com
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - animation
   - javascript-library
@@ -4746,7 +4735,7 @@
   subcategory: osint-frameworks
 - title: Sourcebot
   url: https://github.com/sourcebot-dev/sourcebot
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - open-source
   - code-search
@@ -4762,7 +4751,7 @@
   subcategory: code-search
 - title: MediaInfo
   url: https://mediaarea.net/MediaInfo
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - metadata
@@ -4795,7 +4784,7 @@
   subcategory: independent-web-search
 - title: DevFreeBooks
   url: https://devfreebooks.github.io
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - open-source
   - books
@@ -4811,7 +4800,7 @@
   subcategory: developer-resource-lists
 - title: Stirling-PDF
   url: https://github.com/Stirling-Tools/Stirling-PDF
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - pdf-utility
   - open-source
@@ -4829,7 +4818,7 @@
   subcategory: ocr-pdf-utilities
 - title: GoldenDict-ng
   url: https://github.com/xiaoyifang/goldendict-ng
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - dictionary
@@ -4846,7 +4835,7 @@
   subcategory: dictionaries-thesauri
 - title: OpenMHZ
   url: https://openmhz.com
-  category: osint-and-reconnaissance
+  category: web-dev
   tags:
   - open-source
   - radio
@@ -4860,7 +4849,7 @@
   annotation: An open-source platform that archives and streams digital trunked radio communications captured
     using software-defined radio (SDR).
   id: openmhz
-  subcategory: live-radio-streams
+  subcategory: device-and-network-utilities
 - title: Aviation Safety Network
   url: https://aviation-safety.net
   category: osint-and-reconnaissance
@@ -4895,7 +4884,7 @@
   subcategory: malware-url-analysis
 - title: Newton Project
   url: https://www.newtonproject.ox.ac.uk
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - academic-archive
   - open-access
@@ -4927,7 +4916,7 @@
   subcategory: tracking-recon
 - title: PhilArchive
   url: https://philarchive.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-access
   - philosophy
@@ -4943,7 +4932,7 @@
   subcategory: academic-paper-access
 - title: Open Problem Garden
   url: https://openproblemgarden.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - mathematics
   - open-access
@@ -4958,7 +4947,7 @@
   subcategory: math-tools
 - title: Track Awesome List
   url: https://trackawesomelist.com
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - open-source
   - awesome-list
@@ -4973,7 +4962,7 @@
   subcategory: developer-resource-lists
 - title: Letters of Note
   url: https://lettersofnote.com
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - historical-archive
   - epistolary
@@ -4987,7 +4976,7 @@
   subcategory: primary-source-archives
 - title: Library of Short Stories
   url: https://libraryofshortstories.com/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - public-domain
   - literature
@@ -5000,7 +4989,7 @@
   subcategory: public-domain-literature
 - title: Dark Books Magic Archive
   url: https://darkbooks.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - public-domain
   - occult-history
@@ -5014,7 +5003,7 @@
   subcategory: public-domain-literature
 - title: Ancient Nerds
   url: https://ancientnerds.com
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-data
   - archaeology
@@ -5031,7 +5020,7 @@
   subcategory: museum-heritage-archives
 - title: LinkedCulture
   url: https://linkedculture.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-access
   - museum-archive
@@ -5047,7 +5036,7 @@
   subcategory: museum-heritage-archives
 - title: Dark Forest Archive
   url: https://darkforestarchive.com
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - historical-archive
   - digital-archive
@@ -5061,7 +5050,7 @@
   subcategory: primary-source-archives
 - title: AudioMass
   url: https://audiomass.co
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - audio-editor
@@ -5094,7 +5083,7 @@
   subcategory: reverse-image-search
 - title: Wheel of Names
   url: https://wheelofnames.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - randomizer
@@ -5110,7 +5099,7 @@
   subcategory: randomizers
 - title: Polypad
   url: https://polypad.amplify.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - interactive-math
   - virtual-manipulatives
@@ -5126,7 +5115,7 @@
   subcategory: math-tools
 - title: Morphic
   url: https://github.com/miurla/morphic
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - open-source
   - ai-search
@@ -5143,7 +5132,7 @@
   subcategory: ai-search-engines
 - title: Smithsonian Open Access
   url: https://si.edu/openaccess
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - cc0
   - public-domain
@@ -5159,7 +5148,7 @@
   subcategory: museum-heritage-archives
 - title: iNaturalist
   url: https://inaturalist.org/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-source
   - biodiversity
@@ -5176,7 +5165,7 @@
   subcategory: biodiversity-nature
 - title: Historic England Open Data Hub
   url: https://historicengland.org.uk/listing/the-list/data-downloads
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-data
   - open-government-licence
@@ -5195,7 +5184,7 @@
   subcategory: museum-heritage-archives
 - title: LibreWolf
   url: https://librewolf.net
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - browser
@@ -5230,7 +5219,7 @@
   subcategory: metasearch-self-hosted
 - title: Standard Notes
   url: https://standardnotes.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - notes
@@ -5247,7 +5236,7 @@
   subcategory: private-notes-collaboration
 - title: CryptPad
   url: https://cryptpad.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - collaboration
@@ -5264,7 +5253,7 @@
   subcategory: private-notes-collaboration
 - title: Omatsuri
   url: https://omatsuri.app
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - frontend-tools
   - developer-utilities
@@ -5280,7 +5269,7 @@
   subcategory: developer-tools
 - title: Uiverse
   url: https://uiverse.io
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - ui-components
   - css
@@ -5296,7 +5285,7 @@
   subcategory: developer-tools
 - title: Animista
   url: https://animista.net
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - css-animations
   - visual-generator
@@ -5311,7 +5300,7 @@
   subcategory: css-animation-libraries
 - title: Favicon.im
   url: https://favicon.im
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - favicon-generator
   - web-utility
@@ -5326,7 +5315,7 @@
   subcategory: web-utilities
 - title: pwn.college
   url: https://pwn.college
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   tags:
   - cybersecurity
   - binary-exploitation
@@ -5344,7 +5333,7 @@
   subcategory: security-training
 - title: Grainrad
   url: https://grainrad.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - webgpu
   - ascii-art
@@ -5363,7 +5352,7 @@
   subcategory: creative-coding-art
 - title: Effect
   url: https://effect.app
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - typescript
   - open-source
@@ -5379,7 +5368,7 @@
   subcategory: developer-tools
 - title: free-for.dev
   url: https://free-for.dev
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - developer-tools
   - open-source
@@ -5396,7 +5385,7 @@
   subcategory: developer-resource-lists
 - title: SeedMap
   url: https://seedmap.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - biodiversity
   - open-access
@@ -5413,7 +5402,7 @@
   subcategory: biodiversity-nature
 - title: Space Type Generator
   url: https://spacetypegenerator.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - kinetic-typography
   - 3d-animation
@@ -5430,7 +5419,7 @@
   subcategory: creative-coding-art
 - title: delphitools
   url: https://delphi.tools
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - browser-tool
   - privacy-first
@@ -5449,7 +5438,7 @@
   subcategory: web-utilities
 - title: CSS ICON
   url: http://cssicon.space/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - css
   - pure-css
@@ -5467,7 +5456,7 @@
   subcategory: icons-and-illustrations
 - title: SteamDB Sales & Price Tracker
   url: https://steamdb.info/sales/
-  category: productivity-reference-and-play
+  category: play
   tags:
   - open-tool
   - price-tracker
@@ -5480,10 +5469,10 @@
   annotation: An independent, community-driven utility that tracks real-time Steam price changes, historic
     lows, and active publisher sales without intrusive ads, tracking garbage, or affiliate dark patterns.
   id: steamdb-sales-price-tracker
-  subcategory: game-deals
+  subcategory: video-games
 - title: TokComment
   url: https://tokcomment.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - browser-tool
   - generator
@@ -5499,7 +5488,7 @@
   subcategory: design-asset-generators
 - title: Raindrop.io
   url: https://raindrop.io
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - bookmarking
   - cloud-sync
@@ -5515,7 +5504,7 @@
   subcategory: reference-bookmark-managers
 - title: Excalidraw
   url: https://excalidraw.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - whiteboard
   - open-source
@@ -5531,7 +5520,7 @@
   subcategory: diagramming-whiteboards
 - title: ti.fo
   url: https://ti.fo
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - file-sharing
   - encrypted-notes
@@ -5545,7 +5534,7 @@
   subcategory: file-sharing
 - title: Ray.so
   url: https://ray.so
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - developer-tools
   - code-snippets
@@ -5561,7 +5550,7 @@
   subcategory: screenshot-tools
 - title: Time.is
   url: https://time.is
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - time-utility
   - atomic-clock
@@ -5576,7 +5565,7 @@
   subcategory: web-utilities
 - title: Vectorpea
   url: https://vectorpea.com/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - vector-editor
   - browser-tool
@@ -5591,7 +5580,7 @@
   subcategory: vector-editors
 - title: Pascal Editor
   url: https://editor.pascal.app/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - 3d-editor
   - open-source
@@ -5607,7 +5596,7 @@
   subcategory: 3d-animation-vfx
 - title: Film-Grab
   url: https://film-grab.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - film-stills
   - cinema-archive
@@ -5623,7 +5612,7 @@
   subcategory: film-stills-references
 - title: MovieLens
   url: https://movielens.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - academic
   - open-data
@@ -5639,7 +5628,7 @@
   subcategory: film-resources
 - title: Shot.Cafe
   url: https://shot.cafe
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - cinematography
   - color-palette
@@ -5654,7 +5643,7 @@
   subcategory: film-stills-references
 - title: Film Colossus
   url: https://filmcolossus.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - film-analysis
   - cinema-criticism
@@ -5669,7 +5658,7 @@
   subcategory: film-resources
 - title: BFI Sight and Sound Poll
   url: https://www.bfi.org.uk/sight-and-sound
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - archive
   - film-history
@@ -5684,7 +5673,7 @@
   subcategory: film-resources
 - title: Timeline of Historical Film Colors
   url: https://filmcolors.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - academic
   - film-restoration
@@ -5700,7 +5689,7 @@
   subcategory: film-stills-references
 - title: Criterion Current
   url: https://www.criterion.com/current
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - film-essays
   - cinema-history
@@ -5715,7 +5704,7 @@
   subcategory: film-resources
 - title: WhatIsMyMovie
   url: https://www.whatismymovie.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - descriptive-search
   - semantic-search
@@ -5730,7 +5719,7 @@
   subcategory: film-resources
 - title: Movie-Locations
   url: https://www.movie-locations.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - filming-locations
   - geography
@@ -5745,7 +5734,7 @@
   subcategory: film-locations
 - title: Aider
   url: https://aider.chat
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - open-source
   - cli
@@ -5762,7 +5751,7 @@
   subcategory: coding-llms
 - title: OpenCode
   url: https://opencode.ai
-  category: ai-agents-and-development
+  category: ai-agents
   tags:
   - open-source
   - developer-tools
@@ -5778,7 +5767,7 @@
   subcategory: coding-llms
 - title: Dverso Laundry Background Remover
   url: https://tools.dverso.io/bgremove/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - background-remover
   - client-side
@@ -5797,7 +5786,7 @@
   subcategory: background-removal
 - title: pngimg
   url: https://pngimg.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - png-assets
   - transparent-background
@@ -5815,7 +5804,7 @@
   subcategory: icons-and-illustrations
 - title: Geist UI / Vercel Design System
   url: https://vercel.com/design
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - design-system
   - css
@@ -5831,7 +5820,7 @@
   subcategory: developer-tools
 - title: Tidewater
   url: https://dgreenheck.github.io/tidewater/
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - webgl
@@ -5848,7 +5837,7 @@
   subcategory: 3d-animation-vfx
 - title: Spelunkr TV
   url: https://spelunkr.tv
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - public-archive
   - vhs
@@ -5866,7 +5855,7 @@
   subcategory: creative-coding-art
 - title: QuickRef.ME
   url: https://quickref.me
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - cheat-sheets
   - developer-tools
@@ -5882,7 +5871,7 @@
   subcategory: developer-tools
 - title: Servier Medical Art (SMART)
   url: https://smart.servier.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - medical-illustrations
   - anatomy
@@ -5900,7 +5889,7 @@
   subcategory: icons-and-illustrations
 - title: myNoise
   url: https://mynoise.net
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - sound-generator
   - audio-engine
@@ -5917,7 +5906,7 @@
   subcategory: sound-generators-music-toys
 - title: FlightConnections
   url: https://www.flightconnections.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - flight-map
   - route-visualizer
@@ -5949,7 +5938,7 @@
   subcategory: privacy-auditing
 - title: MyFridgeFood
   url: https://myfridgefood.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - recipe-finder
   - pantry-search
@@ -5980,7 +5969,7 @@
   subcategory: malware-url-analysis
 - title: PDF24 Creator & Tools
   url: https://tools.pdf24.org/en/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - pdf-editor
   - offline-desktop
@@ -5998,7 +5987,7 @@
   subcategory: ocr-pdf-utilities
 - title: Animated Drawings (Meta AI Research)
   url: https://sketch.metademolab.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - animation
@@ -6015,7 +6004,7 @@
   subcategory: 3d-animation-vfx
 - title: Watabou's Procedural Generators & Itch Page
   url: https://watabou.itch.io
-  category: productivity-reference-and-play
+  category: play
   tags:
   - procedural-generation
   - worldbuilding
@@ -6033,7 +6022,7 @@
   subcategory: tabletop-worldbuilding
 - title: CyberChef
   url: https://gchq.github.io/CyberChef/
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - open-source
   - apache-2.0
@@ -6052,7 +6041,7 @@
   subcategory: data-converters
 - title: Reactive Resume
   url: https://rxresu.me
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - mit-license
@@ -6089,7 +6078,7 @@
   subcategory: surveillance-awareness
 - title: Cobalt
   url: https://cobalt.tools
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - video-downloader
@@ -6106,7 +6095,7 @@
   subcategory: media-converters
 - title: JustWatch
   url: https://www.justwatch.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - media-index
   - streaming-guide
@@ -6121,7 +6110,7 @@
   subcategory: film-resources
 - title: Project Gutenberg
   url: https://www.gutenberg.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - public-domain
   - ebooks
@@ -6137,7 +6126,7 @@
   subcategory: public-domain-literature
 - title: Squoosh
   url: https://squoosh.app
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - image-compression
@@ -6154,7 +6143,7 @@
   subcategory: media-converters
 - title: Carbon
   url: https://carbon.now.sh
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-source
   - developer-tools
@@ -6170,7 +6159,7 @@
   subcategory: screenshot-tools
 - title: Shots
   url: https://shots.so
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - mockup-generator
   - design-utility
@@ -6186,7 +6175,7 @@
   subcategory: design-asset-generators
 - title: CamelCamelCamel
   url: https://camelcamelcamel.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - price-tracker
   - amazon-history
@@ -6200,7 +6189,7 @@
   subcategory: price-tracking
 - title: GeoGebra
   url: https://www.geogebra.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - mathematics
@@ -6217,7 +6206,7 @@
   subcategory: math-tools
 - title: SageMath
   url: https://www.sagemath.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - gpl
@@ -6236,7 +6225,7 @@
   subcategory: math-tools
 - title: Dverso BgRemove
   url: https://bgremove.dverso.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - client-side
   - background-removal
@@ -6268,7 +6257,7 @@
   subcategory: email-aliasing
 - title: Radio Garden
   url: https://radio.garden
-  category: media-and-creative-production
+  category: play
   tags:
   - live-radio
   - interactive-globe
@@ -6281,10 +6270,10 @@
   annotation: An interactive, zero-signup 3D web application created by Studio Puckey and Moniker that
     streams live broadcast radio signals from thousands of local stations around the globe.
   id: radio-garden
-  subcategory: live-radio
+  subcategory: entertainment
 - title: Kutt
   url: https://kutt.it
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - link-shortener
@@ -6301,7 +6290,7 @@
   subcategory: web-utilities
 - title: Hugging Face QR Code AI Art Generator
   url: https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - open-weights
   - controlnet
@@ -6319,7 +6308,7 @@
   subcategory: ai-image-tools
 - title: Sleepy Owl Sound Studio
   url: https://sleepyowl.io
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - sound-generator
   - ambient-audio
@@ -6335,7 +6324,7 @@
   subcategory: sound-generators-music-toys
 - title: Parcels App
   url: https://parcelsapp.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - package-tracker
   - universal-utility
@@ -6350,7 +6339,7 @@
   subcategory: everyday-trackers
 - title: Internet Live Stats
   url: https://www.internetlivestats.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - statistics
   - real-time-data
@@ -6365,7 +6354,7 @@
   subcategory: global-statistics
 - title: Geacron
   url: https://geacron.com/page_ini.html
-  category: historical-research-and-combat-arts
+  category: research-and-reference
   tags:
   - historical-atlas
   - world-history
@@ -6377,10 +6366,10 @@
   annotation: An interactive world history atlas spanning thousands of years, allowing users to track
     shifting geopolitical borders, empires, and historical events through an open map interface.
   id: geacron
-  subcategory: historical-maps
+  subcategory: historical-and-martial-arts
 - title: Ana-White
   url: https://ana-white.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - woodworking
   - free-plans
@@ -6396,7 +6385,7 @@
   subcategory: diy-maker-resources
 - title: Kreg Projects
   url: https://learn.kregtool.com/projects-plans/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - woodworking
   - project-plans
@@ -6411,7 +6400,7 @@
   subcategory: diy-maker-resources
 - title: Identifont
   url: https://www.identifont.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - font-identification
   - typography
@@ -6426,7 +6415,7 @@
   subcategory: fonts-typography
 - title: IMSLP (Petrucci Music Library)
   url: https://imslp.org
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - sheet-music
   - public-domain
@@ -6442,7 +6431,7 @@
   subcategory: sheet-music
 - title: Tesseract OCR
   url: https://github.com/tesseract-ocr/tesseract
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - apache-2.0
@@ -6459,7 +6448,7 @@
   subcategory: ocr-pdf-utilities
 - title: Meld
   url: https://meldmerge.org
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - gpl
@@ -6475,7 +6464,7 @@
   subcategory: code-editors
 - title: VS Code (Visual Studio Code)
   url: https://code.visualstudio.com/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - mit-license
@@ -6491,7 +6480,7 @@
   subcategory: code-editors
 - title: Hackaday
   url: https://hackaday.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - maker-community
   - electronics
@@ -6507,7 +6496,7 @@
   subcategory: diy-maker-resources
 - title: Mini Tokyo 3D
   url: https://minitokyo3d.com
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-source
   - real-time-data
@@ -6523,7 +6512,7 @@
   subcategory: interactive-3d-visualization
 - title: Scale of Universe
   url: https://scaleofuniverse.com/en
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - interactive-scaling
   - educational
@@ -6539,7 +6528,7 @@
   subcategory: science-simulations
 - title: WorldWide Telescope
   url: https://worldwidetelescope.org/webclient
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - open-source
   - astronomy
@@ -6556,7 +6545,7 @@
   subcategory: science-simulations
 - title: Floor796
   url: https://floor796.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - pixel-art
   - animation
@@ -6572,7 +6561,7 @@
   subcategory: creative-coding-art
 - title: Chrome Music Lab
   url: https://musiclab.chromeexperiments.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - web-audio-api
   - music-theory
@@ -6603,7 +6592,7 @@
   subcategory: tracking-recon
 - title: OpenProcessing
   url: https://openprocessing.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - creative-coding
   - p5js
@@ -6633,7 +6622,7 @@
   subcategory: tracking-recon
 - title: Zoomquilt
   url: https://zoomquilt.org
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - endless-zoom
   - digital-art
@@ -6648,7 +6637,7 @@
   subcategory: creative-coding-art
 - title: CareerOneStop Scholarship Finder
   url: https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - scholarship-search
   - government-utility
@@ -6663,7 +6652,7 @@
   subcategory: scholarships-funding
 - title: JLV College Counseling
   url: https://jlvcollegecounseling.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - scholarship-directory
   - independent-resource
@@ -6677,7 +6666,7 @@
   subcategory: scholarships-funding
 - title: Keepa
   url: https://keepa.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - price-tracker
   - amazon-utility
@@ -6693,7 +6682,7 @@
   subcategory: price-tracking
 - title: Idealo
   url: https://www.idealo.co.uk
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - price-comparison
   - shopping-utility
@@ -6707,7 +6696,7 @@
   subcategory: price-tracking
 - title: Skyscanner
   url: https://www.skyscanner.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - flight-matrix
   - travel-search
@@ -6719,7 +6708,7 @@
   subcategory: travel-planning
 - title: Wise
   url: https://wise.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - currency-exchange
   - international-transfer
@@ -6732,7 +6721,7 @@
   subcategory: money-transfer-fx
 - title: Monito
   url: https://www.monito.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - transfer-comparison
   - remittance
@@ -6746,7 +6735,7 @@
   subcategory: money-transfer-fx
 - title: Budget Bytes
   url: https://www.budgetbytes.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - recipe-database
   - frugal-living
@@ -6774,7 +6763,7 @@
   subcategory: video-transcript-search
 - title: FreeSewing
   url: https://freesewing.eu
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - open-source
   - sewing-patterns
@@ -6803,7 +6792,7 @@
   subcategory: gis-mapping-tools
 - title: Animated Knots by Grog
   url: https://www.animatedknots.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - reference
   - utility
@@ -6817,7 +6806,7 @@
   subcategory: diy-maker-resources
 - title: The Wood Database
   url: https://www.wood-database.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - wood-identification
   - maker-utility
@@ -6831,7 +6820,7 @@
   subcategory: diy-maker-resources
 - title: ColorHexa
   url: https://www.colorhexa.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - color-tool
   - design-utility
@@ -6845,7 +6834,7 @@
   subcategory: color-tools
 - title: FamilySearch
   url: https://www.familysearch.org/en/united-states/
-  category: open-access-archives-and-research
+  category: research-and-reference
   tags:
   - genealogy
   - historical-records
@@ -6859,7 +6848,7 @@
   subcategory: genealogy-records
 - title: David Rumsey Map Collection
   url: https://www.davidrumsey.com
-  category: historical-research-and-combat-arts
+  category: research-and-reference
   tags:
   - historical-maps
   - cartography
@@ -6871,10 +6860,10 @@
   annotation: An extraordinary digital archive housing over 150,000 high-resolution historical maps, atlases,
     globes, and cartographic items dating from the 16th to the 21st century.
   id: david-rumsey-map-collection
-  subcategory: historical-maps
+  subcategory: historical-and-martial-arts
 - title: Goblin.tools
   url: https://goblin.tools
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - ai-utility
   - task-decomposition
@@ -6889,7 +6878,7 @@
   subcategory: work-planning-tools
 - title: OneTab
   url: https://www.one-tab.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - browser-extension
   - tab-manager
@@ -6903,7 +6892,7 @@
   subcategory: browser-extensions
 - title: Clockify
   url: https://clockify.me
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - time-tracking
   - productivity
@@ -6916,7 +6905,7 @@
   subcategory: work-planning-tools
 - title: Trello
   url: https://trello.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - kanban
   - project-management
@@ -6930,7 +6919,7 @@
   subcategory: work-planning-tools
 - title: Hemingway Editor
   url: https://hemingwayapp.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - writing-assistant
   - readability
@@ -6944,7 +6933,7 @@
   subcategory: writing-tools
 - title: Dictation.io
   url: https://dictation.io
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - speech-to-text
   - browser-utility
@@ -6958,7 +6947,7 @@
   subcategory: speech-to-text
 - title: Canva Whiteboards
   url: https://www.canva.com/online-whiteboard
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - visual-workspace
   - collaboration
@@ -6972,7 +6961,7 @@
   subcategory: diagramming-whiteboards
 - title: IFTTT (If This Then That)
   url: https://ifttt.ai/
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - automation
   - integration
@@ -6986,7 +6975,7 @@
   subcategory: work-planning-tools
 - title: Markup Hero
   url: https://markuphero.com
-  category: media-and-creative-production
+  category: av-creation
   tags:
   - screenshot-tool
   - annotation
@@ -7000,7 +6989,7 @@
   subcategory: screenshot-tools
 - title: ExplainShell
   url: https://explainshell.com
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - linux
   - bash
@@ -7015,7 +7004,7 @@
   subcategory: terminal-utilities
 - title: grep.app
   url: https://grep.app
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - code-search
   - github
@@ -7029,7 +7018,7 @@
   subcategory: code-search
 - title: RegExr
   url: https://regexr.com
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - regex
   - developer-utility
@@ -7043,7 +7032,7 @@
   subcategory: developer-tools
 - title: OneLook Reverse Dictionary
   url: https://onelook.com
-  category: productivity-reference-and-play
+  category: productivity
   tags:
   - dictionary
   - linguistics
@@ -7057,7 +7046,7 @@
   subcategory: dictionaries-thesauri
 - title: public-apis (GitHub Repository)
   url: https://github.com/public-apis/public-apis
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - api-directory
   - open-source
@@ -7073,7 +7062,7 @@
   subcategory: api-directories
 - title: Free Public APIs
   url: https://freepublicapis.com
-  category: developer-and-system-utilities
+  category: web-dev
   tags:
   - api-directory
   - developer-utility
@@ -7128,21 +7117,21 @@
   url: https://github.com/securing/DumpsterDiver
   annotation: Open-source security tool that analyzes files, archives, and git logs for hardcoded secrets,
     private keys, and sensitive data using entropy analysis.
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: code-analysis-and-secret-scanning
 - id: ghidra
   title: Ghidra
   url: https://github.com/NationalSecurityAgency/ghidra
   annotation: Open-source reverse engineering suite developed by the NSA featuring a full-featured disassembler
     and multi-platform decompiler.
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: binary-analysis-and-reverse-engineering
 - id: apache-nifi
   title: Apache NiFi
   url: https://nifi.apache.org/
   annotation: Powerful, easy-to-use system for processing and distributing data, originally engineered
     at the NSA for secure data routing and flow management.
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: data-pipelines-and-etl
 - id: mitigating-web-shells
   title: NSA Mitigating Web Shells
@@ -7156,78 +7145,78 @@
   url: https://github.com/SELinuxProject
   annotation: Mandatory Access Control (MAC) security architecture built into the Linux kernel to enforce
     strict least-privilege domain transitions and access controls.
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: systems-security-and-hardening
 - title: Accelerated Training in Defense Manufacturing (ATDM)
   url: https://atdm.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: vocational development
   annotation: Rapid technical training program targeting critical defense manufacturing and trade skills.
   id: accelerated-training-in-defense-manufacturing-atdm
 - title: Job Corps
   url: https://www.jobcorps.gov
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: vocational development
   annotation: Federal tuition-free residential education and technical career training program.
   id: job-corps
 - title: Registered Apprenticeships
   url: https://www.apprenticeship.gov
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: vocational development
   annotation: Federal directory of paid, earn-while-you-learn vocational apprenticeship opportunities.
   id: registered-apprenticeships
 - title: American Job Centers (WIOA)
   url: https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: workforce training
   annotation: Federal and state network providing local career counseling, job placement, and WIOA training
     grants.
   id: american-job-centers-wioa
 - title: Year Up United
   url: https://www.yearup.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: workforce training
   annotation: Tuition-free career training, corporate internships, and stipends for young adults.
   id: year-up-united
 - title: Per Scholas
   url: https://www.perscholas.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   annotation: Tuition-free technology training and certification tracks in IT, cybersecurity, and data.
   id: per-scholas
 - title: NPower
   url: https://www.npower.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   annotation: Free tech fundamentals, cloud, and cybersecurity training for veterans and young adults.
   id: npower
 - title: Goodwill Career & Technical Academy
   url: https://gctatraining.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: vocational development
   annotation: Austin-based technical academy offering affordable trade and professional certifications.
   id: goodwill-career-technical-academy
 - title: Goodwill Location Finder
   url: https://www.goodwill.org/locator
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: workforce training
   annotation: National directory to locate regional Goodwill workforce training and career center programs.
   id: goodwill-location-finder
 - title: Grace Institute
   url: https://graceinstitute.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: workforce training
   annotation: Tuition-free administrative and professional workforce training programs for women.
   id: grace-institute
 - title: LaunchCode
   url: https://www.launchcode.org
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   annotation: Free foundational coding education, apprenticeship pathways, and tech career placement.
   id: launchcode
 - title: LingoHut
   url: https://www.lingohut.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: languages
   tags:
   - vocabulary
@@ -7243,7 +7232,7 @@
   id: lingohut
 - title: Ziggy ASL
   url: https://ziggyasl.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: languages
   tags:
   - american-sign-language
@@ -7259,7 +7248,7 @@
   id: ziggy-asl
 - title: Things Workshop
   url: https://www.things-workshop.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: interactive-learning
   tags:
   - interactive-models
@@ -7275,8 +7264,8 @@
   id: things-workshop
 - title: CityRT
   url: https://cityrt.com
-  category: productivity-reference-and-play
-  subcategory: games-and-play
+  category: play
+  subcategory: video-games
   tags:
   - browser-game
   - city-builder
@@ -7291,7 +7280,7 @@
   id: cityrt
 - title: JPMorgan Chase Investment Banking Job Simulation (via Forage)
   url: https://www.theforage.com/simulations/jpmorgan/investment-banking-hkyd
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - financial-modeling
@@ -7307,7 +7296,7 @@
   id: jpmorgan-investment-banking-simulation
 - title: OpenCut
   url: https://opencut.app
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7323,7 +7312,7 @@
   id: opencut
 - title: Hoppscotch
   url: https://hoppscotch.io
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7339,8 +7328,8 @@
   id: hoppscotch
 - title: Logseq
   url: https://logseq.com
-  category: productivity-reference-and-play
-  subcategory: office-productivity-utilities
+  category: occupy-saas
+  subcategory: knowledge-management
   tags:
   - open-source
   - local-first
@@ -7355,7 +7344,7 @@
   id: logseq
 - title: drawDB
   url: https://www.drawdb.app
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7371,7 +7360,7 @@
   id: drawdb
 - title: Graphite
   url: https://graphite.rs
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7387,7 +7376,7 @@
   id: graphite-rs
 - title: Readest
   url: https://readest.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7403,7 +7392,7 @@
   id: readest
 - title: StackEdit
   url: https://stackedit.io
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7419,7 +7408,7 @@
   id: stackedit
 - title: WebLLM
   url: https://webllm.mlc.ai
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: local-llm-runners
   tags:
   - open-source
@@ -7435,7 +7424,7 @@
   id: webllm
 - title: BentoPDF
   url: https://www.bentopdf.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7451,7 +7440,7 @@
   id: bentopdf
 - title: Grist
   url: https://www.getgrist.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7467,7 +7456,7 @@
   id: grist
 - title: PairDrop
   url: https://pairdrop.net
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7483,7 +7472,7 @@
   id: pairdrop
 - title: JS Paint
   url: https://jspaint.app
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7499,7 +7488,7 @@
   id: jspaint
 - title: privacy.sexy
   url: https://privacy.sexy
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7515,7 +7504,7 @@
   id: privacy-sexy
 - title: OpenReel
   url: https://openreel.video
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7531,7 +7520,7 @@
   id: openreel
 - title: Chili3D
   url: https://chili3d.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: cad-fabrication
   tags:
   - open-source
@@ -7547,7 +7536,7 @@
   id: chili3d
 - title: Screenshot Studio
   url: https://screenshotstudio.dev
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7563,7 +7552,7 @@
   id: screenshot-studio
 - title: LocalSend
   url: https://localsend.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7579,7 +7568,7 @@
   id: localsend
 - title: ComposeYogi
   url: https://composeyogi.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7595,7 +7584,7 @@
   id: composeyogi
 - title: Lanjut
   url: https://github.com/rimzzlabs/lanjut
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7611,8 +7600,8 @@
   id: lanjut
 - title: BottleShip
   url: https://bottleship.happydog.games
-  category: productivity-reference-and-play
-  subcategory: games-and-play
+  category: play
+  subcategory: video-games
   tags:
   - open-source
   - emulator
@@ -7627,7 +7616,7 @@
   id: bottleship
 - title: Webtor
   url: https://webtor.io
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7643,7 +7632,7 @@
   id: webtor
 - title: midee
   url: https://midee.app
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7659,7 +7648,7 @@
   id: midee
 - title: Fluid Framework
   url: https://fluidframework.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7675,7 +7664,7 @@
   id: fluid-framework
 - title: M3E Canvas
   url: https://lnkiai.github.io/m3e-canvas/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -7706,7 +7695,7 @@
   id: justdeleteme
 - title: OpenCAD Studio
   url: https://github.com/opencad-studio
-  category: media-and-creative-production
+  category: av-creation
   subcategory: cad-fabrication
   tags:
   - open-source
@@ -7722,7 +7711,7 @@
   id: opencad-studio
 - title: croc
   url: https://github.com/schollz/croc
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7738,7 +7727,7 @@
   id: croc
 - title: OpenDAW
   url: https://opendaw.org
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7754,7 +7743,7 @@
   id: opendaw
 - title: pdfme
   url: https://pdfme.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7770,7 +7759,7 @@
   id: pdfme
 - title: dDocs
   url: https://ddocs.new
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7786,7 +7775,7 @@
   id: ddocs
 - title: IT-Tools
   url: https://it-tools.tech
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7802,7 +7791,7 @@
   id: it-tools
 - title: Vert
   url: https://vert.run
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -7818,7 +7807,7 @@
   id: vert
 - title: Pixelorama
   url: https://www.pixelorama.org
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7834,7 +7823,7 @@
   id: pixelorama
 - title: Drumhaus
   url: https://drumha.us
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7850,7 +7839,7 @@
   id: drumhaus
 - title: Algorithm Visualizer
   url: https://algorithm-visualizer.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -7866,7 +7855,7 @@
   id: algorithm-visualizer
 - title: Subtitle Edit
   url: https://www.subtitleedit.org
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7882,7 +7871,7 @@
   id: subtitle-edit-1
 - title: draw.io
   url: https://draw.io
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7898,7 +7887,7 @@
   id: draw-io
 - title: CircuitJS1
   url: https://www.falstad.com/circuit/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: electronics-design
   tags:
   - open-source
@@ -7914,7 +7903,7 @@
   id: circuitjs1
 - title: KiCanvas
   url: https://kicanvas.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: electronics-design
   tags:
   - open-source
@@ -7930,7 +7919,7 @@
   id: kicanvas
 - title: BRouter-Web
   url: https://brouter.de/brouter-web/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7946,7 +7935,7 @@
   id: brouter-web
 - title: dSheets
   url: https://dsheets.new
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7962,7 +7951,7 @@
   id: dsheets
 - title: Piskel
   url: https://www.piskelapp.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -7978,7 +7967,7 @@
   id: piskel
 - title: Dillinger
   url: https://dillinger.io
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -7994,7 +7983,7 @@
   id: dillinger
 - title: SVG-edit
   url: https://svgedit.netlify.app
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8010,7 +7999,7 @@
   id: svg-edit
 - title: EtherCalc
   url: https://ethercalc.net
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8026,7 +8015,7 @@
   id: ethercalc
 - title: Method Draw
   url: https://method.ac
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8042,7 +8031,7 @@
   id: method-draw
 - title: Markdown Live Preview
   url: https://markdownlivepreview.dev
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8058,7 +8047,7 @@
   id: markdown-live-preview
 - title: Notepad PWA
   url: https://notepad.js.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8074,7 +8063,7 @@
   id: notepad-pwa
 - title: Python Tutor
   url: https://pythontutor.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: programming-langauges
   tags:
   - open-source
@@ -8090,7 +8079,7 @@
   id: python-tutor
 - title: Waifu2x
   url: https://waifu2x.udp.jp
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8106,7 +8095,7 @@
   id: waifu2x
 - title: Edna
   url: https://edna.arslexis.io
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8122,7 +8111,7 @@
   id: edna
 - title: Simple Video Player
   url: https://simplevideoplayer.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8138,7 +8127,7 @@
   id: simple-video-player
 - title: OpenSSL Webterm
   url: https://cryptool.org/cto/openssl/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8154,7 +8143,7 @@
   id: openssl-webterm
 - title: ntsc-rs
   url: https://ntsc.rs
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8170,7 +8159,7 @@
   id: ntsc-rs
 - title: Museum of Ages
   url: https://museumofages.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8186,7 +8175,7 @@
   id: museum-of-ages
 - title: GitHub Readme Streak Stats
   url: https://github.com/DenverCoder1/github-readme-streak-stats
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8202,7 +8191,7 @@
   id: github-readme-streak-stats
 - title: Daily Stars Explorer
   url: https://emanuelef.github.io/daily-stars-explorer/#/helm/helm
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8218,7 +8207,7 @@
   id: daily-stars-explorer
 - title: Advanced Easing Editor
   url: https://easingwizard.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8234,7 +8223,7 @@
   id: advanced-easing-editor
 - title: OpenMouse
   url: https://github.com/Macmee/OpenMouse
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8250,7 +8239,7 @@
   id: openmouse
 - title: Paaster
   url: https://github.com/WardPearce/paaster
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8266,7 +8255,7 @@
   id: paaster
 - title: Champagne Wiki
   url: https://champagne.pages.dev
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8282,7 +8271,7 @@
   id: champagne-wiki
 - title: DSA View View
   url: https://dsa-view-view.vercel.app
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8298,7 +8287,7 @@
   id: dsa-view-view
 - title: AsciiDoc Alive
   url: https://gaurav-nelson.github.io/asciidocalive/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8329,7 +8318,7 @@
   id: weaponize-it
 - title: fmt
   url: https://fmt.dev
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8345,7 +8334,7 @@
   id: fmt-library
 - title: Codi.link
   url: https://codi.link
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8361,7 +8350,7 @@
   id: codi-link
 - title: HappyTokenizer
   url: https://happytokenizer.com/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -8377,7 +8366,7 @@
   id: happytokenizer
 - title: Stockade
   url: https://github.com/reaperhulk/stockade
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8393,7 +8382,7 @@
   id: stockade
 - title: HappyFormatter
   url: https://happyformatter.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8409,7 +8398,7 @@
   id: happyformatter
 - title: SkySend
   url: https://github.com/skyfay/SkySend
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8425,7 +8414,7 @@
   id: skysend
 - title: Aura Gradients
   url: https://github.com/CristianOlivera1/Aura
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8441,7 +8430,7 @@
   id: aura-gradients
 - title: cycleCAD
   url: https://cyclecnc.com/app/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: cad-fabrication
   tags:
   - open-source
@@ -8457,7 +8446,7 @@
   id: cyclecad
 - title: Windhawk
   url: https://windhawk.net
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8489,7 +8478,7 @@
   id: aperisolve
 - title: OpenPlan3D
   url: https://openplan3d.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8505,7 +8494,7 @@
   id: openplan3d
 - title: Katbin
   url: https://katb.in
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8521,7 +8510,7 @@
   id: katbin
 - title: Frappe Playground
   url: https://lubus.in/frappe-playground
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8537,7 +8526,7 @@
   id: frappe-playground
 - title: 1.tools
   url: https://1-tools.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8553,7 +8542,7 @@
   id: 1-tools
 - title: TinyImage
   url: https://tinyimage.pages.dev/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8569,7 +8558,7 @@
   id: tinyimage
 - title: ErikrafT Drop
   url: https://drop.erikraft.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8585,7 +8574,7 @@
   id: erikraft-drop
 - title: Monkeytype
   url: https://monkeytype.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8601,7 +8590,7 @@
   id: monkeytype
 - title: terminal.sexy
   url: https://terminal.sexy
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8617,7 +8606,7 @@
   id: terminal-sexy
 - title: Design Systems Checklist
   url: https://designsystemschecklist.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8633,7 +8622,7 @@
   id: design-systems-checklist
 - title: editoraPDF
   url: https://github.com/affsquadDevs/editorapdf
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8648,7 +8637,7 @@
   id: editorapdf
 - title: ReadLocal
   url: https://github.com/Imranpranto/readlocal-local-markdown-md-file-renderer
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8663,7 +8652,7 @@
   id: readlocal
 - title: KeyFont
   url: https://github.com/KeyPDF/KeyFont
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8679,7 +8668,7 @@
   id: keyfont
 - title: Forge
   url: https://github.com/initializ/forge
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8694,7 +8683,7 @@
   id: forge
 - title: FIT Stats
   url: https://github.com/iGroza/fit-stats
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8708,7 +8697,7 @@
   id: fit-stats
 - title: OmniTools
   url: https://github.com/iib0011/omni-tools
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8722,7 +8711,7 @@
   id: omnitools
 - title: BinThere
   url: https://github.com/nxfu/binthere
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8736,7 +8725,7 @@
   id: binthere
 - title: PyNote
   url: https://github.com/bouzidanas/pynote-notebook-editor
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8750,7 +8739,7 @@
   id: pynote
 - title: DBView
   url: https://github.com/dbviews/dbview
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8765,7 +8754,7 @@
   id: dbview
 - title: GitReverse
   url: https://github.com/filiksyos/gitreverse
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8779,7 +8768,7 @@
   id: gitreverse
 - title: zoxilsi studio
   url: https://github.com/zoxilsi/studio
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8793,7 +8782,7 @@
   id: zoxilsi-studio
 - title: NoSuggest
   url: https://github.com/No-Suggest/NoSuggest
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8822,7 +8811,7 @@
   id: rosint-plus
 - title: Markmap
   url: https://markmap.js.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8838,7 +8827,7 @@
   id: markmap
 - title: Kroki
   url: https://kroki.io
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8853,7 +8842,7 @@
   id: kroki
 - title: App Store Web Search
   url: https://careerflora.com/open-source-tools
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8869,7 +8858,7 @@
   id: app-store-web-search
 - title: Quizbun
   url: https://quizbun.fyi/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8885,7 +8874,7 @@
   id: quizbun
 - title: eNumbers Lookup
   url: https://github.com/BraveOPotato/NoSignups
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8901,7 +8890,7 @@
   id: enumbers-lookup
 - title: roadmap.sh
   url: https://roadmap.sh/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8917,7 +8906,7 @@
   id: roadmaps-sh
 - title: ColorKit
   url: https://colorkit.dev/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8933,7 +8922,7 @@
   id: colorkit
 - title: open-razerkit
   url: https://github.com/HamzaYslmn/open-razerkit
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -8949,7 +8938,7 @@
   id: open-razerkit
 - title: Missing Manual
   url: https://github.com/missing-manual/missing-manual
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -8964,7 +8953,7 @@
   id: missing-manual
 - title: FFmpeg CLI Online
   url: https://github.com/ffmpegwasm/ffmpeg.wasm
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -8980,7 +8969,7 @@
   id: ffmpeg-cli-online
 - title: GitFut
   url: https://gitfut.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -8995,7 +8984,7 @@
   id: gitfut
 - title: CheckMyGit
   url: https://checkmygit.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9011,7 +9000,7 @@
   id: checkmygit
 - title: OpenReader
   url: https://docs.openreader.richardr.dev/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9027,7 +9016,7 @@
   id: openreader
 - title: Relay
   url: https://github.com/byrishi/Relay
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9042,7 +9031,7 @@
   id: relay
 - title: FreeCut
   url: https://github.com/freecut-org/freecut
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9057,7 +9046,7 @@
   id: freecut
 - title: e2ecp
   url: https://github.com/e2ecp/e2ecp
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9073,7 +9062,7 @@
   id: e2ecp
 - title: OpenHero
   url: https://github.com/openhero/openhero
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9087,7 +9076,7 @@
   id: openhero
 - title: CodeMap AI
   url: https://github.com/asengupta07/codemap.ai
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -9101,7 +9090,7 @@
   id: codemap-ai
 - title: OwnCardly
   url: https://github.com/owncardly/owncardly
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9115,7 +9104,7 @@
   id: owncardly
 - title: Log Voyager
   url: https://www.logvoyager.cc/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9131,7 +9120,7 @@
   id: log-voyager
 - title: ShareClean
   url: https://apps.apple.com/app/shareclean-photo-privacy-tool/id6759267207
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9147,7 +9136,7 @@
   id: shareclean
 - title: CSV Repair
   url: https://jsontotable.io/csv-fixer/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9162,7 +9151,7 @@
   id: csv-repair
 - title: Favicon API
   url: https://favicondl.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9177,7 +9166,7 @@
   id: favicon-api
 - title: Daggerheart GM Screen
   url: https://github.com/Jutier/Daggerheart
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9193,7 +9182,7 @@
   id: daggerheart-gm-screen
 - title: Word Aligner
   url: https://tinygods.dev/projects/aligner/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9209,7 +9198,7 @@
   id: word-aligner
 - title: BezierMotion
   url: https://bezier-cad.xyz/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: cad-fabrication
   tags:
   - open-source
@@ -9225,7 +9214,7 @@
   id: beziermotion
 - title: QrTransfer
   url: https://qrtransfer.io/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9241,7 +9230,7 @@
   id: qtransfer
 - title: Cryptgeon
   url: https://cryptgeon.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9257,7 +9246,7 @@
   id: cryptgeon
 - title: Mermify
   url: https://github.com/mermify/mermify
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9273,7 +9262,7 @@
   id: mermify
 - title: DrawShare
   url: https://www.drawshare.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9289,7 +9278,7 @@
   id: drawshare
 - title: Giraffile
   url: https://giraffile.pages.dev/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9305,7 +9294,7 @@
   id: giraffile
 - title: Strong Editor
   url: https://strongeditor.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9321,7 +9310,7 @@
   id: strong-editor
 - title: AFFiNE
   url: https://affine.pro/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9336,7 +9325,7 @@
   id: affine
 - title: SVGOMG
   url: https://svgomg.net/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9351,7 +9340,7 @@
   id: svgomg
 - title: ASCIIFlow
   url: https://asciiflow.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9366,7 +9355,7 @@
   id: asciiflow
 - title: Glyphr Studio
   url: https://www.glyphrstudio.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9381,7 +9370,7 @@
   id: glyphr-studio
 - title: markdown2pdf
   url: https://github.com/marrcle/markdown2pdf
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9397,7 +9386,7 @@
   id: markdown2pdf
 - title: tldraw
   url: https://tldraw.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9412,7 +9401,7 @@
   id: tldraw
 - title: Feather
   url: https://feathericons.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9427,7 +9416,7 @@
   id: feather
 - title: Heroicons
   url: https://heroicons.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9441,7 +9430,7 @@
   id: heroicons
 - title: Full Stack Open
   url: https://fullstackopen.com/en/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: programming-languages
   tags:
   - open-source
@@ -9456,7 +9445,7 @@
   id: full-stack-open
 - title: EditorPilot
   url: https://editorpilot.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9471,7 +9460,7 @@
   id: editorpilot
 - title: Universal Resume Template
   url: https://github.com/susam/resume
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9486,7 +9475,7 @@
   id: universal-resume-template
 - title: self.st icons
   url: https://github.com/selfhst/icons
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9500,7 +9489,7 @@
   id: self-st-icons
 - title: QRCodeShow
   url: https://github.com/ZYSzys/QRCodeShow
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9514,7 +9503,7 @@
   id: qrcodeshow
 - title: Scratch Tabs
   url: https://github.com/l-m/scratch-tabs
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9528,7 +9517,7 @@
   id: scratch-tabs
 - title: Sipp Chat
   url: https://github.com/sipp-chat/sipp
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9542,7 +9531,7 @@
   id: sipp-chat
 - title: DoHabit
   url: https://github.com/dohabit/dohabit
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9557,7 +9546,7 @@
   id: dohabit
 - title: Tabler Icons
   url: https://tabler.io/icons
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9572,7 +9561,7 @@
   id: tabler-icons
 - title: Remix Icon
   url: https://remixicon.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9587,7 +9576,7 @@
   id: remix-icon
 - title: Phosphor Icons
   url: https://phosphoricons.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9602,7 +9591,7 @@
   id: phosphor-icons
 - title: Simple Icons
   url: https://simpleicons.org/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9616,7 +9605,7 @@
   id: simple-icons
 - title: Lucide
   url: https://lucide.dev/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9631,7 +9620,7 @@
   id: lucide
 - title: LookScanned
   url: https://lookscanned.io/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9646,7 +9635,7 @@
   id: lookscanned
 - title: Compress
   url: https://github.com/Scorpio3310/compress-pro
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9661,7 +9650,7 @@
   id: compress-utility
 - title: Agora Cosmica
   url: https://agora.space/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9676,7 +9665,7 @@
   id: agora-cosmica
 - title: gists.sh
   url: https://gists.sh/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9691,7 +9680,7 @@
   id: gists-sh
 - title: Planar
   url: https://github.com/planarjs/planar
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9705,7 +9694,7 @@
   id: planar
 - title: Klecks
   url: https://kleki.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9720,7 +9709,7 @@
   id: klecks
 - title: Gridfinity Layout Tool
   url: https://gridfinitylayouttool.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9736,7 +9725,7 @@
   id: gridfinity-layout-tool
 - title: DropSilk
   url: https://github.com/medy17/dropsilk
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9752,7 +9741,7 @@
   id: dropsilk
 - title: Void Mesh
   url: https://voidmesh.xyz/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9767,7 +9756,7 @@
   id: voidmesh
 - title: Wavacity
   url: https://wavacity.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9782,7 +9771,7 @@
   id: wavacity
 - title: SQLChef
   url: https://github.com/jonathanwalker/SQLChef
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9797,7 +9786,7 @@
   id: sqlchef
 - title: Clear Canvas
   url: https://clearcanvas.app/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9812,7 +9801,7 @@
   id: clearcanvas
 - title: Pandoc WASM
   url: https://github.com/pandoc/pandoc-wasm
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9827,7 +9816,7 @@
   id: pandoc-wasm
 - title: JSON Crack
   url: https://github.com/AykutSarac/jsoncrack.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9842,7 +9831,7 @@
   id: json-crack
 - title: Koodo Reader
   url: https://github.com/koodo-reader/koodo-reader
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9857,7 +9846,7 @@
   id: koodo-reader
 - title: AST Explorer
   url: https://github.com/fkling/astexplorer
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9872,7 +9861,7 @@
   id: ast-explorer
 - title: Blockbench
   url: https://github.com/JannisX11/blockbench
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9887,7 +9876,7 @@
   id: blockbench
 - title: SVG Path Editor
   url: https://github.com/Yqnn/svg-path-editor
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9902,7 +9891,7 @@
   id: svg-path-editor
 - title: MiroTalk P2P
   url: https://github.com/miroslavpejic85/mirotalk
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9917,7 +9906,7 @@
   id: mirotalk-p2p
 - title: Flowchart.fun
   url: https://flowchart.fun/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9932,7 +9921,7 @@
   id: flowchart-fun
 - title: Sqlime
   url: https://sqlime.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -9947,7 +9936,7 @@
   id: sqlime
 - title: Image Scrubber
   url: https://everestpipkin.github.io/image-scrubber/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -9962,7 +9951,7 @@
   id: image-scrubber
 - title: Ente Paste
   url: https://paste.ente.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -9977,7 +9966,7 @@
   id: ente-paste
 - title: Spliit
   url: https://spliit.app/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -9992,7 +9981,7 @@
   id: spliit
 - title: GodSVG
   url: https://github.com/MewPurPur/GodSVG
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10007,7 +9996,7 @@
   id: godsvg
 - title: Linwood Butterfly
   url: https://butterfly.linwood.dev/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10023,7 +10012,7 @@
   id: linwood-butterfly
 - title: PaperKnife
   url: https://potatameister.github.io/PaperKnife/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10038,7 +10027,7 @@
   id: paperknife
 - title: Dithering Studio
   url: https://ditheringstudio.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10053,7 +10042,7 @@
   id: dithering-studio
 - title: Dither (Fuego)
   url: https://dither.fuego.im/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10068,7 +10057,7 @@
   id: dither-fuego
 - title: ToolsAtZero
   url: https://www.toolsatzero.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10084,7 +10073,7 @@
   id: toolsatzero
 - title: GreenDolphin
   url: https://greendolph.in/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10100,7 +10089,7 @@
   id: greendolphin
 - title: Bigjpg
   url: https://bigjpg.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10115,7 +10104,7 @@
   id: bigjpg
 - title: Audioalter
   url: https://audioalter.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10130,7 +10119,7 @@
   id: audioalter
 - title: Sejda
   url: https://www.sejda.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10145,7 +10134,7 @@
   id: sejda
 - title: CloudConvert
   url: https://cloudconvert.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10160,7 +10149,7 @@
   id: cloudconvert
 - title: Palette.fm
   url: https://palette.fm/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10175,7 +10164,7 @@
   id: palette-fm
 - title: LostMyPass
   url: https://www.lostmypass.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10190,7 +10179,7 @@
   id: lostmypass
 - title: CodeBeautify
   url: https://codebeautify.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10205,7 +10194,7 @@
   id: codebeautify
 - title: Freesound
   url: https://freesound.org/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10221,7 +10210,7 @@
   id: freesound
 - title: Eyecandy
   url: https://eyecannndy.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10237,8 +10226,8 @@
   id: eyecandy
 - title: Museum of Icelandic Sorcery and Witchcraft
   url: https://galdrasyning.is/en/galdrastafir/
-  category: historical-research-and-combat-arts
-  subcategory: historical-archives-and-manuscripts
+  category: research-and-reference
+  subcategory: historical-and-martial-arts
   tags:
   - open-source
   - historical-archive
@@ -10252,7 +10241,7 @@
   id: museum-of-icelandic-sorcery-and-witchcraft
 - title: PopTox
   url: https://www.poptox.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source-alternative
@@ -10267,7 +10256,7 @@
   id: poptox
 - title: Radiooooo
   url: https://radiooooo.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - web-application
@@ -10282,7 +10271,7 @@
   id: radiooooo
 - title: RunPee
   url: https://runpee.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - mobile-web-utility
@@ -10297,7 +10286,7 @@
   id: runpee
 - title: EatThisMuch
   url: https://www.eatthismuch.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - nutritional-planner
@@ -10312,7 +10301,7 @@
   id: eat-this-much
 - title: Roadtrippers
   url: https://roadtrippers.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - travel-planner
@@ -10327,7 +10316,7 @@
   id: roadtrippers
 - title: Scale of the Universe
   url: https://htwins.net/scale2/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - educational
@@ -10342,7 +10331,7 @@
   id: scale-of-the-universe
 - title: FormulaBot
   url: https://formulabot.com/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - ai-utility
@@ -10357,7 +10346,7 @@
   id: formulabot
 - title: Lofi.cafe
   url: https://lofi.cafe/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - web-audio
@@ -10372,7 +10361,7 @@
   id: lofi-cafe
 - title: What Should I Read Next?
   url: https://www.whatshouldireadnext.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - book-recommendation
@@ -10387,7 +10376,7 @@
   id: what-should-i-read-next
 - title: Kiwix
   url: https://kiwix.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10402,7 +10391,7 @@
   id: kiwix
 - title: Organic Maps
   url: https://organicmaps.app/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10417,7 +10406,7 @@
   id: organic-maps
 - title: Briar
   url: https://briarproject.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10432,7 +10421,7 @@
   id: briar
 - title: Syncthing
   url: https://syncthing.net/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10447,7 +10436,7 @@
   id: syncthing
 - title: Meshtastic
   url: https://meshtastic.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10462,7 +10451,7 @@
   id: meshtastic
 - title: LM Studio
   url: https://lmstudio.ai/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - local-ai
@@ -10477,7 +10466,7 @@
   id: lm-studio
 - title: Joplin
   url: https://joplinapp.org/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10492,7 +10481,7 @@
   id: joplin
 - title: PeakFinder
   url: https://www.peakfinder.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - mapping-utility
@@ -10507,7 +10496,7 @@
   id: peakfinder
 - title: Vert.sh
   url: https://vert.sh/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10522,7 +10511,7 @@
   id: vert-sh
 - title: Framasoft (Dégooglisons Internet)
   url: https://degooglisons-internet.org/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10554,7 +10543,7 @@
   id: temp-mail
 - title: No-Cost AI
   url: https://github.com/zebbern/no-cost-ai
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -10570,7 +10559,7 @@
   id: no-cost-ai
 - title: Vantezzen File Transfer
   url: https://github.com/vantezzen/file-transfer
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -10586,7 +10575,7 @@
   id: vantezzen-file-transfer
 - title: Toolbus
   url: https://thetoolbus.ai
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - open-source-alternatives
@@ -10602,7 +10591,7 @@
   id: toolbus
 - title: SnapFiles
   url: https://www.snapfiles.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - software-directory
@@ -10617,7 +10606,7 @@
   id: snapfiles
 - title: FossHub
   url: https://www.fosshub.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - software-directory
@@ -10633,7 +10622,7 @@
   id: fosshub
 - title: PortableApps.com
   url: https://portableapps.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - open-source
@@ -10649,7 +10638,7 @@
   id: portableapps
 - title: SourceForge
   url: https://sourceforge.net/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - software-directory
@@ -10665,7 +10654,7 @@
   id: sourceforge
 - title: Field Manual Vault
   url: https://www.trex-arms.com/field-manual-vault
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: open-reference-directories
   tags:
   - field-manuals
@@ -10680,7 +10669,7 @@
   id: field-manual-vault
 - title: DOF Simulator
   url: https://dofsimulator.net/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - photography-tool
@@ -10696,7 +10685,7 @@
   id: dof-simulator
 - title: Musike
   url: https://github.com/Ernani1234/musike
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10712,7 +10701,7 @@
   id: musike
 - title: ProCraft
   url: https://github.com/artcraft-android/procraft
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10728,7 +10717,7 @@
   id: procraft
 - title: OpenSEO
   url: https://github.com/open-seo/open-seo
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10743,7 +10732,7 @@
   id: open-seo
 - title: Chatwoot
   url: https://github.com/chatwoot/chatwoot
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10758,7 +10747,7 @@
   id: chatwoot
 - title: PrivacyTests.org
   url: https://privacytests.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -10774,7 +10763,7 @@
   id: privacytests
 - title: Dead Link Checker
   url: https://www.deadlinkchecker.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - web-utility
@@ -10790,7 +10779,7 @@
   id: deadlinkchecker
 - title: Rome2Rio
   url: https://www.rome2rio.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - travel-planner
@@ -10806,7 +10795,7 @@
   id: rome2rio
 - title: Screenity
   url: https://screenity.io
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10822,7 +10811,7 @@
   id: screenity
 - title: WAVE Web Accessibility Evaluation Tool
   url: https://wave.webaim.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - accessibility
@@ -10838,7 +10827,7 @@
   id: wave-webaim
 - title: SwissTransfer
   url: https://www.swisstransfer.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - file-transfer
@@ -10853,7 +10842,7 @@
   id: swisstransfer
 - title: ToonTales
   url: https://toontales.net/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source-alternative
@@ -10869,7 +10858,7 @@
   id: toontales
 - title: OpenWhispr
   url: https://github.com/openwhispr/openwhispr
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10885,7 +10874,7 @@
   id: openwhispr
 - title: Cap
   url: https://github.com/CapSoftware/Cap
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10901,7 +10890,7 @@
   id: cap
 - title: AppFlowy
   url: https://github.com/AppFlowy-IO/AppFlowy
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -10916,7 +10905,7 @@
   id: appflowy
 - title: VoiceStudio
   url: https://github.com/VoiceStudio/VoiceStudio
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10931,7 +10920,7 @@
   id: voicestudio
 - title: Open Higgsfield
   url: https://github.com/Open-Generative-AI/Open-Higgsfield
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -10946,7 +10935,7 @@
   id: open-higgsfield
 - title: Playground (Playground v2.5)
   url: https://playgroundai.com/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - generative-ai
@@ -10961,7 +10950,7 @@
   id: playground-ai
 - title: myspoti
   url: https://github.com/Ernani1234/myspoti
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -10977,7 +10966,7 @@
   id: myspoti
 - title: Open Store
   url: https://openstore.site/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - open-source
@@ -10993,7 +10982,7 @@
   id: open-store
 - title: Gather (by DAO)
   url: https://gather.be-of-dao.com/
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - creative-coding
@@ -11009,7 +10998,7 @@
   id: gather-dao
 - title: Archive.org
   url: https://archive.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -11024,7 +11013,7 @@
   id: archive-org
 - title: Project Gutenberg
   url: https://gutenberg.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -11039,7 +11028,7 @@
   id: gutenberg-org
 - title: iLovePDF
   url: https://www.ilovepdf.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - pdf-tools
@@ -11054,7 +11043,7 @@
   id: ilovepdf-com
 - title: Unscreen
   url: https://www.unscreen.com
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - video-editing
@@ -11069,7 +11058,7 @@
   id: unscreen-com
 - title: Privnote
   url: https://privnote.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - secret-sharing
@@ -11099,7 +11088,7 @@
   id: temp-mail-org
 - title: File.io
   url: https://www.file.io
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - file-sharing
@@ -11114,7 +11103,7 @@
   id: file-io
 - title: musicForProgramming
   url: https://musicforprogramming.net
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - audio-player
@@ -11129,7 +11118,7 @@
   id: musicforprogramming-net
 - title: Coffitivity
   url: https://coffitivity.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - ambient-sound
@@ -11144,7 +11133,7 @@
   id: coffitivity-com
 - title: Semantic Scholar
   url: https://www.semanticscholar.org
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -11159,7 +11148,7 @@
   id: semantic-scholar-org
 - title: SciSpace
   url: https://scispace.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - academic-research
@@ -11174,7 +11163,7 @@
   id: scispace-com
 - title: Regex101
   url: https://regex101.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - regex-tester
@@ -11189,7 +11178,7 @@
   id: regex101-com
 - title: JSON Formatter & Validator
   url: https://jsonformatter.org
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - json-parser
@@ -11204,7 +11193,7 @@
   id: jsonformatter-org
 - title: Downdetector
   url: https://downdetector.com
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - network-status
@@ -11218,7 +11207,7 @@
   id: downdetector-com
 - title: Flowlab Nightloop
   url: https://flowlab.io/nightloop
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - music-production
@@ -11234,7 +11223,7 @@
   id: flowlab-nightloop
 - title: PDFbq
   url: https://pdfbq.com
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - pdf-tools
@@ -11250,7 +11239,7 @@
   id: pdfbq
 - title: Fal.ai Toolse
   url: https://fal.ai/toolse
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - generative-ai
@@ -11266,8 +11255,8 @@
   id: fal-ai-toolse
 - title: lo-pi radio
   url: https://pudding.cool/projects/lopi/
-  category: productivity-reference-and-play
-  subcategory: games-and-play
+  category: play
+  subcategory: entertainment
   tags:
   - interactive
   - dataviz
@@ -11282,8 +11271,8 @@
   id: lopi-radio
 - title: NSA Enigma Simulator
   url: https://github.com/NationalSecurityAgency/enigma-simulator
-  category: historical-research-and-combat-arts
-  subcategory: historical-cryptography
+  category: research-and-reference
+  subcategory: historical-and-martial-arts
   tags:
   - open-source
   - cryptography
@@ -11398,7 +11387,7 @@
   id: sky-dialer
 - title: SkillTree Platform
   url: https://skilltreeplatform.dev/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -11414,7 +11403,7 @@
   id: nsa-skilltree
 - title: Concat
   url: https://github.com/jub0t/Concat
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -11430,7 +11419,7 @@
   id: concat
 - title: Electude Simulator Challenge
   url: https://simulator.electude.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - automotive-technology
@@ -11446,7 +11435,7 @@
   id: electude-simulator-challenge
 - title: Meta Blueprint & Developer Learning
   url: https://www.facebookblueprint.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - digital-marketing
@@ -11462,7 +11451,7 @@
   id: meta-blueprint
 - title: Kaggle Learn
   url: https://www.kaggle.com/learn
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - data-science
@@ -11478,7 +11467,7 @@
   id: kaggle-learn
 - title: AWS Skill Builder
   url: https://skillbuilder.aws
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - cloud-computing
@@ -11494,7 +11483,7 @@
   id: aws-skill-builder
 - title: Google Skillshop & Cloud Skills Boost
   url: https://skillshop.exceedlms.com
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - cloud-computing
@@ -11510,7 +11499,7 @@
   id: google-skillshop-boost
 - title: Hacksplainer
   url: https://hacksplain.com/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: office-productivity-utilities
   tags:
   - open-source
@@ -11526,7 +11515,7 @@
   id: hacksplainer
 - title: Hacksplaining
   url: https://www.hacksplaining.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - cybersecurity
@@ -11542,7 +11531,7 @@
   id: hacksplaining
 - title: HolyArrs
   url: https://github.com/HolyArrs/HolyArrs
-  category: media-and-creative-production
+  category: av-creation
   subcategory: media-and-video-tools
   tags:
   - open-source
@@ -11558,7 +11547,7 @@
   id: holyarrs
 - title: OccupySaaS
   url: https://occupysaas.com/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: developer-tools
   tags:
   - open-source
@@ -11574,7 +11563,7 @@
   id: occupysaas
 - title: prompts.chat
   url: https://prompts.chat/
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -11607,7 +11596,7 @@
   id: bluehood
 - title: OpenPlanter
   url: https://github.com/ShinMegamiBoson/OpenPlanter
-  category: ai-agents-and-development
+  category: ai-agents
   subcategory: ai-dev-platforms
   tags:
   - open-source
@@ -11640,7 +11629,7 @@
   id: revealer
 - title: ForkFree
   url: https://forkfree.dev/
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: open-reference-directories
   tags:
   - open-source
@@ -11656,7 +11645,7 @@
   id: forkfree
 - title: Text-to-CAD
   url: https://github.com/KittyCAD/text-to-cad
-  category: media-and-creative-production
+  category: av-creation
   subcategory: cad-fabrication
   tags:
   - open-source
@@ -11689,7 +11678,7 @@
   id: geo-sleuth
 - title: Alison
   url: https://alison.com/
-  category: online-learning-and-workforce-training
+  category: training-and-certs
   subcategory: professional-certification
   tags:
   - open-education
@@ -11721,7 +11710,7 @@
   id: fingerprint-to
 - title: Project Nomad
   url: https://github.com/project-nomad/nomad
-  category: developer-and-system-utilities
+  category: web-dev
   subcategory: device-and-network-utilities
   tags:
   - open-source
@@ -11769,8 +11758,8 @@
   id: whoxy
 - title: Mult.dev
   url: https://mult.dev/
-  category: productivity-reference-and-play
-  subcategory: games-and-play
+  category: play
+  subcategory: cartography
   tags:
   - map-animation
   - travel-visualizer
@@ -11785,7 +11774,7 @@
   id: mult-dev
 - title: Loot Drop
   url: https://www.loot-drop.io/
-  category: productivity-reference-and-play
+  category: productivity
   subcategory: open-data-and-reference
   tags:
   - startup-graveyard
@@ -11801,8 +11790,8 @@
   id: loot-drop
 - title: TV Garden
   url: https://tvgarden.world/
-  category: productivity-reference-and-play
-  subcategory: media-and-video-tools
+  category: play
+  subcategory: entertainment
   tags:
   - live-tv
   - streaming
@@ -11815,3 +11804,68 @@
   annotation: Interactive web platform and 3D globe for discovering and streaming free live television,
     radio, and webcams from around the world.
   id: tv-garden
+- title: OpenRailwayMap
+  url: https://www.openrailwaymap.org/
+  category: osint-and-reconnaissance
+  subcategory: tracking-recon
+  tags:
+  - open-source
+  - railway-mapping
+  - infrastructure
+  - openstreetmap
+  - zero-signup
+  replaces:
+  - Proprietary railroad asset maps
+  - Closed-source transit GIS layers
+  annotation: Detailed global map of railway infrastructure, tracks, electrification, speed limits, and
+    signaling built on OpenStreetMap data.
+  id: openrailwaymap
+- title: geOps Mobility Portal
+  url: https://mobility.portal.geops.io/
+  category: osint-and-reconnaissance
+  subcategory: tracking-recon
+  tags:
+  - live-telemetry
+  - train-tracking
+  - transit-map
+  - real-time-delays
+  - zero-signup
+  replaces:
+  - Proprietary commercial transit dashboards
+  - Closed-source railway dispatch applications
+  annotation: Real-time transit tracking platform displaying live train positions, schedules, rolling
+    stock types, and delay telemetry.
+  id: geops-mobility-portal
+- title: Obsidian
+  url: https://obsidian.md/
+  category: occupy-saas
+  subcategory: knowledge-management
+  tags:
+  - local-first
+  - markdown
+  - knowledge-management
+  - privacy-focused
+  - desktop-app
+  - zero-signup
+  replaces:
+  - Notion (bloated cloud subscription databases)
+  - Proprietary note-taking silos (Evernote, OneNote)
+  annotation: Powerful local-first, privacy-focused knowledge base and markdown note-taking application
+    that stores all data directly on your machine.
+  id: obsidian
+- title: LibreOffice
+  url: https://www.libreoffice.org/
+  category: occupy-saas
+  subcategory: creative-and-office-suites
+  tags:
+  - open-source
+  - office-suite
+  - document-editor
+  - local-first
+  - zero-signup
+  replaces:
+  - Microsoft Office 365 subscription suites
+  - Google Workspace cloud document locking
+  annotation: Free and open-source personal productivity suite providing full desktop replacements for
+    word processing, spreadsheets, and presentations.
+  id: libreoffice

@@ -1,12 +1,11 @@
 import os
 import yaml
 
-# Define mapping rules for entries currently stuck in 'ai-dev-platforms'
+# Define mapping rules for LibreOffice through Logseq into #OccupySaaS
 # Key: item ID, Value: (new_category, new_subcategory)
 MIGRATION_MAP = {
-
-	"uspto-patent-public-search-ppubs":("osint-and-reconnaissance","public-records-and-registries"),
-
+    "lopi-radio":("play","entertainment"),
+    "radio-garden":("play","entertainment"),
 }
 
 def clean_ai_dev_platforms(file_path):
