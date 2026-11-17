@@ -18,7 +18,7 @@
   subcategory: media-converters
 - title: Hotpot.ai
   url: https://hotpot.ai/
-  category: av-creation
+  category: ai-agents
   tags:
   - ai-art
   - photo-editor
@@ -33,7 +33,7 @@
   annotation: Web-based suite of AI graphic tools for rapid background removal, photo restoration, upscaling
     low-res assets, colorization, and visual element generation.
   id: hotpotai
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: TerraPrinter
   url: https://terraprinter.com/
   category: av-creation
@@ -191,7 +191,7 @@
   subcategory: auto-repair-parts
 - title: Learn Anything
   url: https://learn-anything.xyz/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - knowledge-graphs
   - curated-learning
@@ -208,7 +208,7 @@
   subcategory: course-aggregators
 - title: Class Central
   url: https://www.classcentral.com/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - mooc
   - course-aggregator
@@ -1269,7 +1269,7 @@
   subcategory: film-resources
 - title: Open Culture
   url: https://www.openculture.com/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - courses
@@ -1348,9 +1348,297 @@
     subscriptions or user-provided API keys.
   id: freebuff
   subcategory: coding-llms
+- title: PhotoCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - raster-editor
+    - photoshop-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Photoshop subscription cloud suite
+    - Closed-source raster image editors
+  annotation: Open-source, clean-room reimplementation of Adobe Photoshop rebuilt from scratch in pure Rust with real layer, mask, and PSD support.
+  id: photocraft
+
+- title: VectorCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - vector-illustration
+    - illustrator-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Illustrator cloud subscription
+    - Proprietary vector graphics suites
+  annotation: Fast, open-source vector illustration suite reimagined in pure Rust for scalable icon and vector path manipulation.
+  id: vectorcraft
+
+- title: FilmCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - video-editor
+    - premiere-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Premiere Pro subscription
+    - Cloud-tethered video editing software
+  annotation: Professional open-source video editing environment rebuilt completely from scratch in high-performance Rust.
+  id: filmcraft
+
+- title: LightCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - photo-library
+    - lightroom-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Lightroom Cloud subscription
+    - Proprietary raw photo developers
+  annotation: Open-source photo library manager and raw image developer running entirely locally on your machine with zero cloud lock-in.
+  id: lightcraft
+
+- title: PdfCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - pdf-workbench
+    - acrobat-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Acrobat Pro subscription
+    - Paid proprietary PDF utilities
+  annotation: Open-source PDF workbench for reading, organizing, combining, splitting, and securing documents locally in pure Rust.
+  id: pdfcraft
+
+- title: EffectCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - motion-graphics
+    - after-effects-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe After Effects subscription
+    - Cloud-locked VFX software suites
+  annotation: Open-source motion graphics and visual effects suite built in pure Rust for high-performance timeline and composition work.
+  id: effectcraft
+
+- title: AniCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - 2d-animation
+    - vector-animation
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary vector animation software
+    - Subscription-locked motion design tools
+  annotation: Open-source 2D vector animation application built in pure Rust with frame and rig animation support.
+  id: anicraft
+
+- title: DesignCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - page-layout
+    - indesign-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe InDesign subscription
+    - Closed-source desktop publishing suites
+  annotation: Open-source page layout and publishing app rebuilt in pure Rust featuring native .indd/IDML compatibility and advanced typography.
+  id: designcraft
+
+- title: FigCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - interface-design
+    - figma-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Figma cloud-locked collaboration subscription
+    - Proprietary UI/UX design SaaS
+  annotation: Open-source interface design and prototyping environment rebuilt in pure Rust for local-first UI workflows.
+  id: figcraft
+
+- title: TextureCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - 3d-texture-painting
+    - substance-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Adobe Substance Painter subscription
+    - Cloud-tethered 3D texturing apps
+  annotation: Open-source 3D texture painting application rebuilt in pure Rust for local 3D asset texturing and material work.
+  id: texturecraft
+
+- title: MaterialCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - procedural-materials
+    - node-based
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary node-based material generators
+    - Gated procedural texture SaaS
+  annotation: Open-source, node-based procedural material generation workspace built in pure Rust.
+  id: materialcraft
+
+- title: SoundCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - daw
+    - audio-editor
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Pro Tools and commercial DAW subscriptions
+    - Cloud audio processing services
+  annotation: Professional digital audio workstation for recording, editing, and mixing audio locally in pure Rust.
+  id: soundcraft
+
+- title: WordCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - word-processor
+    - ms-word-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Microsoft Office 365 Word subscription
+    - Cloud-locked document editing suites
+  annotation: Fast, open-source word processing application rebuilt in pure Rust for local document creation and formatting.
+  id: wordcraft
+
+- title: DeckCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - presentations
+    - powerpoint-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Microsoft PowerPoint subscription
+    - Closed-source slide design SaaS
+  annotation: Open-source presentation software to build and deliver dynamic slide shows locally in pure Rust.
+  id: deckcraft
+
+- title: CADCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - cad
+    - 3d-modeling
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Proprietary commercial CAD subscriptions
+    - Cloud-locked manufacturing design software
+  annotation: Fast, open-source computer-aided design and drafting application built in pure Rust for local technical modeling.
+  id: cadcraft
+
+- title: GridCraft
+  url: https://getartcraft.com/apps/craft-anything
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - spreadsheets
+    - excel-alternative
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Microsoft Excel 365 cloud subscription
+    - Closed-source tabular data SaaS
+  annotation: Fast, open-source spreadsheet and data analysis environment rebuilt in pure Rust for local numeric modeling.
+  id: gridcraft
+
+- title: ArtCraft Studio
+  url: https://getartcraft.com/studio
+  category: occupy-saas
+  subcategory: individual-softwares
+  tags:
+    - open-source
+    - generative-ai
+    - ai-studio
+    - rust
+    - local-first
+    - zero-signup
+  replaces:
+    - Subscription generative image/video SaaS platforms
+    - Cloud-locked AI art generation portals
+  annotation: Generative AI studio for image and video composition, letting artists compose scenes locally and render them with open or local models.
+  id: artcraft-studio
 - title: RapidFireArt
   url: https://rapidfireart.com/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - art-tutorials
@@ -1366,7 +1654,7 @@
   subcategory: creative-skills-learning
 - title: Fast.ai
   url: https://www.fast.ai/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - deep-learning
@@ -1382,7 +1670,7 @@
   subcategory: free-courses
 - title: Elements of AI
   url: https://www.elementsofai.com/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - ai-fundamentals
@@ -1397,7 +1685,7 @@
   subcategory: free-courses
 - title: IBM SkillsBuild
   url: https://skillsbuild.org/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - tech-certification
@@ -1414,7 +1702,7 @@
   subcategory: free-certifications
 - title: HP LIFE (AI for Business Professionals)
   url: https://www.life-global.org/course/423-ai-for-business-professionals
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - ai-courses
@@ -1431,7 +1719,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy (Content Marketing Certification)
   url: https://academy.hubspot.com/courses/content-marketing
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - content-strategy
@@ -1449,7 +1737,7 @@
   subcategory: free-certifications
 - title: 'UMD Smith Learn: Artificial Intelligence & Career Transformation'
   url: https://umd-smithlearn.catalog.instructure.com/courses/artificial-intelligence-and-career-transformation
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - ai-fundamentals
@@ -1609,7 +1897,7 @@
   subcategory: design-asset-generators
 - title: DigitalDefynd
   url: https://digitaldefynd.com/
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - education
   - course-directory
@@ -1673,7 +1961,7 @@
   subcategory: ai-chat-assistants
 - title: ComfyUI
   url: https://github.com/Comfy-Org/ComfyUI
-  category: av-creation
+  category: ai-agents
   tags:
   - stable-diffusion
   - node-graph
@@ -1686,7 +1974,7 @@
   annotation: Modular node-based GUI for Stable Diffusion and generative image workflows; provides granular
     control over pipeline execution.
   id: comfyui
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Futurepedia
   url: https://futurepedia.io
   category: productivity
@@ -1719,7 +2007,7 @@
   subcategory: ai-chat-assistants
 - title: Invoke.ai
   url: https://github.com/invoke-ai/InvokeAI
-  category: av-creation
+  category: ai-agents
   tags:
   - image-generation
   - canvas-editor
@@ -1731,7 +2019,7 @@
   annotation: Creative engine for Stable Diffusion models equipped with a professional unified canvas
     for inpainting, outpainting, and layered generation.
   id: invokeai
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Opus Clip
   url: https://opus.pro
   category: av-creation
@@ -1749,7 +2037,7 @@
   subcategory: video-editors
 - title: Perchance AI
   url: https://perchance.org/welcome
-  category: av-creation
+  category: ai-agents
   tags:
   - anonymous
   - sandbox
@@ -1762,7 +2050,7 @@
   annotation: Lightweight, web-based media generation sandbox usable without mandatory registration, subscriptions,
     or telemetry tracking.
   id: perchance-ai
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Poe
   url: https://poe.com
   category: ai-agents
@@ -1792,6 +2080,21 @@
     SWOT analyses, and building market frameworks.
   id: stratup
   subcategory: work-planning-tools
+- title: NotebookLM
+  url: https://notebooklm.google.com
+  category: productivity
+  subcategory: open-data-and-reference
+  tags:
+    - source-grounded-ai
+    - document-analysis
+    - research-assistant
+    - free-account
+    - browser-based
+  replaces:
+    - Paid PDF chat wrappers
+    - Manual cross-document synthesis
+  annotation: Free source-grounded AI research notebook that analyzes uploaded PDFs, notes, and links with inline citations (requires a free Google account).
+  id: notebooklm
 - title: Brave
   url: https://brave.com
   category: productivity
@@ -2186,7 +2489,7 @@
   subcategory: network-recon
 - title: Affinity (by Canva)
   url: https://affinity.studio/
-  category: av-creation
+  category: occupy-saas
   tags:
   - creative-suite
   - graphic-design
@@ -2199,7 +2502,7 @@
   annotation: Professional creative suite (designer, photo, publisher) acting as an industry-standard
     alternative to Adobe's subscription applications.
   id: affinity-by-canva
-  subcategory: graphic-design-suites
+  subcategory: individual-softwares
 - title: ArtCraft
   url: https://getartcraft.com/apps
   category: occupy-saas
@@ -2230,20 +2533,7 @@
     and compositing with absolute local data sovereignty.
   id: blender
   subcategory: creative-and-office-suites
-- title: Canva
-  url: https://www.canva.com
-  category: av-creation
-  tags:
-  - graphic-design
-  - cloud-publishing
-  - social-graphics
-  - presentations
-  replaces:
-  - Basic desktop design apps
-  annotation: Freemium, cloud-based graphic design and publishing platform for creating social media graphics,
-    presentations, and posters.
-  id: canva
-  subcategory: graphic-design-suites
+
 - title: Cirkit Designer
   url: https://cirkitdesigner.com/
   category: web-dev
@@ -2260,7 +2550,7 @@
   subcategory: electronics-design
 - title: Cleanup.pictures
   url: https://cleanup.pictures
-  category: av-creation
+  category: ai-agents
   tags:
   - image-inpainting
   - object-removal
@@ -2271,10 +2561,10 @@
   annotation: Web-based image in-painting utility for rapid object, text, and defect removal; pragmatic
     editing tool for quick, account-free image cleanups.
   id: cleanuppictures
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Clipdrop
   url: https://clipdrop.co
-  category: av-creation
+  category: ai-agents
   tags:
   - ai-visual-tools
   - background-removal
@@ -2285,7 +2575,7 @@
   annotation: Suite of AI visual micro-tools for background removal, upscaling, and relighting; pragmatic
     asset editing sandbox.
   id: clipdrop
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Colorify
   url: https://colorify.example
   category: av-creation
@@ -2316,7 +2606,7 @@
   subcategory: raster-image-editors
 - title: Deep Nostalgia
   url: https://www.myheritage.com/deep-nostalgia
-  category: av-creation
+  category: ai-agents
   tags:
   - deep-learning
   - animation
@@ -2327,23 +2617,7 @@
   annotation: Deep-learning animation utility by MyHeritage that applies lifelike facial movements to
     still historical portraits.
   id: deep-nostalgia
-  subcategory: ai-image-tools
-- title: FigCraft
-  url: https://figcraft.example
-  category: av-creation
-  tags:
-  - interface-design
-  - prototyping
-  - open-source
-  - rust-built
-  - low-overhead
-  replaces:
-  - Figma
-  - Adobe XD
-  annotation: Free, open-source native interface design and prototyping tool built in Rust; offers high
-    performance, minimal RAM overhead, and zero subscription traps.
-  id: figcraft
-  subcategory: ui-design-tools
+  subcategory: generative-media
 - title: FreeCAD
   url: https://www.freecad.org
   category: av-creation
@@ -2688,7 +2962,7 @@
   subcategory: weather-maps
 - title: AIVA
   url: https://www.aiva.ai
-  category: av-creation
+  category: ai-agents
   tags:
   - ai-music
   - generative-audio
@@ -2700,7 +2974,7 @@
   annotation: Generative AI music composition platform creating custom, royalty-free audio tracks across
     multiple musical genres and tempos.
   id: aiva
-  subcategory: audio-editors
+  subcategory: generative-media
 - title: Audacity
   url: https://www.audacityteam.org
   category: av-creation
@@ -4205,7 +4479,7 @@
   subcategory: ai-dev-platforms
 - title: Google Stitch
   url: https://labs.google
-  category: av-creation
+  category: ai-agents
   tags:
   - ui-design
   - text-to-ui
@@ -4218,7 +4492,7 @@
   annotation: Cloud-dependent Google Labs tool for text-to-UI wireframing; pragmatic shortcut due to its
     ability to export clean HTML/CSS code locally without permanent platform lock-in.
   id: google-stitch
-  subcategory: ui-design-tools
+  subcategory: generative-media
 - title: Hugging Face Spaces
   url: https://huggingface.co/spaces
   category: ai-agents
@@ -4490,7 +4764,7 @@
   subcategory: resume-career-tools
 - title: Google Skillshop (Digital Garage)
   url: https://skillshop.withgoogle.com
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - digital-marketing
   - free-courses
@@ -4505,7 +4779,7 @@
   subcategory: free-certifications
 - title: HubSpot Academy
   url: https://academy.hubspot.com
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - free-courses
   - inbound-marketing
@@ -4521,7 +4795,7 @@
   subcategory: free-certifications
 - title: Microsoft Learn
   url: https://learn.microsoft.com
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - technical-training
   - free-courses
@@ -4616,7 +4890,7 @@
   subcategory: interactive-fiction
 - title: Musicca
   url: https://www.musicca.com
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - music-theory
   - interactive-learning
@@ -5315,7 +5589,7 @@
   subcategory: web-utilities
 - title: pwn.college
   url: https://pwn.college
-  category: training-and-certs
+  category: training-and-certifications
   tags:
   - cybersecurity
   - binary-exploitation
@@ -5987,7 +6261,7 @@
   subcategory: ocr-pdf-utilities
 - title: Animated Drawings (Meta AI Research)
   url: https://sketch.metademolab.com
-  category: av-creation
+  category: ai-agents
   tags:
   - open-source
   - animation
@@ -6001,7 +6275,7 @@
     in hand-drawn sketches, isolates the figure, extracts a skeleton, and generates animated motion loops
     entirely without account walls.
   id: animated-drawings-meta-ai-research
-  subcategory: 3d-animation-vfx
+  subcategory: generative-media
 - title: Watabou's Procedural Generators & Itch Page
   url: https://watabou.itch.io
   category: play
@@ -6290,7 +6564,7 @@
   subcategory: web-utilities
 - title: Hugging Face QR Code AI Art Generator
   url: https://huggingface.co/spaces/huggingface-projects/QR-code-AI-art-generator
-  category: av-creation
+  category: ai-agents
   tags:
   - open-weights
   - controlnet
@@ -6305,7 +6579,7 @@
     controlnet_qrcode by DionTimmer / Monster Labs) to generate stylized, scannable artistic QR codes
     without paywalls or subscription barriers.
   id: hugging-face-qr-code-ai-art-generator
-  subcategory: ai-image-tools
+  subcategory: generative-media
 - title: Sleepy Owl Sound Studio
   url: https://sleepyowl.io
   category: av-creation
@@ -7149,74 +7423,74 @@
   subcategory: systems-security-and-hardening
 - title: Accelerated Training in Defense Manufacturing (ATDM)
   url: https://atdm.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: vocational development
   annotation: Rapid technical training program targeting critical defense manufacturing and trade skills.
   id: accelerated-training-in-defense-manufacturing-atdm
 - title: Job Corps
   url: https://www.jobcorps.gov
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: vocational development
   annotation: Federal tuition-free residential education and technical career training program.
   id: job-corps
 - title: Registered Apprenticeships
   url: https://www.apprenticeship.gov
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: vocational development
   annotation: Federal directory of paid, earn-while-you-learn vocational apprenticeship opportunities.
   id: registered-apprenticeships
 - title: American Job Centers (WIOA)
   url: https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: workforce training
   annotation: Federal and state network providing local career counseling, job placement, and WIOA training
     grants.
   id: american-job-centers-wioa
 - title: Year Up United
   url: https://www.yearup.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: workforce training
   annotation: Tuition-free career training, corporate internships, and stipends for young adults.
   id: year-up-united
 - title: Per Scholas
   url: https://www.perscholas.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   annotation: Tuition-free technology training and certification tracks in IT, cybersecurity, and data.
   id: per-scholas
 - title: NPower
   url: https://www.npower.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   annotation: Free tech fundamentals, cloud, and cybersecurity training for veterans and young adults.
   id: npower
 - title: Goodwill Career & Technical Academy
   url: https://gctatraining.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: vocational development
   annotation: Austin-based technical academy offering affordable trade and professional certifications.
   id: goodwill-career-technical-academy
 - title: Goodwill Location Finder
   url: https://www.goodwill.org/locator
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: workforce training
   annotation: National directory to locate regional Goodwill workforce training and career center programs.
   id: goodwill-location-finder
 - title: Grace Institute
   url: https://graceinstitute.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: workforce training
   annotation: Tuition-free administrative and professional workforce training programs for women.
   id: grace-institute
 - title: LaunchCode
   url: https://www.launchcode.org
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   annotation: Free foundational coding education, apprenticeship pathways, and tech career placement.
   id: launchcode
 - title: LingoHut
   url: https://www.lingohut.com
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: languages
   tags:
   - vocabulary
@@ -7232,7 +7506,7 @@
   id: lingohut
 - title: Ziggy ASL
   url: https://ziggyasl.com
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: languages
   tags:
   - american-sign-language
@@ -7248,7 +7522,7 @@
   id: ziggy-asl
 - title: Things Workshop
   url: https://www.things-workshop.com
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: interactive-learning
   tags:
   - interactive-models
@@ -7280,7 +7554,7 @@
   id: cityrt
 - title: JPMorgan Chase Investment Banking Job Simulation (via Forage)
   url: https://www.theforage.com/simulations/jpmorgan/investment-banking-hkyd
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - financial-modeling
@@ -8063,7 +8337,7 @@
   id: notepad-pwa
 - title: Python Tutor
   url: https://pythontutor.com
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: programming-langauges
   tags:
   - open-source
@@ -9430,7 +9704,7 @@
   id: heroicons
 - title: Full Stack Open
   url: https://fullstackopen.com/en/
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: programming-languages
   tags:
   - open-source
@@ -11403,8 +11677,8 @@
   id: nsa-skilltree
 - title: Concat
   url: https://github.com/jub0t/Concat
-  category: web-dev
-  subcategory: media-and-video-tools
+  category: av-creation
+  subcategory: video-editors
   tags:
   - open-source
   - local-first
@@ -11419,7 +11693,7 @@
   id: concat
 - title: Electude Simulator Challenge
   url: https://simulator.electude.com/
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - automotive-technology
@@ -11435,7 +11709,7 @@
   id: electude-simulator-challenge
 - title: Meta Blueprint & Developer Learning
   url: https://www.facebookblueprint.com/
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - digital-marketing
@@ -11451,7 +11725,7 @@
   id: meta-blueprint
 - title: Kaggle Learn
   url: https://www.kaggle.com/learn
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - data-science
@@ -11467,7 +11741,7 @@
   id: kaggle-learn
 - title: AWS Skill Builder
   url: https://skillbuilder.aws
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - cloud-computing
@@ -11483,7 +11757,7 @@
   id: aws-skill-builder
 - title: Google Skillshop & Cloud Skills Boost
   url: https://skillshop.exceedlms.com
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - cloud-computing
@@ -11515,7 +11789,7 @@
   id: hacksplainer
 - title: Hacksplaining
   url: https://www.hacksplaining.com/
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - cybersecurity
@@ -11678,7 +11952,7 @@
   id: geo-sleuth
 - title: Alison
   url: https://alison.com/
-  category: training-and-certs
+  category: training-and-certifications
   subcategory: professional-certification
   tags:
   - open-education
@@ -11869,3 +12143,255 @@
   annotation: Free and open-source personal productivity suite providing full desktop replacements for
     word processing, spreadsheets, and presentations.
   id: libreoffice
+- title: Khan Academy
+  url: https://www.khanacademy.org
+  category: online-learning-and-workforce-training
+  subcategory: general-education
+  tags:
+    - open-education
+    - free-learning
+    - stem
+    - humanities
+    - self-paced
+  replaces:
+    - Paywalled online course subscriptions
+    - Gated commercial tutoring services
+  annotation: Non-profit open educational resource providing comprehensive, free courses, practice exercises, and instructional videos across K-12 and college subjects.
+  id: khan-academy
+- title: AutoDraw
+  url: https://www.autodraw.com
+  category: ai-agents
+  subcategory: generative-media
+  tags:
+    - ai-drawing
+    - browser-based
+    - zero-signup
+    - machine-learning
+    - creative-tool
+  replaces:
+    - Gated stock vector asset libraries
+    - Paid sketch-to-icon software
+  annotation: Free, zero-signup browser-based web utility by Google Creative Lab that uses machine learning to match crude user sketches with professional artist-created icons and stencils.
+  id: autodraw
+
+- title: Incompetech
+  url: https://incompetech.com/
+  category: av-creation
+  subcategory: media-and-video-tools
+  tags:
+    - open-license
+    - royalty-free-music
+    - creative-commons
+    - graph-paper-generator
+    - zero-signup
+  replaces:
+    - Subscription-locked stock music libraries
+    - Gated commercial audio licensing platforms
+  annotation: Comprehensive open repository of royalty-free music by Kevin MacLeod under Creative Commons licenses and custom printable graph paper generators with zero-signup access.
+  id: incompetech
+  
+- title: Argos Atlas
+  url: https://www.argos.foundation/atlas
+  category: osint-and-reconnaissance
+  subcategory: open-data-and-reference
+  tags:
+    - geopolitical-intelligence
+    - trade-dependencies
+    - country-profiles
+    - strategic-resources
+    - zero-signup
+  replaces:
+    - Paywalled sovereign risk platforms
+    - Enterprise geopolitical dashboards
+  annotation: Browser-based geopolitical and economic intelligence platform mapping country vulnerabilities, trade dependencies, and strategic resource flows with zero signups.
+  id: argos-atlas
+  
+- title: Vocal Remover
+  url: https://vocalremover.org/
+  category: av-creation
+  subcategory: audio-editors
+  tags:
+    - ai-audio
+    - vocal-isolation
+    - karaoke-maker
+    - zero-signup
+    - audio-utility
+  replaces:
+    - Proprietary desktop stem separation suites
+    - Account-gated cloud audio conversion tools
+  annotation: Browser-based AI utility for instantly splitting songs into isolated vocals and instrumentals, detecting key/BPM, and trimming audio with zero-signup access.
+  id: vocal-remover
+- title: what3words
+  url: https://what3words.com
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+    - geolocation
+    - mapping
+    - coordinates
+    - browser-based
+    - zero-signup
+  replaces:
+    - Complex GPS coordinate strings
+    - Ambiguous street address lookups
+  annotation: Geolocation system dividing the world into 3m squares, each assigned a unique three-word address for instant location sharing with zero signups.
+  id: what3words
+
+- title: HowLongToBeat
+  url: https://howlongtobeat.com
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+    - gaming-database
+    - time-tracking
+    - community-data
+    - browser-based
+    - zero-signup
+  replaces:
+    - Scattered forum threads on game length
+    - Ad-heavy gaming walkthrough portals
+  annotation: Crowd-sourced database cataloging average completion times for video games across main story, extras, and completionist playstyles with zero signups.
+  id: howlongtobeat
+
+- title: PCPartPicker
+  url: https://pcpartpicker.com
+  category: developer-and-system-utilities
+  subcategory: hardware-and-system-utilities
+  tags:
+    - pc-building
+    - hardware-compatibility
+    - price-comparison
+    - browser-based
+    - zero-signup
+  replaces:
+    - Manual spec-sheet cross-referencing
+    - Proprietary pre-built PC configurators
+  annotation: Comprehensive PC hardware compatibility checker, wattage estimator, and price aggregator enabling custom system builds directly in the browser without requiring an account.
+  id: pcpartpicker
+
+- title: plotaroute
+  url: https://www.plotaroute.com
+  category: productivity-reference-and-play
+  subcategory: office-productivity-utilities
+  tags:
+    - route-planner
+    - mapping
+    - distance-calculator
+    - browser-based
+    - zero-signup
+  replaces:
+    - Subscription-gated fitness mapping apps
+    - Account-walled GPS route builders
+  annotation: Free browser-based route planner for walking, running, and cycling with elevation profiles, turn-by-turn directions, and GPX exports without mandatory signups.
+  id: plotaroute
+
+- title: Bitwarden Password Generator
+  url: https://bitwarden.com/password-generator/
+  category: developer-and-system-utilities
+  subcategory: security-and-privacy-tools
+  tags:
+    - open-source
+    - password-generator
+    - security
+    - client-side
+    - zero-signup
+  replaces:
+    - Proprietary cloud-logged password generators
+    - Weak manual password creation
+  annotation: Free, open-source, client-side cryptographic password and passphrase generator operating completely in the browser with zero signups or server storage.
+  id: bitwarden-password-generator
+
+- title: IATA Travel Centre
+  url: https://www.iatatravelcentre.com
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+    - travel-requirements
+    - visa-checker
+    - passport-rules
+    - browser-based
+    - zero-signup
+  replaces:
+    - Paywalled visa concierge portals
+    - Outdated travel blog summaries
+  annotation: Official aviation industry lookup tool for checking international passport, visa, and health documentation requirements by nationality and destination with zero signups.
+  id: iata-travel-centre
+
+- title: My Next Move
+  url: https://www.mynextmove.org
+  category: online-learning-and-workforce-training
+  subcategory: career-and-workforce-data
+  tags:
+    - career-exploration
+    - open-data
+    - government-resource
+    - browser-based
+    - zero-signup
+  replaces:
+    - Paywalled career aptitude tests
+    - Lead-generation job board funnels
+  annotation: U.S. Department of Labor interactive career exploration and O*NET database portal matching personal interests to hundreds of occupations with zero signups.
+  id: my-next-move
+
+- title: FixMyStreet
+  url: https://www.fixmystreet.com
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+    - open-source
+    - civic-tech
+    - public-utility
+    - uk-regional
+    - zero-signup
+  replaces:
+    - Clunky municipal phone trees
+    - Fragmented local council web forms
+  annotation: Open-source civic reporting tool built by mySociety for mapping and reporting local street issues like potholes and broken streetlights directly to UK councils.
+  id: fixmystreet
+
+- title: MoneyHelper
+  url: https://www.moneyhelper.org.uk
+  category: productivity-reference-and-play
+  subcategory: open-data-and-reference
+  tags:
+    - financial-literacy
+    - budget-calculator
+    - government-resource
+    - uk-regional
+    - zero-signup
+  replaces:
+    - Paywalled financial planning apps
+    - Predatory debt-consolidation lead portals
+  annotation: Free, impartial UK government-backed financial guidance platform offering interactive budget planners, pension calculators, and debt advice with zero signups.
+  id: moneyhelper
+
+- title: Oxford Owl
+  url: https://www.oxfordowl.co.uk
+  category: online-learning-and-workforce-training
+  subcategory: primary-education-and-literacy
+  tags:
+    - childrens-ebooks
+    - educational-resources
+    - literacy
+    - free-account
+    - browser-based
+  replaces:
+    - Paid children's ebook subscriptions
+    - Costly homeschooling worksheet bundles
+  annotation: Free educational portal from Oxford University Press providing an extensive library of children's eBooks and primary-school learning activities (requires a free parent/educator account).
+  id: oxford-owl
+- title: Behind the Email
+  url: https://behindtheemail.com/
+  category: osint-and-reconnaissance
+  subcategory: email-recon
+  tags:
+    - osint
+    - reverse-email-lookup
+    - identity-verification
+    - breach-intelligence
+    - digital-footprint
+  replaces:
+    - Manual search engine queries for email correlation
+    - Expensive proprietary corporate intelligence suites
+  annotation: Browser-based email OSINT and reverse lookup tool that maps an email address to public online accounts, work histories, social footprints, and data breaches.
+  id: behind-the-email

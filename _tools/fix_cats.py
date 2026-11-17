@@ -1,11 +1,28 @@
 import os
 import yaml
 
+
+# Master Category List
+# 1. occupy-saas
+# 2. office-productivity
+# 3. research-and-reference
+# 4. osint-and-reconnaissance
+# 5. play
+# 6. web-dev
+# 7. ai-agents
+# 8. av-creation
+# 9. training-and-certifications
+
 # Define mapping rules for LibreOffice through Logseq into #OccupySaaS
 # Key: item ID, Value: (new_category, new_subcategory)
+
 MIGRATION_MAP = {
-    "lopi-radio":("play","entertainment"),
-    "radio-garden":("play","entertainment"),
+	"spelunkr-tv": ("play", "entertainment"),
+    "floor796": ("play", "interactive-art"),
+    "zoomquilt": ("play", "interactive-art"),
+    "grainrad": ("av-creation", "media-and-video-tools"),
+    "space-type-generator": ("av-creation", "graphics-and-design"),
+    "openprocessing": ("av-creation", "creative-coding"),
 }
 
 def clean_ai_dev_platforms(file_path):

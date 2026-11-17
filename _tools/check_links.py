@@ -14,8 +14,13 @@ except ImportError:
     sys.exit(1)
 
 # Inside _tools/check_links.py
-# Point up one level from _tools/ to root, then into _data/links.yaml
+# Point up one level from _tools/ to root, then into _data/linkography.yaml
 DATA_FILE = Path(__file__).parent.parent / "_data" / "linkography.yaml"
+
+# URLs allowed to appear in multiple entries (must be lowercase with no trailing slash)
+IGNORED_DUPLICATE_URLS = {
+    "https://getartcraft.com/apps/craft-anything",
+}
 
 def validate_links():
     if not DATA_FILE.exists():
@@ -60,7 +65,7 @@ def validate_links():
         # 3. Check for Duplicate URLs (normalized)
         if url:
             normalized_url = url.strip().rstrip("/").lower()
-            if normalized_url in seen_urls:
+            if normalized_url in seen_urls and normalized_url not in IGNORED_DUPLICATE_URLS:
                 errors.append(f"DUPLICATE URL: '{url}' used in multiple entries.")
             seen_urls.add(normalized_url)
 
